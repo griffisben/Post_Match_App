@@ -21,6 +21,10 @@ def ben_theme():
             },
             'text': {
                 'fill': '#4a2e19'
+            },
+            'title': {
+                'color': 'blue',
+                'subtitleColor': 'red'
             }
         }
     }
