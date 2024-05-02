@@ -34,7 +34,7 @@ response = requests.get(url)
 game_image = Image.open(io.BytesIO(response.content))
 
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
-team_data = team_data[team_data.Team==team][['Team','Match','Date','Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']].reset_index(drop=True)
+team_data = team_data[team_data.Team==team][['Match','Date','Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']].reset_index(drop=True)
 
 report_tab, data_tab = st.tabs(['Match Report', 'Data by Match'])
 
