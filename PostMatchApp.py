@@ -45,7 +45,10 @@ with graph_tab:
     var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1 xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
     st.write(f'{team} {var} By Match')
     c = (
-       alt.Chart(team_data)
+       alt.Chart(team_data, title=alt.Title(
+       f"{team} {var}, {league}",
+       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}\nMake you own charts! football-match-reports.streamlit.app"]
+   ))
        .mark_line(color='#4c94f6')
        .encode(x="Date", y=var, tooltip=['Match','Date',var,'Possession'])
     )
