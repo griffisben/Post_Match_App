@@ -76,9 +76,9 @@ with graph_tab:
     c = (
        alt.Chart(team_data, title=alt.Title(
        f"{team} {var}, {league}",
-       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}","Make you own charts on football-match-reports.streamlit.app"]
+       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}","Generated on: football-match-reports.streamlit.app"]
    ))
        .mark_line()
-       .encode(x="Date", y=var, tooltip=['Match','Date',var,'Possession'])
+       .encode(x=alt.X('Date', sort=None), y=var, tooltip=['Match','Date',var,'Possession'])
     )
     st.altair_chart(c, use_container_width=True)
