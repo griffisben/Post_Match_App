@@ -16,7 +16,11 @@ def ben_theme():
                 'color': '#4a2e19',
             },
             'axis': {
-                'titleColor': '#4c94f6',
+                'titleColor': '#4a2e19',
+                'labelColor': '#4a2e19',
+            },
+            'text': {
+                'fill': '#4a2e19'
             }
         }
     }
