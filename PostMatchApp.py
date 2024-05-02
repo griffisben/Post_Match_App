@@ -12,8 +12,7 @@ def ben_theme():
             'background': '#fbf9f4',
             # 'text': '#4a2e19',
             'mark': {
-                # 'color': '#4c94f6',
-                'color': '#4a2e19',
+                'color': '#4c94f6',
             },
             'axis': {
                 'titleColor': '#4a2e19',
@@ -23,8 +22,8 @@ def ben_theme():
                 'fill': '#4a2e19'
             },
             'title': {
-                'color': 'blue',
-                'subtitleColor': 'red'
+                'color': '#4a2e19',
+                'subtitleColor': '#4a2e19'
             }
         }
     }
