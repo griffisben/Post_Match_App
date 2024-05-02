@@ -15,7 +15,7 @@ def ben_theme():
                 # 'color': '#4c94f6',
                 'color': '#4a2e19',
             },
-            'header': {
+            'axis': {
                 'titleColor': '#4c94f6',
             }
         }
