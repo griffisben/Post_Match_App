@@ -3,6 +3,7 @@ import streamlit as st
 from PIL import Image
 import requests
 import io
+import altait as alt
 
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = sorted(lg_lookup.League.tolist())
@@ -43,7 +44,9 @@ data_tab.write(team_data)
 with graph_tab:
     var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
     st.write(f'{team} {var} By Match')
-    team_data_graph = team_data.set_index("Date")
-    st.line_chart(team_data_graph, x=None, y=var, color='#4a2e19')
-
-
+    c = (
+       alt.Chart(team_data)
+       .mark_line()
+       .encode(x="Date", y=var, tooltip=['Match','Date',var,'Possession'])
+    )
+    st.altair_chart(c, use_container_width=True)
