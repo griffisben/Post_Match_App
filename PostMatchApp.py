@@ -14,9 +14,9 @@ with st.sidebar:
     update_date = lg_lookup[lg_lookup.League==league].Update.values[0]
     
 st.title(f"{league} Post-Match Reports")
-st.subtitle(f"Last Updated: {update_date}\n")
-st.subtitle('All data via Opta. Created by Ben Griffis (@BeGriffis on Twitter)')
-st.subtitle('Note: you may use these visuals in any of your work, but you MUST give me credit and note that the data is from Opta.')
+st.subheader(f"Last Updated: {update_date}\n")
+st.subheader('All data via Opta. Created by Ben Griffis (@BeGriffis on Twitter)')
+st.subheader('Note: you may use these visuals in any of your work, but you MUST give me credit and note that the data is from Opta.')
 
 df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/League_Files/{league.replace(' ','%20')}%20Full%20Match%20List.csv")
 df['Match_Name'] = df['Match'] + ' ' + df['Date']
