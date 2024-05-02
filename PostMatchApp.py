@@ -34,13 +34,14 @@ game_image = Image.open(io.BytesIO(response.content))
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
 team_data = team_data[team_data.Team==team][['Match','Date','Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']].reset_index(drop=True)
 team_data['Shots per 1.0 xT'] = team_data['Shots per 1.0 xT'].astype(float)
+team_data.rename(columns={'Shots per 1.0 xT':'Shots per xT'})
 
 report_tab, data_tab, graph_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph'])
 
 report_tab.image(game_image)
 data_tab.write(team_data)
 with graph_tab:
-    var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
+    var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
     st.write(f'{team} {var} By Match')
     st.line_chart(team_data, x="Date", y=var, color='#4a2e19')
 
