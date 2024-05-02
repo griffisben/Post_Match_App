@@ -43,6 +43,7 @@ data_tab.write(team_data)
 with graph_tab:
     var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
     st.write(f'{team} {var} By Match')
-    st.line_chart(team_data, x="Date", y=var, color='#4a2e19')
+    team_data_graph = team_data.set_index("Date")
+    st.line_chart(team_data_graph, x=None, y=var, color='#4a2e19')
 
 
