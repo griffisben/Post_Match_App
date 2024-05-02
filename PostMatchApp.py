@@ -3,8 +3,8 @@ import streamlit as st
 from PIL import Image
 import requests
 import io
-import warnings
-warnings.filterwarnings('ignore')
+import plotly.express as px
+import plotly.figure_factory as ff
 
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = sorted(lg_lookup.League.tolist())
@@ -36,9 +36,12 @@ game_image = Image.open(io.BytesIO(response.content))
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
 team_data = team_data[team_data.Team==team][['Match','Date','Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']].reset_index(drop=True)
 
-report_tab, data_tab = st.tabs(['Match Report', 'Data by Match'])
+report_tab, data_tab, graph_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph'])
 
 report_tab.image(game_image)
 data_tab.write(team_data)
+with graph_tab:
+    var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
+    fig = px.line(team_data, x="Date", y=var, title=f'{team} {var} By Match')
 
 
