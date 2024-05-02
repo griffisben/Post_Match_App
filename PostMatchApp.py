@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 import requests
 import io
-import altait as alt
+import altair as alt
 
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = sorted(lg_lookup.League.tolist())
