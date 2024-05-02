@@ -74,7 +74,7 @@ data_tab.write(team_data)
 with graph_tab:
     var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1 xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
     c = (
-       alt.Chart(team_data, title=alt.Title(
+       alt.Chart(team_data[::-1], title=alt.Title(
        f"{team} {var}, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}","Generated on: football-match-reports.streamlit.app"]
    ))
