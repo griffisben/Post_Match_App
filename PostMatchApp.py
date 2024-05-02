@@ -12,11 +12,11 @@ def ben_theme():
             'background': '#fbf9f4',
             # 'text': '#4a2e19',
             'mark': {
-                'color': '#4c94f6',
-                # 'fill': 'black'
+                # 'color': '#4c94f6',
+                'color': '#4a2e19',
             },
             'header': {
-                'labelColor': '#4a2e19',
+                'titleColor': '#4a2e19',
             }
         }
     }
