@@ -16,7 +16,7 @@ def ben_theme():
                 'color': '#4a2e19',
             },
             'header': {
-                'titleColor': '#4a2e19',
+                'titleColor': '#4c94f6',
             }
         }
     }
