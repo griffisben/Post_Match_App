@@ -3,8 +3,6 @@ import streamlit as st
 from PIL import Image
 import requests
 import io
-import plotly.express as px
-import plotly.figure_factory as ff
 
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = sorted(lg_lookup.League.tolist())
@@ -42,6 +40,6 @@ report_tab.image(game_image)
 data_tab.write(team_data)
 with graph_tab:
     var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
-    fig = px.line(team_data, x="Date", y=var, title=f'{team} {var} By Match')
+    st.line_chart(team_data, x="Date", y=var, color='#4a2e19', title=f'{team} {var} By Match')
 
 
