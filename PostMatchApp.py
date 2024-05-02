@@ -5,6 +5,25 @@ import requests
 import io
 import altair as alt
 
+#########################
+def ben_theme():
+    return {
+        'config': {
+            'background': '#fbf9f4',
+            # 'mark': {
+            #     'color': 'black',
+            #     'fill': 'black'
+            # }
+        }
+    }
+
+# register the custom theme under a chosen name
+alt.themes.register('ben_theme', ben_theme)
+
+# enable the newly registered theme
+alt.themes.enable('ben_theme')
+################################
+
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = sorted(lg_lookup.League.tolist())
 
@@ -43,11 +62,10 @@ report_tab.image(game_image)
 data_tab.write(team_data)
 with graph_tab:
     var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1 xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
-    st.write(f'{team} {var} By Match')
     c = (
        alt.Chart(team_data, title=alt.Title(
        f"{team} {var}, {league}",
-       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}\nMake you own charts! football-match-reports.streamlit.app"]
+       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}","Make you own charts on football-match-reports.streamlit.app"]
    ))
        .mark_line(color='#4c94f6')
        .encode(x="Date", y=var, tooltip=['Match','Date',var,'Possession'])
