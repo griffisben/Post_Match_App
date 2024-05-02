@@ -10,6 +10,7 @@ def ben_theme():
     return {
         'config': {
             'background': '#fbf9f4',
+            'text': '#4a2e19',
             # 'mark': {
             #     'color': 'black',
             #     'fill': 'black'
