@@ -48,6 +48,5 @@ with graph_tab:
        alt.Chart(team_data)
        .mark_line()
        .encode(x="Date", y=var, tooltip=['Match','Date',var,'Possession'])
-        .mark_config(color='#4c94f6')
-    )
+    ).mark_config(color='#4c94f6')
     st.altair_chart(c, use_container_width=True)
