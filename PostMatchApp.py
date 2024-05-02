@@ -32,6 +32,13 @@ match_string = match_choice.replace(' ','%20')
 url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
 response = requests.get(url)
 game_image = Image.open(io.BytesIO(response.content))
-st.image(game_image)
+
+team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
+team_data = team_data[team_data.Team==team][['Team','Match','Date','Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']].reset_index(drop=True)
+
+report_tab, data_tab = st.tabes(['Match Report', 'Data by Match'])
+
+report_tab.image(game_image)
+data_tab.write(team_data)
 
 
