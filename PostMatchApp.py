@@ -39,8 +39,8 @@ report_tab, data_tab, graph_tab = st.tabs(['Match Report', 'Data by Match - Tabl
 report_tab.image(game_image)
 data_tab.write(team_data)
 with graph_tab:
-    st.write(f'{team} {var} By Match')
     var = st.selectbox('Metric to Plot', ['Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
+    st.write(f'{team} {var} By Match')
     st.line_chart(team_data, x="Date", y=var, color='#4a2e19')
 
 
