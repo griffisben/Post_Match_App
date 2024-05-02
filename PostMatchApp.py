@@ -10,11 +10,14 @@ def ben_theme():
     return {
         'config': {
             'background': '#fbf9f4',
-            'text': '#4a2e19',
-            # 'mark': {
-            #     'color': 'black',
-            #     'fill': 'black'
-            # }
+            # 'text': '#4a2e19',
+            'mark': {
+                'color': '#4c94f6',
+                # 'fill': 'black'
+            },
+            'header': {
+                'labelColor': '#4a2e19',
+            }
         }
     }
 
@@ -68,7 +71,7 @@ with graph_tab:
        f"{team} {var}, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}","Make you own charts on football-match-reports.streamlit.app"]
    ))
-       .mark_line(color='#4c94f6')
+       .mark_line()
        .encode(x="Date", y=var, tooltip=['Match','Date',var,'Possession'])
     )
     st.altair_chart(c, use_container_width=True)
