@@ -67,7 +67,7 @@ team_data = team_data[team_data.Team==team].reset_index(drop=True)
 team_data['Shots per 1.0 xT'] = team_data['Shots per 1.0 xT'].astype(float)
 team_data.rename(columns={'Shots per 1.0 xT':'Shots per 1 xT'},inplace=True)
 
-if league in ['Saudi Pro League','Eredivisie']:
+if league in ['Saudi Pro League','Eredivisie','Irish Premier Division']:
     team_data['xG per 1 xT'] = team_data['xG']/team_data['xT']
     team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
     available_vars = ['Possession','xG','xGA','xGD','Goals','Goals Conceded','GD','GD-xGD','Shots','Shots Faced','Field Tilt','Passes in Opposition Half','Passes into Box','xT','xT Against','Shots per 1 xT','xG per 1 xT','xGA per 1 xT Against','PPDA','High Recoveries','Crosses','Corners','Fouls']
