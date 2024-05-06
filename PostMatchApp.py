@@ -63,22 +63,30 @@ response = requests.get(url)
 game_image = Image.open(io.BytesIO(response.content))
 
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
-team_data = team_data[team_data.Team==team][['Match','Date','Possession','Field Tilt','Passes in Opposition Half','Passes into Box','xT','xT Against','Shots','Shots Faced','Shots per 1.0 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']].reset_index(drop=True)
+team_data = team_data[team_data.Team==team].reset_index(drop=True)
 team_data['Shots per 1.0 xT'] = team_data['Shots per 1.0 xT'].astype(float)
 team_data.rename(columns={'Shots per 1.0 xT':'Shots per 1 xT'},inplace=True)
+
+if league == 'Eredivisie':
+    available_vars = ['Possession','xG','xGA','xGD','Goals','Goals Conceded','GD','GD-xGD','Shots','Shots Faced','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots per 1 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']
+else:
+    available_vars = ['Possession','Shots','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots per 1 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']
+
+team_data[available_vars] = team_data[available_vars].astype(float)
+
 
 report_tab, data_tab, graph_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph'])
 
 report_tab.image(game_image)
 data_tab.write(team_data)
 with graph_tab:
-    var = st.selectbox('Metric to Plot', ['Possession','xG','xGA','xGD','Goals','Goals Conceded','GD','GD-xGD','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots','Shots per 1 xT','PPDA','High Recoveries','Crosses','Corners','Fouls'])
+    var = st.selectbox('Metric to Plot', available_vars)
     c = (
        alt.Chart(team_data[::-1], title=alt.Title(
        f"{team} {var}, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}","Generated on: football-match-reports.streamlit.app"]
    ))
        .mark_line()
-       .encode(x=alt.X('Date', sort=None), y=var.astype(float), tooltip=['Match','Date',var,'Possession'])
+       .encode(x=alt.X('Date', sort=None), y=var, tooltip=['Match','Date',var,'Possession'])
     )
     st.altair_chart(c, use_container_width=True)
