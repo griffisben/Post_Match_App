@@ -108,7 +108,7 @@ with graph_tab:
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}","Generated on: football-match-reports.streamlit.app"]
    ))
        .mark_line(point=True)
-       .encode(x=alt.X('Date', sort=None), y=var, tooltip=['Match','Date',var,'Possession'])
+       .encode(x=alt.X('Date', sort=None), y=var, tooltip=['Match','Date',var,'Possession']).properties(height=500)
     )
     st.altair_chart(c, use_container_width=True)
 
