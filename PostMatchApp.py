@@ -120,7 +120,7 @@ with xg_tab:
         tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
     ).interactive()
 
-    team_chart = alt.Chart(team_data).mark_circle(size=60).encode(
+    team_chart = alt.Chart(team_data).mark_circle(size=60, ec='k').encode(
         x='xG',
         y='xGA',
         color='Result',
