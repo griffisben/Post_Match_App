@@ -113,6 +113,11 @@ with graph_tab:
     st.altair_chart(c, use_container_width=True)
 
 with xg_tab:
+    line_plot = alt.Chart().mark_line(color='grey').encode(
+        x=[1,2,3,4,5,6,7,8,9]
+        y=[1,2,3,4,5,6,7,8,9]
+    )
+    
     lg_chart = alt.Chart(league_data,  title=alt.Title(
        f"{team} xG & xGA by Match, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
@@ -135,7 +140,7 @@ with xg_tab:
         tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
     ).properties(height=500).interactive()
 
-    chart = (lg_chart + team_chart)
+    chart = (lg_chart + team_chart + line_plot)
 
     st.altair_chart(chart, use_container_width=True)
 
