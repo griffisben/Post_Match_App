@@ -120,7 +120,7 @@ with xg_tab:
     
     line_plot = alt.Chart(line).mark_line(color='grey').encode(
         x= 'xG',
-        y= 'xGA'.
+        y= 'xGA'
     )
         
     lg_chart = alt.Chart(league_data,  title=alt.Title(
