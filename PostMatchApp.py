@@ -112,17 +112,7 @@ with graph_tab:
     )
     st.altair_chart(c, use_container_width=True)
 
-with xg_tab:
-    line = pd.DataFrame({
-        'xG': [0, max(league_data.xG)],
-        'xGA': [0, max(league_data.xGA)],
-    })
-    
-    line_plot = alt.Chart(line).mark_line(color='grey').encode(
-        x= 'xG',
-        y= 'xGA'
-    )
-        
+with xg_tab:        
     lg_chart = alt.Chart(league_data,  title=alt.Title(
        f"{team} xG & xGA by Match, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
@@ -144,6 +134,17 @@ with xg_tab:
         color=alt.Color('Result').scale(domain=domain, range=range_),
         tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
     ).properties(height=500).interactive()
+
+    line = pd.DataFrame({
+        'xG': [0, max(league_data.xG)],
+        'xGA': [0, max(league_data.xGA)],
+    })
+    
+    line_plot = alt.Chart(line).mark_line(color='grey').encode(
+        x= 'xG',
+        y= 'xGA'
+    )
+
 
     chart = (lg_chart + team_chart + line_plot)
 
