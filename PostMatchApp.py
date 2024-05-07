@@ -121,7 +121,7 @@ with xg_tab:
     ).interactive()
 
     domain = ['W','D','L']
-    range_ = ['tab:blue','darkgrey','tab:orange']
+    range_ = ['blue','black','orange']
     team_chart = alt.Chart(team_data).mark_circle(size=90,).encode(
         x='xG',
         y='xGA',
