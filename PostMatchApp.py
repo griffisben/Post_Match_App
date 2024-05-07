@@ -28,6 +28,8 @@ def ben_theme():
         }
     }
 
+vega.scheme('WDL', ["darkgrey","tab:orange","tab:blue"]);
+
 # register the custom theme under a chosen name
 alt.themes.register('ben_theme', ben_theme)
 
@@ -123,8 +125,8 @@ with xg_tab:
     team_chart = alt.Chart(team_data).mark_circle(size=90,).encode(
         x='xG',
         y='xGA',
-        color='Result',
-        tooltip=['Match','Date','xGD','Possession','Field Tilt']
+        color=alt.Color('Result').scheme('WDL'),
+        tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
     ).interactive()
 
     chart = (lg_chart + team_chart)
