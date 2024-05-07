@@ -140,7 +140,7 @@ with xg_tab:
         'xGA': [0, max(league_data.xGA)],
     })
     
-    line_plot = alt.Chart(line).mark_line(color='grey').encode(
+    line_plot = alt.Chart(line).mark_line(color='grey', size=1).encode(
         x= 'xG',
         y= 'xGA'
     )
