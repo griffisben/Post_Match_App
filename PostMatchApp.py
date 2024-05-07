@@ -121,7 +121,7 @@ with xg_tab:
         y='xGA',
         # color='Result',
         tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
-    ).interactive()
+    ).properties(height=500).interactive()
 
     domain = ['W','D','L']
     range_ = ['blue','black','darkorange']
@@ -133,7 +133,7 @@ with xg_tab:
         y='xGA',
         color=alt.Color('Result').scale(domain=domain, range=range_),
         tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
-    ).interactive()
+    ).properties(height=500).interactive()
 
     chart = (lg_chart + team_chart)
 
