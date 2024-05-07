@@ -1,4 +1,6 @@
 ﻿Team,xG,xGA,xGD,Goals,Goals Conceded,GD,GD-xGD,Possession,Field Tilt,xT,xT Against,Passes in Opposition Half,Passes into Box,Shots,Shots Faced,Shots per 1.0 xT,PPDA,High Recoveries,Crosses,Corners,Fouls,Match,Date
+NEC,1.91,0.99,0.92,3,0,3,2.08,53.70,47.24,0.87,0.98,242,13,19,9,21.84,14.38,7,18,9,10,Excelsior 0-3 NEC,2024-05-06
+Excelsior,0.99,1.91,-0.92,0,3,-3,-2.08,46.30,52.76,0.98,0.87,233,14,9,19,9.18,13.96,19,24,3,5,Excelsior 0-3 NEC,2024-05-06
 PEC Zwolle,0.26,7.47,-7.21,0,5,-5,2.21,36.60,18.79,0.29,1.76,84,5,3,30,10.34,23.37,7,3,0,6,Feyenoord 5-0 PEC Zwolle,2024-05-05
 Feyenoord,7.47,0.26,7.21,5,0,5,-2.21,63.40,81.21,1.76,0.29,373,25,30,3,17.05,10.81,17,22,19,8,Feyenoord 5-0 PEC Zwolle,2024-05-05
 Twente,3.00,1.94,1.06,1,2,-1,-2.06,49.80,62.17,1.32,0.63,257,24,15,10,11.36,12.84,16,30,15,8,AZ 2-1 Twente,2024-05-05
