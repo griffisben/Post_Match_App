@@ -116,7 +116,7 @@ with xg_tab:
     lg_chart = alt.Chart(league_data).mark_circle(size=30, color='silver').encode(
         x='xG',
         y='xGA',
-        color='Result',
+        # color='Result',
         tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
     ).interactive()
 
