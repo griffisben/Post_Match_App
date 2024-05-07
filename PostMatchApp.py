@@ -113,11 +113,16 @@ with graph_tab:
     st.altair_chart(c, use_container_width=True)
 
 with xg_tab:
-    line_plot = alt.Chart().mark_line(color='grey').encode(
-        x=[1,2,3,4,5,6,7,8,9]
-        y=[1,2,3,4,5,6,7,8,9]
-    )
+    line = pd.DataFrame({
+        'xG': [0, max(league_data.xG)],
+        'xGA': [0, max(league_data.xGA)],
+    })
     
+    line_plot = alt.Chart(line).mark_line(color='grey').encode(
+        x= 'xG',
+        y= 'xGA'.
+    )
+        
     lg_chart = alt.Chart(league_data,  title=alt.Title(
        f"{team} xG & xGA by Match, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
