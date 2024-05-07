@@ -63,21 +63,40 @@ response = requests.get(url)
 game_image = Image.open(io.BytesIO(response.content))
 
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
+league_data = team_data.copy().reset_index(drop=True)
 team_data = team_data[team_data.Team==team].reset_index(drop=True)
 team_data['Shots per 1.0 xT'] = team_data['Shots per 1.0 xT'].astype(float)
 team_data.rename(columns={'Shots per 1.0 xT':'Shots per 1 xT'},inplace=True)
 
+league_data['Shots per 1.0 xT'] = league_data['Shots per 1.0 xT'].astype(float)
+league_data.rename(columns={'Shots per 1.0 xT':'Shots per 1 xT'},inplace=True)
+
+
+team_data['xG per 1 xT'] = team_data['xG']/team_data['xT']
+league_data['xG per 1 xT'] = league_data['xG']/league_data['xT']
+
+team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
+league_data['xGA per 1 xT Against'] = league_data['xGA']/team_data['xT Against']
+
 if league in ['Saudi Pro League','Eredivisie','Irish Premier Division']:
     team_data['xG per 1 xT'] = team_data['xG']/team_data['xT']
     team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
+    team_data['Result'] = 'D'
+    team_data['Result'] = ['W' if team_data['Goals'][i]>team_data['Goals Conceded'][i] else team_data['Result'][i] for i in range(len(team_data))]
+    team_data['Result'] = ['L' if team_data['Goals'][i]<team_data['Goals Conceded'][i] else team_data['Result'][i] for i in range(len(team_data))]
+    league_data['Result'] = 'D'
+    league_data['Result'] = ['W' if league_data['Goals'][i]>league_data['Goals Conceded'][i] else league_data['Result'][i] for i in range(len(league_data))]
+    league_data['Result'] = ['L' if league_data['Goals'][i]<league_data['Goals Conceded'][i] else league_data['Result'][i] for i in range(len(league_data))]
+
     available_vars = ['Possession','xG','xGA','xGD','Goals','Goals Conceded','GD','GD-xGD','Shots','Shots Faced','Field Tilt','Passes in Opposition Half','Passes into Box','xT','xT Against','Shots per 1 xT','xG per 1 xT','xGA per 1 xT Against','PPDA','High Recoveries','Crosses','Corners','Fouls']
 else:
     available_vars = ['Possession','Shots','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots per 1 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']
 
 team_data[available_vars] = team_data[available_vars].astype(float)
+league_data[available_vars] = league_data[available_vars].astype(float)
 
 
-report_tab, data_tab, graph_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph'])
+report_tab, data_tab, graph_tab, xg_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'xG & xGA by Match'])
 
 report_tab.image(game_image)
 data_tab.write(team_data)
@@ -92,3 +111,23 @@ with graph_tab:
        .encode(x=alt.X('Date', sort=None), y=var, tooltip=['Match','Date',var,'Possession'])
     )
     st.altair_chart(c, use_container_width=True)
+
+with xg_tab:
+    lg_chart = alt.Chart(league_data).mark_circle(size=30, color='silver').encode(
+        x='xG',
+        y='xGA',
+        color='Result',
+        tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
+    ).interactive()
+
+    team_chart = alt.Chart(team_data).mark_circle(size=60).encode(
+        x='xG',
+        y='xGA',
+        color='Result',
+        tooltip=['Match','Date','xGD','Possession','Field Tilt']
+    ).interactive()
+
+    chart = (lg_chart + team_chart)
+
+    st.altair_chart(chart, use_container_width=True)
+
