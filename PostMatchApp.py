@@ -107,7 +107,7 @@ with graph_tab:
        f"{team} {var}, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}","Generated on: football-match-reports.streamlit.app"]
    ))
-       .mark_line()
+       .mark_line(point=True)
        .encode(x=alt.X('Date', sort=None), y=var, tooltip=['Match','Date',var,'Possession'])
     )
     st.altair_chart(c, use_container_width=True)
@@ -120,7 +120,7 @@ with xg_tab:
         tooltip=['Team','Match','Date','xGD','Possession','Field Tilt']
     ).interactive()
 
-    team_chart = alt.Chart(team_data).mark_circle(size=60, ec='k').encode(
+    team_chart = alt.Chart(team_data).mark_circle(size=90,).encode(
         x='xG',
         y='xGA',
         color='Result',
