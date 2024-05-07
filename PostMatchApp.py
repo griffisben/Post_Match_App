@@ -78,7 +78,7 @@ league_data['xG per 1 xT'] = league_data['xG']/league_data['xT']
 team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
 league_data['xGA per 1 xT Against'] = league_data['xGA']/team_data['xT Against']
 
-if league in ['Saudi Pro League','Eredivisie','Irish Premier Division']:
+if league in ['Saudi Pro League','Eredivisie','Irish Premier Division','Virsliga']:
     team_data['xG per 1 xT'] = team_data['xG']/team_data['xT']
     team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
     team_data['Result'] = 'D'
