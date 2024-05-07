@@ -113,7 +113,10 @@ with graph_tab:
     st.altair_chart(c, use_container_width=True)
 
 with xg_tab:
-    lg_chart = alt.Chart(league_data).mark_circle(size=30, color='silver').encode(
+    lg_chart = alt.Chart(league_data,  title=alt.Title(
+       f"{team} xG & xGA by Match, {league}",
+       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
+    )).mark_circle(size=30, color='silver').encode(
         x='xG',
         y='xGA',
         # color='Result',
@@ -122,10 +125,7 @@ with xg_tab:
 
     domain = ['W','D','L']
     range_ = ['blue','black','darkorange']
-    team_chart = alt.Chart(team_data, title=alt.Title(
-       f"{team} xG & xGA by Match, {league}",
-       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
-    )).mark_circle(size=90,).encode(
+    team_chart = alt.Chart(team_data).mark_circle(size=90).encode(
         x='xG',
         y='xGA',
         color=alt.Color('Result').scale(domain=domain, range=range_),
