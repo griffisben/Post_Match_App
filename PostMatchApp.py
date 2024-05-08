@@ -78,19 +78,16 @@ league_data['xG per 1 xT'] = league_data['xG']/league_data['xT']
 team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
 league_data['xGA per 1 xT Against'] = league_data['xGA']/team_data['xT Against']
 
-if league in ['Saudi Pro League','Eredivisie','Irish Premier Division','Virsliga']:
-    team_data['xG per 1 xT'] = team_data['xG']/team_data['xT']
-    team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
-    team_data['Result'] = 'D'
-    team_data['Result'] = ['W' if team_data['Goals'][i]>team_data['Goals Conceded'][i] else team_data['Result'][i] for i in range(len(team_data))]
-    team_data['Result'] = ['L' if team_data['Goals'][i]<team_data['Goals Conceded'][i] else team_data['Result'][i] for i in range(len(team_data))]
-    league_data['Result'] = 'D'
-    league_data['Result'] = ['W' if league_data['Goals'][i]>league_data['Goals Conceded'][i] else league_data['Result'][i] for i in range(len(league_data))]
-    league_data['Result'] = ['L' if league_data['Goals'][i]<league_data['Goals Conceded'][i] else league_data['Result'][i] for i in range(len(league_data))]
+team_data['xG per 1 xT'] = team_data['xG']/team_data['xT']
+team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
+team_data['Result'] = 'D'
+team_data['Result'] = ['W' if team_data['Goals'][i]>team_data['Goals Conceded'][i] else team_data['Result'][i] for i in range(len(team_data))]
+team_data['Result'] = ['L' if team_data['Goals'][i]<team_data['Goals Conceded'][i] else team_data['Result'][i] for i in range(len(team_data))]
+league_data['Result'] = 'D'
+league_data['Result'] = ['W' if league_data['Goals'][i]>league_data['Goals Conceded'][i] else league_data['Result'][i] for i in range(len(league_data))]
+league_data['Result'] = ['L' if league_data['Goals'][i]<league_data['Goals Conceded'][i] else league_data['Result'][i] for i in range(len(league_data))]
 
-    available_vars = ['Possession','xG','xGA','xGD','Goals','Goals Conceded','GD','GD-xGD','Shots','Shots Faced','Field Tilt','Passes in Opposition Half','Passes into Box','xT','xT Against','Shots per 1 xT','xG per 1 xT','xGA per 1 xT Against','PPDA','High Recoveries','Crosses','Corners','Fouls']
-else:
-    available_vars = ['Possession','Shots','Field Tilt','Passes in Opposition Half','Passes into Box','xT','Shots per 1 xT','PPDA','High Recoveries','Crosses','Corners','Fouls']
+available_vars = ['Possession','xG','xGA','xGD','Goals','Goals Conceded','GD','GD-xGD','Shots','Shots Faced','Field Tilt','Passes in Opposition Half','Passes into Box','xT','xT Against','Shots per 1 xT','xG per 1 xT','xGA per 1 xT Against','PPDA','High Recoveries','Crosses','Corners','Fouls']
 
 team_data[available_vars] = team_data[available_vars].astype(float)
 league_data[available_vars] = league_data[available_vars].astype(float)
