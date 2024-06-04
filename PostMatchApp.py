@@ -58,9 +58,10 @@ with st.sidebar:
     match_choice = st.selectbox('Match', match_list.Match_Name.tolist())
 
 match_string = match_choice.replace(' ','%20')
-url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
-response = requests.get(url)
-game_image = Image.open(io.BytesIO(response.content))
+if league in ['Irish Premier Division', 'Saudi Pro League', 'Eredivisie', 'Virsliga', 'J1']:
+    url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
+    response = requests.get(url)
+    game_image = Image.open(io.BytesIO(response.content))
 
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
 league_data = team_data.copy().reset_index(drop=True)
