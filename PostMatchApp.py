@@ -95,7 +95,8 @@ league_data[available_vars] = league_data[available_vars].astype(float)
 
 report_tab, data_tab, graph_tab, xg_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'xG & xGA by Match'])
 
-report_tab.image(game_image)
+if lg in ['Irish Premier Division', 'Saudi Pro League', 'Eredivisie', 'Virsliga', 'J1']:
+    report_tab.image(game_image)
 data_tab.write(team_data)
 with graph_tab:
     var = st.selectbox('Metric to Plot', available_vars)
