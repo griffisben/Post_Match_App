@@ -82,6 +82,10 @@ team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Matc
 team_data['Field Tilt - Possession'] = team_data['Field Tilt'] - team_data['Possession']
 league_data = team_data.copy().reset_index(drop=True)
 team_data = team_data[team_data.Team==team].reset_index(drop=True)
+if league in ['Ekstraklasa 23-24']:
+    team_data['Shots Faced per 1.0 xT Against'] = team_data['Shots Faced']/team_data['xT Against']
+    league_data['Shots Faced per 1.0 xT Against'] = league_data['Shots Faced']/league_data['xT Against']
+
 team_data['Shots per 1.0 xT'] = team_data['Shots per 1.0 xT'].astype(float)
 team_data.rename(columns={'Shots per 1.0 xT':'Shots per 1 xT'},inplace=True)
 team_data['Shots Faced per 1.0 xT Against'] = team_data['Shots Faced per 1.0 xT Against'].astype(float)
