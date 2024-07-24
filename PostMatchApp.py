@@ -128,7 +128,7 @@ with graph_tab:
             team_data[::-1],
             title={
                 "text": [f"{team} {var}, {league}"],
-                "subtitle": [f"Data via Opta as of {update_date}  \nCreated: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
+                "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
             }
         )
         .mark_line(point=True)
