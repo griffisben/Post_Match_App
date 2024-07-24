@@ -67,7 +67,7 @@ with st.sidebar:
 
 report_tab, data_tab, graph_tab, rank_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings'])
 
-if league in ['Ekstraklasa']:
+if league not in ['Ekstraklasa 23-24']:
     for i in range(len(render_matches)):
         match_string = render_matches[i].replace(' ','%20')
         url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
