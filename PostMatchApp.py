@@ -128,7 +128,7 @@ with graph_tab:
             team_data[::-1],
             title={
                 "text": [f"{team} {var}, {league}"],
-                "subtitle": [f"Data via Opta | Data as of {update_date}"]
+                "subtitle": [f"Data via Opta as of {update_date}\nCreated: Ben Griffis (@BeGriffis on Twitter) | football-match-reports.streamlit.app"]
             }
         )
         .mark_line(point=True)
@@ -265,7 +265,7 @@ with rank_tab:
     )
     fig.text(
         x=0.14, y=.9,
-        s=f"Data as of {update_date}",
+        s=f"Data via Opta as of {update_date}\nCreated: Ben Griffis (@BeGriffis on Twitter) | football-match-reports.streamlit.app"",
         ha='left',
         va='top',
         weight='regular',
