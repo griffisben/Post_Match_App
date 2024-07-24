@@ -177,7 +177,7 @@ with rank_tab:
     if rank_method == 'Average':
         rank_df = ranking_base_df.groupby(['Team'])[available_vars].mean().reset_index()
 
-    if rank_var in ['xGA','Goals Conceded','Shots Faced','xT Against','xGA per 1 xT Against','PPDA','Fouls','High Recoveries Against']:
+    if rank_var in ['xGA','Goals Conceded','Shots Faced','xT Against','xGA per 1 xT Against','PPDA','Fouls','High Recoveries Against', 'Shots Faced per 1 xT Against']:
         sort_method = True
     else:
         sort_method = False
