@@ -1,0 +1,8 @@
+matplotlib
+pandas
+streamlit
+PIL
+requests
+io
+altair
+seaborn
