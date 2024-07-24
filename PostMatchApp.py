@@ -53,7 +53,7 @@ df['Match_Name'] = df['Match'] + ' ' + df['Date']
 
 with st.sidebar:
     team_list = sorted(list(set(df.Home.unique().tolist() + df.Away.unique().tolist())))
-    team = st.selectbox('What team do you want reports & data for?', team_list, index=team_list)
+    team = st.selectbox('What team do you want reports & data for?', team_list)
 
     specific = st.selectbox('Specific Match or Most Recent Matches?', ('Specific Match','Recent Matches'))
     if specific == 'Specific Match':
