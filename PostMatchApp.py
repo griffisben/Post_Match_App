@@ -80,6 +80,8 @@ else:
 
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
 team_data['Field Tilt - Possession'] = team_data['Field Tilt'] - team_data['Possession']
+team_data['xT Difference'] = team_data['xT'] - team_data['xT Against']
+
 league_data = team_data.copy().reset_index(drop=True)
 team_data = team_data[team_data.Team==team].reset_index(drop=True)
 if league in ['Ekstraklasa 23-24']:
@@ -107,7 +109,7 @@ available_vars = ['Possession',
                   # 'xG','xGA','xGD',
                   'Goals','Goals Conceded',
                   # 'GD','GD-xGD',
-                  'Shots','Shots Faced','Field Tilt','Field Tilt - Possession','Avg Pass Height','Passes in Opposition Half','Passes into Box','xT','xT Against','Shots per 1 xT','Shots Faced per 1 xT Against',
+                  'Shots','Shots Faced','Field Tilt','Field Tilt - Possession','Avg Pass Height','Passes in Opposition Half','Passes into Box','xT','xT Against','xT Difference','Shots per 1 xT','Shots Faced per 1 xT Against',
                   # 'xG per 1 xT','xGA per 1 xT Against',
                   'PPDA','High Recoveries','High Recoveries Against','Crosses','Corners','Fouls']
 
