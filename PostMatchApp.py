@@ -111,7 +111,7 @@ available_vars = ['Possession',
                   # 'GD','GD-xGD',
                   'Shots','Shots Faced','Field Tilt','Field Tilt - Possession','Avg Pass Height','Passes in Opposition Half','Passes into Box','xT','xT Against','xT Difference','Shots per 1 xT','Shots Faced per 1 xT Against',
                   # 'xG per 1 xT','xGA per 1 xT Against',
-                  'PPDA','High Recoveries','High Recoveries Against','Crosses','Corners','Fouls']
+                  'PPDA','High Recoveries','High Recoveries Against','Crosses','Fouls']
 
 team_data[available_vars] = team_data[available_vars].astype(float)
 league_data[available_vars] = league_data[available_vars].astype(float)
