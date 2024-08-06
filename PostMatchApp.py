@@ -128,7 +128,7 @@ with graph_tab:
     lg_avg_var = league_data[var].mean()
     team_avg_var = team_data[var].mean()
     
-    c = (alt.Chart(
+    c = (alt.Chart(color=focal_color,
             team_data[::-1],
             title={
                 "text": [f"{team} {var}, {league}"],
