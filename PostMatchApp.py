@@ -139,7 +139,7 @@ with graph_tab:
         .encode(
             x=alt.X('Date', sort=None),
             y=alt.Y(var, scale=alt.Scale(zero=False)),
-            tooltip=['Match', 'Date', var, 'Possession', 'xGD', 'GD']
+            tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
         )
     )
 
