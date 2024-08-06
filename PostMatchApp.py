@@ -41,7 +41,7 @@ lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match
 league_list = lg_lookup.League.tolist()
 
 with st.sidebar:
-    league = st.selectbox('What League Do You Want Reports For?', league_list,)
+    league = st.selectbox('What League Do You Want Reports For?', league_list, index=league_list.index('Ekstraklasa'))
     update_date = lg_lookup[lg_lookup.League==league].Update.values[0]
     
 st.title(f"{league} Post-Match Reports")
@@ -64,6 +64,8 @@ with st.sidebar:
         match_list = df[(df.Home == team) | (df.Away == team)].copy()
         num_matches = st.slider('Number of Recent Matches', min_value=1, max_value=5, value=3)
         render_matches = match_list.head(num_matches).Match_Name.tolist()
+
+    focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#2590ff")
 
 report_tab, data_tab, graph_tab, rank_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings'])
 
@@ -111,7 +113,7 @@ available_vars = ['Possession',
                   # 'GD','GD-xGD',
                   'Shots','Shots Faced','Field Tilt','Field Tilt - Possession','Avg Pass Height','Passes in Opposition Half','Passes into Box','xT','xT Against','xT Difference','Shots per 1 xT','Shots Faced per 1 xT Against',
                   # 'xG per 1 xT','xGA per 1 xT Against',
-                  'PPDA','High Recoveries','High Recoveries Against','Crosses','Fouls']
+                  'PPDA','High Recoveries','High Recoveries Against','Crosses','Corners','Fouls']
 
 team_data[available_vars] = team_data[available_vars].astype(float)
 league_data[available_vars] = league_data[available_vars].astype(float)
@@ -152,7 +154,7 @@ with graph_tab:
         color='grey'
     )
 
-    team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color='navy').encode(y='y')
+    team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color=focal_color).encode(y='y')
     
     team_avg_label = team_avg_line.mark_text(
         x="width",
@@ -160,7 +162,7 @@ with graph_tab:
         align="right",
         baseline="bottom",
         text="Team Avg",
-        color='navy'
+        color=focal_color
     )
 
 
@@ -211,11 +213,8 @@ with rank_tab:
                     text_label = f'{nrows-i}   {indexdf_short[column].iloc[i]}'
             else:
                 text_label = f'{round(indexdf_short[column].iloc[i],2)}'
-            if indexdf_short['Team'].iloc[i] == 'Loudoun United':
-                t_color = 'red'
-                weight = 'bold'
-            elif indexdf_short['Team'].iloc[i] == team:
-                t_color = 'dodgerblue'
+            if indexdf_short['Team'].iloc[i] == team:
+                t_color = focal_color
                 weight = 'bold'
             else:
                 t_color = '#4A2E19'
