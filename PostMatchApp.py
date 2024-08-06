@@ -135,7 +135,7 @@ with graph_tab:
                 "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
             }
         )
-        .mark_line(point=True)
+        .mark_line(point=True, color=focal_color)
         .encode(
             x=alt.X('Date', sort=None),
             y=alt.Y(var, scale=alt.Scale(zero=False)),
