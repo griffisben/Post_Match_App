@@ -7,36 +7,6 @@ import altair as alt
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-#########################
-def ben_theme():
-    return {
-        'config': {
-            'background': '#fbf9f4',
-            # 'text': '#4a2e19',
-            'mark': {
-                'color': '#4c94f6',
-            },
-            'axis': {
-                'titleColor': '#4a2e19',
-                'labelColor': '#4a2e19',
-            },
-            'text': {
-                'fill': '#4a2e19'
-            },
-            'title': {
-                'color': '#4a2e19',
-                'subtitleColor': '#4a2e19'
-            }
-        }
-    }
-
-# register the custom theme under a chosen name
-alt.themes.register('ben_theme', ben_theme)
-
-# enable the newly registered theme
-alt.themes.enable('ben_theme')
-################################
-
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = lg_lookup.League.tolist()
 
@@ -66,6 +36,36 @@ with st.sidebar:
         render_matches = match_list.head(num_matches).Match_Name.tolist()
 
     focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#2590ff")
+
+#########################
+def ben_theme():
+    return {
+        'config': {
+            'background': '#fbf9f4',
+            # 'text': '#4a2e19',
+            'mark': {
+                'color': focal_color,
+            },
+            'axis': {
+                'titleColor': '#4a2e19',
+                'labelColor': '#4a2e19',
+            },
+            'text': {
+                'fill': '#4a2e19'
+            },
+            'title': {
+                'color': '#4a2e19',
+                'subtitleColor': '#4a2e19'
+            }
+        }
+    }
+
+# register the custom theme under a chosen name
+alt.themes.register('ben_theme', ben_theme)
+
+# enable the newly registered theme
+alt.themes.enable('ben_theme')
+################################
 
 report_tab, data_tab, graph_tab, rank_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings'])
 
@@ -128,7 +128,7 @@ with graph_tab:
     lg_avg_var = league_data[var].mean()
     team_avg_var = team_data[var].mean()
     
-    c = (alt.Chart(color=focal_color,
+    c = (alt.Chart(
             team_data[::-1],
             title={
                 "text": [f"{team} {var}, {league}"],
