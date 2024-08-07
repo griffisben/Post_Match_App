@@ -7,6 +7,16 @@ import altair as alt
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+def complementaryColor(my_hex):
+    """
+    https://stackoverflow.com/questions/38478409/finding-out-complementary-opposite-color-of-a-given-color
+    """
+    if my_hex[0] == '#':
+        my_hex = my_hex[1:]
+    rgb = (my_hex[0:2], my_hex[2:4], my_hex[4:6])
+    comp = ['%02X' % (255 - int(a, 16)) for a in rgb]
+    return ''.join(comp)
+
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = lg_lookup.League.tolist()
 
@@ -35,7 +45,7 @@ with st.sidebar:
         num_matches = st.slider('Number of Recent Matches', min_value=1, max_value=5, value=3)
         render_matches = match_list.head(num_matches).Match_Name.tolist()
 
-    focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#2590ff")
+    focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#4c94f6")
 
 #########################
 def ben_theme():
@@ -43,9 +53,9 @@ def ben_theme():
         'config': {
             'background': '#fbf9f4',
             # 'text': '#4a2e19',
-            'mark': {
-                'color': focal_color,
-            },
+            # 'mark': {
+            #     'color': focal_color,
+            # },
             'axis': {
                 'titleColor': '#4a2e19',
                 'labelColor': '#4a2e19',
@@ -125,51 +135,106 @@ league_data_base = league_data.copy()
 data_tab.write(team_data)
 
 with graph_tab:
+    plot_type = st.radio("Line or Bar plot?", ['📈 Line', '📊 Bar'])
     var = st.selectbox('Metric to Plot', available_vars)
-    
-    lg_avg_var = league_data[var].mean()
-    team_avg_var = team_data[var].mean()
-    
-    c = (alt.Chart(
-            team_data[::-1],
-            title={
-                "text": [f"{team} {var}, {league}"],
-                "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
-            }
+
+    if plot_type == '📈 Line':
+        lg_avg_var = league_data[var].mean()
+        team_avg_var = team_data[var].mean()
+        
+        c = (alt.Chart(
+                team_data[::-1],
+                title={
+                    "text": [f"{team} {var}, {league}"],
+                    "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
+                }
+            )
+            .mark_line(point=True, color='#4c94f6')
+            .encode(
+                x=alt.X('Date', sort=None),
+                y=alt.Y(var, scale=alt.Scale(zero=False)),
+                tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
+            )
         )
-        .mark_line(point=True, color=focal_color)
-        .encode(
-            x=alt.X('Date', sort=None),
-            y=alt.Y(var, scale=alt.Scale(zero=False)),
-            tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
+    
+        lg_avg_line = alt.Chart(pd.DataFrame({'y': [lg_avg_var]})).mark_rule(color='#ee5454').encode(y='y')
+        
+        lg_avg_label = lg_avg_line.mark_text(
+            x="width",
+            dx=-2,
+            align="right",
+            baseline="bottom",
+            text="League Avg",
+            color='#ee5454'
         )
-    )
-
-    lg_avg_line = alt.Chart(pd.DataFrame({'y': [lg_avg_var]})).mark_rule(color='grey').encode(y='y')
     
-    lg_avg_label = lg_avg_line.mark_text(
-        x="width",
-        dx=-2,
-        align="right",
-        baseline="bottom",
-        text="League Avg",
-        color='grey'
-    )
-
-    team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color=focal_color).encode(y='y')
+        team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color='#f6ba00').encode(y='y')
+        
+        team_avg_label = team_avg_line.mark_text(
+            x="width",
+            dx=-2,
+            align="right",
+            baseline="bottom",
+            text="Team Avg",
+            color='#f6ba00'
+        )
     
-    team_avg_label = team_avg_line.mark_text(
-        x="width",
-        dx=-2,
-        align="right",
-        baseline="bottom",
-        text="Team Avg",
-        color=focal_color
-    )
+    
+        chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
+        st.altair_chart(chart, use_container_width=True)
 
+    if plot_type == '📊 Bar':
+        lg_avg_var = league_data[var].mean()
+        team_avg_var = team_data[var].mean()
 
-    chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
-    st.altair_chart(chart, use_container_width=True)
+        c = (alt.Chart(
+                team_data[::-1],
+                title={
+                    "text": [f"{team} {var}, {league}"],
+                    "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
+                }
+            )
+            .mark_bar()
+            .encode(
+                x=alt.X('Date', sort=None),
+                y=alt.Y(var, scale=alt.Scale(zero=False)), 
+                color=alt.condition(alt.datum[var] >= 0, alt.value('#4c94f6'), alt.value('#4a2e19')),
+                tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
+            )
+        )
+
+        if var != 'xT Difference':
+            lg_avg_line = alt.Chart(pd.DataFrame({'y': [lg_avg_var]})).mark_rule(color='#ee5454').encode(y='y')
+            
+            lg_avg_label = lg_avg_line.mark_text(
+                x="width",
+                dx=-2,
+                align="right",
+                baseline="bottom",
+                text="League Avg",
+                color='#ee5454'
+            )
+        if var == 'xT Difference':
+            lg_avg_line = alt.Chart(pd.DataFrame({'y': [0]})).mark_rule(color='k').encode(y='y')
+    
+        team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color='#f6ba00').encode(y='y')
+        
+        team_avg_label = team_avg_line.mark_text(
+            x="width",
+            dx=-2,
+            align="right",
+            baseline="bottom",
+            text="Team Avg",
+            color='#f6ba00'
+        )
+    
+
+        if var != 'xT Difference':
+            chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
+        if var == 'xT Difference':
+            chart = (c + lg_avg_line + team_avg_line + team_avg_label)
+        st.altair_chart(chart, use_container_width=True)
+
 
 with rank_tab:
     ranking_base_df = league_data_base.copy()
