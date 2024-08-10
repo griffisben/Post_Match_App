@@ -7,21 +7,12 @@ import altair as alt
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def complementaryColor(my_hex):
-    """
-    https://stackoverflow.com/questions/38478409/finding-out-complementary-opposite-color-of-a-given-color
-    """
-    if my_hex[0] == '#':
-        my_hex = my_hex[1:]
-    rgb = (my_hex[0:2], my_hex[2:4], my_hex[4:6])
-    comp = ['%02X' % (255 - int(a, 16)) for a in rgb]
-    return ''.join(comp)
-
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = lg_lookup.League.tolist()
 
 with st.sidebar:
-    league = st.selectbox('What League Do You Want Reports For?', league_list, index=league_list.index('Ekstraklasa'))
+    league_pick = st.selectbox('What League Do You Want Reports For?', league_list, index=league_list.index('🇩🇪 2. Bundesliga'))
+    league = league_pick[3:]
     update_date = lg_lookup[lg_lookup.League==league].Update.values[0]
     
 st.title(f"{league} Post-Match Reports")
