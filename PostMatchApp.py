@@ -11,8 +11,7 @@ lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match
 league_list = lg_lookup.League.tolist()
 
 with st.sidebar:
-    league_pick = st.selectbox('What League Do You Want Reports For?', league_list, index=league_list.index('🇩🇪 2. Bundesliga'))
-    league = league_pick[3:]
+    league = st.selectbox('What League Do You Want Reports For?', league_list, index=league_list.index('2. Bundesliga'))
     update_date = lg_lookup[lg_lookup.League==league].Update.values[0]
     
 st.title(f"{league} Post-Match Reports")
