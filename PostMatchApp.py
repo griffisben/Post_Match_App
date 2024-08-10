@@ -10,13 +10,6 @@ import seaborn as sns
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = lg_lookup.League.tolist()
 
-with st.expander('Disclaimer & Ifo'):
-    st.write('''
-    - All of the data on this app comes from Opta. I manipulate the raw data to create these, but it's all Opta data.  \n
-    - You are allowed to, and I encourage you, to share any images from this app on your socials, websites, videos, etc... I just ask that you note that the data is from Opta, and give me/this site credit. Thank you!  \n
-    (note, if the app is working but one match report doesn't show up, feel free to DM me on Twitter @BeGriffis. Either I missed it when updating, or the data isn't available yet. Please let me know so I can look into if I missed it!)
-    ''')
-
 with st.sidebar:
     league = st.selectbox('What League Do You Want Reports For?', league_list)
     update_date = lg_lookup[lg_lookup.League==league].Update.values[0]
@@ -24,6 +17,13 @@ with st.sidebar:
 st.title(f"{league} Post-Match Reports")
 st.subheader(f"Last Updated: {update_date}\n")
 st.subheader('All data via Opta')
+
+with st.expander('Disclaimer & Info'):
+    st.write('''
+    - All of the data on this app comes from Opta. I manipulate the raw data to create these, but it's all Opta data.  \n
+    - You are allowed to, and I encourage you, to share any images from this app on your socials, websites, videos, etc... I just ask that you note that the data is from Opta, and give me/this site credit. Thank you!  \n
+    (note, if the app is working but one match report doesn't show up, feel free to DM me on Twitter @BeGriffis. Either I missed it when updating, or the data isn't available yet. Please let me know so I can look into if I missed it!)
+    ''')
 
 df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/League_Files/{league.replace(' ','%20')}%20Full%20Match%20List.csv")
 df['Match_Name'] = df['Match'] + ' ' + df['Date']
