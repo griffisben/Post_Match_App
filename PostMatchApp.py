@@ -338,3 +338,15 @@ with rank_tab:
     )
 
     fig
+
+with st.expander("Game Control, On-Ball Pressure, & Off-Ball Pressure Explainer"):
+    st.write('''
+    The Game Control Index visualizes both the stretches of time a team was in control of a match as well as the magnitude of control they exerted.  \n
+    You can use this index to see which team was in control of the match overall, how a team responded after conceding or scoring, the ebbs and flows of the game, and more.  \n
+    Unlike many “momentum” or “flow” charts you normally see (such as from Sofa Score or FotMob), this takes into account both on-ball/attacking data & off-ball/defensive data.  \n
+    Other models such as FotMob's are very good as well, they are just different than my model in that they usually don't account for off-ball info.  \n  \n
+    - On-ball pressure includes shots, passes into good areas, & passes completed in the final third.  \n
+    - Off-ball pressure includes forcing opponents out of the final third, keeping their possession deep, & intercepting passes.  \n
+    All on-ball & off-ball actions are weighted differently, and the model has been iteratively tested & tweaked vs my eyes when watching many games across many different style leagues. Your opinion may differe, and that is perfectly fine as no model is perfect, foolproof, or should be taken at face-value. Please understand there are always limits.
+    ''')
+
