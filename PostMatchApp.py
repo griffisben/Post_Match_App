@@ -15,7 +15,7 @@ with st.sidebar:
     update_date = lg_lookup[lg_lookup.League==lgg].Update.values[0]
     league = lgg.replace("ü","u") 
     
-st.title(f"{league} Post-Match Reports")
+st.title(f"{lgg} Post-Match Reports")
 st.subheader(f"Last Updated: {update_date}\n")
 st.subheader('All data via Opta')
 
