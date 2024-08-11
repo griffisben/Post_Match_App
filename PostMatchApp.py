@@ -11,8 +11,9 @@ lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match
 league_list = lg_lookup.League.tolist()
 
 with st.sidebar:
-    league = st.selectbox('What League Do You Want Reports For?', league_list)
-    update_date = lg_lookup[lg_lookup.League==league].Update.values[0]
+    lgg = st.selectbox('What League Do You Want Reports For?', league_list)
+    update_date = lg_lookup[lg_lookup.League==lgg].Update.values[0]
+    league = lgg.replace("ü","u") 
     
 st.title(f"{league} Post-Match Reports")
 st.subheader(f"Last Updated: {update_date}\n")
