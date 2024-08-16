@@ -13,7 +13,7 @@ league_list = lg_lookup.League.tolist()
 with st.sidebar:
     lgg = st.selectbox('What League Do You Want Reports For?', league_list)
     update_date = lg_lookup[lg_lookup.League==lgg].Update.values[0]
-    league = lgg.replace("ü","u").replace("ó","o")
+    league = lgg.replace("ü","u") .replace("ó","o")
     
 st.title(f"{lgg} Post-Match Reports")
 st.subheader(f"Last Updated: {update_date}\n")
@@ -79,11 +79,14 @@ report_tab, data_tab, graph_tab, rank_tab = st.tabs(['Match Report', 'Data by Ma
 
 if league not in ['Ekstraklasa 23-24']:
     for i in range(len(render_matches)):
-        match_string = render_matches[i].replace(' ','%20')
-        url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
-        response = requests.get(url)
-        game_image = Image.open(io.BytesIO(response.content))
-        report_tab.image(game_image)
+        try:
+            match_string = render_matches[i].replace(' ','%20')
+            url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
+            response = requests.get(url)
+            game_image = Image.open(io.BytesIO(response.content))
+            report_tab.image(game_image)
+        except:
+            st.write(f"Apologies, {render_matches[i]} must not be available yet. Please check in later!")
 else:
     with report_tab:
         st.write("Sorry, I don't have post-match reports loaded for this league!")
