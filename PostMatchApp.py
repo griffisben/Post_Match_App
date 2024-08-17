@@ -7,6 +7,7 @@ import altair as alt
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+nbi_links = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/NBI_Match_Links.csv")
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = lg_lookup.League.tolist()
 
@@ -77,19 +78,18 @@ alt.themes.enable('ben_theme')
 
 report_tab, data_tab, graph_tab, rank_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings'])
 
-if league not in ['Ekstraklasa 23-24']:
-    for i in range(len(render_matches)):
-        try:
-            match_string = render_matches[i].replace(' ','%20')
-            url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
-            response = requests.get(url)
-            game_image = Image.open(io.BytesIO(response.content))
-            report_tab.image(game_image)
-        except:
-            st.write(f"Apologies, {render_matches[i]} must not be available yet. Please check in later!")
-else:
-    with report_tab:
-        st.write("Sorry, I don't have post-match reports loaded for this league!")
+for i in range(len(render_matches)):
+    try:
+        match_string = render_matches[i].replace(' ','%20')
+        if lg == 'NB I':
+            nbi_game_link = nbi_links[nbi_links.MatchName==match_string]['URL']
+            st.write(f'Link to Full Match Video (some games may not have been shown on M4Sport and therefore are not available):  \n  \n{match_string} -> {nbi_game_link}')
+        url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
+        response = requests.get(url)
+        game_image = Image.open(io.BytesIO(response.content))
+        report_tab.image(game_image)
+    except:
+        st.write(f"Apologies, {render_matches[i]} must not be available yet. Please check in later!")
 
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
 team_data['Field Tilt - Possession'] = team_data['Field Tilt'] - team_data['Possession']
