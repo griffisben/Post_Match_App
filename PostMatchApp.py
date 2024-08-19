@@ -122,11 +122,11 @@ team_data['xGA per 1 xT Against'] = team_data['xGA']/team_data['xT Against']
 league_data['xGA per 1 xT Against'] = league_data['xGA']/team_data['xT Against']
 
 available_vars = ['Possession',
-                  # 'xG','xGA','xGD',
+                  'xG','xGA','xGD',
                   'Goals','Goals Conceded',
-                  # 'GD','GD-xGD',
+                  'GD','GD-xGD',
                   'Shots','Shots Faced','Field Tilt','Field Tilt - Possession','Avg Pass Height','Passes in Opposition Half','Passes into Box','xT','xT Against','xT Difference','Shots per 1 xT','Shots Faced per 1 xT Against',
-                  # 'xG per 1 xT','xGA per 1 xT Against',
+                  'xG per 1 xT','xGA per 1 xT Against',
                   'PPDA','High Recoveries','High Recoveries Against','Crosses','Corners','Fouls',
                  'Throw-Ins into the Box','On-Ball Pressure','On-Ball Pressure Share','Off-Ball Pressure','Off-Ball Pressure Share','Game Control','Game Control Share',
                  ]
