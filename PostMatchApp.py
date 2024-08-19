@@ -95,6 +95,9 @@ team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Matc
 team_data['Field Tilt - Possession'] = team_data['Field Tilt'] - team_data['Possession']
 team_data['xT Difference'] = team_data['xT'] - team_data['xT Against']
 
+gc_lookup = team_data.groupby(['Match','Date'])['Game Control'].sum().reset_index()
+team_data['Game Control Share'] = [round(100*team_data['Game Control'][i]/gc_lookup[(gc_lookup.Match==team_data.Match[i]) & (gc_lookup.Date==team_data.Date[i])]['Game Control'].values[0],2) for i in range(len(team_data))]
+
 league_data = team_data.copy().reset_index(drop=True)
 team_data = team_data[team_data.Team==team].reset_index(drop=True)
 if league in ['Ekstraklasa 23-24']:
