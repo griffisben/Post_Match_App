@@ -136,7 +136,7 @@ league_data[available_vars] = league_data[available_vars].astype(float)
 
 league_data_base = league_data.copy()
 
-data_tab.write(team_data.drop(columns=['xG','xGA','xGD']))
+data_tab.write(team_data)
 
 with graph_tab:
     plot_type = st.radio("Line or Bar plot?", ['📈 Line', '📊 Bar'])
