@@ -6,10 +6,161 @@ import io
 import altair as alt
 import matplotlib.pyplot as plt
 import seaborn as sns
+from bs4 import BeautifulSoup
+import urllib.request
+import numpy as np
+
+@st.cache_data(ttl=60*15)
+
+def get_fotmob_table_data(lg):
+    img_base = "https://images.fotmob.com/image_resources/logo/teamlogo"
+    #######################################################
+    
+    url = f"https://www.fotmob.com/api/tltable?leagueId={lg_id_dict[lg]}"
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, "html.parser")
+    json_data = pd.read_json(soup.getText())
+    
+    table = json_data['data'].apply(lambda x: x['table']).apply(lambda x: x['all'])
+    df = pd.json_normalize(table)
+    df = df.T
+    
+    df_all = pd.DataFrame()
+    for i in range(len(df)):
+        for j in range(len(df.columns)):
+            row = pd.DataFrame(pd.Series(df.iloc[i,j])).T
+            df_all = pd.concat([df_all,row])
+    df_all.reset_index(drop=True,inplace=True)
+    
+    df_all['logo'] = [f"{img_base}/{df_all['id'][i]}.png" for i in range(len(df_all))]
+    df_all['goals'] = [int(df_all['scoresStr'][i].split("-")[0]) for i in range(len(df_all))]
+    df_all['conceded_goals'] = [int(df_all['scoresStr'][i].split("-")[1]) for i in range(len(df_all))]
+    df_all['real_position'] = df_all['idx']
+    df_all.sort_values(by=['real_position'],ascending=True,inplace=True)
+    df_all.reset_index(drop=True,inplace=True)
+    df_all['Goals per match'] = df_all['goals']/df_all['played']
+    df_all['Goals against per match'] = df_all['conceded_goals']/df_all['played']
+    
+    tables = df_all[['real_position','name','played','wins','draws','losses','pts','goals','conceded_goals','goalConDiff','logo']].rename(columns={
+        'pts':'Pts',
+        'name':'Team',
+        'real_position':'Pos',
+        'xg':'xG',
+        'xgConceded':'xGA',
+        'goals':'GF',
+        'conceded_goals':'GA',
+        'played':'M',
+        'wins':'W',
+        'draws':'D',
+        'losses':'L',
+        'goalConDiff':'GD'
+    })
+    tables[['Pts','GF','GA','Pos','M']] = tables[['Pts','GF','GA','Pos','M']].astype(int)
+    logos = tables.logo.tolist()[::-1]
+    tables = tables.iloc[:,:-1]
+    
+    tables.rename(columns={'Pos':' '},inplace=True)
+    
+    indexdf = tables[::-1].copy()
+
+    return indexdf, logos
+
+def create_fotmob_table_img(lg, date, indexdf, logos):
+    plt.clf()
+    sns.set(rc={'axes.facecolor':'#fbf9f4', 'figure.facecolor':'#fbf9f4',
+               'ytick.labelcolor':'#4A2E19', 'xtick.labelcolor':'#4A2E19'})
+    
+    
+    fig = plt.figure(figsize=(5,6), dpi=200)
+    ax = plt.subplot()
+    
+    ncols = len(indexdf.columns.tolist())+1
+    nrows = indexdf.shape[0]
+    
+    ax.set_xlim(0, ncols + .5)
+    ax.set_ylim(0, nrows + 1.5)
+    
+    positions = [0.75, 1.2, 5, 5.75, 6.5, 7.25, 8, 8.75, 9.5, 10.25]
+    columns = indexdf.columns.tolist()
+    
+    for i in range(nrows):
+        for j, column in enumerate(columns):
+            text_label = f'{indexdf[column].iloc[i]}'
+            weight = 'regular'
+            ax.annotate(
+                xy=(positions[j], i + .5),
+                text = text_label.replace(' U18',''),
+                ha='left',
+                va='center', color='#4A2E19',
+                weight=weight,
+                size=7.5
+            )
+    
+    column_names = columns
+    for index, c in enumerate(column_names):
+            ax.annotate(
+                xy=(positions[index], nrows + .25),
+                text=column_names[index],
+                ha='left',
+                va='bottom',
+                weight='bold', color='#4A2E19',
+                size=7.5
+            )
+    
+    ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [nrows, nrows], lw=1.5, color='black', marker='', zorder=4)
+    ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [0, 0], lw=1.5, color='black', marker='', zorder=4)
+    for x in range(1, nrows):
+        ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [x, x], lw=.5, color='gray', ls=':', zorder=3 , marker='')
+    
+    ax.set_axis_off()
+    
+    DC_to_FC = ax.transData.transform
+    FC_to_NFC = fig.transFigure.inverted().transform
+    DC_to_NFC = lambda x: FC_to_NFC(DC_to_FC(x))
+    ax_point_1 = DC_to_NFC([2.25, 0.25])
+    ax_point_2 = DC_to_NFC([2.75, 0.75])
+    ax_width = abs(ax_point_1[0] - ax_point_2[0])
+    ax_height = abs(ax_point_1[1] - ax_point_2[1])
+    def ax_logo(link, ax):
+        club_icon = Image.open(urllib.request.urlopen(link))
+        ax.imshow(club_icon)
+        ax.axis('off')
+        return ax
+
+    for x in range(0, nrows):
+        ax_coords = DC_to_NFC([0, x + .25])
+        ax = fig.add_axes(
+            [ax_coords[0], ax_coords[1], ax_width, ax_height]
+        )
+        ax_logo(logos[x], ax)
+    
+    fig.text(
+        x=0.15, y=.91,
+        s=f'{lg} Table',
+        ha='left',
+        va='bottom',
+        weight='bold',
+        size=11, color='#4A2E19'
+    )
+    fig.text(
+        x=0.15, y=.9,
+        s=f'{date} | Table code by @sonofacorner\nTable is from FotMob | football-match-reports.streamlit.app',
+        ha='left',
+        va='top',
+        weight='regular',
+        size=6, color='#4A2E19'
+    )
+
+    return fig
+
+
 
 nbi_links = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/NBI_Match_Links.csv")
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = lg_lookup.League.tolist()
+lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
+lg_id_dict = {lg_lookup.League[i]: lg_lookup.FotMob[i] for i in range(len(lg_lookup))}
+
 
 with st.sidebar:
     lgg = st.selectbox('What League Do You Want Reports For?', league_list)
@@ -23,13 +174,15 @@ st.subheader('All data via Opta')
 with st.expander('Disclaimer & Info'):
     st.write('''
     - All of the data on this app comes from Opta. I manipulate the raw data to create these, but it's all Opta data.  \n
-    - You are allowed to, and I encourage you, to share any images from this app on your socials, websites, videos, etc... I just ask that you note that the data is from Opta, and give me/this site credit. Thank you!  \n
-    (note, if the app is working but one match report doesn't show up, feel free to DM me on Twitter @BeGriffis. Either I missed it when updating, or the data isn't available yet. Please let me know so I can look into if I missed it!)
+    - You are allowed to, and I encourage you, to share any images from this app on your socials, websites, videos, etc... I just ask that you give this site/me credit. Thank you!  \n
+    - The xG model used to generate xG in this app is my own model. It will give different xG numbers for a single game than FotMob, or Wyscout, or Understat, etc. That doesn't mean either source is wrong, as they will all differ from each other. Please compare xG numbers from this app with other xG numbers from this app, understanding that other xG models give different values. Over a full season, my model is similar to others on a player & team level.
     ''')
 
 df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/League_Files/{league.replace(' ','%20')}%20Full%20Match%20List.csv")
 df['Match_Name'] = df['Match'] + ' ' + df['Date']
 
+table_indexdf, table_logos = get_fotmob_table_data(league)
+fotmob_table = create_fotmob_table_img(league, update_date, table_indexdf, table_logos)
 with st.sidebar:
     team_list = sorted(list(set(df.Home.unique().tolist() + df.Away.unique().tolist())))
     team = st.selectbox('What team do you want reports & data for?', team_list)
@@ -45,6 +198,8 @@ with st.sidebar:
         render_matches = match_list.head(num_matches).Match_Name.tolist()
 
     focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#4c94f6")
+
+    fotmob_table
 
 #########################
 def ben_theme():
@@ -76,14 +231,15 @@ alt.themes.register('ben_theme', ben_theme)
 alt.themes.enable('ben_theme')
 ################################
 
-report_tab, data_tab, graph_tab, rank_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings'])
+report_tab, data_tab, graph_tab, rank_tab, xg_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'xG & xGA By Match'])
 
 for i in range(len(render_matches)):
     try:
         match_string = render_matches[i].replace(' ','%20')
         if league == 'NB I':
             nbi_game_link = nbi_links[nbi_links.MatchName==render_matches[i]]['URL'].values[0]
-            st.write(f'Link to Full Match Video (some games may not have been shown on M4Sport and therefore are not available):  \n  \n{render_matches[i][:-11]} -> {nbi_game_link}')
+            with report_tab:
+                st.write(f'Link to Full Match Video (some games may not have been shown on M4Sport and therefore are not available):  \n  \n{render_matches[i][:-11]} -> {nbi_game_link}')
         url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
         response = requests.get(url)
         game_image = Image.open(io.BytesIO(response.content))
@@ -133,6 +289,20 @@ available_vars = ['Possession',
 
 team_data[available_vars] = team_data[available_vars].astype(float)
 league_data[available_vars] = league_data[available_vars].astype(float)
+
+## Add results for xG graph
+conditions_team = [
+    team_data['Goals'] > team_data['Goals Conceded'],
+    team_data['Goals'] < team_data['Goals Conceded']]
+choices_team = ['W', 'L']
+team_data['Result'] = np.select(conditions_team, choices_team, default='D')
+
+conditions_league = [
+    league_data['Goals'] > league_data['Goals Conceded'],
+    league_data['Goals'] < league_data['Goals Conceded']]
+choices_league = ['W', 'L']
+league_data['Result'] = np.select(conditions_league, choices_league, default='D')
+##
 
 league_data_base = league_data.copy()
 
@@ -345,6 +515,44 @@ with rank_tab:
     )
 
     fig
+
+with xg_tab:
+    lg_chart_xg = alt.Chart(league_data,  title=alt.Title(
+       f"{team} xG & xGA by Match, {league}",
+       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
+    )).mark_circle(size=30, color='silver').encode(
+        x='xG',
+        y='xGA',
+        # color='Result',
+        tooltip=['Team','Match','Date','xG','xGA','xGD','Possession','Field Tilt']
+    ).properties(height=500).interactive()
+    
+    domain = ['W','D','L']
+    range_ = ['blue','black','darkorange']
+    team_chart_xg = alt.Chart(team_data,  title=alt.Title(
+       f"{team} xG & xGA by Match, {league}",
+       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
+    )).mark_circle(size=90).encode(
+        x='xG',
+        y='xGA',
+        color=alt.Color('Result').scale(domain=domain, range=range_),
+        tooltip=['Team','Match','Date','xG','xGA','xGD','Possession','Field Tilt']
+    ).properties(height=500).interactive()
+    
+    line = pd.DataFrame({
+        'xG': [0, max(league_data.xG)],
+        'xGA': [0, max(league_data.xGA)],
+    })
+    
+    line_plot_xg = alt.Chart(line).mark_line(color='grey', size=1).encode(
+        x= 'xG',
+        y= 'xGA'
+    )
+    
+    
+    chart_xg = (lg_chart_xg + team_chart_xg + line_plot_xg)
+
+    st.altair_chart(chart_xg, use_container_width=True)
 
 with st.expander("Game Control, On-Ball Pressure, & Off-Ball Pressure Explainer"):
     st.write('''
