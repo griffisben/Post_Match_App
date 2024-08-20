@@ -517,36 +517,42 @@ with rank_tab:
     fig
 
 with xg_tab:
+    scatter_select = st.radio("Line or Bar plot?", ['⚽ xG', '⚡ xT'])
+    
+    if scatter_select == '⚽ xG':
+        xvar, yvar, diffvar = 'xG', 'xGA', 'xGD'
+    elif scatter_select == '⚡ xT':
+        xvar, yvar, diffvar = 'xT', 'xT Against', 'xT Difference'
+    
     lg_chart_xg = alt.Chart(league_data,  title=alt.Title(
-       f"{team} xG & xGA by Match, {league}",
+       f"{team} {xvar} & {yvar} by Match, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
     )).mark_circle(size=30, color='silver').encode(
-        x='xG',
-        y='xGA',
-        # color='Result',
-        tooltip=['Team','Match','Date','xG','xGA','xGD','Possession','Field Tilt']
+        x=xvar,
+        y=yvar,
+        tooltip=['Team','Match','Date',xvar,yvar,diffvar,'Possession','Field Tilt']
     ).properties(height=500).interactive()
     
     domain = ['W','D','L']
     range_ = ['blue','black','darkorange']
     team_chart_xg = alt.Chart(team_data,  title=alt.Title(
-       f"{team} xG & xGA by Match, {league}",
+       f"{team} {xvar} & {yvar} by Match, {league}",
        subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
     )).mark_circle(size=90).encode(
-        x='xG',
-        y='xGA',
+        x=xvar,
+        y=yvar,
         color=alt.Color('Result').scale(domain=domain, range=range_),
-        tooltip=['Team','Match','Date','xG','xGA','xGD','Possession','Field Tilt']
+        tooltip=['Team','Match','Date',xvar,yvar,diffvar,'Possession','Field Tilt']
     ).properties(height=500).interactive()
     
     line = pd.DataFrame({
-        'xG': [0, max(league_data.xG)],
-        'xGA': [0, max(league_data.xGA)],
+        xvar: [0, max(league_data[xvar])],
+        yvar: [0, max(league_data[yvar])],
     })
     
     line_plot_xg = alt.Chart(line).mark_line(color='grey', size=1).encode(
-        x= 'xG',
-        y= 'xGA'
+        x=xvar,
+        y=yvar
     )
     
     
