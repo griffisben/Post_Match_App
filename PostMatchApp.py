@@ -517,7 +517,7 @@ with rank_tab:
     fig
 
 with xg_tab:
-    scatter_select = st.radio("Line or Bar plot?", ['⚽ xG', '⚡ xT'])
+    scatter_select = st.radio("Expected Goals (xG) or Expected Threat (xT)?", ['⚽ xG', '⚡ xT'])
     
     if scatter_select == '⚽ xG':
         xvar, yvar, diffvar = 'xG', 'xGA', 'xGD'
