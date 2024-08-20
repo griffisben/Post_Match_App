@@ -159,7 +159,7 @@ nbi_links = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = lg_lookup.League.tolist()
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
-lg_id_dict = {lg_lookup.League[i].replace("ü","u").replace("ó","o"): lg_lookup.FotMob[i] for i in range(len(lg_lookup))}
+lg_id_dict = {lg_lookup.League[i]: lg_lookup.FotMob[i] for i in range(len(lg_lookup))}
 
 
 with st.sidebar:
@@ -181,8 +181,8 @@ with st.expander('Disclaimer & Info'):
 df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/League_Files/{league.replace(' ','%20')}%20Full%20Match%20List.csv")
 df['Match_Name'] = df['Match'] + ' ' + df['Date']
 
-table_indexdf, table_logos = get_fotmob_table_data(league)
-fotmob_table = create_fotmob_table_img(league, update_date, table_indexdf, table_logos)
+table_indexdf, table_logos = get_fotmob_table_data(lgg)
+fotmob_table = create_fotmob_table_img(lgg, update_date, table_indexdf, table_logos)
 with st.sidebar:
     team_list = sorted(list(set(df.Home.unique().tolist() + df.Away.unique().tolist())))
     team = st.selectbox('What team do you want reports & data for?', team_list)
