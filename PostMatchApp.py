@@ -159,7 +159,7 @@ nbi_links = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
 league_list = lg_lookup.League.tolist()
 lg_lookup = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/PostMatchLeagues.csv")
-lg_id_dict = {lg_lookup.League[i]: lg_lookup.FotMob[i] for i in range(len(lg_lookup))}
+lg_id_dict = {lg_lookup.League[i].replace("ü","u").replace("ó","o"): lg_lookup.FotMob[i] for i in range(len(lg_lookup))}
 
 
 with st.sidebar:
