@@ -38,8 +38,8 @@ def get_fotmob_table_data(lg):
     df_all['real_position'] = df_all['idx']
     df_all.sort_values(by=['real_position'],ascending=True,inplace=True)
     df_all.reset_index(drop=True,inplace=True)
-    df_all['Goals per match'] = df_all['goals']/df_all['played']
-    df_all['Goals against per match'] = df_all['conceded_goals']/df_all['played']
+    df_all['Goals per match'] = [df_all['goals'][i]/df_all['played'][i] if df_all.played[i]>0 else 0 for i in range(len(df_all))]
+    df_all['Goals against per match'] = [df_all['conceded_goals'][i]/df_all['played'][i] if df_all.played[i]>0 else 0 for i in range(len(df_all))]
     
     tables = df_all[['real_position','name','played','wins','draws','losses','pts','goals','conceded_goals','goalConDiff','logo']].rename(columns={
         'pts':'Pts',
