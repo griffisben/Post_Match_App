@@ -1,6 +1,8 @@
 ﻿Team,xG,xGA,xGD,Goals,Goals Conceded,GD,GD-xGD,Possession,Field Tilt,Avg Pass Height,xT,xT Against,Passes in Opposition Half,Passes into Box,Shots,Shots Faced,Shots per 1.0 xT,Shots Faced per 1.0 xT Against,PPDA,High Recoveries,High Recoveries Against,Crosses,Corners,Fouls,On-Ball Pressure,On-Ball Pressure Share,Off-Ball Pressure,Off-Ball Pressure Share,Game Control,Game Control Share,Throw-Ins into the Box,Match,Date
-Vojvodina,2.03,3.86,-1.83,2,2,0,1.83,37.70,30.2,44.73,0.58,1.63,114,13,14,25,24.14,15.34,12.54,4,3,9,5,11,34.6,13.87,70.27,77.96,33.23,16.92,1,Radnički Kragujevac 2-2 Vojvodina,2024-08-19
-Radnički Kragujevac,3.86,2.03,1.83,2,2,0,-1.83,62.30,69.8,52.01,1.63,0.58,262,25,25,14,15.34,24.14,9.23,3,4,27,5,11,214.9,86.13,19.87,22.04,163.13,83.08,2,Radnički Kragujevac 2-2 Vojvodina,2024-08-19
+Čukarički,1.93,0.80,1.13,1,3,-2,-3.13,68.50,73.93,53.22,1.06,0.19,394,11,13,6,12.26,31.58,6.97,4,3,23,5,9,186.9,89.73,5.0,3.69,100.5,62.49,1,Mladost Lučani 3-1 Čukarički,2024-08-23
+Mladost Lučani,0.80,1.93,-1.13,3,1,2,3.13,31.50,26.07,42.75,0.19,1.06,104,6,6,13,31.58,12.26,17.07,3,4,12,2,19,21.4,10.27,130.33,96.31,60.33,37.51,1,Mladost Lučani 3-1 Čukarički,2024-08-23
+Vojvodina,2.03,3.86,-1.83,2,2,0,1.83,37.7,30.2,44.73,0.58,1.63,114,13,14,25,24.14,15.34,12.54,4,3,9,5,11,34.6,13.87,70.27,77.96,33.23,16.92,1,Radnički Kragujevac 2-2 Vojvodina,2024-08-19
+Radnički Kragujevac,3.86,2.03,1.83,2,2,0,-1.83,62.3,69.8,52.01,1.63,0.58,262,25,25,14,15.34,24.14,9.23,3,4,27,5,11,214.9,86.13,19.87,22.04,163.13,83.08,2,Radnički Kragujevac 2-2 Vojvodina,2024-08-19
 IMT Novi Beograd,0.56,0.54,0.02,1,2,-1,-1.02,54.0,63.59,45.14,0.26,0.42,197,6,10,8,38.46,19.05,9.62,0,3,18,4,22,91.2,66.81,41.13,50.4,107.13,63.88,0,Železničar Pančevo 2-1 IMT Novi Beograd,2024-08-18
 Železničar Pančevo,0.54,0.56,-0.02,2,1,1,1.02,46.0,36.41,38.2,0.42,0.26,94,8,8,10,19.05,38.46,10.71,3,0,5,2,17,45.3,33.19,40.47,49.6,60.57,36.12,0,Železničar Pančevo 2-1 IMT Novi Beograd,2024-08-18
 Spartak Subotica,1.2,0.52,0.68,0,2,-2,-2.68,59.4,68.11,52.22,0.64,0.56,270,10,18,5,28.12,8.93,7.38,7,5,33,7,15,152.8,88.63,10.33,14.32,116.77,76.92,2,Napredak 2-0 Spartak Subotica,2024-08-17
