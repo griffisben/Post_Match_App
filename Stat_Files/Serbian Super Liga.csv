@@ -1,6 +1,8 @@
 ﻿Team,xG,xGA,xGD,Goals,Goals Conceded,GD,GD-xGD,Possession,Field Tilt,Avg Pass Height,xT,xT Against,Passes in Opposition Half,Passes into Box,Shots,Shots Faced,Shots per 1.0 xT,Shots Faced per 1.0 xT Against,PPDA,High Recoveries,High Recoveries Against,Crosses,Corners,Fouls,On-Ball Pressure,On-Ball Pressure Share,Off-Ball Pressure,Off-Ball Pressure Share,Game Control,Game Control Share,Throw-Ins into the Box,Match,Date
-Čukarički,1.93,0.80,1.13,1,3,-2,-3.13,68.50,73.93,53.22,1.06,0.19,394,11,13,6,12.26,31.58,6.97,4,3,23,5,9,186.9,89.73,5.0,3.69,100.5,62.49,1,Mladost Lučani 3-1 Čukarički,2024-08-23
-Mladost Lučani,0.80,1.93,-1.13,3,1,2,3.13,31.50,26.07,42.75,0.19,1.06,104,6,6,13,31.58,12.26,17.07,3,4,12,2,19,21.4,10.27,130.33,96.31,60.33,37.51,1,Mladost Lučani 3-1 Čukarički,2024-08-23
+Radnički Niš,1.19,1.57,-0.38,0,2,-2,-1.62,56.90,49.24,44.06,0.66,0.49,166,10,12,11,18.18,22.45,9.29,1,12,22,5,20,97.3,51.4,23.67,27.59,66.87,40.07,2,Čukarički 2-0 Radnički Niš,2024-07-20
+Čukarički,1.57,1.19,0.38,2,0,2,1.62,43.10,50.76,45.61,0.49,0.66,160,10,11,12,22.45,18.18,7.73,12,1,14,3,18,92.0,48.6,62.13,72.41,100.03,59.93,0,Čukarički 2-0 Radnički Niš,2024-07-20
+Čukarički,1.93,0.8,1.13,1,3,-2,-3.13,68.5,73.93,53.22,1.06,0.19,394,11,13,6,12.26,31.58,6.97,4,3,23,5,9,186.9,89.73,5.0,3.69,100.5,62.49,1,Mladost Lučani 3-1 Čukarički,2024-08-23
+Mladost Lučani,0.8,1.93,-1.13,3,1,2,3.13,31.5,26.07,42.75,0.19,1.06,104,6,6,13,31.58,12.26,17.07,3,4,12,2,19,21.4,10.27,130.33,96.31,60.33,37.51,1,Mladost Lučani 3-1 Čukarički,2024-08-23
 Vojvodina,2.03,3.86,-1.83,2,2,0,1.83,37.7,30.2,44.73,0.58,1.63,114,13,14,25,24.14,15.34,12.54,4,3,9,5,11,34.6,13.87,70.27,77.96,33.23,16.92,1,Radnički Kragujevac 2-2 Vojvodina,2024-08-19
 Radnički Kragujevac,3.86,2.03,1.83,2,2,0,-1.83,62.3,69.8,52.01,1.63,0.58,262,25,25,14,15.34,24.14,9.23,3,4,27,5,11,214.9,86.13,19.87,22.04,163.13,83.08,2,Radnički Kragujevac 2-2 Vojvodina,2024-08-19
 IMT Novi Beograd,0.56,0.54,0.02,1,2,-1,-1.02,54.0,63.59,45.14,0.26,0.42,197,6,10,8,38.46,19.05,9.62,0,3,18,4,22,91.2,66.81,41.13,50.4,107.13,63.88,0,Železničar Pančevo 2-1 IMT Novi Beograd,2024-08-18

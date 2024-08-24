@@ -1,6 +1,8 @@
 ﻿Team,xG,xGA,xGD,Goals,Goals Conceded,GD,GD-xGD,Possession,Field Tilt,Avg Pass Height,xT,xT Against,Passes in Opposition Half,Passes into Box,Shots,Shots Faced,Shots per 1.0 xT,Shots Faced per 1.0 xT Against,PPDA,High Recoveries,High Recoveries Against,Crosses,Corners,Fouls,On-Ball Pressure,On-Ball Pressure Share,Off-Ball Pressure,Off-Ball Pressure Share,Game Control,Game Control Share,Throw-Ins into the Box,Match,Date
-Grimsby Town,1.34,2.19,-0.85,1,4,-3,-2.15,42.00,39.36,42.56,0.33,0.8,137,9,14,15,42.42,18.75,15.89,2,6,15,4,13,81.9,37.95,78.33,84.29,107.57,52.89,0,Notts County 4-1 Grimsby Town,2024-08-22
-Notts County,2.19,1.34,0.85,4,1,3,2.15,58.00,60.64,47.49,0.8,0.33,236,13,15,14,18.75,42.42,11.38,6,2,22,7,11,133.9,62.05,14.6,15.71,95.83,47.11,0,Notts County 4-1 Grimsby Town,2024-08-22
+Walsall,2.24,0.60,1.64,4,0,4,2.36,43.50,50.43,48.98,0.76,0.36,186,16,18,7,23.68,19.44,16.84,7,4,20,6,6,144.9,70.51,100.0,87.57,193.23,89.31,3,Swindon Town 0-4 Walsall,2024-08-17
+Swindon Town,0.60,2.24,-1.64,0,4,-4,-2.36,56.50,49.57,41.08,0.36,0.76,165,6,7,18,19.44,23.68,13.90,4,7,10,2,9,60.6,29.49,14.2,12.43,23.13,10.69,3,Swindon Town 0-4 Walsall,2024-08-17
+Grimsby Town,1.34,2.19,-0.85,1,4,-3,-2.15,42.0,39.36,42.56,0.33,0.8,137,9,14,15,42.42,18.75,15.89,2,6,15,4,13,81.9,37.95,78.33,84.29,107.57,52.89,0,Notts County 4-1 Grimsby Town,2024-08-22
+Notts County,2.19,1.34,0.85,4,1,3,2.15,58.0,60.64,47.49,0.8,0.33,236,13,15,14,18.75,42.42,11.38,6,2,22,7,11,133.9,62.05,14.6,15.71,95.83,47.11,0,Notts County 4-1 Grimsby Town,2024-08-22
 Fleetwood Town,0.55,3.64,-3.09,2,2,0,3.09,19.9,24.77,47.36,0.24,0.78,85,7,5,17,20.83,21.79,27.96,2,3,10,2,14,33.2,13.4,216.8,100.0,118.3,58.8,1,Notts County 2-2 Fleetwood Town,2024-08-18
 Notts County,3.64,0.55,3.09,2,2,0,-3.09,80.1,75.23,49.45,0.78,0.24,380,10,17,5,21.79,20.83,5.92,3,2,30,11,7,214.6,86.6,0.0,0.0,82.9,41.2,2,Notts County 2-2 Fleetwood Town,2024-08-18
 Tranmere Rovers,0.74,0.88,-0.14,0,0,0,0.14,46.3,50.6,45.03,0.74,0.64,173,11,7,8,9.46,12.5,14.19,1,6,21,5,11,74.2,44.3,32.6,59.35,66.8,46.9,5,Port Vale 0-0 Tranmere Rovers,2024-08-17
