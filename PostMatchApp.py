@@ -10,6 +10,8 @@ from bs4 import BeautifulSoup
 import urllib.request
 import numpy as np
 
+cxG = 1.53570624482222
+
 @st.cache_data(ttl=60*15)
 
 def get_fotmob_table_data(lg):
@@ -250,17 +252,30 @@ for i in range(len(render_matches)):
         st.write(f"Apologies, {render_matches[i]} must not be available yet. Please check in later!")
 
 team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
+
+conditions_team = [
+    team_data['Goals'] > team_data['Goals Conceded'],
+    team_data['Goals'] < team_data['Goals Conceded']]
+choices_team = ['W', 'L']
+team_data['Result'] = np.select(conditions_team, choices_team, default='D')
+conditions_team = [
+    team_data['Goals'] > team_data['Goals Conceded'],
+    team_data['Goals'] < team_data['Goals Conceded']]
+choices_team = [3, 0]
+team_data['Pts'] = np.select(conditions_team, choices_team, default=1)
+
 team_data['Field Tilt - Possession'] = team_data['Field Tilt'] - team_data['Possession']
 team_data['xT Difference'] = team_data['xT'] - team_data['xT Against']
 
 gc_lookup = team_data.groupby(['Match','Date'])['Game Control'].sum().reset_index()
 team_data['Game Control Share'] = [round(100*team_data['Game Control'][i]/gc_lookup[(gc_lookup.Match==team_data.Match[i]) & (gc_lookup.Date==team_data.Date[i])]['Game Control'].values[0],2) for i in range(len(team_data))]
 
+team_data['xPts'] = [3 * ((team_data['xG'][i]**cxG)/((team_data['xG'][i]**cxG)+(team_data['xGA'][i]**cxG))) for i in range(len(team_data))]
+team_data['Pts-xPts'] = team_data['Pts'] - team_data['xPts']
+team_data[['xPts','Pts-xPts']] = round(team_data[['xPts','Pts-xPts']],2)
+
 league_data = team_data.copy().reset_index(drop=True)
 team_data = team_data[team_data.Team==team].reset_index(drop=True)
-if league in ['Ekstraklasa 23-24']:
-    team_data['Shots Faced per 1.0 xT Against'] = team_data['Shots Faced']/team_data['xT Against']
-    league_data['Shots Faced per 1.0 xT Against'] = league_data['Shots Faced']/league_data['xT Against']
 
 team_data['Shots per 1.0 xT'] = team_data['Shots per 1.0 xT'].astype(float)
 team_data.rename(columns={'Shots per 1.0 xT':'Shots per 1 xT'},inplace=True)
@@ -281,8 +296,9 @@ league_data['xGA per 1 xT Against'] = league_data['xGA']/league_data['xT Against
 
 available_vars = ['Possession',
                   'xG','xGA','xGD',
-                  'Goals','Goals Conceded',
                   'GD','GD-xGD',
+                  'xPts','Pts-xPts',
+                  'Goals','Goals Conceded',
                   'Shots','Shots Faced','Field Tilt','Field Tilt - Possession','Avg Pass Height','Passes in Opposition Half','Passes into Box','xT','xT Against','xT Difference','Shots per 1 xT','Shots Faced per 1 xT Against',
                   'xG per 1 xT','xGA per 1 xT Against',
                   'PPDA','High Recoveries','High Recoveries Against','Crosses','Corners','Fouls',
@@ -291,20 +307,6 @@ available_vars = ['Possession',
 
 team_data[available_vars] = team_data[available_vars].astype(float)
 league_data[available_vars] = league_data[available_vars].astype(float)
-
-## Add results for xG graph
-conditions_team = [
-    team_data['Goals'] > team_data['Goals Conceded'],
-    team_data['Goals'] < team_data['Goals Conceded']]
-choices_team = ['W', 'L']
-team_data['Result'] = np.select(conditions_team, choices_team, default='D')
-
-conditions_league = [
-    league_data['Goals'] > league_data['Goals Conceded'],
-    league_data['Goals'] < league_data['Goals Conceded']]
-choices_league = ['W', 'L']
-league_data['Result'] = np.select(conditions_league, choices_league, default='D')
-##
 
 league_data_base = league_data.copy()
 
@@ -379,7 +381,7 @@ with graph_tab:
             )
         )
 
-        if var != 'xT Difference':
+        if var not in ['xT Difference','GD-xGD','Pts-xPts']:
             lg_avg_line = alt.Chart(pd.DataFrame({'y': [lg_avg_var]})).mark_rule(color='#ee5454').encode(y='y')
             
             lg_avg_label = lg_avg_line.mark_text(
@@ -390,7 +392,7 @@ with graph_tab:
                 text="League Avg",
                 color='#ee5454'
             )
-        if var == 'xT Difference':
+        if var in ['xT Difference','GD-xGD','Pts-xPts']:
             lg_avg_line = alt.Chart(pd.DataFrame({'y': [0]})).mark_rule(color='k').encode(y='y')
     
         team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color='#f6ba00').encode(y='y')
@@ -405,9 +407,9 @@ with graph_tab:
         )
     
 
-        if var != 'xT Difference':
+        if var not in ['xT Difference','GD-xGD','Pts-xPts']:
             chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
-        if var == 'xT Difference':
+        if var in ['xT Difference','GD-xGD','Pts-xPts']:
             chart = (c + lg_avg_line + team_avg_line + team_avg_label)
         st.altair_chart(chart, use_container_width=True)
 
