@@ -178,6 +178,7 @@ with st.expander('Disclaimer & Info'):
     - All of the data on this app comes from Opta. I manipulate the raw data to create these, but it's all Opta data.  \n
     - You are allowed to, and I encourage you, to share any images from this app on your socials, websites, videos, etc... I just ask that you give this site/me credit. Thank you!  \n
     - The xG model used to generate xG in this app is my own model. It will give different xG numbers for a single game than FotMob, or Wyscout, or Understat, etc. That doesn't mean either source is wrong, as they will all differ from each other. Please compare xG numbers from this app with other xG numbers from this app, understanding that other xG models give different values. Over a full season, my model is similar to others on a player & team level.
+    - The Expected Points (xPts) model is a Pythagorean expectation model, using the xG output from my xG model. For more info on the method, please read my detailed explainer: https://cafetactiques.com/2023/04/15/creating-an-expected-points-model-inspired-by-pythagorean-expectation/
     ''')
 
 df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/League_Files/{league.replace(' ','%20')}%20Full%20Match%20List.csv")
