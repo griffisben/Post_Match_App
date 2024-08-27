@@ -1,6 +1,8 @@
 ﻿Team,xG,xGA,xGD,Goals,Goals Conceded,GD,GD-xGD,Possession,Field Tilt,Avg Pass Height,xT,xT Against,Passes in Opposition Half,Passes into Box,Shots,Shots Faced,Shots per 1.0 xT,Shots Faced per 1.0 xT Against,PPDA,High Recoveries,High Recoveries Against,Crosses,Corners,Fouls,On-Ball Pressure,On-Ball Pressure Share,Off-Ball Pressure,Off-Ball Pressure Share,Game Control,Game Control Share,Throw-Ins into the Box,Match,Date
-Stal Mielec,1.10,1.58,-0.48,1,2,-1,-0.52,50.70,53.06,46.14,0.48,0.69,204,8,13,10,27.08,14.49,11.15,2,7,23,3,14,75.7,50.77,51.2,44.63,77.3,46.95,2,Korona Kielce 2-1 Stal Mielec,2024-08-26
-Korona Kielce,1.58,1.10,0.48,2,1,1,0.52,49.30,46.94,46.97,0.69,0.48,198,12,10,13,14.49,27.08,14.04,7,2,13,4,13,73.4,49.23,63.53,55.37,87.33,53.05,0,Korona Kielce 2-1 Stal Mielec,2024-08-26
+Legia Warszawa,1.10,1.11,-0.01,1,1,0,0.01,65.00,66.54,47.51,0.5,0.27,266,9,11,10,22.0,37.04,7.62,7,5,21,4,9,101.9,75.04,14.6,13.84,55.47,46.54,5,Śląsk Wrocław 1-1 Legia Warszawa,2024-08-25
+Śląsk Wrocław,1.11,1.10,0.01,1,1,0,-0.01,35.00,33.46,43.07,0.27,0.5,114,7,10,11,37.04,22.0,12.39,5,7,14,1,13,33.9,24.96,90.87,86.16,63.73,53.46,1,Śląsk Wrocław 1-1 Legia Warszawa,2024-08-25
+Stal Mielec,1.1,1.58,-0.48,1,2,-1,-0.52,50.7,53.06,46.14,0.48,0.69,204,8,13,10,27.08,14.49,11.15,2,7,23,3,14,75.7,50.77,51.2,44.63,77.3,46.95,2,Korona Kielce 2-1 Stal Mielec,2024-08-26
+Korona Kielce,1.58,1.1,0.48,2,1,1,0.52,49.3,46.94,46.97,0.69,0.48,198,12,10,13,14.49,27.08,14.04,7,2,13,4,13,73.4,49.23,63.53,55.37,87.33,53.05,0,Korona Kielce 2-1 Stal Mielec,2024-08-26
 Pogoń Szczecin,1.16,3.36,-2.2,0,2,-2,0.2,45.0,34.52,44.41,0.48,1.58,139,11,11,22,22.92,13.92,15.68,1,3,16,2,9,50.1,19.79,37.67,48.5,39.8,16.94,1,Lech Poznań 2-0 Pogoń Szczecin,2024-08-25
 Lech Poznań,3.36,1.16,2.2,2,0,2,-0.2,55.0,65.48,52.42,1.58,0.48,238,24,22,11,13.92,22.92,10.0,3,1,27,7,7,203.1,80.21,40.0,51.5,195.13,83.06,0,Lech Poznań 2-0 Pogoń Szczecin,2024-08-25
 Jagiellonia Białystok,2.31,2.32,-0.01,1,3,-2,-1.99,64.9,60.0,43.82,0.54,0.91,252,12,9,20,16.67,21.98,9.44,6,8,10,4,12,123.6,55.45,4.27,2.57,78.7,27.07,0,GKS Katowice 3-1 Jagiellonia Białystok,2024-08-25
