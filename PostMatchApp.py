@@ -9,6 +9,7 @@ import seaborn as sns
 from bs4 import BeautifulSoup
 import urllib.request
 import numpy as np
+from io import StringIO
 
 cxG = 1.53570624482222
 
@@ -21,7 +22,7 @@ def get_fotmob_table_data(lg):
     url = f"https://www.fotmob.com/api/tltable?leagueId={lg_id_dict[lg]}"
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html.parser")
-    json_data = pd.read_json(soup.getText())
+    json_data = pd.read_json(StringIO(soup.getText()))
     
     table = json_data['data'].apply(lambda x: x['table']).apply(lambda x: x['all'])
     df = pd.json_normalize(table)

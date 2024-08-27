@@ -1,3 +1,4 @@
 matplotlib
 seaborn
 beautifulsoup4==4.12.2
+io
