@@ -144,7 +144,7 @@ def create_fotmob_table_img(lg, date, indexdf, logos):
     )
     fig.text(
         x=0.15, y=.9,
-        s=f'{date} | Table code by @sonofacorner\nTable is from FotMob | football-match-reports.streamlit.app',
+        s=f'Table code by @sonofacorner\nTable is from FotMob | football-match-reports.streamlit.app',
         ha='left',
         va='top',
         weight='regular',
@@ -182,7 +182,8 @@ df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/m
 df['Match_Name'] = df['Match'] + ' ' + df['Date']
 
 table_indexdf, table_logos = get_fotmob_table_data(lgg)
-fotmob_table = create_fotmob_table_img(lgg, update_date, table_indexdf, table_logos)
+# fotmob_table = create_fotmob_table_img(lgg, update_date, table_indexdf, table_logos)
+
 with st.sidebar:
     team_list = sorted(list(set(df.Home.unique().tolist() + df.Away.unique().tolist())))
     team = st.selectbox('What team do you want reports & data for?', team_list)
@@ -198,8 +199,9 @@ with st.sidebar:
         render_matches = match_list.head(num_matches).Match_Name.tolist()
 
     focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#4c94f6")
-
-    fotmob_table
+    st.write(f"{lgg} Table (via FotMob)")
+    st.table(table_indexdf[::-1].reset_index(drop=True).rename(columns={' ':'Pos.'}))
+    # fotmob_table
 
 #########################
 def ben_theme():
