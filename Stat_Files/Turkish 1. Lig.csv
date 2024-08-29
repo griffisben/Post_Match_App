@@ -1,6 +1,8 @@
 ﻿Team,xG,xGA,xGD,Goals,Goals Conceded,GD,GD-xGD,Possession,Field Tilt,Avg Pass Height,xT,xT Against,Passes in Opposition Half,Passes into Box,Shots,Shots Faced,Shots per 1.0 xT,Shots Faced per 1.0 xT Against,PPDA,High Recoveries,High Recoveries Against,Crosses,Corners,Fouls,On-Ball Pressure,On-Ball Pressure Share,Off-Ball Pressure,Off-Ball Pressure Share,Game Control,Game Control Share,Throw-Ins into the Box,Match,Date
-Şanlıurfaspor,0.91,2.73,-1.82,0,3,-3,-1.18,58.50,49.66,44.49,0.94,0.71,236,7,7,17,7.45,23.94,9.12,6,4,14,1,11,84.7,41.16,35.27,24.23,49.0,23.4,0,İstanbulspor 3-0 Şanlıurfaspor,2024-08-26
-İstanbulspor,2.73,0.91,1.82,3,0,3,1.18,41.50,50.34,44.68,0.71,0.94,166,11,17,7,23.94,7.45,12.45,4,6,10,4,17,121.1,58.84,110.27,75.77,160.4,76.6,0,İstanbulspor 3-0 Şanlıurfaspor,2024-08-26
+Amed,1.58,2.61,-1.03,0,0,0,1.03,48.10,46.71,45.87,0.84,0.89,195,11,11,18,13.1,20.22,18.08,6,1,9,3,9,72.9,36.38,68.8,58.57,78.93,41.04,0,Sakaryaspor 0-0 Amed,2024-08-28
+Sakaryaspor,2.61,1.58,1.03,0,0,0,-1.03,51.90,53.29,46.49,0.89,0.84,223,12,18,11,20.22,13.1,18.04,1,6,20,4,11,127.5,63.62,48.67,41.43,113.4,58.96,0,Sakaryaspor 0-0 Amed,2024-08-28
+Şanlıurfaspor,0.91,2.73,-1.82,0,3,-3,-1.18,58.5,49.66,44.49,0.94,0.71,236,7,7,17,7.45,23.94,9.12,6,4,14,1,11,84.7,41.16,35.27,24.23,49.0,23.4,0,İstanbulspor 3-0 Şanlıurfaspor,2024-08-26
+İstanbulspor,2.73,0.91,1.82,3,0,3,1.18,41.5,50.34,44.68,0.71,0.94,166,11,17,7,23.94,7.45,12.45,4,6,10,4,17,121.1,58.84,110.27,75.77,160.4,76.6,0,İstanbulspor 3-0 Şanlıurfaspor,2024-08-26
 Ankara Keçiörengücü,2.81,0.05,2.76,1,0,1,-1.76,66.5,73.27,51.66,1.21,0.11,311,30,24,3,19.83,27.27,7.58,3,3,17,7,14,262.1,95.52,14.07,11.5,174.97,90.01,1,Yeni Malatyaspor 0-1 Ankara Keçiörengücü,2024-08-25
 Yeni Malatyaspor,0.05,2.81,-2.76,0,1,-1,1.76,33.5,26.73,42.83,0.11,1.21,111,1,3,24,27.27,19.83,14.27,3,3,7,1,12,12.3,4.48,108.33,88.5,19.43,9.99,1,Yeni Malatyaspor 0-1 Ankara Keçiörengücü,2024-08-25
 Pendikspor,1.99,1.82,0.17,4,3,1,0.83,55.1,48.18,44.44,0.78,0.68,155,17,16,7,20.51,10.29,7.11,3,6,14,5,19,84.1,64.89,33.07,38.28,84.63,56.07,1,Adanaspor 3-4 Pendikspor,2024-08-25
