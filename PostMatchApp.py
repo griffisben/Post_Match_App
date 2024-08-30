@@ -237,7 +237,7 @@ alt.themes.register('ben_theme', ben_theme)
 alt.themes.enable('ben_theme')
 ################################
 
-report_tab, data_tab, graph_tab, rank_tab, xg_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'xG & xGA By Match'])
+report_tab, data_tab, graph_tab, rank_tab, xg_tab, scatter_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'xG & xGA By Match', 'Variable Scatters'])
 
 for i in range(len(render_matches)):
     try:
@@ -565,6 +565,57 @@ with xg_tab:
     chart_xg = (lg_chart_xg + team_chart_xg + line_plot_xg)
 
     st.altair_chart(chart_xg, use_container_width=True)
+
+with scatter_tab:
+    xvar = st.selectbox('X-Axis Variable', available_vars)
+    rank_method_x = st.radio("X-Axis Method", ['Average','Total','Median'])
+    yvar = st.selectbox('Y-Axis Variable', available_vars)
+    rank_method_y = st.radio("Y-Axis Method", ['Average','Total','Median'])
+    
+    league_scatter = league_data_base.copy()
+    
+    if rank_method_x == 'Median':
+        league_scatter_x = league_scatter.groupby(['Team'])[xvar].median().reset_index()
+    if rank_method_x == 'Total':
+        league_scatter_x = league_scatter.groupby(['Team'])[xvar].sum().reset_index()
+    if rank_method_x == 'Average':
+        league_scatter_x = league_scatter.groupby(['Team'])[xvar].mean().reset_index()
+    
+    if rank_method_y == 'Median':
+        league_scatter_y = league_scatter.groupby(['Team'])[yvar].median().reset_index()
+    if rank_method_y == 'Total':
+        league_scatter_y = league_scatter.groupby(['Team'])[yvar].sum().reset_index()
+    if rank_method_y == 'Average':
+        league_scatter_y = league_scatter.groupby(['Team'])[yvar].mean().reset_index()
+    
+    league_scatter = league_scatter_x.merge(league_scatter_y)
+    team_scatter = league_scatter[league_scatter.Team==team]
+    
+    lg_chart_scatter = alt.Chart(league_scatter,  title=alt.Title(
+       f"{league}, {rank_method_x} {xvar} & {rank_method_y} {yvar}",
+       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Colored point indicates {team}","Generated on: football-match-reports.streamlit.app"],
+    )).mark_circle(size=75, color='grey').encode(
+        x=alt.X(xvar).scale(zero=False),
+        y=alt.Y(yvar).scale(zero=False),
+        # color='Result',
+        tooltip=['Team',xvar,yvar,]
+    ).properties(height=500).interactive()
+
+    team_chart_scatter = alt.Chart(team_scatter,  title=alt.Title(
+       f"{league}, {rank_method_x} {xvar} & {rank_method_y} {yvar}",
+       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Colored point indicates {team}","Generated on: football-match-reports.streamlit.app"],
+    )).mark_circle(size=125,color=focal_color).encode(
+        x=alt.X(xvar).scale(zero=False),
+        y=alt.Y(yvar).scale(zero=False),
+        # color=alt.Color('Result').scale(domain=domain, range=range_),
+        tooltip=['Team',xvar,yvar,]
+    ).properties(height=500).interactive()
+    
+    
+    scatter_chart = (lg_chart_scatter + team_chart_scatter)
+    
+    st.altair_chart(scatter_chart, use_container_width=True)
+
 
 with st.expander("Game Control, On-Ball Pressure, & Off-Ball Pressure Explainer"):
     st.write('''
