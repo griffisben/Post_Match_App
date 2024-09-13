@@ -10,10 +10,18 @@ from bs4 import BeautifulSoup
 import urllib.request
 import numpy as np
 from io import StringIO
+import matplotlib
 
 cxG = 1.53570624482222
 
 @st.cache_data(ttl=60*15)
+
+
+def color_percentile(pc):
+    rgb = cmap(norm(pc))
+    return 'background-color: #%02x%02x%02x; opacity: 0.33; textcolor: white' % (int(rgb[0]*100), int(rgb[1]*100), int(rgb[2]*100))
+norm = matplotlib.colors.Normalize(vmin=1, vmax=16)
+cmap = matplotlib.colormaps['coolwarm']
 
 def get_fotmob_table_data(lg):
     img_base = "https://images.fotmob.com/image_resources/logo/teamlogo"
@@ -185,8 +193,7 @@ with st.expander('Disclaimer & Info'):
 df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/League_Files/{league.replace(' ','%20')}%20Full%20Match%20List.csv")
 df['Match_Name'] = df['Match'] + ' ' + df['Date']
 
-table_indexdf, table_logos = get_fotmob_table_data(lgg)
-# fotmob_table = create_fotmob_table_img(lgg, update_date, table_indexdf, table_logos)
+
 
 with st.sidebar:
     team_list = sorted(list(set(df.Home.unique().tolist() + df.Away.unique().tolist())))
@@ -204,8 +211,13 @@ with st.sidebar:
 
     focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#4c94f6")
     st.write(f"{lgg} Table (via FotMob)")
-    st.table(table_indexdf[::-1].reset_index(drop=True).rename(columns={' ':'Pos.'}))
-    # fotmob_table
+
+try:
+    with st.sidebar:
+        table_indexdf, table_logos = get_fotmob_table_data(lgg)
+        st.table(table_indexdf[::-1].reset_index(drop=True).rename(columns={' ':'Pos.'}))
+except:
+    pass
 
 #########################
 def ben_theme():
@@ -237,7 +249,7 @@ alt.themes.register('ben_theme', ben_theme)
 alt.themes.enable('ben_theme')
 ################################
 
-report_tab, data_tab, graph_tab, rank_tab, xg_tab, scatter_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'xG & xGA By Match', 'Variable Scatters'])
+report_tab, data_tab, graph_tab, rank_tab, full_ranks_tab, xg_tab, scatter_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'Full League Ranks', 'xG & xGA By Match', 'Variable Scatters'])
 
 for i in range(len(render_matches)):
     try:
@@ -314,6 +326,11 @@ available_vars = ['Possession',
                   'PPDA','High Recoveries','High Recoveries Against','Crosses','Corners','Fouls',
                  'Throw-Ins into the Box','On-Ball Pressure','On-Ball Pressure Share','Off-Ball Pressure','Off-Ball Pressure Share','Game Control','Game Control Share',
                  ]
+
+rank_vars = ['xPts','Possession','Field Tilt','Goals','Goals Conceded','Open Play xG','Open Play xGA','xT Difference','Open Play xG per 1 xT','PPDA','High Recoveries','High Recoveries Against',]
+rank_tfs = [False,False,False,False,True,False,True,False,False,True,False,True]
+rank_tfs_inv = [True,True,True,True,False,True,False,True,True,False,True,False]
+
 
 team_data[available_vars] = team_data[available_vars].astype(float)
 league_data[available_vars] = league_data[available_vars].astype(float)
@@ -529,6 +546,22 @@ with rank_tab:
     )
 
     fig
+
+with full_ranks_tab:
+    sort_var = st.selectbox('Metric to Sort By', rank_vars)
+    league_data_rank_base = league_data.copy()
+
+    league_ranks = league_data_base.groupby(['Team'])[rank_vars].mean()
+    
+    for i in range(len(rank_vars)):
+        league_ranks[rank_vars[i]] = league_ranks[rank_vars[i]].rank(ascending=rank_tfs[i])
+    
+    league_ranks[rank_vars] = league_ranks[rank_vars].astype(int)
+    
+    league_ranks = league_ranks.sort_values(by=[sort_var],ascending=rank_tfs_inv[rank_vars.index(sort_var)])
+    
+    norm = matplotlib.colors.Normalize(vmin=1, vmax=len(league_ranks))
+    st.dataframe(league_ranks.T.style.applymap(color_percentile))
 
 with xg_tab:
     scatter_select = st.radio("Expected Goals (xG) or Expected Threat (xT)?", ['⚽ xG', '⚡ xT'])
