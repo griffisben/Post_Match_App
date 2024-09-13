@@ -1,34 +1,380 @@
 ﻿Date,Round,Match,Home,Away
-2024-09-01,4,Beşiktaş 2-0 Sivasspor,Beşiktaş,Sivasspor
-2024-09-01,4,Hatayspor 0-3 Samsunspor,Hatayspor,Samsunspor
-2024-09-01,4,Eyüpspor 0-0 Trabzonspor,Eyüpspor,Trabzonspor
-2024-09-01,4,İstanbul Başakşehir 5-2 Antalyaspor,İstanbul Başakşehir,Antalyaspor
-2024-08-31,4,Adana Demirspor 1-5 Galatasaray,Adana Demirspor,Galatasaray
-2024-08-31,4,Göztepe 2-0 Bodrum FK,Göztepe,Bodrum FK
-2024-08-31,4,Konyaspor 0-0 Kayserispor,Konyaspor,Kayserispor
-2024-08-31,4,Rizespor 0-1 Kasımpaşa,Rizespor,Kasımpaşa
-2024-08-30,4,Fenerbahçe 3-0 Alanyaspor,Fenerbahçe,Alanyaspor
-2024-08-25,3,Rizespor 0-5 Fenerbahçe,Rizespor,Fenerbahçe
-2024-08-25,3,Antalyaspor 3-2 Hatayspor,Antalyaspor,Hatayspor
-2024-08-25,3,Kasımpaşa 2-2 Adana Demirspor,Kasımpaşa,Adana Demirspor
-2024-08-24,3,Bodrum FK 3-1 Konyaspor,Bodrum FK,Konyaspor
-2024-08-24,3,Sivasspor 0-1 Eyüpspor,Sivasspor,Eyüpspor
-2024-08-23,3,Alanyaspor 1-1 Göztepe,Alanyaspor,Göztepe
-2024-08-19,2,Hatayspor 1-1 Kasımpaşa,Hatayspor,Kasımpaşa
-2024-08-19,2,Eyüpspor 4-1 Bodrum FK,Eyüpspor,Bodrum FK
-2024-08-18,2,Beşiktaş 4-2 Antalyaspor,Beşiktaş,Antalyaspor
-2024-08-18,2,Gaziantep FK 0-1 Samsunspor,Gaziantep FK,Samsunspor
-2024-08-18,2,İstanbul Başakşehir 4-2 Alanyaspor,İstanbul Başakşehir,Alanyaspor
-2024-08-17,2,Adana Demirspor 1-2 Rizespor,Adana Demirspor,Rizespor
-2024-08-17,2,Göztepe 2-2 Fenerbahçe,Göztepe,Fenerbahçe
-2024-08-17,2,Kayserispor 1-2 Sivasspor,Kayserispor,Sivasspor
-2024-08-16,2,Konyaspor 1-2 Galatasaray,Konyaspor,Galatasaray
-2024-08-12,1,Bodrum FK 0-1 Gaziantep FK,Bodrum FK,Gaziantep FK
-2024-08-12,1,Rizespor 1-1 İstanbul Başakşehir,Rizespor,İstanbul Başakşehir
-2024-08-11,1,Samsunspor 0-2 Beşiktaş,Samsunspor,Beşiktaş
-2024-08-11,1,Alanyaspor 1-1 Eyüpspor,Alanyaspor,Eyüpspor
-2024-08-11,1,Sivasspor 0-0 Trabzonspor,Sivasspor,Trabzonspor
-2024-08-10,1,Fenerbahçe 1-0 Adana Demirspor,Fenerbahçe,Adana Demirspor
-2024-08-10,1,Antalyaspor 0-0 Göztepe,Antalyaspor,Göztepe
-2024-08-10,1,Kasımpaşa 2-3 Konyaspor,Kasımpaşa,Konyaspor
-2024-08-09,1,Galatasaray 2-1 Hatayspor,Galatasaray,Hatayspor
+2024-05-26,38,Hatayspor 2-0 Rizespor,Hatayspor,Rizespor
+2024-05-26,38,Trabzonspor 4-2 Ankaragücü,Trabzonspor,Ankaragücü
+2024-05-26,38,Kasımpaşa 2-1 Beşiktaş,Kasımpaşa,Beşiktaş
+2024-05-26,38,Adana Demirspor 2-6 İstanbul Başakşehir,Adana Demirspor,İstanbul Başakşehir
+2024-05-26,38,Pendikspor 0-1 Gaziantep FK,Pendikspor,Gaziantep FK
+2024-05-26,38,Konyaspor 1-3 Galatasaray,Konyaspor,Galatasaray
+2024-05-26,38,Fenerbahçe 6-0 İstanbulspor,Fenerbahçe,İstanbulspor
+2024-05-25,38,Sivasspor 2-1 Kayserispor,Sivasspor,Kayserispor
+2024-05-25,38,Fatih Karagümrük 3-1 Samsunspor,Fatih Karagümrük,Samsunspor
+2024-05-24,38,Alanyaspor 1-1 Antalyaspor,Alanyaspor,Antalyaspor
+2024-05-19,37,Galatasaray 0-1 Fenerbahçe,Galatasaray,Fenerbahçe
+2024-05-18,37,Kayserispor 2-2 Konyaspor,Kayserispor,Konyaspor
+2024-05-18,37,İstanbul Başakşehir 0-1 Trabzonspor,İstanbul Başakşehir,Trabzonspor
+2024-05-18,37,Gaziantep FK 3-1 Fatih Karagümrük,Gaziantep FK,Fatih Karagümrük
+2024-05-18,37,Samsunspor 1-1 Alanyaspor,Samsunspor,Alanyaspor
+2024-05-18,37,Rizespor 0-0 Kasımpaşa,Rizespor,Kasımpaşa
+2024-05-18,37,Ankaragücü 0-0 Pendikspor,Ankaragücü,Pendikspor
+2024-05-18,37,Beşiktaş 2-2 Hatayspor,Beşiktaş,Hatayspor
+2024-05-17,37,Antalyaspor 2-1 Adana Demirspor,Antalyaspor,Adana Demirspor
+2024-05-17,37,İstanbulspor 1-3 Sivasspor,İstanbulspor,Sivasspor
+2024-05-12,36,Pendikspor 2-1 Rizespor,Pendikspor,Rizespor
+2024-05-12,36,Hatayspor 2-1 Ankaragücü,Hatayspor,Ankaragücü
+2024-05-12,36,Alanyaspor 1-1 Beşiktaş,Alanyaspor,Beşiktaş
+2024-05-12,36,Kasımpaşa 3-1 Antalyaspor,Kasımpaşa,Antalyaspor
+2024-05-12,36,Sivasspor 0-1 İstanbul Başakşehir,Sivasspor,İstanbul Başakşehir
+2024-05-12,36,Adana Demirspor 1-6 Gaziantep FK,Adana Demirspor,Gaziantep FK
+2024-05-12,36,Konyaspor 3-0 Samsunspor,Konyaspor,Samsunspor
+2024-05-12,36,Fatih Karagümrük 2-3 Galatasaray,Fatih Karagümrük,Galatasaray
+2024-05-12,36,Trabzonspor 3-0 İstanbulspor,Trabzonspor,İstanbulspor
+2024-05-12,36,Fenerbahçe 3-0 Kayserispor,Fenerbahçe,Kayserispor
+2024-05-06,35,Konyaspor 0-0 Fenerbahçe,Konyaspor,Fenerbahçe
+2024-05-06,35,Antalyaspor 1-2 Pendikspor,Antalyaspor,Pendikspor
+2024-05-05,35,Galatasaray 6-1 Sivasspor,Galatasaray,Sivasspor
+2024-05-05,35,Gaziantep FK 1-1 Hatayspor,Gaziantep FK,Hatayspor
+2024-05-05,35,İstanbul Başakşehir 4-1 Kasımpaşa,İstanbul Başakşehir,Kasımpaşa
+2024-05-04,35,Samsunspor 3-1 Trabzonspor,Samsunspor,Trabzonspor
+2024-05-04,35,Kayserispor 2-2 Fatih Karagümrük,Kayserispor,Fatih Karagümrük
+2024-05-04,35,İstanbulspor 0-1 Adana Demirspor,İstanbulspor,Adana Demirspor
+2024-05-03,35,Beşiktaş 3-2 Rizespor,Beşiktaş,Rizespor
+2024-05-03,35,Ankaragücü 1-1 Alanyaspor,Ankaragücü,Alanyaspor
+2024-04-29,34,Fatih Karagümrük 4-1 Antalyaspor,Fatih Karagümrük,Antalyaspor
+2024-04-28,34,Rizespor 2-2 Ankaragücü,Rizespor,Ankaragücü
+2024-04-28,34,Trabzonspor 4-2 Gaziantep FK,Trabzonspor,Gaziantep FK
+2024-04-28,34,Alanyaspor 6-0 İstanbulspor,Alanyaspor,İstanbulspor
+2024-04-28,34,Pendikspor 1-2 Kayserispor,Pendikspor,Kayserispor
+2024-04-27,34,Fenerbahçe 2-1 Beşiktaş,Fenerbahçe,Beşiktaş
+2024-04-27,34,Hatayspor 1-2 İstanbul Başakşehir,Hatayspor,İstanbul Başakşehir
+2024-04-27,34,Sivasspor 1-0 Konyaspor,Sivasspor,Konyaspor
+2024-04-27,34,Kasımpaşa 1-0 Samsunspor,Kasımpaşa,Samsunspor
+2024-04-26,34,Adana Demirspor 0-3 Galatasaray,Adana Demirspor,Galatasaray
+2024-04-22,33,Sivasspor 2-2 Fenerbahçe,Sivasspor,Fenerbahçe
+2024-04-21,33,Gaziantep FK 2-0 Kasımpaşa,Gaziantep FK,Kasımpaşa
+2024-04-21,33,Galatasaray 4-1 Pendikspor,Galatasaray,Pendikspor
+2024-04-21,33,Antalyaspor 2-1 Hatayspor,Antalyaspor,Hatayspor
+2024-04-21,33,İstanbul Başakşehir 2-0 Rizespor,İstanbul Başakşehir,Rizespor
+2024-04-20,33,Kayserispor 1-2 Trabzonspor,Kayserispor,Trabzonspor
+2024-04-20,33,Samsunspor 1-1 Adana Demirspor,Samsunspor,Adana Demirspor
+2024-04-20,33,Konyaspor 0-2 Alanyaspor,Konyaspor,Alanyaspor
+2024-04-20,33,İstanbulspor 1-2 Fatih Karagümrük,İstanbulspor,Fatih Karagümrük
+2024-04-19,33,Beşiktaş 2-0 Ankaragücü,Beşiktaş,Ankaragücü
+2024-04-15,32,Alanyaspor 0-4 Galatasaray,Alanyaspor,Galatasaray
+2024-04-14,32,Fatih Karagümrük 1-2 Fenerbahçe,Fatih Karagümrük,Fenerbahçe
+2024-04-14,32,Rizespor 3-0 Antalyaspor,Rizespor,Antalyaspor
+2024-04-14,32,Hatayspor 0-3 İstanbulspor,Hatayspor,İstanbulspor
+2024-04-14,32,Pendikspor 2-3 İstanbul Başakşehir,Pendikspor,İstanbul Başakşehir
+2024-04-13,32,Beşiktaş 1-1 Samsunspor,Beşiktaş,Samsunspor
+2024-04-13,32,Adana Demirspor 0-0 Kayserispor,Adana Demirspor,Kayserispor
+2024-04-13,32,Ankaragücü 3-1 Gaziantep FK,Ankaragücü,Gaziantep FK
+2024-04-13,32,Kasımpaşa 0-2 Konyaspor,Kasımpaşa,Konyaspor
+2024-04-12,32,Trabzonspor 0-1 Sivasspor,Trabzonspor,Sivasspor
+2024-04-04,31,İstanbul Başakşehir 1-1 Beşiktaş,İstanbul Başakşehir,Beşiktaş
+2024-04-04,31,Samsunspor 0-0 Pendikspor,Samsunspor,Pendikspor
+2024-04-03,31,Konyaspor 1-3 Trabzonspor,Konyaspor,Trabzonspor
+2024-04-03,31,Fenerbahçe 4-2 Adana Demirspor,Fenerbahçe,Adana Demirspor
+2024-04-03,31,Kayserispor 0-2 Kasımpaşa,Kayserispor,Kasımpaşa
+2024-04-03,31,Sivasspor 1-0 Fatih Karagümrük,Sivasspor,Fatih Karagümrük
+2024-04-02,31,Antalyaspor 1-1 Ankaragücü,Antalyaspor,Ankaragücü
+2024-04-02,31,Gaziantep FK 0-3 Alanyaspor,Gaziantep FK,Alanyaspor
+2024-04-02,31,Galatasaray 1-0 Hatayspor,Galatasaray,Hatayspor
+2024-04-02,31,İstanbulspor 0-4 Rizespor,İstanbulspor,Rizespor
+2024-03-17,30,Trabzonspor 2-3 Fenerbahçe,Trabzonspor,Fenerbahçe
+2024-03-17,30,Hatayspor 3-0 Samsunspor,Hatayspor,Samsunspor
+2024-03-17,30,Kasımpaşa 3-4 Galatasaray,Kasımpaşa,Galatasaray
+2024-03-17,30,Rizespor 3-1 Gaziantep FK,Rizespor,Gaziantep FK
+2024-03-16,30,Beşiktaş 1-2 Antalyaspor,Beşiktaş,Antalyaspor
+2024-03-16,30,Adana Demirspor 4-1 Sivasspor,Adana Demirspor,Sivasspor
+2024-03-16,30,Ankaragücü 2-1 İstanbul Başakşehir,Ankaragücü,İstanbul Başakşehir
+2024-03-16,30,Alanyaspor 1-0 Kayserispor,Alanyaspor,Kayserispor
+2024-03-15,30,Pendikspor 1-0 İstanbulspor,Pendikspor,İstanbulspor
+2024-03-15,30,Fatih Karagümrük 1-1 Konyaspor,Fatih Karagümrük,Konyaspor
+2024-03-11,29,Gaziantep FK 2-0 Beşiktaş,Gaziantep FK,Beşiktaş
+2024-03-10,29,Fenerbahçe 4-1 Pendikspor,Fenerbahçe,Pendikspor
+2024-03-10,29,Samsunspor 2-1 Ankaragücü,Samsunspor,Ankaragücü
+2024-03-10,29,İstanbulspor 1-2 Kasımpaşa,İstanbulspor,Kasımpaşa
+2024-03-10,29,Kayserispor 1-1 Hatayspor,Kayserispor,Hatayspor
+2024-03-09,29,İstanbul Başakşehir 1-0 Antalyaspor,İstanbul Başakşehir,Antalyaspor
+2024-03-09,29,Trabzonspor 5-1 Fatih Karagümrük,Trabzonspor,Fatih Karagümrük
+2024-03-09,29,Konyaspor 2-2 Adana Demirspor,Konyaspor,Adana Demirspor
+2024-03-09,29,Sivasspor 1-2 Alanyaspor,Sivasspor,Alanyaspor
+2024-03-08,29,Galatasaray 6-2 Rizespor,Galatasaray,Rizespor
+2024-03-04,28,Alanyaspor 3-1 Trabzonspor,Alanyaspor,Trabzonspor
+2024-03-04,28,Antalyaspor 1-0 Gaziantep FK,Antalyaspor,Gaziantep FK
+2024-03-04,28,Adana Demirspor 1-0 Fatih Karagümrük,Adana Demirspor,Fatih Karagümrük
+2024-03-03,28,Beşiktaş 0-1 Galatasaray,Beşiktaş,Galatasaray
+2024-03-03,28,Pendikspor 0-2 Konyaspor,Pendikspor,Konyaspor
+2024-03-03,28,İstanbul Başakşehir 1-0 Samsunspor,İstanbul Başakşehir,Samsunspor
+2024-03-02,28,Hatayspor 0-2 Fenerbahçe,Hatayspor,Fenerbahçe
+2024-03-02,28,Rizespor 3-0 Kayserispor,Rizespor,Kayserispor
+2024-03-02,28,Ankaragücü 1-1 İstanbulspor,Ankaragücü,İstanbulspor
+2024-03-01,28,Kasımpaşa 0-0 Sivasspor,Kasımpaşa,Sivasspor
+2024-02-26,27,Galatasaray 2-1 Antalyaspor,Galatasaray,Antalyaspor
+2024-02-25,27,İstanbulspor 0-2 Beşiktaş,İstanbulspor,Beşiktaş
+2024-02-25,27,Trabzonspor 1-0 Adana Demirspor,Trabzonspor,Adana Demirspor
+2024-02-25,27,Fatih Karagümrük 1-1 Alanyaspor,Fatih Karagümrük,Alanyaspor
+2024-02-25,27,Sivasspor 4-1 Pendikspor,Sivasspor,Pendikspor
+2024-02-24,27,Fenerbahçe 2-1 Kasımpaşa,Fenerbahçe,Kasımpaşa
+2024-02-24,27,Konyaspor 2-0 Hatayspor,Konyaspor,Hatayspor
+2024-02-24,27,Gaziantep FK 0-2 İstanbul Başakşehir,Gaziantep FK,İstanbul Başakşehir
+2024-02-24,27,Kayserispor 3-2 Ankaragücü,Kayserispor,Ankaragücü
+2024-02-23,27,Samsunspor 3-0 Rizespor,Samsunspor,Rizespor
+2024-02-19,26,Beşiktaş 2-0 Konyaspor,Beşiktaş,Konyaspor
+2024-02-19,26,İstanbul Başakşehir 2-3 Kayserispor,İstanbul Başakşehir,Kayserispor
+2024-02-18,26,Ankaragücü 0-3 Galatasaray,Ankaragücü,Galatasaray
+2024-02-18,26,Pendikspor 0-2 Trabzonspor,Pendikspor,Trabzonspor
+2024-02-18,26,Gaziantep FK 1-1 Samsunspor,Gaziantep FK,Samsunspor
+2024-02-18,26,Alanyaspor 3-3 Adana Demirspor,Alanyaspor,Adana Demirspor
+2024-02-17,26,Rizespor 1-3 Fenerbahçe,Rizespor,Fenerbahçe
+2024-02-17,26,Hatayspor 1-1 Sivasspor,Hatayspor,Sivasspor
+2024-02-17,26,Antalyaspor 2-2 İstanbulspor,Antalyaspor,İstanbulspor
+2024-02-16,26,Kasımpaşa 1-1 Fatih Karagümrük,Kasımpaşa,Fatih Karagümrük
+2024-02-12,25,Kayserispor 0-0 Beşiktaş,Kayserispor,Beşiktaş
+2024-02-12,25,Samsunspor 2-0 Antalyaspor,Samsunspor,Antalyaspor
+2024-02-12,25,Trabzonspor 2-0 Hatayspor,Trabzonspor,Hatayspor
+2024-02-11,25,Fenerbahçe 2-2 Alanyaspor,Fenerbahçe,Alanyaspor
+2024-02-11,25,Konyaspor 1-0 Ankaragücü,Konyaspor,Ankaragücü
+2024-02-11,25,İstanbulspor 1-3 Gaziantep FK,İstanbulspor,Gaziantep FK
+2024-02-11,25,Sivasspor 1-0 Rizespor,Sivasspor,Rizespor
+2024-02-10,25,Galatasaray 2-0 İstanbul Başakşehir,Galatasaray,İstanbul Başakşehir
+2024-02-10,25,Fatih Karagümrük 2-0 Pendikspor,Fatih Karagümrük,Pendikspor
+2024-02-09,25,Adana Demirspor 1-3 Kasımpaşa,Adana Demirspor,Kasımpaşa
+2024-02-04,24,Beşiktaş 2-0 Trabzonspor,Beşiktaş,Trabzonspor
+2024-02-04,24,Kasımpaşa 2-1 Alanyaspor,Kasımpaşa,Alanyaspor
+2024-02-04,24,Pendikspor 2-1 Adana Demirspor,Pendikspor,Adana Demirspor
+2024-02-03,24,Antalyaspor 0-2 Fenerbahçe,Antalyaspor,Fenerbahçe
+2024-02-03,24,Gaziantep FK 1-1 Kayserispor,Gaziantep FK,Kayserispor
+2024-02-03,24,İstanbul Başakşehir 2-0 İstanbulspor,İstanbul Başakşehir,İstanbulspor
+2024-02-03,24,Rizespor 0-0 Konyaspor,Rizespor,Konyaspor
+2024-02-02,24,Samsunspor 0-2 Galatasaray,Samsunspor,Galatasaray
+2024-02-02,24,Ankaragücü 0-0 Sivasspor,Ankaragücü,Sivasspor
+2024-02-02,24,Hatayspor 3-1 Fatih Karagümrük,Hatayspor,Fatih Karagümrük
+2024-01-29,23,Galatasaray 2-1 Gaziantep FK,Galatasaray,Gaziantep FK
+2024-01-29,23,Trabzonspor 2-3 Kasımpaşa,Trabzonspor,Kasımpaşa
+2024-01-29,23,Kayserispor 1-1 Antalyaspor,Kayserispor,Antalyaspor
+2024-01-29,23,İstanbulspor 1-1 Samsunspor,İstanbulspor,Samsunspor
+2024-01-28,23,Fenerbahçe 2-1 Ankaragücü,Fenerbahçe,Ankaragücü
+2024-01-28,23,Fatih Karagümrük 4-0 Rizespor,Fatih Karagümrük,Rizespor
+2024-01-28,23,Sivasspor 1-0 Beşiktaş,Sivasspor,Beşiktaş
+2024-01-28,23,Konyaspor 2-3 İstanbul Başakşehir,Konyaspor,İstanbul Başakşehir
+2024-01-27,23,Adana Demirspor 0-1 Hatayspor,Adana Demirspor,Hatayspor
+2024-01-27,23,Alanyaspor 1-1 Pendikspor,Alanyaspor,Pendikspor
+2024-01-25,22,Rizespor 1-0 Trabzonspor,Rizespor,Trabzonspor
+2024-01-25,22,Galatasaray 3-1 İstanbulspor,Galatasaray,İstanbulspor
+2024-01-25,22,Samsunspor 2-0 Kayserispor,Samsunspor,Kayserispor
+2024-01-24,22,Antalyaspor 2-1 Sivasspor,Antalyaspor,Sivasspor
+2024-01-24,22,İstanbul Başakşehir 0-1 Fenerbahçe,İstanbul Başakşehir,Fenerbahçe
+2024-01-24,22,Gaziantep FK 1-1 Konyaspor,Gaziantep FK,Konyaspor
+2024-01-24,22,Ankaragücü 2-0 Fatih Karagümrük,Ankaragücü,Fatih Karagümrük
+2024-01-23,22,Beşiktaş 0-0 Adana Demirspor,Beşiktaş,Adana Demirspor
+2024-01-23,22,Pendikspor 3-2 Kasımpaşa,Pendikspor,Kasımpaşa
+2024-01-23,22,Hatayspor 1-1 Alanyaspor,Hatayspor,Alanyaspor
+2024-01-22,21,Kayserispor 0-1 İstanbulspor,Kayserispor,İstanbulspor
+2024-01-21,21,Trabzonspor 1-5 Galatasaray,Trabzonspor,Galatasaray
+2024-01-21,21,Konyaspor 1-1 Antalyaspor,Konyaspor,Antalyaspor
+2024-01-21,21,Fenerbahçe 1-1 Samsunspor,Fenerbahçe,Samsunspor
+2024-01-21,21,Sivasspor 2-2 Gaziantep FK,Sivasspor,Gaziantep FK
+2024-01-20,21,Adana Demirspor 1-1 Ankaragücü,Adana Demirspor,Ankaragücü
+2024-01-20,21,Pendikspor 4-0 Beşiktaş,Pendikspor,Beşiktaş
+2024-01-20,21,Alanyaspor 2-1 Rizespor,Alanyaspor,Rizespor
+2024-01-20,21,Fatih Karagümrük 1-1 İstanbul Başakşehir,Fatih Karagümrük,İstanbul Başakşehir
+2024-01-20,21,Kasımpaşa 3-0 Hatayspor,Kasımpaşa,Hatayspor
+2024-01-15,20,Galatasaray 2-1 Kayserispor,Galatasaray,Kayserispor
+2024-01-14,20,Gaziantep FK 0-1 Fenerbahçe,Gaziantep FK,Fenerbahçe
+2024-01-14,20,Samsunspor 2-0 Sivasspor,Samsunspor,Sivasspor
+2024-01-14,20,Antalyaspor 1-1 Trabzonspor,Antalyaspor,Trabzonspor
+2024-01-14,20,İstanbulspor 0-0 Konyaspor,İstanbulspor,Konyaspor
+2024-01-13,20,Beşiktaş 3-0 Fatih Karagümrük,Beşiktaş,Fatih Karagümrük
+2024-01-13,20,Rizespor 1-0 Adana Demirspor,Rizespor,Adana Demirspor
+2024-01-13,20,İstanbul Başakşehir 3-2 Alanyaspor,İstanbul Başakşehir,Alanyaspor
+2024-01-13,20,Ankaragücü 3-1 Kasımpaşa,Ankaragücü,Kasımpaşa
+2024-01-13,20,Hatayspor 1-1 Pendikspor,Hatayspor,Pendikspor
+2024-01-11,16,Trabzonspor 2-1 Samsunspor,Trabzonspor,Samsunspor
+2024-01-11,16,Sivasspor 1-1 Galatasaray,Sivasspor,Galatasaray
+2024-01-10,16,Fenerbahçe 7-1 Konyaspor,Fenerbahçe,Konyaspor
+2024-01-10,16,Adana Demirspor 2-2 İstanbulspor,Adana Demirspor,İstanbulspor
+2024-01-10,16,Fatih Karagümrük 4-1 Kayserispor,Fatih Karagümrük,Kayserispor
+2024-01-10,16,Hatayspor 0-0 Gaziantep FK,Hatayspor,Gaziantep FK
+2024-01-09,16,Rizespor 0-4 Beşiktaş,Rizespor,Beşiktaş
+2024-01-09,16,Kasımpaşa 0-3 İstanbul Başakşehir,Kasımpaşa,İstanbul Başakşehir
+2024-01-09,16,Alanyaspor 1-1 Ankaragücü,Alanyaspor,Ankaragücü
+2024-01-09,16,Pendikspor 0-1 Antalyaspor,Pendikspor,Antalyaspor
+2024-01-07,19,Galatasaray 3-0 Konyaspor,Galatasaray,Konyaspor
+2024-01-07,19,İstanbulspor 1-5 Fenerbahçe,İstanbulspor,Fenerbahçe
+2024-01-07,19,Kayserispor 1-3 Sivasspor,Kayserispor,Sivasspor
+2024-01-06,19,Ankaragücü 0-1 Trabzonspor,Ankaragücü,Trabzonspor
+2024-01-06,19,Samsunspor 1-0 Fatih Karagümrük,Samsunspor,Fatih Karagümrük
+2024-01-06,19,İstanbul Başakşehir 0-0 Adana Demirspor,İstanbul Başakşehir,Adana Demirspor
+2024-01-06,19,Rizespor 2-0 Hatayspor,Rizespor,Hatayspor
+2024-01-05,19,Beşiktaş 1-3 Kasımpaşa,Beşiktaş,Kasımpaşa
+2024-01-05,19,Antalyaspor 0-0 Alanyaspor,Antalyaspor,Alanyaspor
+2024-01-05,19,Gaziantep FK 2-2 Pendikspor,Gaziantep FK,Pendikspor
+2023-12-25,18,Pendikspor 1-1 Ankaragücü,Pendikspor,Ankaragücü
+2023-12-25,18,Hatayspor 1-2 Beşiktaş,Hatayspor,Beşiktaş
+2023-12-25,18,Alanyaspor 3-1 Samsunspor,Alanyaspor,Samsunspor
+2023-12-25,18,Kasımpaşa 2-2 Rizespor,Kasımpaşa,Rizespor
+2023-12-24,18,Fenerbahçe 0-0 Galatasaray,Fenerbahçe,Galatasaray
+2023-12-24,18,Adana Demirspor 2-1 Antalyaspor,Adana Demirspor,Antalyaspor
+2023-12-24,18,Konyaspor 2-0 Kayserispor,Konyaspor,Kayserispor
+2023-12-23,18,Trabzonspor 1-1 İstanbul Başakşehir,Trabzonspor,İstanbul Başakşehir
+2023-12-23,18,Fatih Karagümrük 0-3 Gaziantep FK,Fatih Karagümrük,Gaziantep FK
+2023-12-23,18,Sivasspor 1-0 İstanbulspor,Sivasspor,İstanbulspor
+2023-12-21,17,Ankaragücü 0-0 Hatayspor,Ankaragücü,Hatayspor
+2023-12-21,17,Beşiktaş 1-3 Alanyaspor,Beşiktaş,Alanyaspor
+2023-12-21,17,Rizespor 5-1 Pendikspor,Rizespor,Pendikspor
+2023-12-21,17,Samsunspor 1-1 Konyaspor,Samsunspor,Konyaspor
+2023-12-20,17,Antalyaspor 0-0 Kasımpaşa,Antalyaspor,Kasımpaşa
+2023-12-20,17,Galatasaray 1-0 Fatih Karagümrük,Galatasaray,Fatih Karagümrük
+2023-12-20,17,Kayserispor 3-4 Fenerbahçe,Kayserispor,Fenerbahçe
+2023-12-19,17,Gaziantep FK 2-2 Adana Demirspor,Gaziantep FK,Adana Demirspor
+2023-12-19,17,İstanbul Başakşehir 3-1 Sivasspor,İstanbul Başakşehir,Sivasspor
+2023-12-11,15,Konyaspor 0-1 Sivasspor,Konyaspor,Sivasspor
+2023-12-11,15,Ankaragücü 1-1 Rizespor,Ankaragücü,Rizespor
+2023-12-10,15,Gaziantep FK 1-3 Trabzonspor,Gaziantep FK,Trabzonspor
+2023-12-10,15,İstanbul Başakşehir 1-0 Hatayspor,İstanbul Başakşehir,Hatayspor
+2023-12-10,15,Kayserispor 2-0 Pendikspor,Kayserispor,Pendikspor
+2023-12-10,15,İstanbulspor 0-1 Alanyaspor,İstanbulspor,Alanyaspor
+2023-12-09,15,Beşiktaş 1-3 Fenerbahçe,Beşiktaş,Fenerbahçe
+2023-12-09,15,Samsunspor 4-2 Kasımpaşa,Samsunspor,Kasımpaşa
+2023-12-09,15,Antalyaspor 2-1 Fatih Karagümrük,Antalyaspor,Fatih Karagümrük
+2023-12-08,15,Galatasaray 3-1 Adana Demirspor,Galatasaray,Adana Demirspor
+2023-12-04,14,Fenerbahçe 4-1 Sivasspor,Fenerbahçe,Sivasspor
+2023-12-03,14,Ankaragücü 1-1 Beşiktaş,Ankaragücü,Beşiktaş
+2023-12-03,14,Trabzonspor 0-1 Kayserispor,Trabzonspor,Kayserispor
+2023-12-03,14,Kasımpaşa 4-2 Gaziantep FK,Kasımpaşa,Gaziantep FK
+2023-12-02,14,Adana Demirspor 2-3 Samsunspor,Adana Demirspor,Samsunspor
+2023-12-02,14,Pendikspor 0-2 Galatasaray,Pendikspor,Galatasaray
+2023-12-02,14,Rizespor 3-2 İstanbul Başakşehir,Rizespor,İstanbul Başakşehir
+2023-12-02,14,Alanyaspor 2-2 Konyaspor,Alanyaspor,Konyaspor
+2023-12-01,14,Fatih Karagümrük 3-0 İstanbulspor,Fatih Karagümrük,İstanbulspor
+2023-12-01,14,Hatayspor 3-3 Antalyaspor,Hatayspor,Antalyaspor
+2023-11-27,13,Sivasspor 3-3 Trabzonspor,Sivasspor,Trabzonspor
+2023-11-27,13,İstanbul Başakşehir 4-1 Pendikspor,İstanbul Başakşehir,Pendikspor
+2023-11-26,13,Fenerbahçe 2-1 Fatih Karagümrük,Fenerbahçe,Fatih Karagümrük
+2023-11-26,13,Antalyaspor 0-0 Rizespor,Antalyaspor,Rizespor
+2023-11-26,13,Samsunspor 1-2 Beşiktaş,Samsunspor,Beşiktaş
+2023-11-26,13,Kayserispor 1-1 Adana Demirspor,Kayserispor,Adana Demirspor
+2023-11-25,13,Galatasaray 4-0 Alanyaspor,Galatasaray,Alanyaspor
+2023-11-25,13,Konyaspor 2-0 Kasımpaşa,Konyaspor,Kasımpaşa
+2023-11-25,13,Gaziantep FK 0-1 Ankaragücü,Gaziantep FK,Ankaragücü
+2023-11-25,13,İstanbulspor 2-1 Hatayspor,İstanbulspor,Hatayspor
+2023-11-12,12,Adana Demirspor 0-0 Fenerbahçe,Adana Demirspor,Fenerbahçe
+2023-11-12,12,Rizespor 1-0 İstanbulspor,Rizespor,İstanbulspor
+2023-11-12,12,Beşiktaş 1-0 İstanbul Başakşehir,Beşiktaş,İstanbul Başakşehir
+2023-11-12,12,Pendikspor 1-0 Samsunspor,Pendikspor,Samsunspor
+2023-11-11,12,Hatayspor 2-1 Galatasaray,Hatayspor,Galatasaray
+2023-11-11,12,Fatih Karagümrük 3-0 Sivasspor,Fatih Karagümrük,Sivasspor
+2023-11-11,12,Alanyaspor 0-3 Gaziantep FK,Alanyaspor,Gaziantep FK
+2023-11-11,12,Kasımpaşa 3-4 Kayserispor,Kasımpaşa,Kayserispor
+2023-11-10,12,Ankaragücü 0-4 Antalyaspor,Ankaragücü,Antalyaspor
+2023-11-10,12,Trabzonspor 2-1 Konyaspor,Trabzonspor,Konyaspor
+2023-11-08,4,Samsunspor 2-1 İstanbulspor,Samsunspor,İstanbulspor
+2023-11-06,11,Gaziantep FK 2-0 Rizespor,Gaziantep FK,Rizespor
+2023-11-06,11,Kayserispor 1-0 Alanyaspor,Kayserispor,Alanyaspor
+2023-11-05,11,Antalyaspor 3-2 Beşiktaş,Antalyaspor,Beşiktaş
+2023-11-05,11,Konyaspor 1-1 Fatih Karagümrük,Konyaspor,Fatih Karagümrük
+2023-11-05,11,İstanbul Başakşehir 3-3 Ankaragücü,İstanbul Başakşehir,Ankaragücü
+2023-11-05,11,Sivasspor 1-1 Adana Demirspor,Sivasspor,Adana Demirspor
+2023-11-04,11,Fenerbahçe 2-3 Trabzonspor,Fenerbahçe,Trabzonspor
+2023-11-04,11,Samsunspor 2-1 Hatayspor,Samsunspor,Hatayspor
+2023-11-04,11,İstanbulspor 2-4 Pendikspor,İstanbulspor,Pendikspor
+2023-11-03,11,Galatasaray 2-1 Kasımpaşa,Galatasaray,Kasımpaşa
+2023-10-30,10,Beşiktaş 2-0 Gaziantep FK,Beşiktaş,Gaziantep FK
+2023-10-29,10,Ankaragücü 2-0 Samsunspor,Ankaragücü,Samsunspor
+2023-10-29,10,Antalyaspor 1-0 İstanbul Başakşehir,Antalyaspor,İstanbul Başakşehir
+2023-10-29,10,Pendikspor 0-5 Fenerbahçe,Pendikspor,Fenerbahçe
+2023-10-29,10,Fatih Karagümrük 0-0 Trabzonspor,Fatih Karagümrük,Trabzonspor
+2023-10-28,10,Rizespor 0-1 Galatasaray,Rizespor,Galatasaray
+2023-10-28,10,Adana Demirspor 3-0 Konyaspor,Adana Demirspor,Konyaspor
+2023-10-28,10,Alanyaspor 1-2 Sivasspor,Alanyaspor,Sivasspor
+2023-10-27,10,Kasımpaşa 3-1 İstanbulspor,Kasımpaşa,İstanbulspor
+2023-10-27,10,Hatayspor 1-2 Kayserispor,Hatayspor,Kayserispor
+2023-10-23,9,Trabzonspor 1-0 Alanyaspor,Trabzonspor,Alanyaspor
+2023-10-23,9,Fatih Karagümrük 2-0 Adana Demirspor,Fatih Karagümrük,Adana Demirspor
+2023-10-22,9,Fenerbahçe 4-2 Hatayspor,Fenerbahçe,Hatayspor
+2023-10-22,9,Samsunspor 0-0 İstanbul Başakşehir,Samsunspor,İstanbul Başakşehir
+2023-10-22,9,İstanbulspor 2-1 Ankaragücü,İstanbulspor,Ankaragücü
+2023-10-22,9,Sivasspor 0-1 Kasımpaşa,Sivasspor,Kasımpaşa
+2023-10-21,9,Galatasaray 2-1 Beşiktaş,Galatasaray,Beşiktaş
+2023-10-21,9,Konyaspor 1-2 Pendikspor,Konyaspor,Pendikspor
+2023-10-21,9,Gaziantep FK 1-0 Antalyaspor,Gaziantep FK,Antalyaspor
+2023-10-21,9,Kayserispor 3-1 Rizespor,Kayserispor,Rizespor
+2023-10-08,8,Kasımpaşa 0-2 Fenerbahçe,Kasımpaşa,Fenerbahçe
+2023-10-08,8,Hatayspor 3-1 Konyaspor,Hatayspor,Konyaspor
+2023-10-08,8,Beşiktaş 2-0 İstanbulspor,Beşiktaş,İstanbulspor
+2023-10-08,8,Rizespor 1-0 Samsunspor,Rizespor,Samsunspor
+2023-10-07,8,Antalyaspor 0-2 Galatasaray,Antalyaspor,Galatasaray
+2023-10-07,8,İstanbul Başakşehir 2-0 Gaziantep FK,İstanbul Başakşehir,Gaziantep FK
+2023-10-07,8,Ankaragücü 3-0 Kayserispor,Ankaragücü,Kayserispor
+2023-10-07,8,Pendikspor 2-3 Sivasspor,Pendikspor,Sivasspor
+2023-10-06,8,Adana Demirspor 1-0 Trabzonspor,Adana Demirspor,Trabzonspor
+2023-10-06,8,Alanyaspor 2-1 Fatih Karagümrük,Alanyaspor,Fatih Karagümrük
+2023-10-02,7,Kayserispor 0-0 İstanbul Başakşehir,Kayserispor,İstanbul Başakşehir
+2023-10-01,7,Konyaspor 0-2 Beşiktaş,Konyaspor,Beşiktaş
+2023-10-01,7,Adana Demirspor 4-0 Alanyaspor,Adana Demirspor,Alanyaspor
+2023-10-01,7,Fenerbahçe 5-0 Rizespor,Fenerbahçe,Rizespor
+2023-10-01,7,Fatih Karagümrük 2-3 Kasımpaşa,Fatih Karagümrük,Kasımpaşa
+2023-09-30,7,Galatasaray 2-1 Ankaragücü,Galatasaray,Ankaragücü
+2023-09-30,7,Trabzonspor 2-1 Pendikspor,Trabzonspor,Pendikspor
+2023-09-30,7,İstanbulspor 1-2 Antalyaspor,İstanbulspor,Antalyaspor
+2023-09-30,7,Sivasspor 0-0 Hatayspor,Sivasspor,Hatayspor
+2023-09-29,7,Samsunspor 1-2 Gaziantep FK,Samsunspor,Gaziantep FK
+2023-09-28,3,Fenerbahçe 4-0 İstanbul Başakşehir,Fenerbahçe,İstanbul Başakşehir
+2023-09-27,3,Adana Demirspor 4-2 Beşiktaş,Adana Demirspor,Beşiktaş
+2023-09-26,3,İstanbulspor 0-1 Galatasaray,İstanbulspor,Galatasaray
+2023-09-25,6,Hatayspor 3-2 Trabzonspor,Hatayspor,Trabzonspor
+2023-09-24,6,Alanyaspor 0-1 Fenerbahçe,Alanyaspor,Fenerbahçe
+2023-09-24,6,Kasımpaşa 2-1 Adana Demirspor,Kasımpaşa,Adana Demirspor
+2023-09-24,6,Ankaragücü 1-1 Konyaspor,Ankaragücü,Konyaspor
+2023-09-24,6,Beşiktaş 2-1 Kayserispor,Beşiktaş,Kayserispor
+2023-09-23,6,Antalyaspor 2-0 Samsunspor,Antalyaspor,Samsunspor
+2023-09-23,6,İstanbul Başakşehir 1-2 Galatasaray,İstanbul Başakşehir,Galatasaray
+2023-09-23,6,Rizespor 1-1 Sivasspor,Rizespor,Sivasspor
+2023-09-23,6,Pendikspor 1-1 Fatih Karagümrük,Pendikspor,Fatih Karagümrük
+2023-09-22,6,Gaziantep FK 2-0 İstanbulspor,Gaziantep FK,İstanbulspor
+2023-09-18,5,Sivasspor 1-3 Ankaragücü,Sivasspor,Ankaragücü
+2023-09-18,5,Fatih Karagümrük 0-0 Hatayspor,Fatih Karagümrük,Hatayspor
+2023-09-17,5,Trabzonspor 3-0 Beşiktaş,Trabzonspor,Beşiktaş
+2023-09-17,5,Alanyaspor 3-3 Kasımpaşa,Alanyaspor,Kasımpaşa
+2023-09-17,5,Fenerbahçe 3-2 Antalyaspor,Fenerbahçe,Antalyaspor
+2023-09-17,5,İstanbulspor 0-2 İstanbul Başakşehir,İstanbulspor,İstanbul Başakşehir
+2023-09-16,5,Adana Demirspor 3-0 Pendikspor,Adana Demirspor,Pendikspor
+2023-09-16,5,Galatasaray 4-2 Samsunspor,Galatasaray,Samsunspor
+2023-09-16,5,Konyaspor 1-2 Rizespor,Konyaspor,Rizespor
+2023-09-16,5,Kayserispor 2-0 Gaziantep FK,Kayserispor,Gaziantep FK
+2023-09-03,4,Ankaragücü 0-1 Fenerbahçe,Ankaragücü,Fenerbahçe
+2023-09-03,4,Hatayspor 3-3 Adana Demirspor,Hatayspor,Adana Demirspor
+2023-09-03,4,Beşiktaş 2-0 Sivasspor,Beşiktaş,Sivasspor
+2023-09-02,4,Antalyaspor 1-1 Kayserispor,Antalyaspor,Kayserispor
+2023-09-02,4,Gaziantep FK 0-3 Galatasaray,Gaziantep FK,Galatasaray
+2023-09-02,4,İstanbul Başakşehir 0-1 Konyaspor,İstanbul Başakşehir,Konyaspor
+2023-09-02,4,Pendikspor 1-1 Alanyaspor,Pendikspor,Alanyaspor
+2023-09-01,4,Rizespor 1-0 Fatih Karagümrük,Rizespor,Fatih Karagümrük
+2023-09-01,4,Kasımpaşa 1-5 Trabzonspor,Kasımpaşa,Trabzonspor
+2023-08-27,3,Alanyaspor 0-0 Hatayspor,Alanyaspor,Hatayspor
+2023-08-27,3,Fatih Karagümrük 1-1 Ankaragücü,Fatih Karagümrük,Ankaragücü
+2023-08-27,3,Kayserispor 2-1 Samsunspor,Kayserispor,Samsunspor
+2023-08-26,3,Sivasspor 1-1 Antalyaspor,Sivasspor,Antalyaspor
+2023-08-26,3,Trabzonspor 2-3 Rizespor,Trabzonspor,Rizespor
+2023-08-26,3,Kasımpaşa 1-1 Pendikspor,Kasımpaşa,Pendikspor
+2023-08-25,3,Konyaspor 2-0 Gaziantep FK,Konyaspor,Gaziantep FK
+2023-08-21,2,Ankaragücü 1-1 Adana Demirspor,Ankaragücü,Adana Demirspor
+2023-08-21,2,Samsunspor 0-2 Fenerbahçe,Samsunspor,Fenerbahçe
+2023-08-20,2,Beşiktaş 1-1 Pendikspor,Beşiktaş,Pendikspor
+2023-08-20,2,Gaziantep FK 1-3 Sivasspor,Gaziantep FK,Sivasspor
+2023-08-20,2,İstanbul Başakşehir 0-2 Fatih Karagümrük,İstanbul Başakşehir,Fatih Karagümrük
+2023-08-19,2,Galatasaray 2-0 Trabzonspor,Galatasaray,Trabzonspor
+2023-08-19,2,Hatayspor 0-0 Kasımpaşa,Hatayspor,Kasımpaşa
+2023-08-19,2,Rizespor 0-0 Alanyaspor,Rizespor,Alanyaspor
+2023-08-18,2,Antalyaspor 1-1 Konyaspor,Antalyaspor,Konyaspor
+2023-08-18,2,İstanbulspor 1-1 Kayserispor,İstanbulspor,Kayserispor
+2023-08-14,1,Fatih Karagümrük 0-1 Beşiktaş,Fatih Karagümrük,Beşiktaş
+2023-08-14,1,Alanyaspor 2-0 İstanbul Başakşehir,Alanyaspor,İstanbul Başakşehir
+2023-08-13,1,Fenerbahçe 2-1 Gaziantep FK,Fenerbahçe,Gaziantep FK
+2023-08-13,1,Adana Demirspor 2-1 Rizespor,Adana Demirspor,Rizespor
+2023-08-13,1,Sivasspor 1-1 Samsunspor,Sivasspor,Samsunspor
+2023-08-12,1,Pendikspor 1-5 Hatayspor,Pendikspor,Hatayspor
+2023-08-12,1,Kayserispor 0-0 Galatasaray,Kayserispor,Galatasaray
+2023-08-12,1,Konyaspor 1-1 İstanbulspor,Konyaspor,İstanbulspor
+2023-08-12,1,Kasımpaşa 3-2 Ankaragücü,Kasımpaşa,Ankaragücü
+2023-08-11,1,Trabzonspor 1-0 Antalyaspor,Trabzonspor,Antalyaspor
