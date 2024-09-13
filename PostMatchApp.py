@@ -210,10 +210,10 @@ with st.sidebar:
         render_matches = match_list.head(num_matches).Match_Name.tolist()
 
     focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#4c94f6")
-    st.write(f"{lgg} Table (via FotMob)")
 
 try:
     with st.sidebar:
+        st.write(f"{lgg} Table (via FotMob)")
         table_indexdf, table_logos = get_fotmob_table_data(lgg)
         st.table(table_indexdf[::-1].reset_index(drop=True).rename(columns={' ':'Pos.'}))
 except:
