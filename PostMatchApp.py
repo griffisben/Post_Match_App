@@ -19,7 +19,7 @@ cxG = 1.53570624482222
 
 def color_percentile(pc):
     rgb = cmap(norm(pc))
-    return 'background-color: #%02x%02x%02x; opacity: 0.33; textcolor: white' % (int(rgb[0]*100), int(rgb[1]*100), int(rgb[2]*100))
+    return 'color: #%02x%02x%02x; opacity: 1; textcolor: white' % (int(rgb[0]*100), int(rgb[1]*100), int(rgb[2]*100))
 norm = matplotlib.colors.Normalize(vmin=1, vmax=16)
 cmap = matplotlib.colormaps['coolwarm']
 
@@ -164,6 +164,12 @@ def create_fotmob_table_img(lg, date, indexdf, logos):
 
     return fig
 
+def add_mov_avg(df,var):
+    df['4-Match Moving Average'] = np.nan
+    for i in range(len(df)):
+        if i+4 <= len(df):
+            df.loc[i, '4-Match Moving Average'] = df[var][i:i+4].mean()
+    return df
 
 
 nbi_links = pd.read_csv("https://raw.githubusercontent.com/griffisben/Post_Match_App/main/NBI_Match_Links.csv")
@@ -342,13 +348,15 @@ data_tab.write(team_data)
 with graph_tab:
     plot_type = st.radio("Line or Bar plot?", ['📈 Line', '📊 Bar'])
     var = st.selectbox('Metric to Plot', available_vars)
+    mov_avg = st.radio("Add a 4-Match Moving Average Line?", ['Yes', 'No'])
+    team_data2 = add_mov_avg(team_data,var)
 
     if plot_type == '📈 Line':
         lg_avg_var = league_data[var].mean()
         team_avg_var = team_data[var].mean()
         
         c = (alt.Chart(
-                team_data[::-1],
+                team_data2[::-1],
                 title={
                     "text": [f"{team} {var}, {league}"],
                     "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
@@ -383,9 +391,24 @@ with graph_tab:
             text="Team Avg",
             color='#f6ba00'
         )
-    
-    
-        chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
+
+        if mov_avg == 'Yes':
+            mov_avg_line = (alt.Chart(
+                    team_data2[::-1],
+                )
+                .mark_line(point=False, color='#4a2e19', strokeDash=[8,8])
+                .encode(
+                    x=alt.X('Date', sort=None),
+                    y=alt.Y('4-Match Moving Average', scale=alt.Scale(zero=False)),
+                    tooltip=['Match', 'Date', '4-Match Moving Average']
+                )
+            )
+            
+            chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label + mov_avg_line)
+        if mov_avg == 'No':
+            chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
+            
+        chart.layer[0].encoding.y.title = var
         st.altair_chart(chart, use_container_width=True)
 
     if plot_type == '📊 Bar':
@@ -403,7 +426,7 @@ with graph_tab:
             .encode(
                 x=alt.X('Date', sort=None),
                 y=alt.Y(var, scale=alt.Scale(zero=False)), 
-                color=alt.condition(alt.datum[var] >= 0, alt.value('#4c94f6'), alt.value('#4a2e19')),
+                color=alt.condition(alt.datum[var] >= 0, alt.value('#4c94f6'), alt.value('#ee5454')),
                 tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
             )
         )
@@ -434,10 +457,29 @@ with graph_tab:
         )
     
 
-        if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
-            chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
-        if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
-            chart = (c + lg_avg_line + team_avg_line + team_avg_label)
+        if mov_avg == 'Yes':
+            mov_avg_line = (alt.Chart(
+                    team_data2[::-1],
+                )
+                .mark_line(point=False, color='#4a2e19', strokeDash=[8,8])
+                .encode(
+                    x=alt.X('Date', sort=None),
+                    y=alt.Y('4-Match Moving Average', scale=alt.Scale(zero=False)),
+                    tooltip=['Match', 'Date', '4-Match Moving Average']
+                )
+            )
+            if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+                chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label + mov_avg_line)
+            if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+                chart = (c + lg_avg_line + team_avg_line + team_avg_label + mov_avg_line)
+
+        if mov_avg == 'No':
+            if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+                chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
+            if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+                chart = (c + lg_avg_line + team_avg_line + team_avg_label)
+
+        chart.layer[0].encoding.y.title = var
         st.altair_chart(chart, use_container_width=True)
 
 
@@ -561,7 +603,7 @@ with full_ranks_tab:
     league_ranks = league_ranks.sort_values(by=[sort_var],ascending=rank_tfs_inv[rank_vars.index(sort_var)])
     
     norm = matplotlib.colors.Normalize(vmin=1, vmax=len(league_ranks))
-    st.dataframe(league_ranks.T.style.applymap(color_percentile))
+    st.dataframe(league_ranks.T.style.map(color_percentile))
 
 with xg_tab:
     scatter_select = st.radio("Expected Goals (xG) or Expected Threat (xT)?", ['⚽ xG', '⚡ xT'])
