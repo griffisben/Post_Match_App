@@ -182,7 +182,7 @@ lg_id_dict = {lg_lookup.League[i]: lg_lookup.FotMob[i] for i in range(len(lg_loo
 with st.sidebar:
     lgg = st.selectbox('What League Do You Want Reports For?', league_list)
     update_date = lg_lookup[lg_lookup.League==lgg].Update.values[0]
-    league = lgg.replace("ü","u").replace("ó","o")
+    league = lgg.replace("ü","u").replace("ó","o").replace("è","e")
     
 st.title(f"{lgg} Post-Match Reports")
 st.subheader(f"Last Updated: {update_date}\n")
