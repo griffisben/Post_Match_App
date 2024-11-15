@@ -1,5 +1,5 @@
 ﻿Date,Round,Match,Home,Away
-2024-11-09,10,Al-Taawoun 1-0 Al Okhdood,Al-Taawoun,Al Okhdood
+2024-11-09,10,Al Taawoun 1-0 Al Okhdood,Al Taawoun,Al Okhdood
 2024-11-09,10,Al Wehda 2-3 Damac,Al Wehda,Damac
 2024-11-09,10,Al Fateh 1-2 Al Khaleej,Al Fateh,Al Khaleej
 2024-11-08,10,Al Riyadh 0-1 Al Nassr,Al Riyadh,Al Nassr
@@ -9,7 +9,7 @@
 2024-11-07,10,Al Kholood 0-2 Al Shabab,Al Kholood,Al Shabab
 2024-11-07,10,Al-Qadsiah 2-0 Al Fayha,Al-Qadsiah,Al Fayha
 2024-11-02,9,Al Ettifaq 0-2 Al-Qadsiah,Al Ettifaq,Al-Qadsiah
-2024-11-02,9,Al-Taawoun 1-1 Al Kholood,Al-Taawoun,Al Kholood
+2024-11-02,9,Al Taawoun 1-1 Al Kholood,Al Taawoun,Al Kholood
 2024-11-02,9,Al Fateh 1-1 Al Fayha,Al Fateh,Al Fayha
 2024-11-01,9,Al Nassr 1-1 Al Hilal,Al Nassr,Al Hilal
 2024-11-01,9,Damac 2-2 Al Riyadh,Damac,Al Riyadh
@@ -17,7 +17,7 @@
 2024-10-31,9,Al Ittihad 1-0 Al Ahli,Al Ittihad,Al Ahli
 2024-10-31,9,Al Okhdood 4-0 Al Orubah,Al Okhdood,Al Orubah
 2024-10-31,9,Al Shabab 3-1 Al Wehda,Al Shabab,Al Wehda
-2024-10-26,8,Al Hilal 2-0 Al-Taawoun,Al Hilal,Al-Taawoun
+2024-10-26,8,Al Hilal 2-0 Al Taawoun,Al Hilal,Al Taawoun
 2024-10-26,8,Al Raed 2-1 Al Fateh,Al Raed,Al Fateh
 2024-10-26,8,Al Fayha 1-1 Al Ettifaq,Al Fayha,Al Ettifaq
 2024-10-25,8,Al Ahli 1-1 Al Okhdood,Al Ahli,Al Okhdood
@@ -30,13 +30,13 @@
 2024-10-20,7,Al Okhdood 0-1 Al Riyadh,Al Okhdood,Al Riyadh
 2024-10-20,7,Al Fateh 1-1 Al Kholood,Al Fateh,Al Kholood
 2024-10-19,7,Al Ittihad 3-1 Al-Qadsiah,Al Ittihad,Al-Qadsiah
-2024-10-19,7,Damac 2-2 Al-Taawoun,Damac,Al-Taawoun
+2024-10-19,7,Damac 2-2 Al Taawoun,Damac,Al Taawoun
 2024-10-19,7,Al Raed 2-2 Al Wehda,Al Raed,Al Wehda
 2024-10-18,7,Al Shabab 1-2 Al Nassr,Al Shabab,Al Nassr
 2024-10-18,7,Al Hilal 3-0 Al Fayha,Al Hilal,Al Fayha
 2024-10-18,7,Al Khaleej 0-3 Al Ahli,Al Khaleej,Al Ahli
 2024-10-05,6,Al Ahli 1-2 Al Hilal,Al Ahli,Al Hilal
-2024-10-05,6,Al-Taawoun 2-0 Al Fateh,Al-Taawoun,Al Fateh
+2024-10-05,6,Al Taawoun 2-0 Al Fateh,Al Taawoun,Al Fateh
 2024-10-05,6,Al Nassr 3-0 Al Orubah,Al Nassr,Al Orubah
 2024-10-04,6,Damac 1-0 Al Shabab,Damac,Al Shabab
 2024-10-04,6,Al Riyadh 2-1 Al-Qadsiah,Al Riyadh,Al-Qadsiah
@@ -45,7 +45,7 @@
 2024-10-03,6,Al Okhdood 1-2 Al Ittihad,Al Okhdood,Al Ittihad
 2024-10-03,6,Al Ettifaq 0-1 Al Raed,Al Ettifaq,Al Raed
 2024-09-29,5,Al Shabab 2-1 Al Raed,Al Shabab,Al Raed
-2024-09-29,5,Al-Taawoun 1-1 Al Ettifaq,Al-Taawoun,Al Ettifaq
+2024-09-29,5,Al Taawoun 1-1 Al Ettifaq,Al Taawoun,Al Ettifaq
 2024-09-29,5,Al Fayha 2-0 Al Riyadh,Al Fayha,Al Riyadh
 2024-09-28,5,Al Kholood 2-4 Al Hilal,Al Kholood,Al Hilal
 2024-09-28,5,Al Orubah 1-0 Damac,Al Orubah,Damac
@@ -55,7 +55,7 @@
 2024-09-27,5,Al Nassr 2-0 Al Wehda,Al Nassr,Al Wehda
 2024-09-21,4,Al Hilal 3-1 Al Ittihad,Al Hilal,Al Ittihad
 2024-09-21,4,Al Raed 1-2 Al Riyadh,Al Raed,Al Riyadh
-2024-09-21,4,Al Shabab 1-0 Al-Taawoun,Al Shabab,Al-Taawoun
+2024-09-21,4,Al Shabab 1-0 Al Taawoun,Al Shabab,Al Taawoun
 2024-09-20,4,Al Ettifaq 0-3 Al Nassr,Al Ettifaq,Al Nassr
 2024-09-20,4,Al Ahli 4-2 Damac,Al Ahli,Damac
 2024-09-20,4,Al Khaleej 0-0 Al Fayha,Al Khaleej,Al Fayha
@@ -70,8 +70,8 @@
 2024-09-14,3,Al Fateh 1-2 Al Ettifaq,Al Fateh,Al Ettifaq
 2024-09-13,3,Al Nassr 1-1 Al Ahli,Al Nassr,Al Ahli
 2024-09-13,3,Damac 3-1 Al Okhdood,Damac,Al Okhdood
-2024-09-13,3,Al-Taawoun 2-0 Al Khaleej,Al-Taawoun,Al Khaleej
-2024-08-29,2,Al Ittihad 2-1 Al-Taawoun,Al Ittihad,Al-Taawoun
+2024-09-13,3,Al Taawoun 2-0 Al Khaleej,Al Taawoun,Al Khaleej
+2024-08-29,2,Al Ittihad 2-1 Al Taawoun,Al Ittihad,Al Taawoun
 2024-08-29,2,Al Khaleej 0-1 Al Shabab,Al Khaleej,Al Shabab
 2024-08-29,2,Al Riyadh 3-1 Al Kholood,Al Riyadh,Al Kholood
 2024-08-28,2,Al Wehda 2-1 Al Orubah,Al Wehda,Al Orubah
@@ -88,4 +88,4 @@
 2024-08-23,1,Damac 0-1 Al Khaleej,Damac,Al Khaleej
 2024-08-22,1,Al Nassr 1-1 Al Raed,Al Nassr,Al Raed
 2024-08-22,1,Al Wehda 3-3 Al Riyadh,Al Wehda,Al Riyadh
-2024-08-22,1,Al-Taawoun 1-0 Al Fayha,Al-Taawoun,Al Fayha
+2024-08-22,1,Al Taawoun 1-0 Al Fayha,Al Taawoun,Al Fayha
