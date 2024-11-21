@@ -181,7 +181,7 @@ lg_id_dict = {lg_lookup.League[i]: lg_lookup.FotMob[i] for i in range(len(lg_loo
 
 with st.sidebar:
     lgg = st.selectbox('What League Do You Want Reports For?', league_list)
-    season = st.selectbox('Season', (sorted(lg_lookup[lg_lookup.League == lg].Season.unique().tolist(),reverse=True)))
+    season = st.selectbox('Season', (sorted(lg_lookup[lg_lookup.League == lgg].Season.unique().tolist(),reverse=True)))
     
 update_date = lg_lookup[(lg_lookup.League==lgg) & (lg_lookup.Season==season)].Update.values[0]
 league = lgg.replace("ü","u").replace("ó","o").replace("è","e")
