@@ -23,146 +23,146 @@ def color_percentile(pc):
 norm = matplotlib.colors.Normalize(vmin=1, vmax=16)
 cmap = matplotlib.colormaps['coolwarm']
 
-# def get_fotmob_table_data(lg):
-#     img_base = "https://images.fotmob.com/image_resources/logo/teamlogo"
-#     #######################################################
+def get_fotmob_table_data(lg):
+    img_base = "https://images.fotmob.com/image_resources/logo/teamlogo"
+    #######################################################
     
-#     url = f"https://www.fotmob.com/api/tltable?leagueId={lg_id_dict[lg]}"
-#     page = requests.get(url)
-#     soup = BeautifulSoup(page.content, "html.parser")
-#     json_data = pd.read_json(StringIO(soup.getText()))
+    url = f"https://www.fotmob.com/api/tltable?leagueId={lg_id_dict[lg]}"
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, "html.parser")
+    json_data = pd.read_json(StringIO(soup.getText()))
     
-#     table = json_data['data'].apply(lambda x: x['table']).apply(lambda x: x['all'])
-#     df = pd.json_normalize(table)
-#     df = df.T
+    table = json_data['data'].apply(lambda x: x['table']).apply(lambda x: x['all'])
+    df = pd.json_normalize(table)
+    df = df.T
     
-#     df_all = pd.DataFrame()
-#     for i in range(len(df)):
-#         for j in range(len(df.columns)):
-#             row = pd.DataFrame(pd.Series(df.iloc[i,j])).T
-#             df_all = pd.concat([df_all,row])
-#     df_all.reset_index(drop=True,inplace=True)
+    df_all = pd.DataFrame()
+    for i in range(len(df)):
+        for j in range(len(df.columns)):
+            row = pd.DataFrame(pd.Series(df.iloc[i,j])).T
+            df_all = pd.concat([df_all,row])
+    df_all.reset_index(drop=True,inplace=True)
     
-#     df_all['logo'] = [f"{img_base}/{df_all['id'][i]}.png" for i in range(len(df_all))]
-#     df_all['goals'] = [int(df_all['scoresStr'][i].split("-")[0]) for i in range(len(df_all))]
-#     df_all['conceded_goals'] = [int(df_all['scoresStr'][i].split("-")[1]) for i in range(len(df_all))]
-#     df_all['real_position'] = df_all['idx']
-#     df_all.sort_values(by=['real_position'],ascending=True,inplace=True)
-#     df_all.reset_index(drop=True,inplace=True)
-#     df_all['Goals per match'] = [df_all['goals'][i]/df_all['played'][i] if df_all.played[i]>0 else 0 for i in range(len(df_all))]
-#     df_all['Goals against per match'] = [df_all['conceded_goals'][i]/df_all['played'][i] if df_all.played[i]>0 else 0 for i in range(len(df_all))]
+    df_all['logo'] = [f"{img_base}/{df_all['id'][i]}.png" for i in range(len(df_all))]
+    df_all['goals'] = [int(df_all['scoresStr'][i].split("-")[0]) for i in range(len(df_all))]
+    df_all['conceded_goals'] = [int(df_all['scoresStr'][i].split("-")[1]) for i in range(len(df_all))]
+    df_all['real_position'] = df_all['idx']
+    df_all.sort_values(by=['real_position'],ascending=True,inplace=True)
+    df_all.reset_index(drop=True,inplace=True)
+    df_all['Goals per match'] = [df_all['goals'][i]/df_all['played'][i] if df_all.played[i]>0 else 0 for i in range(len(df_all))]
+    df_all['Goals against per match'] = [df_all['conceded_goals'][i]/df_all['played'][i] if df_all.played[i]>0 else 0 for i in range(len(df_all))]
     
-#     tables = df_all[['real_position','name','played','wins','draws','losses','pts','goals','conceded_goals','goalConDiff','logo']].rename(columns={
-#         'pts':'Pts',
-#         'name':'Team',
-#         'real_position':'Pos',
-#         'xg':'xG',
-#         'xgConceded':'xGA',
-#         'goals':'GF',
-#         'conceded_goals':'GA',
-#         'played':'M',
-#         'wins':'W',
-#         'draws':'D',
-#         'losses':'L',
-#         'goalConDiff':'GD'
-#     })
-#     tables[['Pts','GF','GA','Pos','M']] = tables[['Pts','GF','GA','Pos','M']].astype(int)
-#     logos = tables.logo.tolist()[::-1]
-#     tables = tables.iloc[:,:-1]
+    tables = df_all[['real_position','name','played','wins','draws','losses','pts','goals','conceded_goals','goalConDiff','logo']].rename(columns={
+        'pts':'Pts',
+        'name':'Team',
+        'real_position':'Pos',
+        'xg':'xG',
+        'xgConceded':'xGA',
+        'goals':'GF',
+        'conceded_goals':'GA',
+        'played':'M',
+        'wins':'W',
+        'draws':'D',
+        'losses':'L',
+        'goalConDiff':'GD'
+    })
+    tables[['Pts','GF','GA','Pos','M']] = tables[['Pts','GF','GA','Pos','M']].astype(int)
+    logos = tables.logo.tolist()[::-1]
+    tables = tables.iloc[:,:-1]
     
-#     tables.rename(columns={'Pos':' '},inplace=True)
+    tables.rename(columns={'Pos':' '},inplace=True)
     
-#     indexdf = tables[::-1].copy()
+    indexdf = tables[::-1].copy()
 
-#     return indexdf, logos
+    return indexdf, logos
 
-# def create_fotmob_table_img(lg, date, indexdf, logos):
-#     plt.clf()
-#     sns.set(rc={'axes.facecolor':'#fbf9f4', 'figure.facecolor':'#fbf9f4',
-#                'ytick.labelcolor':'#4A2E19', 'xtick.labelcolor':'#4A2E19'})
+def create_fotmob_table_img(lg, date, indexdf, logos):
+    plt.clf()
+    sns.set(rc={'axes.facecolor':'#fbf9f4', 'figure.facecolor':'#fbf9f4',
+               'ytick.labelcolor':'#4A2E19', 'xtick.labelcolor':'#4A2E19'})
     
     
-#     fig = plt.figure(figsize=(5,6), dpi=200)
-#     ax = plt.subplot()
+    fig = plt.figure(figsize=(5,6), dpi=200)
+    ax = plt.subplot()
     
-#     ncols = len(indexdf.columns.tolist())+1
-#     nrows = indexdf.shape[0]
+    ncols = len(indexdf.columns.tolist())+1
+    nrows = indexdf.shape[0]
     
-#     ax.set_xlim(0, ncols + .5)
-#     ax.set_ylim(0, nrows + 1.5)
+    ax.set_xlim(0, ncols + .5)
+    ax.set_ylim(0, nrows + 1.5)
     
-#     positions = [0.75, 1.2, 5, 5.75, 6.5, 7.25, 8, 8.75, 9.5, 10.25]
-#     columns = indexdf.columns.tolist()
+    positions = [0.75, 1.2, 5, 5.75, 6.5, 7.25, 8, 8.75, 9.5, 10.25]
+    columns = indexdf.columns.tolist()
     
-#     for i in range(nrows):
-#         for j, column in enumerate(columns):
-#             text_label = f'{indexdf[column].iloc[i]}'
-#             weight = 'regular'
-#             ax.annotate(
-#                 xy=(positions[j], i + .5),
-#                 text = text_label.replace(' U18',''),
-#                 ha='left',
-#                 va='center', color='#4A2E19',
-#                 weight=weight,
-#                 size=7.5
-#             )
+    for i in range(nrows):
+        for j, column in enumerate(columns):
+            text_label = f'{indexdf[column].iloc[i]}'
+            weight = 'regular'
+            ax.annotate(
+                xy=(positions[j], i + .5),
+                text = text_label.replace(' U18',''),
+                ha='left',
+                va='center', color='#4A2E19',
+                weight=weight,
+                size=7.5
+            )
     
-#     column_names = columns
-#     for index, c in enumerate(column_names):
-#             ax.annotate(
-#                 xy=(positions[index], nrows + .25),
-#                 text=column_names[index],
-#                 ha='left',
-#                 va='bottom',
-#                 weight='bold', color='#4A2E19',
-#                 size=7.5
-#             )
+    column_names = columns
+    for index, c in enumerate(column_names):
+            ax.annotate(
+                xy=(positions[index], nrows + .25),
+                text=column_names[index],
+                ha='left',
+                va='bottom',
+                weight='bold', color='#4A2E19',
+                size=7.5
+            )
     
-#     ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [nrows, nrows], lw=1.5, color='black', marker='', zorder=4)
-#     ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [0, 0], lw=1.5, color='black', marker='', zorder=4)
-#     for x in range(1, nrows):
-#         ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [x, x], lw=.5, color='gray', ls=':', zorder=3 , marker='')
+    ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [nrows, nrows], lw=1.5, color='black', marker='', zorder=4)
+    ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [0, 0], lw=1.5, color='black', marker='', zorder=4)
+    for x in range(1, nrows):
+        ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [x, x], lw=.5, color='gray', ls=':', zorder=3 , marker='')
     
-#     ax.set_axis_off()
+    ax.set_axis_off()
     
-#     DC_to_FC = ax.transData.transform
-#     FC_to_NFC = fig.transFigure.inverted().transform
-#     DC_to_NFC = lambda x: FC_to_NFC(DC_to_FC(x))
-#     ax_point_1 = DC_to_NFC([2.25, 0.25])
-#     ax_point_2 = DC_to_NFC([2.75, 0.75])
-#     ax_width = abs(ax_point_1[0] - ax_point_2[0])
-#     ax_height = abs(ax_point_1[1] - ax_point_2[1])
-#     def ax_logo(link, ax):
-#         club_icon = Image.open(urllib.request.urlopen(link))
-#         ax.imshow(club_icon)
-#         ax.axis('off')
-#         return ax
+    DC_to_FC = ax.transData.transform
+    FC_to_NFC = fig.transFigure.inverted().transform
+    DC_to_NFC = lambda x: FC_to_NFC(DC_to_FC(x))
+    ax_point_1 = DC_to_NFC([2.25, 0.25])
+    ax_point_2 = DC_to_NFC([2.75, 0.75])
+    ax_width = abs(ax_point_1[0] - ax_point_2[0])
+    ax_height = abs(ax_point_1[1] - ax_point_2[1])
+    def ax_logo(link, ax):
+        club_icon = Image.open(urllib.request.urlopen(link))
+        ax.imshow(club_icon)
+        ax.axis('off')
+        return ax
 
-#     for x in range(0, nrows):
-#         ax_coords = DC_to_NFC([0, x + .25])
-#         ax = fig.add_axes(
-#             [ax_coords[0], ax_coords[1], ax_width, ax_height]
-#         )
-#         ax_logo(logos[x], ax)
+    for x in range(0, nrows):
+        ax_coords = DC_to_NFC([0, x + .25])
+        ax = fig.add_axes(
+            [ax_coords[0], ax_coords[1], ax_width, ax_height]
+        )
+        ax_logo(logos[x], ax)
     
-#     fig.text(
-#         x=0.15, y=.91,
-#         s=f'{lg} Table',
-#         ha='left',
-#         va='bottom',
-#         weight='bold',
-#         size=11, color='#4A2E19'
-#     )
-#     fig.text(
-#         x=0.15, y=.9,
-#         s=f'Table code by @sonofacorner\nTable is from FotMob | football-match-reports.streamlit.app',
-#         ha='left',
-#         va='top',
-#         weight='regular',
-#         size=6, color='#4A2E19'
-#     )
+    fig.text(
+        x=0.15, y=.91,
+        s=f'{lg} Table',
+        ha='left',
+        va='bottom',
+        weight='bold',
+        size=11, color='#4A2E19'
+    )
+    fig.text(
+        x=0.15, y=.9,
+        s=f'Table code by @sonofacorner\nTable is from FotMob | football-match-reports.streamlit.app',
+        ha='left',
+        va='top',
+        weight='regular',
+        size=6, color='#4A2E19'
+    )
 
-#     return fig
+    return fig
 
 def add_mov_avg(df,var):
     df['4-Match Moving Average'] = np.nan
@@ -181,12 +181,10 @@ lg_id_dict = {lg_lookup.League[i]: lg_lookup.FotMob[i] for i in range(len(lg_loo
 
 with st.sidebar:
     lgg = st.selectbox('What League Do You Want Reports For?', league_list)
-    season = st.selectbox('Season', (sorted(lg_lookup[lg_lookup.League == lg].Season.unique().tolist(),reverse=True)))
+    update_date = lg_lookup[lg_lookup.League==lgg].Update.values[0]
+    league = lgg.replace("ü","u").replace("ó","o").replace("è","e")
     
-update_date = lg_lookup[(lg_lookup.League==lgg) & (lg_lookup.Season==season)].Update.values[0]
-league = lgg.replace("ü","u").replace("ó","o").replace("è","e")
-    
-st.title(f"{lgg} {season} Post-Match Reports")
+st.title(f"{lgg} Post-Match Reports")
 st.subheader(f"Last Updated: {update_date}\n")
 st.subheader('All data via Opta')
 
@@ -198,7 +196,7 @@ with st.expander('Disclaimer & Info'):
     - The Expected Points (xPts) model is a Pythagorean expectation model, using the xG output from my xG model. For more info on the method, please read my detailed explainer: https://cafetactiques.com/2023/04/15/creating-an-expected-points-model-inspired-by-pythagorean-expectation/
     ''')
 
-df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/League_Files/{league.replace(' ','%20')}%20Full%20Match%20List%20{season}.csv")
+df = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/League_Files/{league.replace(' ','%20')}%20Full%20Match%20List.csv")
 df['Match_Name'] = df['Match'] + ' ' + df['Date']
 
 
@@ -219,13 +217,13 @@ with st.sidebar:
 
     focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#4c94f6")
 
-# try:
-#     with st.sidebar:
-#         st.write(f"{lgg} Table (via FotMob)")
-#         table_indexdf, table_logos = get_fotmob_table_data(lgg)
-#         st.table(table_indexdf[::-1].reset_index(drop=True).rename(columns={' ':'Pos.'}))
-# except:
-#     pass
+try:
+    with st.sidebar:
+        st.write(f"{lgg} Table (via FotMob)")
+        table_indexdf, table_logos = get_fotmob_table_data(lgg)
+        st.table(table_indexdf[::-1].reset_index(drop=True).rename(columns={' ':'Pos.'}))
+except:
+    pass
 
 #########################
 def ben_theme():
@@ -266,14 +264,14 @@ for i in range(len(render_matches)):
             nbi_game_link = nbi_links[nbi_links.MatchName==render_matches[i]]['URL'].values[0]
             with report_tab:
                 st.write(f'Link to Full Match Video (some games may not have been shown on M4Sport and therefore are not available):  \n  \n{render_matches[i][:-11]} -> {nbi_game_link}')
-        url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}%20{season}/{match_string}.png"
+        url = f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Image_Files/{league.replace(' ','%20')}/{match_string}.png"
         response = requests.get(url)
         game_image = Image.open(io.BytesIO(response.content))
         report_tab.image(game_image)
     except:
         st.write(f"Apologies, {render_matches[i]} must not be available yet. Please check in later!")
 
-team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}%20{season}.csv")
+team_data = pd.read_csv(f"https://raw.githubusercontent.com/griffisben/Post_Match_App/main/Stat_Files/{league.replace(' ','%20')}.csv")
 
 conditions_team = [
     team_data['Goals'] > team_data['Goals Conceded'],
