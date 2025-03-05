@@ -1,4 +1,64 @@
 ﻿Date,Round,Match,Home,Away
+2024-12-16,27.0,Independiente Rivadavia 0-0 Deportivo Riestra,Independiente Rivadavia,Deportivo Riestra
+2024-12-16,27.0,Atlético Tucumán 2-0 Central Córdoba SdE,Atlético Tucumán,Central Córdoba SdE
+2024-12-15,27.0,Vélez Sarsfield 2-0 Huracán,Vélez Sarsfield,Huracán
+2024-12-15,27.0,Talleres de Córdoba 1-3 Newell's Old Boys,Talleres de Córdoba,Newell's Old Boys
+2024-12-15,27.0,Defensa y Justicia 0-0 Unión,Defensa y Justicia,Unión
+2024-12-15,27.0,Platense 1-0 Gimnasia La Plata,Platense,Gimnasia La Plata
+2024-12-14,27.0,Racing Club 1-0 River Plate,Racing Club,River Plate
+2024-12-14,27.0,Boca Juniors 0-0 Independiente,Boca Juniors,Independiente
+2024-12-14,27.0,Rosario Central 2-1 Belgrano,Rosario Central,Belgrano
+2024-12-14,27.0,Instituto 1-3 Godoy Cruz,Instituto,Godoy Cruz
+2024-12-13,27.0,San Lorenzo 0-1 Tigre,San Lorenzo,Tigre
+2024-12-13,27.0,Banfield 1-1 Sarmiento,Banfield,Sarmiento
+2024-12-13,27.0,Estudiantes 2-2 Argentinos Juniors,Estudiantes,Argentinos Juniors
+2024-12-13,27.0,Barracas Central 3-3 Lanús,Barracas Central,Lanús
+2024-12-09,26.0,Independiente 2-1 Atlético Tucumán,Independiente,Atlético Tucumán
+2024-12-09,26.0,Huracán 1-0 Platense,Huracán,Platense
+2024-12-09,26.0,Argentinos Juniors 1-0 San Lorenzo,Argentinos Juniors,San Lorenzo
+2024-12-09,26.0,Belgrano 2-2 Estudiantes,Belgrano,Estudiantes
+2024-12-09,26.0,Tigre 0-2 Independiente Rivadavia,Tigre,Independiente Rivadavia
+2024-12-08,26.0,Newell's Old Boys 0-1 Boca Juniors,Newell's Old Boys,Boca Juniors
+2024-12-08,26.0,River Plate 4-0 Rosario Central,River Plate,Rosario Central
+2024-12-08,26.0,Gimnasia La Plata 0-1 Talleres de Córdoba,Gimnasia La Plata,Talleres de Córdoba
+2024-12-08,26.0,Godoy Cruz 4-0 Banfield,Godoy Cruz,Banfield
+2024-12-07,26.0,Central Córdoba SdE 3-1 Racing Club,Central Córdoba SdE,Racing Club
+2024-12-07,26.0,Unión 1-0 Vélez Sarsfield,Unión,Vélez Sarsfield
+2024-12-07,26.0,Lanús 2-0 Instituto,Lanús,Instituto
+2024-12-06,26.0,Sarmiento 1-1 Defensa y Justicia,Sarmiento,Defensa y Justicia
+2024-12-06,26.0,Deportivo Riestra 0-0 Barracas Central,Deportivo Riestra,Barracas Central
+2024-12-04,24.0,River Plate 1-1 San Lorenzo,River Plate,San Lorenzo
+2024-12-04,24.0,Racing Club 4-5 Estudiantes,Racing Club,Estudiantes
+2024-12-02,25.0,Atlético Tucumán 0-0 Newell's Old Boys,Atlético Tucumán,Newell's Old Boys
+2024-12-02,25.0,Independiente Rivadavia 2-1 Argentinos Juniors,Independiente Rivadavia,Argentinos Juniors
+2024-12-02,25.0,Talleres de Córdoba 1-0 Huracán,Talleres de Córdoba,Huracán
+2024-12-02,25.0,Platense 1-0 Unión,Platense,Unión
+2024-12-02,25.0,Barracas Central 0-0 Tigre,Barracas Central,Tigre
+2024-12-01,25.0,Boca Juniors 1-0 Gimnasia La Plata,Boca Juniors,Gimnasia La Plata
+2024-12-01,25.0,Vélez Sarsfield 1-0 Sarmiento,Vélez Sarsfield,Sarmiento
+2024-12-01,25.0,Independiente 2-0 Central Córdoba SdE,Independiente,Central Córdoba SdE
+2024-11-30,25.0,Instituto 2-1 Deportivo Riestra,Instituto,Deportivo Riestra
+2024-11-30,25.0,Defensa y Justicia 2-1 Godoy Cruz,Defensa y Justicia,Godoy Cruz
+2024-11-30,25.0,Rosario Central 0-2 Racing Club,Rosario Central,Racing Club
+2024-11-30,25.0,Banfield 0-1 Lanús,Banfield,Lanús
+2024-11-29,25.0,Estudiantes 1-2 River Plate,Estudiantes,River Plate
+2024-11-29,25.0,San Lorenzo 0-2 Belgrano,San Lorenzo,Belgrano
+2024-11-26,24.0,Unión 2-3 Talleres de Córdoba,Unión,Talleres de Córdoba
+2024-11-26,24.0,Sarmiento 1-0 Platense,Sarmiento,Platense
+2024-11-26,24.0,Newell's Old Boys 2-1 Independiente,Newell's Old Boys,Independiente
+2024-11-25,24.0,Argentinos Juniors 0-1 Barracas Central,Argentinos Juniors,Barracas Central
+2024-11-25,24.0,Belgrano 0-2 Independiente Rivadavia,Belgrano,Independiente Rivadavia
+2024-11-25,24.0,Central Córdoba SdE 0-1 Rosario Central,Central Córdoba SdE,Rosario Central
+2024-11-24,24.0,Lanús 0-0 Defensa y Justicia,Lanús,Defensa y Justicia
+2024-11-24,24.0,Godoy Cruz 0-0 Vélez Sarsfield,Godoy Cruz,Vélez Sarsfield
+2024-11-24,24.0,Gimnasia La Plata 1-0 Atlético Tucumán,Gimnasia La Plata,Atlético Tucumán
+2024-11-24,24.0,Deportivo Riestra 1-1 Banfield,Deportivo Riestra,Banfield
+2024-11-23,24.0,Huracán 0-0 Boca Juniors,Huracán,Boca Juniors
+2024-11-23,24.0,Tigre 0-0 Instituto,Tigre,Instituto
+2024-11-21,23.0,Independiente Rivadavia 2-1 River Plate,Independiente Rivadavia,River Plate
+2024-11-21,23.0,Talleres de Córdoba 2-0 Sarmiento,Talleres de Córdoba,Sarmiento
+2024-11-21,23.0,Independiente 1-0 Gimnasia La Plata,Independiente,Gimnasia La Plata
+2024-11-21,23.0,Barracas Central 1-1 Belgrano,Barracas Central,Belgrano
 2024-11-20,23.0,Boca Juniors 1-0 Unión,Boca Juniors,Unión
 2024-11-20,23.0,Estudiantes 1-1 Rosario Central,Estudiantes,Rosario Central
 2024-11-20,23.0,Vélez Sarsfield 0-0 Lanús,Vélez Sarsfield,Lanús
