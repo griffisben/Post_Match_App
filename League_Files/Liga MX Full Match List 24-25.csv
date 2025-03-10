@@ -1,16 +1,132 @@
 ﻿Date,Round,Match,Home,Away
+2025-03-09,11.0,Tijuana 3-4 Atlas,Tijuana,Atlas
+2025-03-09,11.0,Santos Laguna 2-1 León,Santos Laguna,León
+2025-03-08,11.0,Guadalajara 0-0 Club América,Guadalajara,Club América
+2025-03-08,11.0,Cruz Azul 1-1 Monterrey,Cruz Azul,Monterrey
+2025-03-08,11.0,Pachuca 1-1 Mazatlán,Pachuca,Mazatlán
+2025-03-08,11.0,Toluca 5-2 Necaxa,Toluca,Necaxa
+2025-03-07,11.0,Puebla 1-3 Pumas UNAM,Puebla,Pumas UNAM
+2025-03-07,11.0,Tigres UANL 1-0 Querétaro,Tigres UANL,Querétaro
+2025-03-07,11.0,Atlético San Luis 1-0 Juárez,Atlético San Luis,Juárez
+2025-03-02,10.0,Monterrey 4-2 Santos Laguna,Monterrey,Santos Laguna
+2025-03-02,10.0,Atlas 3-1 Atlético San Luis,Atlas,Atlético San Luis
+2025-03-02,10.0,Querétaro 2-0 Puebla,Querétaro,Puebla
+2025-03-01,10.0,Pumas UNAM 0-1 Guadalajara,Pumas UNAM,Guadalajara
+2025-03-01,10.0,León 2-1 Tijuana,León,Tijuana
+2025-03-01,10.0,Necaxa 1-2 Tigres UANL,Necaxa,Tigres UANL
+2025-03-01,10.0,Juárez 2-2 Pachuca,Juárez,Pachuca
+2025-03-01,10.0,Club América 3-0 Toluca,Club América,Toluca
+2025-02-28,10.0,Mazatlán 1-1 Cruz Azul,Mazatlán,Cruz Azul
+2025-02-26,9.0,Atlético San Luis 3-1 Guadalajara,Atlético San Luis,Guadalajara
+2025-02-26,9.0,Toluca 5-0 Querétaro,Toluca,Querétaro
+2025-02-26,9.0,Pachuca 2-1 Puebla,Pachuca,Puebla
+2025-02-25,9.0,Tijuana 4-2 Pumas UNAM,Tijuana,Pumas UNAM
+2025-02-25,9.0,Mazatlán 1-0 Monterrey,Mazatlán,Monterrey
+2025-02-25,9.0,Tigres UANL 0-1 Juárez,Tigres UANL,Juárez
+2025-02-23,8.0,Cruz Azul 1-0 Querétaro,Cruz Azul,Querétaro
+2025-02-23,8.0,Santos Laguna 2-0 Atlas,Santos Laguna,Atlas
+2025-02-22,8.0,Pumas UNAM 0-2 Club América,Pumas UNAM,Club América
+2025-02-22,8.0,Guadalajara 2-1 Pachuca,Guadalajara,Pachuca
+2025-02-22,8.0,Monterrey 3-1 Atlético San Luis,Monterrey,Atlético San Luis
+2025-02-22,8.0,León 1-0 Tigres UANL,León,Tigres UANL
+2025-02-22,8.0,Juárez 0-4 Toluca,Juárez,Toluca
+2025-02-21,8.0,Puebla 2-0 Tijuana,Puebla,Tijuana
+2025-02-21,8.0,Necaxa 3-1 Mazatlán,Necaxa,Mazatlán
+2025-02-19,9.0,Santos Laguna 0-1 Cruz Azul,Santos Laguna,Cruz Azul
+2025-02-19,9.0,Club América 1-1 León,Club América,León
+2025-02-18,9.0,Atlas 0-4 Necaxa,Atlas,Necaxa
+2025-02-16,7.0,Pachuca 2-1 Pumas UNAM,Pachuca,Pumas UNAM
+2025-02-16,7.0,Atlético San Luis 1-2 León,Atlético San Luis,León
+2025-02-16,7.0,Querétaro 2-4 Monterrey,Querétaro,Monterrey
+2025-02-15,7.0,Toluca 2-1 Guadalajara,Toluca,Guadalajara
+2025-02-15,7.0,Tigres UANL 2-1 Cruz Azul,Tigres UANL,Cruz Azul
+2025-02-15,7.0,Atlas 3-2 Puebla,Atlas,Puebla
+2025-02-14,7.0,Club América 2-3 Necaxa,Club América,Necaxa
+2025-02-14,7.0,Mazatlán 1-1 Santos Laguna,Mazatlán,Santos Laguna
+2025-02-14,7.0,Tijuana 1-2 Juárez,Tijuana,Juárez
+2025-02-09,6.0,Guadalajara 2-1 Tijuana,Guadalajara,Tijuana
+2025-02-09,6.0,Pumas UNAM 1-0 Mazatlán,Pumas UNAM,Mazatlán
+2025-02-08,6.0,Cruz Azul 2-1 Pachuca,Cruz Azul,Pachuca
+2025-02-08,6.0,Juárez 2-1 Monterrey,Juárez,Monterrey
+2025-02-08,6.0,Tigres UANL 2-1 Atlas,Tigres UANL,Atlas
+2025-02-08,6.0,León 3-3 Toluca,León,Toluca
+2025-02-07,6.0,Puebla 1-2 Club América,Puebla,Club América
+2025-02-07,6.0,Necaxa 3-2 Santos Laguna,Necaxa,Santos Laguna
+2025-02-07,6.0,Querétaro 1-0 Atlético San Luis,Querétaro,Atlético San Luis
+2025-02-05,1.0,Pachuca 1-2 León,Pachuca,León
+2025-02-02,5.0,Atlético San Luis 2-3 Pumas UNAM,Atlético San Luis,Pumas UNAM
+2025-02-02,5.0,Santos Laguna 0-2 Puebla,Santos Laguna,Puebla
+2025-02-01,5.0,Toluca 1-0 Tigres UANL,Toluca,Tigres UANL
+2025-02-01,5.0,Monterrey 1-0 Necaxa,Monterrey,Necaxa
+2025-02-01,5.0,Pachuca 0-0 Atlas,Pachuca,Atlas
+2025-02-01,5.0,Guadalajara 1-1 Querétaro,Guadalajara,Querétaro
+2025-02-01,5.0,Club América 4-0 Juárez,Club América,Juárez
+2025-01-31,5.0,Tijuana 2-3 Cruz Azul,Tijuana,Cruz Azul
+2025-01-31,5.0,Mazatlán 1-2 León,Mazatlán,León
+2025-01-29,4.0,Pumas UNAM 1-1 Toluca,Pumas UNAM,Toluca
+2025-01-29,4.0,Juárez 1-0 Santos Laguna,Juárez,Santos Laguna
+2025-01-29,4.0,Querétaro 0-1 Pachuca,Querétaro,Pachuca
+2025-01-29,4.0,Atlas 3-3 Monterrey,Atlas,Monterrey
+2025-01-28,4.0,Necaxa 1-3 Cruz Azul,Necaxa,Cruz Azul
+2025-01-28,4.0,Tigres UANL 4-0 Tijuana,Tigres UANL,Tijuana
+2025-01-28,4.0,León 2-1 Guadalajara,León,Guadalajara
+2025-01-28,4.0,Puebla 0-1 Mazatlán,Puebla,Mazatlán
+2025-01-28,4.0,Club América 3-0 Atlético San Luis,Club América,Atlético San Luis
+2025-01-26,3.0,Pumas UNAM 0-0 Atlas,Pumas UNAM,Atlas
+2025-01-25,3.0,Monterrey 2-3 Pachuca,Monterrey,Pachuca
+2025-01-25,3.0,Santos Laguna 1-4 Club América,Santos Laguna,Club América
+2025-01-25,3.0,Guadalajara 1-1 Tigres UANL,Guadalajara,Tigres UANL
+2025-01-25,3.0,Cruz Azul 1-1 Puebla,Cruz Azul,Puebla
+2025-01-25,3.0,León 1-0 Juárez,León,Juárez
+2025-01-24,3.0,Mazatlán 2-1 Toluca,Mazatlán,Toluca
+2025-01-24,3.0,Tijuana 2-1 Querétaro,Tijuana,Querétaro
+2025-01-24,3.0,Atlético San Luis 0-3 Necaxa,Atlético San Luis,Necaxa
+2025-01-20,2.0,Pachuca 2-1 Santos Laguna,Pachuca,Santos Laguna
+2025-01-19,2.0,Querétaro 3-2 Pumas UNAM,Querétaro,Pumas UNAM
+2025-01-18,2.0,Atlas 1-2 León,Atlas,León
+2025-01-18,2.0,Toluca 1-1 Monterrey,Toluca,Monterrey
+2025-01-18,2.0,Juárez 1-0 Cruz Azul,Juárez,Cruz Azul
+2025-01-17,2.0,Necaxa 3-2 Guadalajara,Necaxa,Guadalajara
+2025-01-17,2.0,Tigres UANL 2-1 Mazatlán,Tigres UANL,Mazatlán
+2025-01-17,2.0,Puebla 1-2 Atlético San Luis,Puebla,Atlético San Luis
+2025-01-16,2.0,Club América 1-1 Tijuana,Club América,Tijuana
+2025-01-12,1.0,Monterrey 1-1 Puebla,Monterrey,Puebla
+2025-01-12,1.0,Pumas UNAM 2-1 Necaxa,Pumas UNAM,Necaxa
+2025-01-11,1.0,Cruz Azul 1-1 Atlas,Cruz Azul,Atlas
+2025-01-11,1.0,Guadalajara 1-0 Santos Laguna,Guadalajara,Santos Laguna
+2025-01-11,1.0,Atlético San Luis 1-3 Tigres UANL,Atlético San Luis,Tigres UANL
+2025-01-10,1.0,Tijuana 2-4 Toluca,Tijuana,Toluca
+2025-01-10,1.0,Mazatlán 1-1 Juárez,Mazatlán,Juárez
+2025-01-10,1.0,Querétaro 0-1 Club América,Querétaro,Club América
+2024-12-15,,Monterrey 1-1 Club América,Monterrey,Club América
+2024-12-12,,Club América 2-1 Monterrey,Club América,Monterrey
+2024-12-08,,Cruz Azul 3-4 Club América,Cruz Azul,Club América
+2024-12-07,,Monterrey 5-1 Atlético San Luis,Monterrey,Atlético San Luis
+2024-12-05,,Club América 0-0 Cruz Azul,Club América,Cruz Azul
+2024-12-04,,Atlético San Luis 2-1 Monterrey,Atlético San Luis,Monterrey
+2024-12-01,,Tigres UANL 0-0 Atlético San Luis,Tigres UANL,Atlético San Luis
+2024-12-01,,Pumas UNAM 3-5 Monterrey,Pumas UNAM,Monterrey
+2024-11-30,,Cruz Azul 3-0 Tijuana,Cruz Azul,Tijuana
+2024-11-30,,Toluca 0-2 Club América,Toluca,Club América
+2024-11-28,,Monterrey 1-0 Pumas UNAM,Monterrey,Pumas UNAM
+2024-11-28,,Atlético San Luis 3-0 Tigres UANL,Atlético San Luis,Tigres UANL
+2024-11-27,,Tijuana 3-0 Cruz Azul,Tijuana,Cruz Azul
+2024-11-27,,Club América 2-0 Toluca,Club América,Toluca
+2024-11-24,,Tijuana 3-0 Atlas,Tijuana,Atlas
+2024-11-21,,Tijuana 2-2 Club América,Tijuana,Club América
+2024-11-21,,Guadalajara 1-2 Atlas,Guadalajara,Atlas
 2024-11-10,17.0,Tijuana 2-1 Puebla,Tijuana,Puebla
 2024-11-10,17.0,Monterrey 2-1 León,Monterrey,León
 2024-11-10,17.0,Necaxa 0-0 Atlas,Necaxa,Atlas
 2024-11-09,17.0,Cruz Azul 1-1 Tigres UANL,Cruz Azul,Tigres UANL
-2024-11-09,17.0,Toluca 4-0 América,Toluca,América
+2024-11-09,17.0,Toluca 4-0 Club América,Toluca,Club América
 2024-11-09,17.0,Pachuca 0-1 Juárez,Pachuca,Juárez
 2024-11-09,17.0,Guadalajara 0-1 Atlético San Luis,Guadalajara,Atlético San Luis
 2024-11-08,17.0,Mazatlán 0-1 Pumas UNAM,Mazatlán,Pumas UNAM
 2024-11-08,17.0,Querétaro 3-2 Santos Laguna,Querétaro,Santos Laguna
 2024-11-06,16.0,Juárez 1-1 Tijuana,Juárez,Tijuana
 2024-11-06,16.0,Atlas 2-2 Cruz Azul,Atlas,Cruz Azul
-2024-11-06,16.0,América 2-1 Pachuca,América,Pachuca
+2024-11-06,16.0,Club América 2-1 Pachuca,Club América,Pachuca
 2024-11-06,16.0,Necaxa 1-1 Atlético San Luis,Necaxa,Atlético San Luis
 2024-11-06,16.0,Tigres UANL 2-1 Toluca,Tigres UANL,Toluca
 2024-11-05,16.0,Pumas UNAM 2-0 Querétaro,Pumas UNAM,Querétaro
@@ -23,9 +139,9 @@
 2024-11-02,15.0,Toluca 2-2 León,Toluca,León
 2024-11-02,15.0,Atlético San Luis 2-0 Puebla,Atlético San Luis,Puebla
 2024-11-01,15.0,Tijuana 0-3 Tigres UANL,Tijuana,Tigres UANL
-2024-11-01,15.0,Mazatlán 0-5 América,Mazatlán,América
+2024-11-01,15.0,Mazatlán 0-5 Club América,Mazatlán,Club América
 2024-11-01,15.0,Querétaro 1-2 Juárez,Querétaro,Juárez
-2024-10-27,14.0,América 2-1 Monterrey,América,Monterrey
+2024-10-27,14.0,Club América 2-1 Monterrey,Club América,Monterrey
 2024-10-27,14.0,Juárez 2-4 Atlético San Luis,Juárez,Atlético San Luis
 2024-10-27,14.0,Necaxa 1-3 Toluca,Necaxa,Toluca
 2024-10-26,14.0,Atlas 0-0 Tijuana,Atlas,Tijuana
@@ -34,7 +150,7 @@
 2024-10-26,14.0,León 4-0 Querétaro,León,Querétaro
 2024-10-25,14.0,Puebla 1-0 Guadalajara,Puebla,Guadalajara
 2024-10-25,14.0,Santos Laguna 0-0 Mazatlán,Santos Laguna,Mazatlán
-2024-10-23,13.0,Tijuana 2-2 América,Tijuana,América
+2024-10-23,13.0,Tijuana 2-2 Club América,Tijuana,Club América
 2024-10-23,13.0,León 0-0 Atlas,León,Atlas
 2024-10-23,13.0,Monterrey 0-0 Pumas UNAM,Monterrey,Pumas UNAM
 2024-10-23,13.0,Cruz Azul 4-0 Juárez,Cruz Azul,Juárez
@@ -45,14 +161,14 @@
 2024-10-20,12.0,Pumas UNAM 3-0 Atlético San Luis,Pumas UNAM,Atlético San Luis
 2024-10-19,12.0,Monterrey 4-2 Tigres UANL,Monterrey,Tigres UANL
 2024-10-19,12.0,Juárez 2-3 León,Juárez,León
-2024-10-19,12.0,América 3-0 Santos Laguna,América,Santos Laguna
+2024-10-19,12.0,Club América 3-0 Santos Laguna,Club América,Santos Laguna
 2024-10-19,12.0,Pachuca 0-2 Guadalajara,Pachuca,Guadalajara
 2024-10-18,12.0,Puebla 1-2 Cruz Azul,Puebla,Cruz Azul
 2024-10-18,12.0,Necaxa 1-2 Tijuana,Necaxa,Tijuana
 2024-10-18,12.0,Querétaro 0-1 Toluca,Querétaro,Toluca
 2024-10-18,12.0,Atlas 0-0 Mazatlán,Atlas,Mazatlán
 2024-10-06,11.0,Santos Laguna 0-2 Juárez,Santos Laguna,Juárez
-2024-10-05,11.0,León 1-1 América,León,América
+2024-10-05,11.0,León 1-1 Club América,León,Club América
 2024-10-05,11.0,Guadalajara 2-3 Atlas,Guadalajara,Atlas
 2024-10-05,11.0,Toluca 1-1 Pumas UNAM,Toluca,Pumas UNAM
 2024-10-05,11.0,Cruz Azul 3-0 Necaxa,Cruz Azul,Necaxa
@@ -60,7 +176,7 @@
 2024-10-05,11.0,Tigres UANL 1-0 Puebla,Tigres UANL,Puebla
 2024-10-04,11.0,Tijuana 2-1 Pachuca,Tijuana,Pachuca
 2024-10-04,11.0,Mazatlán 2-2 Querétaro,Mazatlán,Querétaro
-2024-09-29,10.0,América 0-1 Pumas UNAM,América,Pumas UNAM
+2024-09-29,10.0,Club América 0-1 Pumas UNAM,Club América,Pumas UNAM
 2024-09-28,10.0,Atlético San Luis 3-1 Santos Laguna,Atlético San Luis,Santos Laguna
 2024-09-28,10.0,Guadalajara 1-1 Monterrey,Guadalajara,Monterrey
 2024-09-28,10.0,Pachuca 2-4 Cruz Azul,Pachuca,Cruz Azul
@@ -74,7 +190,7 @@
 2024-09-22,9.0,Pumas UNAM 1-0 Tijuana,Pumas UNAM,Tijuana
 2024-09-21,9.0,Cruz Azul 1-0 Guadalajara,Cruz Azul,Guadalajara
 2024-09-21,9.0,Monterrey 0-0 Mazatlán,Monterrey,Mazatlán
-2024-09-21,9.0,Necaxa 1-1 América,Necaxa,América
+2024-09-21,9.0,Necaxa 1-1 Club América,Necaxa,Club América
 2024-09-21,9.0,León 1-0 Atlético San Luis,León,Atlético San Luis
 2024-09-20,9.0,Puebla 2-3 Pachuca,Puebla,Pachuca
 2024-09-20,9.0,Atlas 0-1 Querétaro,Atlas,Querétaro
@@ -83,12 +199,12 @@
 2024-09-18,8.0,Guadalajara 2-0 León,Guadalajara,León
 2024-09-17,8.0,Pumas UNAM 1-0 Puebla,Pumas UNAM,Puebla
 2024-09-17,8.0,Querétaro 1-0 Tigres UANL,Querétaro,Tigres UANL
-2024-09-17,8.0,América 3-0 Atlas,América,Atlas
+2024-09-17,8.0,Club América 3-0 Atlas,Club América,Atlas
 2024-09-17,8.0,Pachuca 2-2 Toluca,Pachuca,Toluca
 2024-09-17,8.0,Atlético San Luis 3-1 Cruz Azul,Atlético San Luis,Cruz Azul
 2024-09-14,7.0,Santos Laguna 0-2 Monterrey,Santos Laguna,Monterrey
 2024-09-14,7.0,León 1-2 Cruz Azul,León,Cruz Azul
-2024-09-14,7.0,América 1-0 Guadalajara,América,Guadalajara
+2024-09-14,7.0,Club América 1-0 Guadalajara,Club América,Guadalajara
 2024-09-14,7.0,Toluca 4-0 Tijuana,Toluca,Tijuana
 2024-09-13,7.0,Necaxa 2-0 Pumas UNAM,Necaxa,Pumas UNAM
 2024-09-13,7.0,Juárez 1-0 Mazatlán,Juárez,Mazatlán
@@ -97,7 +213,7 @@
 2024-09-13,7.0,Puebla 2-1 Querétaro,Puebla,Querétaro
 2024-09-01,6.0,Santos Laguna 3-2 Necaxa,Santos Laguna,Necaxa
 2024-09-01,6.0,Pumas UNAM 1-3 Tigres UANL,Pumas UNAM,Tigres UANL
-2024-08-31,6.0,Cruz Azul 4-1 América,Cruz Azul,América
+2024-08-31,6.0,Cruz Azul 4-1 Club América,Cruz Azul,Club América
 2024-08-31,6.0,Monterrey 1-2 Toluca,Monterrey,Toluca
 2024-08-31,6.0,Guadalajara 5-0 Juárez,Guadalajara,Juárez
 2024-08-31,6.0,Pachuca 1-1 Querétaro,Pachuca,Querétaro
@@ -105,7 +221,7 @@
 2024-08-30,6.0,Mazatlán 1-1 Puebla,Mazatlán,Puebla
 2024-08-30,6.0,Atlético San Luis 2-1 Atlas,Atlético San Luis,Atlas
 2024-08-25,5.0,Toluca 2-1 Atlético San Luis,Toluca,Atlético San Luis
-2024-08-24,5.0,América 0-1 Puebla,América,Puebla
+2024-08-24,5.0,Club América 0-1 Puebla,Club América,Puebla
 2024-08-24,5.0,Tigres UANL 1-1 Guadalajara,Tigres UANL,Guadalajara
 2024-08-24,5.0,Atlas 2-1 Pumas UNAM,Atlas,Pumas UNAM
 2024-08-24,5.0,León 1-1 Santos Laguna,León,Santos Laguna
@@ -118,14 +234,14 @@
 2024-08-16,16.0,Puebla 1-2 Monterrey,Puebla,Monterrey
 2024-07-21,4.0,León 1-1 Necaxa,León,Necaxa
 2024-07-21,4.0,Pumas UNAM 2-0 Pachuca,Pumas UNAM,Pachuca
-2024-07-20,4.0,Juárez 1-2 América,Juárez,América
+2024-07-20,4.0,Juárez 1-2 Club América,Juárez,Club América
 2024-07-20,4.0,Cruz Azul 1-1 Toluca,Cruz Azul,Toluca
 2024-07-20,4.0,Monterrey 2-1 Querétaro,Monterrey,Querétaro
 2024-07-20,4.0,Santos Laguna 0-3 Tigres UANL,Santos Laguna,Tigres UANL
 2024-07-20,4.0,Guadalajara 2-0 Mazatlán,Guadalajara,Mazatlán
 2024-07-19,4.0,Puebla 1-2 Atlas,Puebla,Atlas
 2024-07-19,4.0,Atlético San Luis 1-1 Tijuana,Atlético San Luis,Tijuana
-2024-07-17,3.0,Tigres UANL 1-0 América,Tigres UANL,América
+2024-07-17,3.0,Tigres UANL 1-0 Club América,Tigres UANL,Club América
 2024-07-17,3.0,Toluca 3-0 Mazatlán,Toluca,Mazatlán
 2024-07-17,3.0,Juárez 1-2 Pumas UNAM,Juárez,Pumas UNAM
 2024-07-17,3.0,Necaxa 0-1 Monterrey,Necaxa,Monterrey
@@ -142,13 +258,13 @@
 2024-07-12,2.0,Atlas 1-1 Tigres UANL,Atlas,Tigres UANL
 2024-07-12,2.0,Tijuana 4-2 Guadalajara,Tijuana,Guadalajara
 2024-07-12,2.0,Mazatlán 2-2 Atlético San Luis,Mazatlán,Atlético San Luis
-2024-07-12,2.0,América 3-1 Querétaro,América,Querétaro
+2024-07-12,2.0,Club América 3-1 Querétaro,Club América,Querétaro
 2024-07-07,1.0,Pachuca 0-1 Monterrey,Pachuca,Monterrey
 2024-07-07,1.0,Pumas UNAM 4-1 León,Pumas UNAM,León
 2024-07-06,1.0,Cruz Azul 1-0 Mazatlán,Cruz Azul,Mazatlán
 2024-07-06,1.0,Guadalajara 0-0 Toluca,Guadalajara,Toluca
 2024-07-06,1.0,Tigres UANL 1-0 Necaxa,Tigres UANL,Necaxa
-2024-07-06,1.0,Atlético San Luis 2-1 América,Atlético San Luis,América
+2024-07-06,1.0,Atlético San Luis 2-1 Club América,Atlético San Luis,Club América
 2024-07-05,1.0,Juárez 2-2 Atlas,Juárez,Atlas
 2024-07-05,1.0,Querétaro 1-2 Tijuana,Querétaro,Tijuana
 2024-07-05,1.0,Puebla 1-0 Santos Laguna,Puebla,Santos Laguna
