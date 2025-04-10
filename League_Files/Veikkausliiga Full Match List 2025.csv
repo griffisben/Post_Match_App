@@ -1,7 +1,7 @@
-﻿Date,Round,Match,Home,Away
-2025-04-05,1,Haka 3-2 Gnistan,Haka,Gnistan
-2025-04-05,1,VPS 4-3 Oulu,VPS,Oulu
-2025-04-05,1,KTP 0-1 SJK,KTP,SJK
-2025-04-05,1,Mariehamn 0-2 Jaro,Mariehamn,Jaro
-2025-04-05,1,Inter Turku 1-1 KuPS,Inter Turku,KuPS
-2025-04-05,1,Ilves 3-2 HJK,Ilves,HJK
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-05,1,Haka 3-2 Gnistan,Haka,Gnistan,7t9344kbgek0hcvwymv8nnitw,ejttfam7jp8re7ornadm9gg0k
+2025-04-05,1,VPS 4-3 Oulu,VPS,Oulu,7t9344kbgek0hcvwymv8nnitw,ejf8h7tupo709esam8fbornys
+2025-04-05,1,KTP 0-1 SJK,KTP,SJK,7t9344kbgek0hcvwymv8nnitw,eizrlfv55zeqwv0k2lyg1n7dg
+2025-04-05,1,Mariehamn 0-2 Jaro,Mariehamn,Jaro,7t9344kbgek0hcvwymv8nnitw,eil0amasvlaxjnrfg682f2w44
+2025-04-05,1,Inter Turku 1-1 KuPS,Inter Turku,KuPS,7t9344kbgek0hcvwymv8nnitw,ei6atjursp4q4m0x0rxr9uwpg
+2025-04-05,1,Ilves 3-2 HJK,Ilves,HJK,7t9344kbgek0hcvwymv8nnitw,ehoib0ip94vvwmt5evd84vpck

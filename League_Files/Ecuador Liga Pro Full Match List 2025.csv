@@ -1,56 +1,56 @@
-﻿Date,Round,Match,Home,Away
-2025-04-06,7,Emelec 1-1 Manta,Emelec,Manta
-2025-04-06,7,Universidad Católica 1-0 Macará,Universidad Católica,Macará
-2025-04-06,7,Técnico Universitario 1-1 Mushuc Runa,Técnico Universitario,Mushuc Runa
-2025-04-05,7,Independiente Valle 4-0 Deportivo Cuenca,Independiente Valle,Deportivo Cuenca
-2025-04-05,7,Orense 0-0 Vinotinto de Ecuador,Orense,Vinotinto de Ecuador
-2025-04-05,7,Delfín 1-1 Aucas,Delfín,Aucas
-2025-04-04,7,Libertad 1-3 El Nacional,Libertad,El Nacional
-2025-03-30,6,El Nacional 0-1 Orense,El Nacional,Orense
-2025-03-30,6,Manta 1-1 Libertad,Manta,Libertad
-2025-03-30,6,Macará 0-1 Técnico Universitario,Macará,Técnico Universitario
-2025-03-29,6,Mushuc Runa 1-1 Emelec,Mushuc Runa,Emelec
-2025-03-29,6,Deportivo Cuenca 1-2 LDU Quito,Deportivo Cuenca,LDU Quito
-2025-03-29,6,Vinotinto de Ecuador 3-2 Universidad Católica,Vinotinto de Ecuador,Universidad Católica
-2025-03-28,6,Barcelona 2-0 Delfín,Barcelona,Delfín
-2025-03-28,6,Aucas 1-2 Independiente Valle,Aucas,Independiente Valle
-2025-03-17,5,Técnico Universitario 0-1 Barcelona,Técnico Universitario,Barcelona
-2025-03-16,5,Emelec 1-0 LDU Quito,Emelec,LDU Quito
-2025-03-16,5,El Nacional 0-1 Aucas,El Nacional,Aucas
-2025-03-16,5,Independiente Valle 1-1 Macará,Independiente Valle,Macará
-2025-03-15,5,Delfín 0-0 Deportivo Cuenca,Delfín,Deportivo Cuenca
-2025-03-15,5,Universidad Católica 3-0 Manta,Universidad Católica,Manta
-2025-03-15,5,Libertad 4-1 Orense,Libertad,Orense
-2025-03-14,5,Mushuc Runa 1-2 Vinotinto de Ecuador,Mushuc Runa,Vinotinto de Ecuador
-2025-03-10,4,Orense 2-1 Técnico Universitario,Orense,Técnico Universitario
-2025-03-09,4,Vinotinto de Ecuador 2-1 Emelec,Vinotinto de Ecuador,Emelec
-2025-03-09,4,Macará 1-1 Aucas,Macará,Aucas
-2025-03-09,4,Universidad Católica 1-1 Mushuc Runa,Universidad Católica,Mushuc Runa
-2025-03-08,4,Barcelona 0-4 Independiente Valle,Barcelona,Independiente Valle
-2025-03-08,4,Manta 4-3 El Nacional,Manta,El Nacional
-2025-03-08,4,LDU Quito 3-0 Delfín,LDU Quito,Delfín
-2025-03-07,4,Deportivo Cuenca 0-1 Libertad,Deportivo Cuenca,Libertad
-2025-03-03,3,Manta 2-2 Delfín,Manta,Delfín
-2025-03-02,3,El Nacional 0-0 Técnico Universitario,El Nacional,Técnico Universitario
-2025-03-02,3,Aucas 2-2 Vinotinto de Ecuador,Aucas,Vinotinto de Ecuador
-2025-03-02,3,Independiente Valle 1-1 Universidad Católica,Independiente Valle,Universidad Católica
-2025-03-01,3,Libertad 1-4 Barcelona,Libertad,Barcelona
-2025-03-01,3,LDU Quito 4-0 Orense,LDU Quito,Orense
-2025-03-01,3,Mushuc Runa 3-1 Deportivo Cuenca,Mushuc Runa,Deportivo Cuenca
-2025-02-28,3,Emelec 0-0 Macará,Emelec,Macará
-2025-02-24,2,Técnico Universitario 2-2 Libertad,Técnico Universitario,Libertad
-2025-02-23,2,Barcelona 1-0 Mushuc Runa,Barcelona,Mushuc Runa
-2025-02-23,2,Orense 2-1 Manta,Orense,Manta
-2025-02-23,2,Universidad Católica 1-1 El Nacional,Universidad Católica,El Nacional
-2025-02-22,2,Independiente Valle 1-1 LDU Quito,Independiente Valle,LDU Quito
-2025-02-22,2,Delfín 2-0 Emelec,Delfín,Emelec
-2025-02-22,2,Vinotinto de Ecuador 1-2 Macará,Vinotinto de Ecuador,Macará
-2025-02-21,2,Deportivo Cuenca 2-0 Aucas,Deportivo Cuenca,Aucas
-2025-02-17,1,Mushuc Runa 2-0 Delfín,Mushuc Runa,Delfín
-2025-02-16,1,Emelec 0-4 Universidad Católica,Emelec,Universidad Católica
-2025-02-16,1,El Nacional 0-1 Deportivo Cuenca,El Nacional,Deportivo Cuenca
-2025-02-16,1,LDU Quito 0-0 Vinotinto de Ecuador,LDU Quito,Vinotinto de Ecuador
-2025-02-15,1,Macará 1-0 Orense,Macará,Orense
-2025-02-15,1,Libertad 2-0 Independiente Valle,Libertad,Independiente Valle
-2025-02-15,1,Aucas 4-1 Técnico Universitario,Aucas,Técnico Universitario
-2025-02-14,1,Manta 2-3 Barcelona,Manta,Barcelona
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-06,7,Emelec 1-1 Manta,Emelec,Manta,5kew94t602zbzw5zv2rjkcetw,bjq5bgbp0xrnpl9nyvhbzryfo
+2025-04-06,7,Universidad Católica 1-0 Macará,Universidad Católica,Macará,5kew94t602zbzw5zv2rjkcetw,biyfishy5lr6y9jo51idcom50
+2025-04-06,7,Técnico Universitario 1-1 Mushuc Runa,Técnico Universitario,Mushuc Runa,5kew94t602zbzw5zv2rjkcetw,bjcccqfnoi9h3omjro9yz3eac
+2025-04-05,7,Independiente Valle 4-0 Deportivo Cuenca,Independiente Valle,Deportivo Cuenca,5kew94t602zbzw5zv2rjkcetw,bk4j2hsyfxpl7wlwz5a81phjo
+2025-04-05,7,Orense 0-0 Vinotinto de Ecuador,Orense,Vinotinto de Ecuador,5kew94t602zbzw5zv2rjkcetw,bikgphdqmy91vrc0thpor9a1g
+2025-04-05,7,Delfín 1-1 Aucas,Delfín,Aucas,5kew94t602zbzw5zv2rjkcetw,bhsa874p214jmvwne9p72o6qc
+2025-04-04,7,Libertad 1-3 El Nacional,Libertad,El Nacional,5kew94t602zbzw5zv2rjkcetw,bi6jwiv4jlufm9xo3hqphwkr8
+2025-03-30,6,El Nacional 0-1 Orense,El Nacional,Orense,5kew94t602zbzw5zv2rjkcetw,bglfrsqgxz56simj0xdcnkg7o
+2025-03-30,6,Manta 1-1 Libertad,Manta,Libertad,5kew94t602zbzw5zv2rjkcetw,bh0v3qrcz7geb196pj95covmc
+2025-03-30,6,Macará 0-1 Técnico Universitario,Macará,Técnico Universitario,5kew94t602zbzw5zv2rjkcetw,bfu43hll4cdwrc0pf11t0i3h0
+2025-03-29,6,Mushuc Runa 1-1 Emelec,Mushuc Runa,Emelec,5kew94t602zbzw5zv2rjkcetw,beantjtnzu09iex8m11btpj4k
+2025-03-29,6,Deportivo Cuenca 1-2 LDU Quito,Deportivo Cuenca,LDU Quito,5kew94t602zbzw5zv2rjkcetw,beok0b9tli3d533abfgx4pst0
+2025-03-29,6,Vinotinto de Ecuador 3-2 Universidad Católica,Vinotinto de Ecuador,Universidad Católica,5kew94t602zbzw5zv2rjkcetw,bf2jrvvlyto696hanx7gbkydw
+2025-03-28,6,Barcelona 2-0 Delfín,Barcelona,Delfín,5kew94t602zbzw5zv2rjkcetw,bg7q8ih4ne6te576gchk794ic
+2025-03-28,6,Aucas 1-2 Independiente Valle,Aucas,Independiente Valle,5kew94t602zbzw5zv2rjkcetw,bfgjpn8o7mszixw08au33evis
+2025-03-17,5,Técnico Universitario 0-1 Barcelona,Técnico Universitario,Barcelona,5kew94t602zbzw5zv2rjkcetw,bb7gzj54t7vocvo4hpsvahqfo
+2025-03-16,5,Emelec 1-0 LDU Quito,Emelec,LDU Quito,5kew94t602zbzw5zv2rjkcetw,bbl8krtp9lcnrybfl64sro104
+2025-03-16,5,El Nacional 0-1 Aucas,El Nacional,Aucas,5kew94t602zbzw5zv2rjkcetw,bc0ld23bvxx0tk04lcbm6y0pg
+2025-03-16,5,Independiente Valle 1-1 Macará,Independiente Valle,Macará,5kew94t602zbzw5zv2rjkcetw,bcrw6jhscecqwarz6of587v9w
+2025-03-15,5,Delfín 0-0 Deportivo Cuenca,Delfín,Deportivo Cuenca,5kew94t602zbzw5zv2rjkcetw,bdwypt0opi6epq1116nvogowk
+2025-03-15,5,Universidad Católica 3-0 Manta,Universidad Católica,Manta,5kew94t602zbzw5zv2rjkcetw,bd5l4zz1tcac6hrq6ksc8sis4
+2025-03-15,5,Libertad 4-1 Orense,Libertad,Orense,5kew94t602zbzw5zv2rjkcetw,bdj6lo454u9pul2h7b0jtc3kk
+2025-03-14,5,Mushuc Runa 1-2 Vinotinto de Ecuador,Mushuc Runa,Vinotinto de Ecuador,5kew94t602zbzw5zv2rjkcetw,bce7uus2gd8ffnf2xdwf9a6tw
+2025-03-10,4,Orense 2-1 Técnico Universitario,Orense,Técnico Universitario,5kew94t602zbzw5zv2rjkcetw,b9ph6j91kdudkwh9ox9ybsglw
+2025-03-09,4,Vinotinto de Ecuador 2-1 Emelec,Vinotinto de Ecuador,Emelec,5kew94t602zbzw5zv2rjkcetw,b8665txkwwrtmofs09juf56ac
+2025-03-09,4,Macará 1-1 Aucas,Macará,Aucas,5kew94t602zbzw5zv2rjkcetw,b8jypuo01ks53t9i8bhasi6ms
+2025-03-09,4,Universidad Católica 1-1 Mushuc Runa,Universidad Católica,Mushuc Runa,5kew94t602zbzw5zv2rjkcetw,ba36ywltah8d543uqrumxr40k
+2025-03-08,4,Barcelona 0-4 Independiente Valle,Barcelona,Independiente Valle,5kew94t602zbzw5zv2rjkcetw,b8y2pqfrjou45vyjw8d79kt90
+2025-03-08,4,Manta 4-3 El Nacional,Manta,El Nacional,5kew94t602zbzw5zv2rjkcetw,b9bwtob838d48g13etuurrbis
+2025-03-08,4,LDU Quito 3-0 Delfín,LDU Quito,Delfín,5kew94t602zbzw5zv2rjkcetw,bagk0ij4v6utzwvlravte8d1w
+2025-03-07,4,Deportivo Cuenca 0-1 Libertad,Deportivo Cuenca,Libertad,5kew94t602zbzw5zv2rjkcetw,batzbru09bpyg441oprveeadw
+2025-03-03,3,Manta 2-2 Delfín,Manta,Delfín,5kew94t602zbzw5zv2rjkcetw,b711xadr00aphtk2c8ykcr3f8
+2025-03-02,3,El Nacional 0-0 Técnico Universitario,El Nacional,Técnico Universitario,5kew94t602zbzw5zv2rjkcetw,b67ypbsho59ai3ziyghw4yot0
+2025-03-02,3,Aucas 2-2 Vinotinto de Ecuador,Aucas,Vinotinto de Ecuador,5kew94t602zbzw5zv2rjkcetw,b5uljp78zqs8usxe1pdgbhmac
+2025-03-02,3,Independiente Valle 1-1 Universidad Católica,Independiente Valle,Universidad Católica,5kew94t602zbzw5zv2rjkcetw,b5gznzydynjb2vk3z288gkhlg
+2025-03-01,3,Libertad 1-4 Barcelona,Libertad,Barcelona,5kew94t602zbzw5zv2rjkcetw,b532idw7d5od6mq971f0wpxjo
+2025-03-01,3,LDU Quito 4-0 Orense,LDU Quito,Orense,5kew94t602zbzw5zv2rjkcetw,b7eoyn6rodl7i3sjk94z35kic
+2025-03-01,3,Mushuc Runa 3-1 Deportivo Cuenca,Mushuc Runa,Deportivo Cuenca,5kew94t602zbzw5zv2rjkcetw,b7sc7bi6ttm3hn8gynmmqxzx0
+2025-02-28,3,Emelec 0-0 Macará,Emelec,Macará,5kew94t602zbzw5zv2rjkcetw,b6lkqp0o84zuwltzzht701q1g
+2025-02-24,2,Técnico Universitario 2-2 Libertad,Técnico Universitario,Libertad,5kew94t602zbzw5zv2rjkcetw,b4pbcjrbsxglgu6rd43lbcxzo
+2025-02-23,2,Barcelona 1-0 Mushuc Runa,Barcelona,Mushuc Runa,5kew94t602zbzw5zv2rjkcetw,b3y740frr4nxp1gwozs7vh9n8
+2025-02-23,2,Orense 2-1 Manta,Orense,Manta,5kew94t602zbzw5zv2rjkcetw,b4brd43navtt0jeg7lz2cx0r8
+2025-02-23,2,Universidad Católica 1-1 El Nacional,Universidad Católica,El Nacional,5kew94t602zbzw5zv2rjkcetw,b373xyqk3bwbv94im9rw5xzbo
+2025-02-22,2,Independiente Valle 1-1 LDU Quito,Independiente Valle,LDU Quito,5kew94t602zbzw5zv2rjkcetw,b2fx25agtcwqhzde8g14svnro
+2025-02-22,2,Delfín 2-0 Emelec,Delfín,Emelec,5kew94t602zbzw5zv2rjkcetw,b21sjo6h1z67drx03p586mwwk
+2025-02-22,2,Vinotinto de Ecuador 1-2 Macará,Vinotinto de Ecuador,Macará,5kew94t602zbzw5zv2rjkcetw,b3kot3htduhvc15sm3oks75zo
+2025-02-21,2,Deportivo Cuenca 2-0 Aucas,Deportivo Cuenca,Aucas,5kew94t602zbzw5zv2rjkcetw,b2tm5kcz4tklu8jwwcttl4glw
+2025-02-17,1,Mushuc Runa 2-0 Delfín,Mushuc Runa,Delfín,5kew94t602zbzw5zv2rjkcetw,b0p56rsnabsx51ho4lsmntst0
+2025-02-16,1,Emelec 0-4 Universidad Católica,Emelec,Universidad Católica,5kew94t602zbzw5zv2rjkcetw,azaie2e0fvfplsyrfijyeaj9w
+2025-02-16,1,El Nacional 0-1 Deportivo Cuenca,El Nacional,Deportivo Cuenca,5kew94t602zbzw5zv2rjkcetw,b1o0d6ztfn2j5bk48xt5zyeqc
+2025-02-16,1,LDU Quito 0-0 Vinotinto de Ecuador,LDU Quito,Vinotinto de Ecuador,5kew94t602zbzw5zv2rjkcetw,ay9qliy1sz8c7bubiodg5lv6c
+2025-02-15,1,Macará 1-0 Orense,Macará,Orense,5kew94t602zbzw5zv2rjkcetw,b15nlkgbyl71yor1szny4shzo
+2025-02-15,1,Libertad 2-0 Independiente Valle,Libertad,Independiente Valle,5kew94t602zbzw5zv2rjkcetw,azrfcjapoiwbm3vubo6euc104
+2025-02-15,1,Aucas 4-1 Técnico Universitario,Aucas,Técnico Universitario,5kew94t602zbzw5zv2rjkcetw,b088u434avgr4uopprhe0l250
+2025-02-14,1,Manta 2-3 Barcelona,Manta,Barcelona,5kew94t602zbzw5zv2rjkcetw,aytt298azynd2fpbtki0ou9zo

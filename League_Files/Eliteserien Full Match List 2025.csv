@@ -1,17 +1,17 @@
-﻿Date,Round,Match,Home,Away
-2025-04-06,2,Viking 3-1 KFUM,Viking,KFUM
-2025-04-06,2,Sarpsborg 08 1-1 Vålerenga,Sarpsborg 08,Vålerenga
-2025-04-06,2,Sandefjord 3-0 Molde,Sandefjord,Molde
-2025-04-06,2,Kristiansund 2-1 Bryne,Kristiansund,Bryne
-2025-04-06,2,Haugesund 0-5 Strømsgodset,Haugesund,Strømsgodset
-2025-04-06,2,Brann 3-1 Tromsø,Brann,Tromsø
-2025-04-05,2,Rosenborg 1-0 Fredrikstad,Rosenborg,Fredrikstad
-2025-04-05,2,Bodø Glimt 3-0 HamKam,Bodø Glimt,HamKam
-2025-03-30,1,Bryne 0-1 Bodø Glimt,Bryne,Bodø Glimt
-2025-03-30,1,Tromsø 1-0 Haugesund,Tromsø,Haugesund
-2025-03-30,1,Molde 0-2 Sarpsborg 08,Molde,Sarpsborg 08
-2025-03-30,1,KFUM 3-1 Sandefjord,KFUM,Sandefjord
-2025-03-30,1,HamKam 2-1 Kristiansund,HamKam,Kristiansund
-2025-03-30,1,Vålerenga 3-1 Viking,Vålerenga,Viking
-2025-03-29,1,Fredrikstad 3-0 Brann,Fredrikstad,Brann
-2025-03-29,1,Strømsgodset 1-2 Rosenborg,Strømsgodset,Rosenborg
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-06,2,Viking 3-1 KFUM,Viking,KFUM,59ghbl9ewb73y9y90c1d8hclw,f3d7klzy04ymi1yccp9db8104
+2025-04-06,2,Sarpsborg 08 1-1 Vålerenga,Sarpsborg 08,Vålerenga,59ghbl9ewb73y9y90c1d8hclw,f2zg0zkdc645bwsli8ok2xzx0
+2025-04-06,2,Sandefjord 3-0 Molde,Sandefjord,Molde,59ghbl9ewb73y9y90c1d8hclw,f2lshj4o4b6x7gn19pwgdwg0k
+2025-04-06,2,Kristiansund 2-1 Bryne,Kristiansund,Bryne,59ghbl9ewb73y9y90c1d8hclw,f2849e81q1a6nuw23oc1pnehg
+2025-04-06,2,Haugesund 0-5 Strømsgodset,Haugesund,Strømsgodset,59ghbl9ewb73y9y90c1d8hclw,f1un9zv1wnjp8fr5h3kxptdec
+2025-04-06,2,Brann 3-1 Tromsø,Brann,Tromsø,59ghbl9ewb73y9y90c1d8hclw,f13aqqq46meowaidlxqjvv85w
+2025-04-05,2,Rosenborg 1-0 Fredrikstad,Rosenborg,Fredrikstad,59ghbl9ewb73y9y90c1d8hclw,f0pjip7sotv8pkzvhc88e7i8k
+2025-04-05,2,Bodø Glimt 3-0 HamKam,Bodø Glimt,HamKam,59ghbl9ewb73y9y90c1d8hclw,f1gwcuybjgkh1sapl5q84k104
+2025-03-30,1,Bryne 0-1 Bodø Glimt,Bryne,Bodø Glimt,59ghbl9ewb73y9y90c1d8hclw,f0c0ok3ppfhrxg4dl9639x3pw
+2025-03-30,1,Tromsø 1-0 Haugesund,Tromsø,Haugesund,59ghbl9ewb73y9y90c1d8hclw,eztpnqf9578x15scmg32sxa8k
+2025-03-30,1,Molde 0-2 Sarpsborg 08,Molde,Sarpsborg 08,59ghbl9ewb73y9y90c1d8hclw,ezc99t5mh19r0sipby1e3irdg
+2025-03-30,1,KFUM 3-1 Sandefjord,KFUM,Sandefjord,59ghbl9ewb73y9y90c1d8hclw,eyvh56l1v72fn5mom9thlx638
+2025-03-30,1,HamKam 2-1 Kristiansund,HamKam,Kristiansund,59ghbl9ewb73y9y90c1d8hclw,eyetho8v2hfl1wuu31dtfm1w4
+2025-03-30,1,Vålerenga 3-1 Viking,Vålerenga,Viking,59ghbl9ewb73y9y90c1d8hclw,exy2ubngytstig9edfpzihv6c
+2025-03-29,1,Fredrikstad 3-0 Brann,Fredrikstad,Brann,59ghbl9ewb73y9y90c1d8hclw,exh6dwo01z59haxt746hsnqj8
+2025-03-29,1,Strømsgodset 1-2 Rosenborg,Strømsgodset,Rosenborg,59ghbl9ewb73y9y90c1d8hclw,ewwsesg642smmj28ele66gwes

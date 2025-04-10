@@ -1,7 +1,7 @@
-﻿Date,Round,Match,Home,Away
-2025-04-07,1,Stjarnan 2-1 FH,Stjarnan,FH
-2025-04-07,1,Víkingur Reykjavík 2-0 ÍBV,Víkingur Reykjavík,ÍBV
-2025-04-06,1,Fram 0-1 ÍA,Fram,ÍA
-2025-04-06,1,KA 2-2 KR,KA,KR
-2025-04-06,1,Valur 1-1 Vestri,Valur,Vestri
-2025-04-05,1,Breidablik 2-0 Afturelding,Breidablik,Afturelding
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-07,1,Stjarnan 2-1 FH,Stjarnan,FH,5f74l8edv2q6k6fnrifrigglw,5sic89pwz3b4n1eq7vpm0vf2s
+2025-04-07,1,Víkingur Reykjavík 2-0 ÍBV,Víkingur Reykjavík,ÍBV,5f74l8edv2q6k6fnrifrigglw,5rybmrgxlzdi1d1ob55p8ihp0
+2025-04-06,1,Fram 0-1 ÍA,Fram,ÍA,5f74l8edv2q6k6fnrifrigglw,5rehhquikplwnsh0flhg0ik2c
+2025-04-06,1,KA 2-2 KR,KA,KR,5f74l8edv2q6k6fnrifrigglw,5qu0fdh1y7x2u5l93o0hs36z8
+2025-04-06,1,Valur 1-1 Vestri,Valur,Vestri,5f74l8edv2q6k6fnrifrigglw,5q9jo2vxq7a10qfkpm31jn66s
+2025-04-05,1,Breidablik 2-0 Afturelding,Breidablik,Afturelding,5f74l8edv2q6k6fnrifrigglw,5ply0cc4c0epv8zjjz11auy38

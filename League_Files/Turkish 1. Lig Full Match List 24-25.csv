@@ -1,323 +1,323 @@
-﻿Date,Round,Match,Home,Away
-2025-04-08,33,Manisa FK 2-2 Amed,Manisa FK,Amed
-2025-04-08,33,Iğdır FK 3-0 İstanbulspor,Iğdır FK,İstanbulspor
-2025-04-08,33,Ankara Keçiörengücü 4-1 Şanlıurfaspor,Ankara Keçiörengücü,Şanlıurfaspor
-2025-04-06,32,Ankaragücü 0-3 Gençlerbirliği,Ankaragücü,Gençlerbirliği
-2025-04-06,32,Bandırmaspor 2-2 Kocaelispor,Bandırmaspor,Kocaelispor
-2025-04-06,32,Ümraniyespor 0-0 Pendikspor,Ümraniyespor,Pendikspor
-2025-04-05,32,Fatih Karagümrük 1-0 Erzurumspor FK,Fatih Karagümrük,Erzurumspor FK
-2025-04-05,32,Çorum FK 3-3 Esenler Erokspor,Çorum FK,Esenler Erokspor
-2025-04-05,32,Sakaryaspor 2-1 Adanaspor,Sakaryaspor,Adanaspor
-2025-04-05,32,Manisa FK 1-2 Ankara Keçiörengücü,Manisa FK,Ankara Keçiörengücü
-2025-04-04,32,Amed 0-0 Iğdır FK,Amed,Iğdır FK
-2025-04-04,32,Şanlıurfaspor 3-2 Boluspor,Şanlıurfaspor,Boluspor
-2025-04-04,32,İstanbulspor 5-0 Yeni Malatyaspor,İstanbulspor,Yeni Malatyaspor
-2025-03-31,31,Kocaelispor 3-1 Sakaryaspor,Kocaelispor,Sakaryaspor
-2025-03-31,31,Esenler Erokspor 3-1 Ankaragücü,Esenler Erokspor,Ankaragücü
-2025-03-29,31,Adanaspor 0-2 İstanbulspor,Adanaspor,İstanbulspor
-2025-03-29,31,Pendikspor 2-2 Çorum FK,Pendikspor,Çorum FK
-2025-03-29,31,Ankara Keçiörengücü 1-2 Amed,Ankara Keçiörengücü,Amed
-2025-03-29,31,Yeni Malatyaspor 0-2 Fatih Karagümrük,Yeni Malatyaspor,Fatih Karagümrük
-2025-03-28,31,Iğdır FK 0-0 Ümraniyespor,Iğdır FK,Ümraniyespor
-2025-03-28,31,Gençlerbirliği 1-0 Şanlıurfaspor,Gençlerbirliği,Şanlıurfaspor
-2025-03-28,31,Boluspor 0-0 Bandırmaspor,Boluspor,Bandırmaspor
-2025-03-28,31,Erzurumspor FK 1-0 Manisa FK,Erzurumspor FK,Manisa FK
-2025-03-16,30,Fatih Karagümrük 1-1 Kocaelispor,Fatih Karagümrük,Kocaelispor
-2025-03-16,30,Amed 1-2 Erzurumspor FK,Amed,Erzurumspor FK
-2025-03-16,30,Çorum FK 3-2 Ankara Keçiörengücü,Çorum FK,Ankara Keçiörengücü
-2025-03-16,30,İstanbulspor 5-0 Gençlerbirliği,İstanbulspor,Gençlerbirliği
-2025-03-15,30,Sakaryaspor 5-0 Yeni Malatyaspor,Sakaryaspor,Yeni Malatyaspor
-2025-03-15,30,Ankaragücü 0-4 Iğdır FK,Ankaragücü,Iğdır FK
-2025-03-15,30,Ümraniyespor 1-0 Boluspor,Ümraniyespor,Boluspor
-2025-03-15,30,Manisa FK 2-0 Pendikspor,Manisa FK,Pendikspor
-2025-03-14,30,Şanlıurfaspor 0-2 Esenler Erokspor,Şanlıurfaspor,Esenler Erokspor
-2025-03-14,30,Bandırmaspor 1-0 Adanaspor,Bandırmaspor,Adanaspor
-2025-03-10,29,Kocaelispor 1-1 Ankaragücü,Kocaelispor,Ankaragücü
-2025-03-10,29,Pendikspor 0-1 Amed,Pendikspor,Amed
-2025-03-10,29,Boluspor 1-0 İstanbulspor,Boluspor,İstanbulspor
-2025-03-10,29,Ankara Keçiörengücü 1-3 Erzurumspor FK,Ankara Keçiörengücü,Erzurumspor FK
-2025-03-09,29,Sakaryaspor 2-2 Bandırmaspor,Sakaryaspor,Bandırmaspor
-2025-03-09,29,Gençlerbirliği 1-2 Çorum FK,Gençlerbirliği,Çorum FK
-2025-03-09,29,Adanaspor 1-2 Fatih Karagümrük,Adanaspor,Fatih Karagümrük
-2025-03-09,29,Yeni Malatyaspor 0-5 Ümraniyespor,Yeni Malatyaspor,Ümraniyespor
-2025-03-08,29,Esenler Erokspor 1-1 Manisa FK,Esenler Erokspor,Manisa FK
-2025-03-08,29,Iğdır FK 2-2 Şanlıurfaspor,Iğdır FK,Şanlıurfaspor
-2025-03-06,28,Ümraniyespor 1-1 Kocaelispor,Ümraniyespor,Kocaelispor
-2025-03-06,28,Ankaragücü 3-0 Yeni Malatyaspor,Ankaragücü,Yeni Malatyaspor
-2025-03-06,28,İstanbulspor 3-0 Sakaryaspor,İstanbulspor,Sakaryaspor
-2025-03-06,28,Erzurumspor FK 2-4 Pendikspor,Erzurumspor FK,Pendikspor
-2025-03-05,28,Fatih Karagümrük 1-2 Bandırmaspor,Fatih Karagümrük,Bandırmaspor
-2025-03-05,28,Şanlıurfaspor 1-2 Adanaspor,Şanlıurfaspor,Adanaspor
-2025-03-05,28,Çorum FK 0-2 Boluspor,Çorum FK,Boluspor
-2025-03-05,28,Ankara Keçiörengücü 2-2 Esenler Erokspor,Ankara Keçiörengücü,Esenler Erokspor
-2025-03-04,28,Amed 1-1 Gençlerbirliği,Amed,Gençlerbirliği
-2025-03-04,28,Manisa FK 0-1 Iğdır FK,Manisa FK,Iğdır FK
-2025-03-03,27,Kocaelispor 1-1 İstanbulspor,Kocaelispor,İstanbulspor
-2025-03-02,27,Sakaryaspor 1-3 Fatih Karagümrük,Sakaryaspor,Fatih Karagümrük
-2025-03-02,27,Adanaspor 2-0 Ankaragücü,Adanaspor,Ankaragücü
-2025-03-02,27,Boluspor 0-0 Erzurumspor FK,Boluspor,Erzurumspor FK
-2025-03-02,27,Bandırmaspor 2-0 Ümraniyespor,Bandırmaspor,Ümraniyespor
-2025-03-01,27,Pendikspor 0-2 Ankara Keçiörengücü,Pendikspor,Ankara Keçiörengücü
-2025-03-01,27,Iğdır FK 1-0 Çorum FK,Iğdır FK,Çorum FK
-2025-03-01,27,Esenler Erokspor 1-1 Amed,Esenler Erokspor,Amed
-2025-03-01,27,Yeni Malatyaspor 1-4 Şanlıurfaspor,Yeni Malatyaspor,Şanlıurfaspor
-2025-02-28,27,Gençlerbirliği 3-0 Manisa FK,Gençlerbirliği,Manisa FK
-2025-02-23,26,Ümraniyespor 0-0 Sakaryaspor,Ümraniyespor,Sakaryaspor
-2025-02-23,26,Amed 4-0 Yeni Malatyaspor,Amed,Yeni Malatyaspor
-2025-02-23,26,Pendikspor 2-2 Esenler Erokspor,Pendikspor,Esenler Erokspor
-2025-02-23,26,Erzurumspor FK 0-0 Iğdır FK,Erzurumspor FK,Iğdır FK
-2025-02-22,26,Ankaragücü 4-0 Bandırmaspor,Ankaragücü,Bandırmaspor
-2025-02-22,26,İstanbulspor 2-0 Fatih Karagümrük,İstanbulspor,Fatih Karagümrük
-2025-02-22,26,Çorum FK 1-1 Adanaspor,Çorum FK,Adanaspor
-2025-02-22,26,Şanlıurfaspor 0-0 Kocaelispor,Şanlıurfaspor,Kocaelispor
-2025-02-22,26,Ankara Keçiörengücü 3-3 Gençlerbirliği,Ankara Keçiörengücü,Gençlerbirliği
-2025-02-21,26,Manisa FK 0-2 Boluspor,Manisa FK,Boluspor
-2025-02-17,25,Sakaryaspor 2-2 Ankaragücü,Sakaryaspor,Ankaragücü
-2025-02-17,25,Fatih Karagümrük 1-1 Şanlıurfaspor,Fatih Karagümrük,Şanlıurfaspor
-2025-02-17,25,Adanaspor 1-1 Ümraniyespor,Adanaspor,Ümraniyespor
-2025-02-17,25,Bandırmaspor 1-0 İstanbulspor,Bandırmaspor,İstanbulspor
-2025-02-16,25,Esenler Erokspor 1-2 Erzurumspor FK,Esenler Erokspor,Erzurumspor FK
-2025-02-16,25,Gençlerbirliği 3-0 Pendikspor,Gençlerbirliği,Pendikspor
-2025-02-16,25,Boluspor 0-0 Amed,Boluspor,Amed
-2025-02-16,25,Iğdır FK 3-0 Ankara Keçiörengücü,Iğdır FK,Ankara Keçiörengücü
-2025-02-15,25,Kocaelispor 2-0 Çorum FK,Kocaelispor,Çorum FK
-2025-02-15,25,Yeni Malatyaspor 0-6 Manisa FK,Yeni Malatyaspor,Manisa FK
-2025-02-13,24,Ankaragücü 0-1 Fatih Karagümrük,Ankaragücü,Fatih Karagümrük
-2025-02-13,24,Ümraniyespor 2-1 İstanbulspor,Ümraniyespor,İstanbulspor
-2025-02-13,24,Şanlıurfaspor 0-1 Sakaryaspor,Şanlıurfaspor,Sakaryaspor
-2025-02-13,24,Pendikspor 1-0 Boluspor,Pendikspor,Boluspor
-2025-02-12,24,Amed 2-1 Bandırmaspor,Amed,Bandırmaspor
-2025-02-12,24,Esenler Erokspor 3-1 Iğdır FK,Esenler Erokspor,Iğdır FK
-2025-02-12,24,Ankara Keçiörengücü 3-0 Adanaspor,Ankara Keçiörengücü,Adanaspor
-2025-02-12,24,Erzurumspor FK 1-2 Gençlerbirliği,Erzurumspor FK,Gençlerbirliği
-2025-02-11,24,Manisa FK 0-2 Kocaelispor,Manisa FK,Kocaelispor
-2025-02-11,24,Çorum FK 2-0 Yeni Malatyaspor,Çorum FK,Yeni Malatyaspor
-2025-02-09,23,Fatih Karagümrük 1-0 Ümraniyespor,Fatih Karagümrük,Ümraniyespor
-2025-02-09,23,İstanbulspor 1-0 Ankaragücü,İstanbulspor,Ankaragücü
-2025-02-09,23,Boluspor 1-1 Ankara Keçiörengücü,Boluspor,Ankara Keçiörengücü
-2025-02-09,23,Bandırmaspor 3-2 Şanlıurfaspor,Bandırmaspor,Şanlıurfaspor
-2025-02-08,23,Kocaelispor 1-0 Amed,Kocaelispor,Amed
-2025-02-08,23,Sakaryaspor 2-1 Çorum FK,Sakaryaspor,Çorum FK
-2025-02-08,23,Adanaspor 2-1 Manisa FK,Adanaspor,Manisa FK
-2025-02-08,23,Yeni Malatyaspor 0-7 Erzurumspor FK,Yeni Malatyaspor,Erzurumspor FK
-2025-02-08,23,Iğdır FK 1-0 Pendikspor,Iğdır FK,Pendikspor
-2025-02-07,23,Gençlerbirliği 1-1 Esenler Erokspor,Gençlerbirliği,Esenler Erokspor
-2025-02-02,22,Esenler Erokspor 1-1 Boluspor,Esenler Erokspor,Boluspor
-2025-02-02,22,Amed 2-2 Sakaryaspor,Amed,Sakaryaspor
-2025-02-02,22,Manisa FK 2-2 Fatih Karagümrük,Manisa FK,Fatih Karagümrük
-2025-02-02,22,Şanlıurfaspor 1-0 İstanbulspor,Şanlıurfaspor,İstanbulspor
-2025-02-02,22,Ümraniyespor 2-1 Ankaragücü,Ümraniyespor,Ankaragücü
-2025-02-01,22,Pendikspor 1-0 Adanaspor,Pendikspor,Adanaspor
-2025-02-01,22,Gençlerbirliği 2-0 Iğdır FK,Gençlerbirliği,Iğdır FK
-2025-02-01,22,Ankara Keçiörengücü 7-0 Yeni Malatyaspor,Ankara Keçiörengücü,Yeni Malatyaspor
-2025-02-01,22,Erzurumspor FK 1-1 Kocaelispor,Erzurumspor FK,Kocaelispor
-2025-01-31,22,Çorum FK 4-0 Bandırmaspor,Çorum FK,Bandırmaspor
-2025-01-27,21,Sakaryaspor 1-2 Manisa FK,Sakaryaspor,Manisa FK
-2025-01-26,21,Kocaelispor 3-0 Pendikspor,Kocaelispor,Pendikspor
-2025-01-26,21,Fatih Karagümrük 1-0 Çorum FK,Fatih Karagümrük,Çorum FK
-2025-01-26,21,Ankaragücü 1-2 Erzurumspor FK,Ankaragücü,Erzurumspor FK
-2025-01-26,21,Bandırmaspor 1-2 Ankara Keçiörengücü,Bandırmaspor,Ankara Keçiörengücü
-2025-01-25,21,Adanaspor 0-0 Iğdır FK,Adanaspor,Iğdır FK
-2025-01-25,21,İstanbulspor 1-0 Amed,İstanbulspor,Amed
-2025-01-25,21,Yeni Malatyaspor 0-1 Esenler Erokspor,Yeni Malatyaspor,Esenler Erokspor
-2025-01-25,21,Boluspor 0-2 Gençlerbirliği,Boluspor,Gençlerbirliği
-2025-01-24,21,Ümraniyespor 1-0 Şanlıurfaspor,Ümraniyespor,Şanlıurfaspor
-2025-01-20,20,Gençlerbirliği 1-0 Kocaelispor,Gençlerbirliği,Kocaelispor
-2025-01-19,20,Manisa FK 0-1 İstanbulspor,Manisa FK,İstanbulspor
-2025-01-19,20,Pendikspor 4-0 Yeni Malatyaspor,Pendikspor,Yeni Malatyaspor
-2025-01-19,20,Ankara Keçiörengücü 2-3 Sakaryaspor,Ankara Keçiörengücü,Sakaryaspor
-2025-01-19,20,Iğdır FK 0-1 Boluspor,Iğdır FK,Boluspor
-2025-01-18,20,Çorum FK 3-1 Ümraniyespor,Çorum FK,Ümraniyespor
-2025-01-18,20,Esenler Erokspor 1-0 Adanaspor,Esenler Erokspor,Adanaspor
-2025-01-18,20,Amed 1-1 Fatih Karagümrük,Amed,Fatih Karagümrük
-2025-01-18,20,Erzurumspor FK 2-0 Bandırmaspor,Erzurumspor FK,Bandırmaspor
-2025-01-17,20,Şanlıurfaspor 0-1 Ankaragücü,Şanlıurfaspor,Ankaragücü
-2025-01-13,19,Manisa FK 0-3 Ümraniyespor,Manisa FK,Ümraniyespor
-2025-01-13,19,Çorum FK 3-1 İstanbulspor,Çorum FK,İstanbulspor
-2025-01-12,19,Gençlerbirliği 3-0 Yeni Malatyaspor,Gençlerbirliği,Yeni Malatyaspor
-2025-01-12,19,Amed 1-0 Ankaragücü,Amed,Ankaragücü
-2025-01-12,19,Boluspor 3-1 Adanaspor,Boluspor,Adanaspor
-2025-01-12,19,Erzurumspor FK 0-1 Şanlıurfaspor,Erzurumspor FK,Şanlıurfaspor
-2025-01-12,19,Ankara Keçiörengücü 0-1 Kocaelispor,Ankara Keçiörengücü,Kocaelispor
-2025-01-11,19,Esenler Erokspor 1-1 Sakaryaspor,Esenler Erokspor,Sakaryaspor
-2025-01-11,19,Iğdır FK 0-1 Fatih Karagümrük,Iğdır FK,Fatih Karagümrük
-2025-01-10,19,Pendikspor 1-1 Bandırmaspor,Pendikspor,Bandırmaspor
-2025-01-06,18,Sakaryaspor 0-0 Gençlerbirliği,Sakaryaspor,Gençlerbirliği
-2025-01-05,18,Adanaspor 0-0 Amed,Adanaspor,Amed
-2025-01-05,18,İstanbulspor 4-0 Esenler Erokspor,İstanbulspor,Esenler Erokspor
-2025-01-05,18,Bandırmaspor 2-3 Manisa FK,Bandırmaspor,Manisa FK
-2025-01-05,18,Ümraniyespor 0-0 Erzurumspor FK,Ümraniyespor,Erzurumspor FK
-2025-01-04,18,Fatih Karagümrük 0-2 Pendikspor,Fatih Karagümrük,Pendikspor
-2025-01-04,18,Ankaragücü 2-0 Ankara Keçiörengücü,Ankaragücü,Ankara Keçiörengücü
-2025-01-04,18,Yeni Malatyaspor 2-4 Boluspor,Yeni Malatyaspor,Boluspor
-2025-01-04,18,Şanlıurfaspor 0-0 Çorum FK,Şanlıurfaspor,Çorum FK
-2025-01-03,18,Kocaelispor 3-0 Iğdır FK,Kocaelispor,Iğdır FK
-2024-12-23,17,Amed 2-0 Ümraniyespor,Amed,Ümraniyespor
-2024-12-23,17,Gençlerbirliği 0-2 Adanaspor,Gençlerbirliği,Adanaspor
-2024-12-22,17,Çorum FK 1-1 Ankaragücü,Çorum FK,Ankaragücü
-2024-12-22,17,Esenler Erokspor 1-1 Bandırmaspor,Esenler Erokspor,Bandırmaspor
-2024-12-22,17,Boluspor 1-3 Kocaelispor,Boluspor,Kocaelispor
-2024-12-22,17,Ankara Keçiörengücü 0-1 Fatih Karagümrük,Ankara Keçiörengücü,Fatih Karagümrük
-2024-12-21,17,Pendikspor 1-1 İstanbulspor,Pendikspor,İstanbulspor
-2024-12-21,17,Manisa FK 2-1 Şanlıurfaspor,Manisa FK,Şanlıurfaspor
-2024-12-21,17,Erzurumspor FK 0-0 Sakaryaspor,Erzurumspor FK,Sakaryaspor
-2024-12-21,17,Iğdır FK 3-0 Yeni Malatyaspor,Iğdır FK,Yeni Malatyaspor
-2024-12-15,16,Kocaelispor 0-2 Esenler Erokspor,Kocaelispor,Esenler Erokspor
-2024-12-15,16,Çorum FK 1-1 Amed,Çorum FK,Amed
-2024-12-15,16,Ümraniyespor 1-2 Ankara Keçiörengücü,Ümraniyespor,Ankara Keçiörengücü
-2024-12-15,16,Bandırmaspor 2-2 Gençlerbirliği,Bandırmaspor,Gençlerbirliği
-2024-12-14,16,Sakaryaspor 2-1 Iğdır FK,Sakaryaspor,Iğdır FK
-2024-12-14,16,Fatih Karagümrük 2-2 Boluspor,Fatih Karagümrük,Boluspor
-2024-12-14,16,İstanbulspor 3-2 Erzurumspor FK,İstanbulspor,Erzurumspor FK
-2024-12-14,16,Şanlıurfaspor 2-1 Pendikspor,Şanlıurfaspor,Pendikspor
-2024-12-13,16,Adanaspor 3-1 Yeni Malatyaspor,Adanaspor,Yeni Malatyaspor
-2024-12-13,16,Ankaragücü 0-1 Manisa FK,Ankaragücü,Manisa FK
-2024-12-09,15,Amed 2-1 Şanlıurfaspor,Amed,Şanlıurfaspor
-2024-12-09,15,Esenler Erokspor 0-1 Ümraniyespor,Esenler Erokspor,Ümraniyespor
-2024-12-08,15,Pendikspor 3-0 Sakaryaspor,Pendikspor,Sakaryaspor
-2024-12-08,15,Gençlerbirliği 1-0 Fatih Karagümrük,Gençlerbirliği,Fatih Karagümrük
-2024-12-08,15,Boluspor 2-3 Ankaragücü,Boluspor,Ankaragücü
-2024-12-08,15,Ankara Keçiörengücü 2-1 İstanbulspor,Ankara Keçiörengücü,İstanbulspor
-2024-12-07,15,Iğdır FK 0-1 Bandırmaspor,Iğdır FK,Bandırmaspor
-2024-12-07,15,Manisa FK 0-1 Çorum FK,Manisa FK,Çorum FK
-2024-12-07,15,Yeni Malatyaspor 1-3 Kocaelispor,Yeni Malatyaspor,Kocaelispor
-2024-12-07,15,Erzurumspor FK 1-0 Adanaspor,Erzurumspor FK,Adanaspor
-2024-12-02,14,Sakaryaspor 2-1 Boluspor,Sakaryaspor,Boluspor
-2024-12-01,14,Fatih Karagümrük 1-0 Esenler Erokspor,Fatih Karagümrük,Esenler Erokspor
-2024-12-01,14,Ankaragücü 1-1 Pendikspor,Ankaragücü,Pendikspor
-2024-12-01,14,Şanlıurfaspor 0-2 Ankara Keçiörengücü,Şanlıurfaspor,Ankara Keçiörengücü
-2024-12-01,14,Ümraniyespor 3-3 Gençlerbirliği,Ümraniyespor,Gençlerbirliği
-2024-11-30,14,Çorum FK 0-1 Erzurumspor FK,Çorum FK,Erzurumspor FK
-2024-11-30,14,İstanbulspor 4-0 Iğdır FK,İstanbulspor,Iğdır FK
-2024-11-30,14,Amed 3-2 Manisa FK,Amed,Manisa FK
-2024-11-30,14,Bandırmaspor 2-0 Yeni Malatyaspor,Bandırmaspor,Yeni Malatyaspor
-2024-11-29,14,Kocaelispor 2-0 Adanaspor,Kocaelispor,Adanaspor
-2024-11-25,13,Iğdır FK 1-1 Amed,Iğdır FK,Amed
-2024-11-24,13,Kocaelispor 2-2 Bandırmaspor,Kocaelispor,Bandırmaspor
-2024-11-24,13,Adanaspor 1-1 Sakaryaspor,Adanaspor,Sakaryaspor
-2024-11-24,13,Esenler Erokspor 2-2 Çorum FK,Esenler Erokspor,Çorum FK
-2024-11-24,13,Erzurumspor FK 1-3 Fatih Karagümrük,Erzurumspor FK,Fatih Karagümrük
-2024-11-23,13,Gençlerbirliği 1-0 Ankaragücü,Gençlerbirliği,Ankaragücü
-2024-11-23,13,Boluspor 1-0 Şanlıurfaspor,Boluspor,Şanlıurfaspor
-2024-11-23,13,Yeni Malatyaspor 1-4 İstanbulspor,Yeni Malatyaspor,İstanbulspor
-2024-11-23,13,Ankara Keçiörengücü 4-0 Manisa FK,Ankara Keçiörengücü,Manisa FK
-2024-11-22,13,Pendikspor 2-2 Ümraniyespor,Pendikspor,Ümraniyespor
-2024-11-10,12,Sakaryaspor 0-1 Kocaelispor,Sakaryaspor,Kocaelispor
-2024-11-10,12,Manisa FK 2-0 Erzurumspor FK,Manisa FK,Erzurumspor FK
-2024-11-10,12,Bandırmaspor 2-0 Boluspor,Bandırmaspor,Boluspor
-2024-11-10,12,Şanlıurfaspor 3-1 Gençlerbirliği,Şanlıurfaspor,Gençlerbirliği
-2024-11-09,12,Çorum FK 1-0 Pendikspor,Çorum FK,Pendikspor
-2024-11-09,12,Amed 0-0 Ankara Keçiörengücü,Amed,Ankara Keçiörengücü
-2024-11-09,12,Fatih Karagümrük 6-1 Yeni Malatyaspor,Fatih Karagümrük,Yeni Malatyaspor
-2024-11-09,12,İstanbulspor 0-0 Adanaspor,İstanbulspor,Adanaspor
-2024-11-08,12,Ankaragücü 3-0 Esenler Erokspor,Ankaragücü,Esenler Erokspor
-2024-11-08,12,Ümraniyespor 0-1 Iğdır FK,Ümraniyespor,Iğdır FK
-2024-11-04,11,Pendikspor 1-0 Manisa FK,Pendikspor,Manisa FK
-2024-11-04,11,Gençlerbirliği 2-1 İstanbulspor,Gençlerbirliği,İstanbulspor
-2024-11-03,11,Iğdır FK 1-0 Ankaragücü,Iğdır FK,Ankaragücü
-2024-11-03,11,Erzurumspor FK 2-0 Amed,Erzurumspor FK,Amed
-2024-11-03,11,Yeni Malatyaspor 0-2 Sakaryaspor,Yeni Malatyaspor,Sakaryaspor
-2024-11-02,11,Kocaelispor 2-1 Fatih Karagümrük,Kocaelispor,Fatih Karagümrük
-2024-11-02,11,Adanaspor 0-1 Bandırmaspor,Adanaspor,Bandırmaspor
-2024-11-02,11,Esenler Erokspor 1-1 Şanlıurfaspor,Esenler Erokspor,Şanlıurfaspor
-2024-11-02,11,Ankara Keçiörengücü 2-3 Çorum FK,Ankara Keçiörengücü,Çorum FK
-2024-11-01,11,Boluspor 3-0 Ümraniyespor,Boluspor,Ümraniyespor
-2024-10-28,10,Manisa FK 0-1 Esenler Erokspor,Manisa FK,Esenler Erokspor
-2024-10-27,10,İstanbulspor 1-2 Boluspor,İstanbulspor,Boluspor
-2024-10-27,10,Amed 0-1 Pendikspor,Amed,Pendikspor
-2024-10-27,10,Erzurumspor FK 4-0 Ankara Keçiörengücü,Erzurumspor FK,Ankara Keçiörengücü
-2024-10-27,10,Bandırmaspor 3-2 Sakaryaspor,Bandırmaspor,Sakaryaspor
-2024-10-26,10,Ankaragücü 4-2 Kocaelispor,Ankaragücü,Kocaelispor
-2024-10-26,10,Şanlıurfaspor 3-3 Iğdır FK,Şanlıurfaspor,Iğdır FK
-2024-10-26,10,Çorum FK 1-0 Gençlerbirliği,Çorum FK,Gençlerbirliği
-2024-10-26,10,Ümraniyespor 2-0 Yeni Malatyaspor,Ümraniyespor,Yeni Malatyaspor
-2024-10-25,10,Fatih Karagümrük 4-0 Adanaspor,Fatih Karagümrük,Adanaspor
-2024-10-21,9,Esenler Erokspor 2-2 Ankara Keçiörengücü,Esenler Erokspor,Ankara Keçiörengücü
-2024-10-20,9,Sakaryaspor 3-1 İstanbulspor,Sakaryaspor,İstanbulspor
-2024-10-20,9,Iğdır FK 1-0 Manisa FK,Iğdır FK,Manisa FK
-2024-10-20,9,Boluspor 2-0 Çorum FK,Boluspor,Çorum FK
-2024-10-20,9,Pendikspor 0-0 Erzurumspor FK,Pendikspor,Erzurumspor FK
-2024-10-19,9,Adanaspor 1-4 Şanlıurfaspor,Adanaspor,Şanlıurfaspor
-2024-10-19,9,Kocaelispor 1-0 Ümraniyespor,Kocaelispor,Ümraniyespor
-2024-10-19,9,Gençlerbirliği 1-1 Amed,Gençlerbirliği,Amed
-2024-10-19,9,Bandırmaspor 1-0 Fatih Karagümrük,Bandırmaspor,Fatih Karagümrük
-2024-10-18,9,Yeni Malatyaspor 0-3 Ankaragücü,Yeni Malatyaspor,Ankaragücü
-2024-10-06,8,Amed 0-4 Esenler Erokspor,Amed,Esenler Erokspor
-2024-10-06,8,İstanbulspor 0-3 Kocaelispor,İstanbulspor,Kocaelispor
-2024-10-06,8,Manisa FK 1-0 Gençlerbirliği,Manisa FK,Gençlerbirliği
-2024-10-06,8,Ankara Keçiörengücü 1-1 Pendikspor,Ankara Keçiörengücü,Pendikspor
-2024-10-05,8,Fatih Karagümrük 4-0 Sakaryaspor,Fatih Karagümrük,Sakaryaspor
-2024-10-05,8,Şanlıurfaspor 3-0 Yeni Malatyaspor,Şanlıurfaspor,Yeni Malatyaspor
-2024-10-05,8,Ankaragücü 0-0 Adanaspor,Ankaragücü,Adanaspor
-2024-10-05,8,Ümraniyespor 1-1 Bandırmaspor,Ümraniyespor,Bandırmaspor
-2024-10-04,8,Çorum FK 0-0 Iğdır FK,Çorum FK,Iğdır FK
-2024-10-04,8,Erzurumspor FK 1-0 Boluspor,Erzurumspor FK,Boluspor
-2024-09-30,7,Kocaelispor 0-0 Şanlıurfaspor,Kocaelispor,Şanlıurfaspor
-2024-09-30,7,Fatih Karagümrük 1-0 İstanbulspor,Fatih Karagümrük,İstanbulspor
-2024-09-29,7,Adanaspor 0-2 Çorum FK,Adanaspor,Çorum FK
-2024-09-29,7,Esenler Erokspor 4-0 Pendikspor,Esenler Erokspor,Pendikspor
-2024-09-29,7,Yeni Malatyaspor 2-4 Amed,Yeni Malatyaspor,Amed
-2024-09-29,7,Sakaryaspor 1-3 Ümraniyespor,Sakaryaspor,Ümraniyespor
-2024-09-28,7,Gençlerbirliği 0-1 Ankara Keçiörengücü,Gençlerbirliği,Ankara Keçiörengücü
-2024-09-28,7,Boluspor 2-0 Manisa FK,Boluspor,Manisa FK
-2024-09-28,7,Bandırmaspor 2-0 Ankaragücü,Bandırmaspor,Ankaragücü
-2024-09-27,7,Iğdır FK 1-2 Erzurumspor FK,Iğdır FK,Erzurumspor FK
-2024-09-24,2,Esenler Erokspor 2-1 Yeni Malatyaspor,Esenler Erokspor,Yeni Malatyaspor
-2024-09-23,6,Şanlıurfaspor 1-3 Fatih Karagümrük,Şanlıurfaspor,Fatih Karagümrük
-2024-09-22,6,Çorum FK 0-2 Kocaelispor,Çorum FK,Kocaelispor
-2024-09-22,6,İstanbulspor 0-0 Bandırmaspor,İstanbulspor,Bandırmaspor
-2024-09-22,6,Ankara Keçiörengücü 2-0 Iğdır FK,Ankara Keçiörengücü,Iğdır FK
-2024-09-22,6,Ümraniyespor 5-2 Adanaspor,Ümraniyespor,Adanaspor
-2024-09-21,6,Amed 1-1 Boluspor,Amed,Boluspor
-2024-09-21,6,Ankaragücü 2-1 Sakaryaspor,Ankaragücü,Sakaryaspor
-2024-09-21,6,Pendikspor 0-1 Gençlerbirliği,Pendikspor,Gençlerbirliği
-2024-09-20,6,Manisa FK 5-1 Yeni Malatyaspor,Manisa FK,Yeni Malatyaspor
-2024-09-20,6,Erzurumspor FK 2-0 Esenler Erokspor,Erzurumspor FK,Esenler Erokspor
-2024-09-16,5,Adanaspor 1-1 Ankara Keçiörengücü,Adanaspor,Ankara Keçiörengücü
-2024-09-15,5,Kocaelispor 1-2 Manisa FK,Kocaelispor,Manisa FK
-2024-09-15,5,Gençlerbirliği 1-0 Erzurumspor FK,Gençlerbirliği,Erzurumspor FK
-2024-09-15,5,Fatih Karagümrük 3-2 Ankaragücü,Fatih Karagümrük,Ankaragücü
-2024-09-15,5,Iğdır FK 1-2 Esenler Erokspor,Iğdır FK,Esenler Erokspor
-2024-09-14,5,Sakaryaspor 2-0 Şanlıurfaspor,Sakaryaspor,Şanlıurfaspor
-2024-09-14,5,İstanbulspor 3-0 Ümraniyespor,İstanbulspor,Ümraniyespor
-2024-09-14,5,Yeni Malatyaspor 0-4 Çorum FK,Yeni Malatyaspor,Çorum FK
-2024-09-14,5,Bandırmaspor 0-1 Amed,Bandırmaspor,Amed
-2024-09-13,5,Boluspor 1-2 Pendikspor,Boluspor,Pendikspor
-2024-09-02,4,Amed 3-0 Kocaelispor,Amed,Kocaelispor
-2024-09-01,4,Pendikspor 0-2 Iğdır FK,Pendikspor,Iğdır FK
-2024-09-01,4,Erzurumspor FK 3-0 Yeni Malatyaspor,Erzurumspor FK,Yeni Malatyaspor
-2024-09-01,4,Ankaragücü 2-1 İstanbulspor,Ankaragücü,İstanbulspor
-2024-08-31,4,Çorum FK 1-1 Sakaryaspor,Çorum FK,Sakaryaspor
-2024-08-31,4,Şanlıurfaspor 3-2 Bandırmaspor,Şanlıurfaspor,Bandırmaspor
-2024-08-31,4,Ümraniyespor 2-2 Fatih Karagümrük,Ümraniyespor,Fatih Karagümrük
-2024-08-31,4,Ankara Keçiörengücü 1-1 Boluspor,Ankara Keçiörengücü,Boluspor
-2024-08-30,4,Manisa FK 0-0 Adanaspor,Manisa FK,Adanaspor
-2024-08-30,4,Esenler Erokspor 1-2 Gençlerbirliği,Esenler Erokspor,Gençlerbirliği
-2024-08-28,3,Sakaryaspor 0-0 Amed,Sakaryaspor,Amed
-2024-08-26,3,İstanbulspor 3-0 Şanlıurfaspor,İstanbulspor,Şanlıurfaspor
-2024-08-25,3,Yeni Malatyaspor 0-1 Ankara Keçiörengücü,Yeni Malatyaspor,Ankara Keçiörengücü
-2024-08-25,3,Adanaspor 3-4 Pendikspor,Adanaspor,Pendikspor
-2024-08-25,3,Bandırmaspor 0-0 Çorum FK,Bandırmaspor,Çorum FK
-2024-08-24,3,Ankaragücü 0-1 Ümraniyespor,Ankaragücü,Ümraniyespor
-2024-08-24,3,Boluspor 2-1 Esenler Erokspor,Boluspor,Esenler Erokspor
-2024-08-24,3,Fatih Karagümrük 0-2 Manisa FK,Fatih Karagümrük,Manisa FK
-2024-08-24,3,Iğdır FK 0-0 Gençlerbirliği,Iğdır FK,Gençlerbirliği
-2024-08-23,3,Kocaelispor 1-0 Erzurumspor FK,Kocaelispor,Erzurumspor FK
-2024-08-19,2,Amed 0-1 İstanbulspor,Amed,İstanbulspor
-2024-08-18,2,Şanlıurfaspor 3-1 Ümraniyespor,Şanlıurfaspor,Ümraniyespor
-2024-08-18,2,Çorum FK 2-2 Fatih Karagümrük,Çorum FK,Fatih Karagümrük
-2024-08-18,2,Gençlerbirliği 1-1 Boluspor,Gençlerbirliği,Boluspor
-2024-08-18,2,Iğdır FK 6-1 Adanaspor,Iğdır FK,Adanaspor
-2024-08-17,2,Manisa FK 2-2 Sakaryaspor,Manisa FK,Sakaryaspor
-2024-08-17,2,Erzurumspor FK 1-0 Ankaragücü,Erzurumspor FK,Ankaragücü
-2024-08-17,2,Ankara Keçiörengücü 1-2 Bandırmaspor,Ankara Keçiörengücü,Bandırmaspor
-2024-08-16,2,Pendikspor 1-2 Kocaelispor,Pendikspor,Kocaelispor
-2024-08-12,1,Ümraniyespor 3-0 Çorum FK,Ümraniyespor,Çorum FK
-2024-08-11,1,Ankaragücü 2-0 Şanlıurfaspor,Ankaragücü,Şanlıurfaspor
-2024-08-11,1,Fatih Karagümrük 0-0 Amed,Fatih Karagümrük,Amed
-2024-08-11,1,Boluspor 0-1 Iğdır FK,Boluspor,Iğdır FK
-2024-08-11,1,Bandırmaspor 3-2 Erzurumspor FK,Bandırmaspor,Erzurumspor FK
-2024-08-10,1,Adanaspor 2-1 Esenler Erokspor,Adanaspor,Esenler Erokspor
-2024-08-10,1,Kocaelispor 2-1 Gençlerbirliği,Kocaelispor,Gençlerbirliği
-2024-08-10,1,İstanbulspor 3-2 Manisa FK,İstanbulspor,Manisa FK
-2024-08-09,1,Sakaryaspor 1-1 Ankara Keçiörengücü,Sakaryaspor,Ankara Keçiörengücü
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-08,33,Manisa FK 2-2 Amed,Manisa FK,Amed,e66mlanglsjh4nmtn7dmxwtg4,926amrwefo78qfh8h84yz85w
+2025-04-08,33,Iğdır FK 3-0 İstanbulspor,Iğdır FK,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,6yv47u41fq0jfsdlq94ldyqc
+2025-04-08,33,Ankara Keçiörengücü 4-1 Şanlıurfaspor,Ankara Keçiörengücü,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,5q3j7hg4vde1dvjq8v3vhfys
+2025-04-06,32,Ankaragücü 0-3 Gençlerbirliği,Ankaragücü,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,2fujo8ru72o8y66c10wfevis
+2025-04-06,32,Bandırmaspor 2-2 Kocaelispor,Bandırmaspor,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,4i623wqkp7ep62o7a5k2chlg
+2025-04-06,32,Ümraniyespor 0-0 Pendikspor,Ümraniyespor,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,3ar91n9xjyzwlfj9b1ci5jx0
+2025-04-05,32,Fatih Karagümrük 1-0 Erzurumspor FK,Fatih Karagümrük,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,43nc28xrorswu5bu4b0sg4d0
+2025-04-05,32,Çorum FK 3-3 Esenler Erokspor,Çorum FK,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,2u74ba18szqc0knrplmezk0k
+2025-04-05,32,Sakaryaspor 2-1 Adanaspor,Sakaryaspor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,4wibx49p7egibfxi5x3s8bv8
+2025-04-05,32,Manisa FK 1-2 Ankara Keçiörengücü,Manisa FK,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,3p7uhpzo2xuwz6ot4fm6uuxg
+2025-04-04,32,Amed 0-0 Iğdır FK,Amed,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,21f9dqgixr5lymucl0csttec
+2025-04-04,32,Şanlıurfaspor 3-2 Boluspor,Şanlıurfaspor,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,1mu3flc8fw3doa62gp3boefo
+2025-04-04,32,İstanbulspor 5-0 Yeni Malatyaspor,İstanbulspor,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,5b9jkj47cw22jnvesuzzlq1g
+2025-03-31,31,Kocaelispor 3-1 Sakaryaspor,Kocaelispor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,imhgykxovoqbwo7jsfiwwk
+2025-03-31,31,Esenler Erokspor 3-1 Ankaragücü,Esenler Erokspor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,f40mavipuv0odd4mwwmhd632s
+2025-03-29,31,Adanaspor 0-2 İstanbulspor,Adanaspor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,f4f55h9fp16d16i7xahbf10yc
+2025-03-29,31,Pendikspor 2-2 Çorum FK,Pendikspor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,187vrzt2tlji0val6nszdvys
+2025-03-29,31,Ankara Keçiörengücü 1-2 Amed,Ankara Keçiörengücü,Amed,e66mlanglsjh4nmtn7dmxwtg4,tnmebf03cfc96kz5ou82hp0
+2025-03-29,31,Yeni Malatyaspor 0-2 Fatih Karagümrük,Yeni Malatyaspor,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,f4tjswsziymz38ayqlo9t5n9w
+2025-03-28,31,Iğdır FK 0-0 Ümraniyespor,Iğdır FK,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,f3m7czt1gcff5gvec8s6kucd0
+2025-03-28,31,Gençlerbirliği 1-0 Şanlıurfaspor,Gençlerbirliği,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,f35qkix017dqzg73rgvjmuntg
+2025-03-28,31,Boluspor 0-0 Bandırmaspor,Boluspor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,f57xjm4ex67i3uumi9rpxz7kk
+2025-03-28,31,Erzurumspor FK 1-0 Manisa FK,Erzurumspor FK,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,f55k0o5tem2a9gbyu0owqhg
+2025-03-16,30,Fatih Karagümrük 1-1 Kocaelispor,Fatih Karagümrük,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,f1y835e9cc9pxf1odu0t4jx1w
+2025-03-16,30,Amed 1-2 Erzurumspor FK,Amed,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,f1jvb5kiaw00rc71sqqsj9hxw
+2025-03-16,30,Çorum FK 3-2 Ankara Keçiörengücü,Çorum FK,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,f15agx1mrppkw9dhsuxixxlw4
+2025-03-16,30,İstanbulspor 5-0 Gençlerbirliği,İstanbulspor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,ezxy6j4c3w4conzsmopoaj11w
+2025-03-15,30,Sakaryaspor 5-0 Yeni Malatyaspor,Sakaryaspor,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,f2rawpxbuf64oww67wlb7ux3o
+2025-03-15,30,Ankaragücü 0-4 Iğdır FK,Ankaragücü,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,ezjnb8vv3koyn68t4dbxjt53o
+2025-03-15,30,Ümraniyespor 1-0 Boluspor,Ümraniyespor,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,ez57xr5nd9qom2z1ly773rcb8
+2025-03-15,30,Manisa FK 2-0 Pendikspor,Manisa FK,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,f0qsalovciqmi9xp0vkhfoidw
+2025-03-14,30,Şanlıurfaspor 0-2 Esenler Erokspor,Şanlıurfaspor,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,f0c6eyt0c7djwe5a99exi1o2c
+2025-03-14,30,Bandırmaspor 1-0 Adanaspor,Bandırmaspor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,f2d03uyi98dn9i3t05t2pgg0k
+2025-03-10,29,Kocaelispor 1-1 Ankaragücü,Kocaelispor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,evw3y7af506iztcwskv03z1n8
+2025-03-10,29,Pendikspor 0-1 Amed,Pendikspor,Amed,e66mlanglsjh4nmtn7dmxwtg4,eyc53syz5o8wqijtefgv4ymfo
+2025-03-10,29,Boluspor 1-0 İstanbulspor,Boluspor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,ewahth44maojx6fpj53fkv40k
+2025-03-10,29,Ankara Keçiörengücü 1-3 Erzurumspor FK,Ankara Keçiörengücü,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,exho5ibmnjcq4l6snnfdavk7o
+2025-03-09,29,Sakaryaspor 2-2 Bandırmaspor,Sakaryaspor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,ex37j6vrhpqo260na2gyk5hxw
+2025-03-09,29,Gençlerbirliği 1-2 Çorum FK,Gençlerbirliği,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,eyqjm3y7e63e8z180cerxw3dg
+2025-03-09,29,Adanaspor 1-2 Fatih Karagümrük,Adanaspor,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,ewovanc12wlaz09gnwmely0wk
+2025-03-09,29,Yeni Malatyaspor 0-5 Ümraniyespor,Yeni Malatyaspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,evhgyzb6av89q38zg2darwetw
+2025-03-08,29,Esenler Erokspor 1-1 Manisa FK,Esenler Erokspor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,exvyqt1468ord2mb1r8dfnjmc
+2025-03-08,29,Iğdır FK 2-2 Şanlıurfaspor,Iğdır FK,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,ev23hdbd3by4v32xucazxgtg4
+2025-03-06,28,Ümraniyespor 1-1 Kocaelispor,Ümraniyespor,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,etu7m6zyyx4ezx4me74xnlb10
+2025-03-06,28,Ankaragücü 3-0 Yeni Malatyaspor,Ankaragücü,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,eung9v9cgeknso8u24ysf60b8
+2025-03-06,28,İstanbulspor 3-0 Sakaryaspor,İstanbulspor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,etfora5tqrlvfjnoydwd2w7x0
+2025-03-06,28,Erzurumspor FK 2-4 Pendikspor,Erzurumspor FK,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,esmztgxqknkv6bkebaop0hx5g
+2025-03-05,28,Fatih Karagümrük 1-2 Bandırmaspor,Fatih Karagümrük,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,et1cldry8nen3muqmp1xp0u8k
+2025-03-05,28,Şanlıurfaspor 1-2 Adanaspor,Şanlıurfaspor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,eu8xu2atsc5w29v9s3hnrk0es
+2025-03-05,28,Çorum FK 0-2 Boluspor,Çorum FK,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,eqye6qysmcxw3fzowwt3iauc4
+2025-03-05,28,Ankara Keçiörengücü 2-2 Esenler Erokspor,Ankara Keçiörengücü,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,es68s57uii0pmh2cefokiptzo
+2025-03-04,28,Amed 1-1 Gençlerbirliği,Amed,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,erryzj7u7zbckefqiemg6189g
+2025-03-04,28,Manisa FK 0-1 Iğdır FK,Manisa FK,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,erdcmv3xh6v4z1z1wlkljkw0k
+2025-03-03,27,Kocaelispor 1-1 İstanbulspor,Kocaelispor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,eo4lae62belbrdpygxe39e51w
+2025-03-02,27,Sakaryaspor 1-3 Fatih Karagümrük,Sakaryaspor,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,eoiznd44itpvmbzb77t0p7pjo
+2025-03-02,27,Adanaspor 2-0 Ankaragücü,Adanaspor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,enq67y5scroa5dh137h5f1uz8
+2025-03-02,27,Boluspor 0-0 Erzurumspor FK,Boluspor,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,epc3ur86gpmlkz5njh0qj6wpg
+2025-03-02,27,Bandırmaspor 2-0 Ümraniyespor,Bandırmaspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,enbjb8neu6ek94fggsk2i43ro
+2025-03-01,27,Pendikspor 0-2 Ankara Keçiörengücü,Pendikspor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,eoxf165g62mq2lvvawdty5mac
+2025-03-01,27,Iğdır FK 1-0 Çorum FK,Iğdır FK,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,eqjrn9p2p5m90os62j1bz5hck
+2025-03-01,27,Esenler Erokspor 1-1 Amed,Esenler Erokspor,Amed,e66mlanglsjh4nmtn7dmxwtg4,eq56k7gqwrfdrbj4q4e6ikp3o
+2025-03-01,27,Yeni Malatyaspor 1-4 Şanlıurfaspor,Yeni Malatyaspor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,emuyyjii9kynb1h74rpx1m1hw
+2025-02-28,27,Gençlerbirliği 3-0 Manisa FK,Gençlerbirliği,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,epqjnjg52wdmhg9p8jxhk0owk
+2025-02-23,26,Ümraniyespor 0-0 Sakaryaspor,Ümraniyespor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,el9r7yvzq38ngaej1ynxfv9qs
+2025-02-23,26,Amed 4-0 Yeni Malatyaspor,Amed,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,emgiitjxbkii3hlq5p555ma6s
+2025-02-23,26,Pendikspor 2-2 Esenler Erokspor,Pendikspor,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,ek32oabivbqptan3zs9uv3i8k
+2025-02-23,26,Erzurumspor FK 0-0 Iğdır FK,Erzurumspor FK,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,ejaa8bydy3kywefvnf0qle9sk
+2025-02-22,26,Ankaragücü 4-0 Bandırmaspor,Ankaragücü,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,ekviw8cu4e3n1tbz57qonyhw4
+2025-02-22,26,İstanbulspor 2-0 Fatih Karagümrük,İstanbulspor,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,ekh77q7khdrs9k5ojnrd08ftg
+2025-02-22,26,Çorum FK 1-1 Adanaspor,Çorum FK,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,em2cb9o5x2mm94vxpu4af32fo
+2025-02-22,26,Şanlıurfaspor 0-0 Kocaelispor,Şanlıurfaspor,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,elnwwlp1wg9zs2na4240o8bv8
+2025-02-22,26,Ankara Keçiörengücü 3-3 Gençlerbirliği,Ankara Keçiörengücü,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,ejouqqdpnrmwj4dvyiyufrdw4
+2025-02-21,26,Manisa FK 0-2 Boluspor,Manisa FK,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,eivw6qw3j4v1y7zyafj1oe6tw
+2025-02-17,25,Sakaryaspor 2-2 Ankaragücü,Sakaryaspor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,efnkg3g2rzpnuwfz9hmxwgowk
+2025-02-17,25,Fatih Karagümrük 1-1 Şanlıurfaspor,Fatih Karagümrük,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,eeukel0o0t1hpj2ls8wqubl78
+2025-02-17,25,Adanaspor 1-1 Ümraniyespor,Adanaspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,ef9dish2v3oyy2cijy21mufx0
+2025-02-17,25,Bandırmaspor 1-0 İstanbulspor,Bandırmaspor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,eg23tsg9467g1fymcuyfk2r6c
+2025-02-16,25,Esenler Erokspor 1-2 Erzurumspor FK,Esenler Erokspor,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,eh93svex9epqwjgc7r8cgax3o
+2025-02-16,25,Gençlerbirliği 3-0 Pendikspor,Gençlerbirliği,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,egghafgu69ueix5ywgmpg8vmc
+2025-02-16,25,Boluspor 0-0 Amed,Boluspor,Amed,e66mlanglsjh4nmtn7dmxwtg4,ei3p7xa3g1e5qnz59139kcmqc
+2025-02-16,25,Iğdır FK 3-0 Ankara Keçiörengücü,Iğdır FK,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,eguvx0pn7pod428yp6l86mk9g
+2025-02-15,25,Kocaelispor 2-0 Çorum FK,Kocaelispor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,eihq1t3seiwr9zj5bv6m3x8us
+2025-02-15,25,Yeni Malatyaspor 0-6 Manisa FK,Yeni Malatyaspor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,ehnbyujuwtpsefeikqy1r6cyc
+2025-02-13,24,Ankaragücü 0-1 Fatih Karagümrük,Ankaragücü,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,ecgthm8qp6o896fzgwfxbqdjo
+2025-02-13,24,Ümraniyespor 2-1 İstanbulspor,Ümraniyespor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,ec0o7qbreogk5hm2qbcaohxxw
+2025-02-13,24,Şanlıurfaspor 0-1 Sakaryaspor,Şanlıurfaspor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,ed99l5bhk5s318ndv5gn1xxqs
+2025-02-13,24,Pendikspor 1-0 Boluspor,Pendikspor,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,eaueavirbnu6y8x747atntzx0
+2025-02-12,24,Amed 2-1 Bandırmaspor,Amed,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,ecv0houwkyaxseu3vge40tyxg
+2025-02-12,24,Esenler Erokspor 3-1 Iğdır FK,Esenler Erokspor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,eb8gsquv0ejq0ibzohkcxnn6c
+2025-02-12,24,Ankara Keçiörengücü 3-0 Adanaspor,Ankara Keçiörengücü,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,ee237k9frdzsjn6veglc6jnys
+2025-02-12,24,Erzurumspor FK 1-2 Gençlerbirliği,Erzurumspor FK,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,ebmm3x3p1w4ccdo6mzbtw3p5g
+2025-02-11,24,Manisa FK 0-2 Kocaelispor,Manisa FK,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,ednuv3hhdgoli5o3jzo51xa1g
+2025-02-11,24,Çorum FK 2-0 Yeni Malatyaspor,Çorum FK,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,eegdvzmndlq2ypvfdiqfs4tg4
+2025-02-09,23,Fatih Karagümrük 1-0 Ümraniyespor,Fatih Karagümrük,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,e79gx8971811nlzillinggaok
+2025-02-09,23,İstanbulspor 1-0 Ankaragücü,İstanbulspor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,e7o0yo0nby8cidqn0jcjynhg4
+2025-02-09,23,Boluspor 1-1 Ankara Keçiörengücü,Boluspor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,e8uvcv941ehqegl791jurigb8
+2025-02-09,23,Bandırmaspor 3-2 Şanlıurfaspor,Bandırmaspor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,e6sv054fftfg8n3z61zcstjx0
+2025-02-08,23,Kocaelispor 1-0 Amed,Kocaelispor,Amed,e66mlanglsjh4nmtn7dmxwtg4,ea1z385pkye282pol62u94lck
+2025-02-08,23,Sakaryaspor 2-1 Çorum FK,Sakaryaspor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,eag6qfcanb0kmf5lgfryr50r8
+2025-02-08,23,Adanaspor 2-1 Manisa FK,Adanaspor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,e9no88dmdqiej9fp0rvt72yhg
+2025-02-08,23,Yeni Malatyaspor 0-7 Erzurumspor FK,Yeni Malatyaspor,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,e996wgxy3i4eawz7sxr3g407o
+2025-02-08,23,Iğdır FK 1-0 Pendikspor,Iğdır FK,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,e8gduea7j3hchckijtt0urvh0
+2025-02-07,23,Gençlerbirliği 1-1 Esenler Erokspor,Gençlerbirliği,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,e823tblb3znsl6gt77vto6784
+2025-02-02,22,Esenler Erokspor 1-1 Boluspor,Esenler Erokspor,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,e2s5e8wii1ptynk1dnyyltdec
+2025-02-02,22,Amed 2-2 Sakaryaspor,Amed,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,e574nswlpfqd01sil48nx13pw
+2025-02-02,22,Manisa FK 2-2 Fatih Karagümrük,Manisa FK,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,e4dts0yhvefgnb7sb9iyi0f10
+2025-02-02,22,Şanlıurfaspor 1-0 İstanbulspor,Şanlıurfaspor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,e3zfl5ct437ko0by7hyo6a6ms
+2025-02-02,22,Ümraniyespor 2-1 Ankaragücü,Ümraniyespor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,e3kxqoiykbojjmulfylgz3sic
+2025-02-01,22,Pendikspor 1-0 Adanaspor,Pendikspor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,e604po4w2al26zktsgvbqg2dw
+2025-02-01,22,Gençlerbirliği 2-0 Iğdır FK,Gençlerbirliği,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,e36ifwb3jab6yoh0076m5zoyc
+2025-02-01,22,Ankara Keçiörengücü 7-0 Yeni Malatyaspor,Ankara Keçiörengücü,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,e6eoylt6mxm0jsqv8uypjo4yc
+2025-02-01,22,Erzurumspor FK 1-1 Kocaelispor,Erzurumspor FK,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,e5lmjv4pxrh2aulmyb3m8vwgk
+2025-01-31,22,Çorum FK 4-0 Bandırmaspor,Çorum FK,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,e4sgq0k15lyaasyby2hpqqgwk
+2025-01-27,21,Sakaryaspor 1-2 Manisa FK,Sakaryaspor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,e1ipl5drz8lydlh5zq0qn8n4k
+2025-01-26,21,Kocaelispor 3-0 Pendikspor,Kocaelispor,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,e0bbwx0rrrlkwclto0wb4y0b8
+2025-01-26,21,Fatih Karagümrük 1-0 Çorum FK,Fatih Karagümrük,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,e2dqt3i9g6f43nr4yvtbqp0r8
+2025-01-26,21,Ankaragücü 1-2 Erzurumspor FK,Ankaragücü,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,e1471w128smy064v7smr5tfro
+2025-01-26,21,Bandırmaspor 1-2 Ankara Keçiörengücü,Bandırmaspor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,e0pszjfvvu4lb800y2r27ryfo
+2025-01-25,21,Adanaspor 0-0 Iğdır FK,Adanaspor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,dz44s1ceae0ljmgpnw2a3d53o
+2025-01-25,21,İstanbulspor 1-0 Amed,İstanbulspor,Amed,e66mlanglsjh4nmtn7dmxwtg4,e1z8c017ykjtkrlpcs5u76sr8
+2025-01-25,21,Yeni Malatyaspor 0-1 Esenler Erokspor,Yeni Malatyaspor,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,dzwzjpjuuhvdmfobhlvbdslqs
+2025-01-25,21,Boluspor 0-2 Gençlerbirliği,Boluspor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,dzii6py5jannahdwpw9ztj190
+2025-01-24,21,Ümraniyespor 1-0 Şanlıurfaspor,Ümraniyespor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,dyprhf40cv1sqa5hssgjyms5w
+2025-01-20,20,Gençlerbirliği 1-0 Kocaelispor,Gençlerbirliği,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,dxidb5gteh1htrb08rg6kaoes
+2025-01-19,20,Manisa FK 0-1 İstanbulspor,Manisa FK,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,dvu720u2soj3q6ka9xljwmcr8
+2025-01-19,20,Pendikspor 4-0 Yeni Malatyaspor,Pendikspor,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,dyb9o0wh52o298gedev3bbxn8
+2025-01-19,20,Ankara Keçiörengücü 2-3 Sakaryaspor,Ankara Keçiörengücü,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,dx3w9yw99z1q516wcnebcq2ac
+2025-01-19,20,Iğdır FK 0-1 Boluspor,Iğdır FK,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,dum6mgxl6hh2i9cvi0vnpfzf8
+2025-01-18,20,Çorum FK 3-1 Ümraniyespor,Çorum FK,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,dv0ravpqyszqrv445yrmr4xlg
+2025-01-18,20,Esenler Erokspor 1-0 Adanaspor,Esenler Erokspor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,dxwwb7q0bwl00892jb75uerro
+2025-01-18,20,Amed 1-1 Fatih Karagümrük,Amed,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,dwapoht1jou5kng1utol28v84
+2025-01-18,20,Erzurumspor FK 2-0 Bandırmaspor,Erzurumspor FK,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,dwpeczt7xmfv5t6n0uiu0gr9w
+2025-01-17,20,Şanlıurfaspor 0-1 Ankaragücü,Şanlıurfaspor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,dvfgp0469zgo1qci1aqf38n4k
+2025-01-13,19,Manisa FK 0-3 Ümraniyespor,Manisa FK,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,dtcnxupbbfz05fap3j3xlu6ms
+2025-01-13,19,Çorum FK 3-1 İstanbulspor,Çorum FK,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,du64uwk3fxhel0udbrrpn5ez8
+2025-01-12,19,Gençlerbirliği 3-0 Yeni Malatyaspor,Gençlerbirliği,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,drcgi2mcscj33k12vajf3ophw
+2025-01-12,19,Amed 1-0 Ankaragücü,Amed,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,dtrcyrpt52wooautu66rodct0
+2025-01-12,19,Boluspor 3-1 Adanaspor,Boluspor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,dqhltwyx0mrrscgk7huh4zggk
+2025-01-12,19,Erzurumspor FK 0-1 Şanlıurfaspor,Erzurumspor FK,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,dsy8whj17qsypddh7t12lfevo
+2025-01-12,19,Ankara Keçiörengücü 0-1 Kocaelispor,Ankara Keçiörengücü,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,dsjovz1v2yo8k9we35cdnqntg
+2025-01-11,19,Esenler Erokspor 1-1 Sakaryaspor,Esenler Erokspor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,drqvhvgruahzybbryjg8dow7o
+2025-01-11,19,Iğdır FK 0-1 Fatih Karagümrük,Iğdır FK,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,dqxyquxjea270x5738vh8gqhg
+2025-01-10,19,Pendikspor 1-1 Bandırmaspor,Pendikspor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,ds59ff0f1pyi1hbirylathatw
+2025-01-06,18,Sakaryaspor 0-0 Gençlerbirliği,Sakaryaspor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,dow7bep938g0mgdl3uc6nik9g
+2025-01-05,18,Adanaspor 0-0 Amed,Adanaspor,Amed,e66mlanglsjh4nmtn7dmxwtg4,dpougq958kze4w0w2ryfq6xp0
+2025-01-05,18,İstanbulspor 4-0 Esenler Erokspor,İstanbulspor,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,dnopk8wvzqi2zqqun143gk2l0
+2025-01-05,18,Bandırmaspor 2-3 Manisa FK,Bandırmaspor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,dohq12wg9lzjlmnr43y0hqz9w
+2025-01-05,18,Ümraniyespor 0-0 Erzurumspor FK,Ümraniyespor,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,dmvnjt3e7xgi7m7xgo623frx0
+2025-01-04,18,Fatih Karagümrük 0-2 Pendikspor,Fatih Karagümrük,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,do39ly2bgr8km29q6pt095ous
+2025-01-04,18,Ankaragücü 2-0 Ankara Keçiörengücü,Ankaragücü,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,dnaaqobii0b4x18zwijrpwefo
+2025-01-04,18,Yeni Malatyaspor 2-4 Boluspor,Yeni Malatyaspor,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,dq370ha7n0g4m1e176rztkys4
+2025-01-04,18,Şanlıurfaspor 0-0 Çorum FK,Şanlıurfaspor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,dmhabmzdtdjg2v14jhf7b8opg
+2025-01-03,18,Kocaelispor 3-0 Iğdır FK,Kocaelispor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,dpainz4dyeabdphp9fcjtcg7o
+2024-12-23,17,Amed 2-0 Ümraniyespor,Amed,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,dlof7e7w4ko9m1yaxfopn2vbo
+2024-12-23,17,Gençlerbirliği 0-2 Adanaspor,Gençlerbirliği,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,dj6pnekju4389xy217nzc3od0
+2024-12-22,17,Çorum FK 1-1 Ankaragücü,Çorum FK,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,dm2utqalozc3lb9w9vucsjggk
+2024-12-22,17,Esenler Erokspor 1-1 Bandırmaspor,Esenler Erokspor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,djlddokx23u8fwafb50rn9hxw
+2024-12-22,17,Boluspor 1-3 Kocaelispor,Boluspor,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,did6hoby9u8f3mjbh1t9k1x5g
+2024-12-22,17,Ankara Keçiörengücü 0-1 Fatih Karagümrük,Ankara Keçiörengücü,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,dkezxdbkiw3czue54z04g3das
+2024-12-21,17,Pendikspor 1-1 İstanbulspor,Pendikspor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,dk0lkwif3682441y6o46qwro4
+2024-12-21,17,Manisa FK 2-1 Şanlıurfaspor,Manisa FK,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,dl7rlhhnjduspv1o5ot4vi4gk
+2024-12-21,17,Erzurumspor FK 0-0 Sakaryaspor,Erzurumspor FK,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,dkteir92n7ifjvt015reheal0
+2024-12-21,17,Iğdır FK 3-0 Yeni Malatyaspor,Iğdır FK,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,dis5crnq3lzuffq624wpd7uac
+2024-12-15,16,Kocaelispor 0-2 Esenler Erokspor,Kocaelispor,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,dh4f8q6q7b18hq13g2rd76tjo
+2024-12-15,16,Çorum FK 1-1 Amed,Çorum FK,Amed,e66mlanglsjh4nmtn7dmxwtg4,dhyq4rxo1cto63tjni6um16ok
+2024-12-15,16,Ümraniyespor 1-2 Ankara Keçiörengücü,Ümraniyespor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,deljus5mbo85j5waapdq1zpqs
+2024-12-15,16,Bandırmaspor 2-2 Gençlerbirliği,Bandırmaspor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,dg9v9752mcfkcfvzfo7jzh2j8
+2024-12-14,16,Sakaryaspor 2-1 Iğdır FK,Sakaryaspor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,dgozo6zmzaxy9ykwwcnbt02l0
+2024-12-14,16,Fatih Karagümrük 2-2 Boluspor,Fatih Karagümrük,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,dfvdtvombe89ofa4yr26nrims
+2024-12-14,16,İstanbulspor 3-2 Erzurumspor FK,İstanbulspor,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,dfemmep82hc2lajiyumcjeexg
+2024-12-14,16,Şanlıurfaspor 2-1 Pendikspor,Şanlıurfaspor,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,de6wpweqhldz5hum5ms9zt53o
+2024-12-13,16,Adanaspor 3-1 Yeni Malatyaspor,Adanaspor,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,dhjqqwv85haf9dnvqj56a27tg
+2024-12-13,16,Ankaragücü 0-1 Manisa FK,Ankaragücü,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,df00ojl70r8hfzmb980jl8zdg
+2024-12-09,15,Amed 2-1 Şanlıurfaspor,Amed,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,dddcflnnnxubfefu3xssg9ij8
+2024-12-09,15,Esenler Erokspor 0-1 Ümraniyespor,Esenler Erokspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,dbcdt85ppxbpr6qlns2nswqhg
+2024-12-08,15,Pendikspor 3-0 Sakaryaspor,Pendikspor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,dbqvgxbis07a0j99bl6c1ruvo
+2024-12-08,15,Gençlerbirliği 1-0 Fatih Karagümrük,Gençlerbirliği,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,daxq4mbh0zmlhsqu3d2294utw
+2024-12-08,15,Boluspor 2-3 Ankaragücü,Boluspor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,da2ynuyw3qpxt3tb9qi64t79w
+2024-12-08,15,Ankara Keçiörengücü 2-1 İstanbulspor,Ankara Keçiörengücü,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,dc5piyh3huaz0bqb4fg8rp638
+2024-12-07,15,Iğdır FK 0-1 Bandırmaspor,Iğdır FK,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,daj9d8ns2b17ko7aakkczt91w
+2024-12-07,15,Manisa FK 0-1 Çorum FK,Manisa FK,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,dcyv2mhbenu04p8bnwc5g3vh0
+2024-12-07,15,Yeni Malatyaspor 1-3 Kocaelispor,Yeni Malatyaspor,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,ddsdvd0ifzv36keyxfn70jt3o
+2024-12-07,15,Erzurumspor FK 1-0 Adanaspor,Erzurumspor FK,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,dck9j57snr9pozhpc5k6cdvro
+2024-12-02,14,Sakaryaspor 2-1 Boluspor,Sakaryaspor,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,d8gxxi2sz59zjc426b0wfpes4
+2024-12-01,14,Fatih Karagümrük 1-0 Esenler Erokspor,Fatih Karagümrük,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,d7nu04zi7lol031c33ub61v6c
+2024-12-01,14,Ankaragücü 1-1 Pendikspor,Ankaragücü,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,d6viubd3e5066x3pjumjhuyac
+2024-12-01,14,Şanlıurfaspor 0-2 Ankara Keçiörengücü,Şanlıurfaspor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,d62eg3vjqvmb88n2t6mkh4ro4
+2024-12-01,14,Ümraniyespor 3-3 Gençlerbirliği,Ümraniyespor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,d6gxsorn2cqu52lbfjpxmhjbo
+2024-11-30,14,Çorum FK 0-1 Erzurumspor FK,Çorum FK,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,d9oeqqysaoq2nefx6g59ifz84
+2024-11-30,14,İstanbulspor 4-0 Iğdır FK,İstanbulspor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,d79lfurx3uzgiqxeg357ngis4
+2024-11-30,14,Amed 3-2 Manisa FK,Amed,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,d99sqgl3ttzkw0k368xybz4t0
+2024-11-30,14,Bandırmaspor 2-0 Yeni Malatyaspor,Bandırmaspor,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,d82k6ohr1pna66rf5xmmpsk5w
+2024-11-29,14,Kocaelispor 2-0 Adanaspor,Kocaelispor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,d8vdn3xla4t347ngzr2trab6c
+2024-11-25,13,Iğdır FK 1-1 Amed,Iğdır FK,Amed,e66mlanglsjh4nmtn7dmxwtg4,d2eschirppmubacanckltruvo
+2024-11-24,13,Kocaelispor 2-2 Bandırmaspor,Kocaelispor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,d4t5efv1u9uxz3nco3lnnn6z8
+2024-11-24,13,Adanaspor 1-1 Sakaryaspor,Adanaspor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,d59egeyaos2qx34j3bv35qpsk
+2024-11-24,13,Esenler Erokspor 2-2 Çorum FK,Esenler Erokspor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,d37pyniwhrk6nk2jg4y4xsk5w
+2024-11-24,13,Erzurumspor FK 1-3 Fatih Karagümrük,Erzurumspor FK,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,d4etk29m8pxngd35fx6b7uhas
+2024-11-23,13,Gençlerbirliği 1-0 Ankaragücü,Gençlerbirliği,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,d2t5guv2i50jsp8bo7mtkzt3o
+2024-11-23,13,Boluspor 1-0 Şanlıurfaspor,Boluspor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,d20ghnpk33vogypz3p7c5tus4
+2024-11-23,13,Yeni Malatyaspor 1-4 İstanbulspor,Yeni Malatyaspor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,d5nxqtyprf3jzdvwjv7yd6i38
+2024-11-23,13,Ankara Keçiörengücü 4-0 Manisa FK,Ankara Keçiörengücü,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,d40ebefnrsg23k4a151ke9m38
+2024-11-22,13,Pendikspor 2-2 Ümraniyespor,Pendikspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,d3m1qw3dybsle9lo5twcjw5ck
+2024-11-10,12,Sakaryaspor 0-1 Kocaelispor,Sakaryaspor,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,d0epwm1wmqcc6ls0exxkzvspg
+2024-11-10,12,Manisa FK 2-0 Erzurumspor FK,Manisa FK,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,d0t1arnmnhsllnog0cdd0c4k4
+2024-11-10,12,Bandırmaspor 2-0 Boluspor,Bandırmaspor,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,d00kvc4u6ftfwcnk54rqgk6j8
+2024-11-10,12,Şanlıurfaspor 3-1 Gençlerbirliği,Şanlıurfaspor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,cxzy01sm6dgzqy1y4l62w9gyc
+2024-11-09,12,Çorum FK 1-0 Pendikspor,Çorum FK,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,d1lu3ndob359y45tv5gef1kpg
+2024-11-09,12,Amed 0-0 Ankara Keçiörengücü,Amed,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,d17htayts2ofkm65z3u5k8xzo
+2024-11-09,12,Fatih Karagümrük 6-1 Yeni Malatyaspor,Fatih Karagümrük,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,czmhkpj2xz8qg5yh4qz81zl04
+2024-11-09,12,İstanbulspor 0-0 Adanaspor,İstanbulspor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,cz6kx7zbg7xhowhd29kwadbmc
+2024-11-08,12,Ankaragücü 3-0 Esenler Erokspor,Ankaragücü,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,cysewyjjvzrg8o9rzmjl2y8lw
+2024-11-08,12,Ümraniyespor 0-1 Iğdır FK,Ümraniyespor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,cye7kes9awrolgnme3pegzpxw
+2024-11-04,11,Pendikspor 1-0 Manisa FK,Pendikspor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,cvkjsygygcx2ceiokz1fccd90
+2024-11-04,11,Gençlerbirliği 2-1 İstanbulspor,Gençlerbirliği,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,curx01xdqppnroox6nnrdz9xw
+2024-11-03,11,Iğdır FK 1-0 Ankaragücü,Iğdır FK,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,cudane15ivv5oyroqoo91kwes
+2024-11-03,11,Erzurumspor FK 2-0 Amed,Erzurumspor FK,Amed,e66mlanglsjh4nmtn7dmxwtg4,cwegueqg6u10x8fxd3uxgz1g4
+2024-11-03,11,Yeni Malatyaspor 0-2 Sakaryaspor,Yeni Malatyaspor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,cxlqih3ky745csb32v6ng172s
+2024-11-02,11,Kocaelispor 2-1 Fatih Karagümrük,Kocaelispor,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,cwtg5mn160m52pnczlwh8lwyc
+2024-11-02,11,Adanaspor 0-1 Bandırmaspor,Adanaspor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,cx7lcs7y3tc6m2p61vkou25g4
+2024-11-02,11,Esenler Erokspor 1-1 Şanlıurfaspor,Esenler Erokspor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,cv65reor75tehzbg6zxs3o2l0
+2024-11-02,11,Ankara Keçiörengücü 2-3 Çorum FK,Ankara Keçiörengücü,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,cvz7vah2zf7svvq7jknzqhn9w
+2024-11-01,11,Boluspor 3-0 Ümraniyespor,Boluspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,ctxbszgx0tb0uxvuhbeahfitw
+2024-10-28,10,Manisa FK 0-1 Esenler Erokspor,Manisa FK,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,csq8m1ckf6b2hv2nz9udoikus
+2024-10-27,10,İstanbulspor 1-2 Boluspor,İstanbulspor,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,cr4klvtvxly0ang1onsjvrjf8
+2024-10-27,10,Amed 0-1 Pendikspor,Amed,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,ct4o1vs992nqxitnu8sj087x0
+2024-10-27,10,Erzurumspor FK 4-0 Ankara Keçiörengücü,Erzurumspor FK,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,csc0qd9ep9ynqsm7hl7u2j47o
+2024-10-27,10,Bandırmaspor 3-2 Sakaryaspor,Bandırmaspor,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,crxnpdr4nowoow7j0ladsgsus
+2024-10-26,10,Ankaragücü 4-2 Kocaelispor,Ankaragücü,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,cqqaa2q5ns1sekyasm3mwcges
+2024-10-26,10,Şanlıurfaspor 3-3 Iğdır FK,Şanlıurfaspor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,cpx99s17pc8koiv20xpknyo7o
+2024-10-26,10,Çorum FK 1-0 Gençlerbirliği,Çorum FK,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,ctiyc9w5n6fk5y73zoxx8ltsk
+2024-10-26,10,Ümraniyespor 2-0 Yeni Malatyaspor,Ümraniyespor,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,cqbsuvr0f0idlpovq8bffs5jo
+2024-10-25,10,Fatih Karagümrük 4-0 Adanaspor,Fatih Karagümrük,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,crjgpnihbo935z5g0h3zaj504
+2024-10-21,9,Esenler Erokspor 2-2 Ankara Keçiörengücü,Esenler Erokspor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,cn2rscd097b15076rv6oyrxuc
+2024-10-20,9,Sakaryaspor 3-1 İstanbulspor,Sakaryaspor,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,coa32ky2kp26rwlrdis87e1hw
+2024-10-20,9,Iğdır FK 1-0 Manisa FK,Iğdır FK,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,cm9kef3kd6l5399e9dbq2dxqs
+2024-10-20,9,Boluspor 2-0 Çorum FK,Boluspor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,clut0jnctrxa9ls25u3olpzpw
+2024-10-20,9,Pendikspor 0-0 Erzurumspor FK,Pendikspor,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,cnhfvy0xhyngeh0sf6q94ll3o
+2024-10-19,9,Adanaspor 1-4 Şanlıurfaspor,Adanaspor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,cp4obz1lrduoi36tm8jelbtas
+2024-10-19,9,Kocaelispor 1-0 Ümraniyespor,Kocaelispor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,coobdk60rd0gy8iujddt8bdp0
+2024-10-19,9,Gençlerbirliği 1-1 Amed,Gençlerbirliği,Amed,e66mlanglsjh4nmtn7dmxwtg4,cmo85hp85z54l3zx97e7suz9w
+2024-10-19,9,Bandırmaspor 1-0 Fatih Karagümrük,Bandırmaspor,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,cnvvz00kvwfuy0dv0kc45zk7o
+2024-10-18,9,Yeni Malatyaspor 0-3 Ankaragücü,Yeni Malatyaspor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,cpiylvvbhms2tsswn1f67ab6c
+2024-10-06,8,Amed 0-4 Esenler Erokspor,Amed,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,cl1kdrtjee4s40s34u5oafv9w
+2024-10-06,8,İstanbulspor 0-3 Kocaelispor,İstanbulspor,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,cix7rcd6y5b392jyjqr5ooaac
+2024-10-06,8,Manisa FK 1-0 Gençlerbirliği,Manisa FK,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,ckmzyal3cldajz6eqg9q4z66s
+2024-10-06,8,Ankara Keçiörengücü 1-1 Pendikspor,Ankara Keçiörengücü,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,cjt0n0bxgwbpcc1k0jkrsyxhw
+2024-10-05,8,Fatih Karagümrük 4-0 Sakaryaspor,Fatih Karagümrük,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,cje34p8wwq1jo3mzkhquuxg5w
+2024-10-05,8,Şanlıurfaspor 3-0 Yeni Malatyaspor,Şanlıurfaspor,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,choca5ehje9je2omzj9n47bis
+2024-10-05,8,Ankaragücü 0-0 Adanaspor,Ankaragücü,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,cihyy6jj2qj86ysfmix0n11qs
+2024-10-05,8,Ümraniyespor 1-1 Bandırmaspor,Ümraniyespor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,ci37sejz0blm4lacxsiwowduc
+2024-10-04,8,Çorum FK 0-0 Iğdır FK,Çorum FK,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,clgbaz29byhqiejja4g83m51w
+2024-10-04,8,Erzurumspor FK 1-0 Boluspor,Erzurumspor FK,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,ck8aml0yembuuxtqu0rrh2y38
+2024-09-30,7,Kocaelispor 0-0 Şanlıurfaspor,Kocaelispor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,cggd88gv17iubw25ox6e0093o
+2024-09-30,7,Fatih Karagümrük 1-0 İstanbulspor,Fatih Karagümrük,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,cf92ofap9onaqumfu5js4p4b8
+2024-09-29,7,Adanaspor 0-2 Çorum FK,Adanaspor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,cgurraraoqk22hp11qfyjx5p0
+2024-09-29,7,Esenler Erokspor 4-0 Pendikspor,Esenler Erokspor,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,ceuq5noqata85mxtmdiued638
+2024-09-29,7,Yeni Malatyaspor 2-4 Amed,Yeni Malatyaspor,Amed,e66mlanglsjh4nmtn7dmxwtg4,ch9bzdpheyqxx52f5v685ad5g
+2024-09-29,7,Sakaryaspor 1-3 Ümraniyespor,Sakaryaspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,cg1q6yg7fjbmiwhg3m4bqzztg
+2024-09-28,7,Gençlerbirliği 0-1 Ankara Keçiörengücü,Gençlerbirliği,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,ceg7grugq71js0wh0wf5v5t78
+2024-09-28,7,Boluspor 2-0 Manisa FK,Boluspor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,cdlwrda9bn8p3iqainw1jhgr8
+2024-09-28,7,Bandırmaspor 2-0 Ankaragücü,Bandırmaspor,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,cfndzpezu9ms88i4tig4ooqvo
+2024-09-27,7,Iğdır FK 1-2 Erzurumspor FK,Iğdır FK,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,ce21e3cq9sub8c9ptiuopha1g
+2024-09-24,2,Esenler Erokspor 2-1 Yeni Malatyaspor,Esenler Erokspor,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,bujl3x6jct01wdzxc5no3ruhg
+2024-09-23,6,Şanlıurfaspor 1-3 Fatih Karagümrük,Şanlıurfaspor,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,c9mfvn4cxqp8r0hqyonz043dg
+2024-09-22,6,Çorum FK 0-2 Kocaelispor,Çorum FK,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,cd7mwcfynx3ugm7ynqd3ildlg
+2024-09-22,6,İstanbulspor 0-0 Bandırmaspor,İstanbulspor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,catkkzbz29n07z5wxt02vrqj8
+2024-09-22,6,Ankara Keçiörengücü 2-0 Iğdır FK,Ankara Keçiörengücü,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,cbmbr5f389g5a3y15pw9lyhhw
+2024-09-22,6,Ümraniyespor 5-2 Adanaspor,Ümraniyespor,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,ca0sy348js3l2xsvb4lbzlmvo
+2024-09-21,6,Amed 1-1 Boluspor,Amed,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,cct9mxqk6h5n704bv00yczqqc
+2024-09-21,6,Ankaragücü 2-1 Sakaryaspor,Ankaragücü,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,caf1knwhhi60skzjocgflb6dw
+2024-09-21,6,Pendikspor 0-1 Gençlerbirliği,Pendikspor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,cb7sg77cr45jngk940op9lwr8
+2024-09-20,6,Manisa FK 5-1 Yeni Malatyaspor,Manisa FK,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,ccewavvasc9b652grsoon20ic
+2024-09-20,6,Erzurumspor FK 2-0 Esenler Erokspor,Erzurumspor FK,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,cc0m192lt9o85uuhd8uy5nuac
+2024-09-16,5,Adanaspor 1-1 Ankara Keçiörengücü,Adanaspor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,c8t5zve4syrejxxddb0eakqok
+2024-09-15,5,Kocaelispor 1-2 Manisa FK,Kocaelispor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,c8c3of6e7svq98ikx0001widw
+2024-09-15,5,Gençlerbirliği 1-0 Erzurumspor FK,Gençlerbirliği,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,c6blznzyigv5h0m83z16evcb8
+2024-09-15,5,Fatih Karagümrük 3-2 Ankaragücü,Fatih Karagümrük,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,c74koqrt2rmvhr2t0gbz33wgk
+2024-09-15,5,Iğdır FK 1-2 Esenler Erokspor,Iğdır FK,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,c5x7a67be1jvd2t8w17itr4t0
+2024-09-14,5,Sakaryaspor 2-0 Şanlıurfaspor,Sakaryaspor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,c7xi7e18zvd6i3wdj62wapses
+2024-09-14,5,İstanbulspor 3-0 Ümraniyespor,İstanbulspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,c6q4vq89x3d7euw8zsvx65ic4
+2024-09-14,5,Yeni Malatyaspor 0-4 Çorum FK,Yeni Malatyaspor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,c97nyh5izn76tci39rrofu8lw
+2024-09-14,5,Bandırmaspor 0-1 Amed,Bandırmaspor,Amed,e66mlanglsjh4nmtn7dmxwtg4,c7izwcet9n6l8hcbeqtnwx5hw
+2024-09-13,5,Boluspor 1-2 Pendikspor,Boluspor,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,c5inkcn7f99ulhy25yu5qi1hw
+2024-09-02,4,Amed 3-0 Kocaelispor,Amed,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,c4pnw1teokqmpqsdz9297zfv8
+2024-09-01,4,Pendikspor 0-2 Iğdır FK,Pendikspor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,c3451zvs1kop40f926wcyijo4
+2024-09-01,4,Erzurumspor FK 3-0 Yeni Malatyaspor,Erzurumspor FK,Yeni Malatyaspor,e66mlanglsjh4nmtn7dmxwtg4,c3x0c97sbzmbqbur6wn2425uc
+2024-09-01,4,Ankaragücü 2-1 İstanbulspor,Ankaragücü,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,c29hwcu3wq36m2vkdubii9gk4
+2024-08-31,4,Çorum FK 1-1 Sakaryaspor,Çorum FK,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,c5453gn0daid6ipc83glywkk4
+2024-08-31,4,Şanlıurfaspor 3-2 Bandırmaspor,Şanlıurfaspor,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,c1gx0fwtze2ehdjjojw5j182c
+2024-08-31,4,Ümraniyespor 2-2 Fatih Karagümrük,Ümraniyespor,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,c1vcdu85abdc8g64llzfi7lec
+2024-08-31,4,Ankara Keçiörengücü 1-1 Boluspor,Ankara Keçiörengücü,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,c3io58xic4njnc0uk1muhzg9g
+2024-08-30,4,Manisa FK 0-0 Adanaspor,Manisa FK,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,c4bakr9cph10x0vzmy1n915as
+2024-08-30,4,Esenler Erokspor 1-2 Gençlerbirliği,Esenler Erokspor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,c2nx5lsiit9y6vbvuaw0z8sno
+2024-08-28,3,Sakaryaspor 0-0 Amed,Sakaryaspor,Amed,e66mlanglsjh4nmtn7dmxwtg4,bzuqgr10ccgrfqsxttlvgr3f8
+2024-08-26,3,İstanbulspor 3-0 Şanlıurfaspor,İstanbulspor,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,bymnotlkmks0membkv478sges
+2024-08-25,3,Yeni Malatyaspor 0-1 Ankara Keçiörengücü,Yeni Malatyaspor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,c12duxkj0mchti3wfidpkrwno
+2024-08-25,3,Adanaspor 3-4 Pendikspor,Adanaspor,Pendikspor,e66mlanglsjh4nmtn7dmxwtg4,c0nu22rldpbk5cmupupphl2qc
+2024-08-25,3,Bandırmaspor 0-0 Çorum FK,Bandırmaspor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,bzfyqm47285d4njqddu456xw4
+2024-08-24,3,Ankaragücü 0-1 Ümraniyespor,Ankaragücü,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,by7oy50onxny8fdhl4ej8800k
+2024-08-24,3,Boluspor 2-1 Esenler Erokspor,Boluspor,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,bxcfw2xtc16joecjkzaobl7v8
+2024-08-24,3,Fatih Karagümrük 0-2 Manisa FK,Fatih Karagümrük,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,bz1863p4skuzgsgh94ruaub6c
+2024-08-24,3,Iğdır FK 0-0 Gençlerbirliği,Iğdır FK,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,bxt14djpqrc5ubd504t6oz5ec
+2024-08-23,3,Kocaelispor 1-0 Erzurumspor FK,Kocaelispor,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,c09a11xty9bviep5ndfoj7e38
+2024-08-19,2,Amed 0-1 İstanbulspor,Amed,İstanbulspor,e66mlanglsjh4nmtn7dmxwtg4,bwjnqgouz4oz3gc9x3gf51s7o
+2024-08-18,2,Şanlıurfaspor 3-1 Ümraniyespor,Şanlıurfaspor,Ümraniyespor,e66mlanglsjh4nmtn7dmxwtg4,btby57j7d90bwsqps6m2y5y50
+2024-08-18,2,Çorum FK 2-2 Fatih Karagümrük,Çorum FK,Fatih Karagümrük,e66mlanglsjh4nmtn7dmxwtg4,bwxunsq9itq7lf4zftd0sxus4
+2024-08-18,2,Gençlerbirliği 1-1 Boluspor,Gençlerbirliği,Boluspor,e66mlanglsjh4nmtn7dmxwtg4,bu57bdpwomhshnz3blehe1c7o
+2024-08-18,2,Iğdır FK 6-1 Adanaspor,Iğdır FK,Adanaspor,e66mlanglsjh4nmtn7dmxwtg4,btqe3dpgr5wo4exutemvulb84
+2024-08-17,2,Manisa FK 2-2 Sakaryaspor,Manisa FK,Sakaryaspor,e66mlanglsjh4nmtn7dmxwtg4,bw58zwhl1ou3utahitxda3ztg
+2024-08-17,2,Erzurumspor FK 1-0 Ankaragücü,Erzurumspor FK,Ankaragücü,e66mlanglsjh4nmtn7dmxwtg4,bvqtobw3yt9hgl26izv5bqn10
+2024-08-17,2,Ankara Keçiörengücü 1-2 Bandırmaspor,Ankara Keçiörengücü,Bandırmaspor,e66mlanglsjh4nmtn7dmxwtg4,bvcad4prdan43mzjo7x993k7o
+2024-08-16,2,Pendikspor 1-2 Kocaelispor,Pendikspor,Kocaelispor,e66mlanglsjh4nmtn7dmxwtg4,buxxo0ssty1lwh8k0ubcodrtg
+2024-08-12,1,Ümraniyespor 3-0 Çorum FK,Ümraniyespor,Çorum FK,e66mlanglsjh4nmtn7dmxwtg4,bowjzz5isqxdp00806ej2gt90
+2024-08-11,1,Ankaragücü 2-0 Şanlıurfaspor,Ankaragücü,Şanlıurfaspor,e66mlanglsjh4nmtn7dmxwtg4,bpe09bp6uvdca07a5y8w5qvbo
+2024-08-11,1,Fatih Karagümrük 0-0 Amed,Fatih Karagümrük,Amed,e66mlanglsjh4nmtn7dmxwtg4,bqds0x0ng6cddgito0aqkdxck
+2024-08-11,1,Boluspor 0-1 Iğdır FK,Boluspor,Iğdır FK,e66mlanglsjh4nmtn7dmxwtg4,boblhldhkzk2iixi2odv6eiac
+2024-08-11,1,Bandırmaspor 3-2 Erzurumspor FK,Bandırmaspor,Erzurumspor FK,e66mlanglsjh4nmtn7dmxwtg4,bqvi4lmzqdw7qaxq1rwwxrrpw
+2024-08-10,1,Adanaspor 2-1 Esenler Erokspor,Adanaspor,Esenler Erokspor,e66mlanglsjh4nmtn7dmxwtg4,bsfmpow7s2skjxic603xrg3ro
+2024-08-10,1,Kocaelispor 2-1 Gençlerbirliği,Kocaelispor,Gençlerbirliği,e66mlanglsjh4nmtn7dmxwtg4,brwftm5s15uy4hfgmjd7kjvh0
+2024-08-10,1,İstanbulspor 3-2 Manisa FK,İstanbulspor,Manisa FK,e66mlanglsjh4nmtn7dmxwtg4,bpvx1p1bw92ievkgqwogcydqs
+2024-08-09,1,Sakaryaspor 1-1 Ankara Keçiörengücü,Sakaryaspor,Ankara Keçiörengücü,e66mlanglsjh4nmtn7dmxwtg4,brea8uyb887g2t21nzjuem7mc

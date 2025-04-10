@@ -1,40 +1,40 @@
-﻿Date,Round,Match,Home,Away
-2025-04-04,8,St Patrick's Athletic 0-0 Shelbourne,St Patrick's Athletic,Shelbourne
-2025-04-04,8,Galway United 0-1 Shamrock Rovers,Galway United,Shamrock Rovers
-2025-04-04,8,Drogheda United 2-0 Waterford,Drogheda United,Waterford
-2025-04-04,8,Derry City 2-1 Cork City,Derry City,Cork City
-2025-04-04,8,Bohemians 4-2 Sligo Rovers,Bohemians,Sligo Rovers
-2025-03-28,7,Shamrock Rovers 0-0 Derry City,Shamrock Rovers,Derry City
-2025-03-28,7,Sligo Rovers 1-2 Shelbourne,Sligo Rovers,Shelbourne
-2025-03-28,7,Waterford 1-2 St Patrick's Athletic,Waterford,St Patrick's Athletic
-2025-03-28,7,Cork City 1-1 Drogheda United,Cork City,Drogheda United
-2025-03-28,7,Bohemians 0-2 Galway United,Bohemians,Galway United
-2025-03-15,6,Sligo Rovers 0-1 Derry City,Sligo Rovers,Derry City
-2025-03-14,6,St Patrick's Athletic 3-0 Bohemians,St Patrick's Athletic,Bohemians
-2025-03-14,6,Shelbourne 1-1 Cork City,Shelbourne,Cork City
-2025-03-14,6,Galway United 1-0 Waterford,Galway United,Waterford
-2025-03-14,6,Drogheda United 1-2 Shamrock Rovers,Drogheda United,Shamrock Rovers
-2025-03-07,5,Shamrock Rovers 1-0 St Patrick's Athletic,Shamrock Rovers,St Patrick's Athletic
-2025-03-07,5,Waterford 0-3 Bohemians,Waterford,Bohemians
-2025-03-07,5,Shelbourne 0-1 Drogheda United,Shelbourne,Drogheda United
-2025-03-07,5,Derry City 1-1 Galway United,Derry City,Galway United
-2025-03-07,5,Cork City 1-1 Sligo Rovers,Cork City,Sligo Rovers
-2025-03-03,4,Waterford 2-1 Cork City,Waterford,Cork City
-2025-03-03,4,St Patrick's Athletic 2-0 Derry City,St Patrick's Athletic,Derry City
-2025-03-03,4,Sligo Rovers 2-1 Shamrock Rovers,Sligo Rovers,Shamrock Rovers
-2025-03-03,4,Galway United 1-1 Shelbourne,Galway United,Shelbourne
-2025-03-03,4,Bohemians 0-1 Drogheda United,Bohemians,Drogheda United
-2025-02-28,3,St Patrick's Athletic 4-3 Sligo Rovers,St Patrick's Athletic,Sligo Rovers
-2025-02-28,3,Shelbourne 1-1 Shamrock Rovers,Shelbourne,Shamrock Rovers
-2025-02-28,3,Drogheda United 1-1 Galway United,Drogheda United,Galway United
-2025-02-28,3,Derry City 1-2 Waterford,Derry City,Waterford
-2025-02-28,3,Cork City 2-1 Bohemians,Cork City,Bohemians
-2025-02-21,2,Waterford 0-1 Shelbourne,Waterford,Shelbourne
-2025-02-21,2,Galway United 2-1 St Patrick's Athletic,Galway United,St Patrick's Athletic
-2025-02-21,2,Drogheda United 3-0 Sligo Rovers,Drogheda United,Sligo Rovers
-2025-02-21,2,Derry City 1-0 Bohemians,Derry City,Bohemians
-2025-02-16,1,Bohemians 1-0 Shamrock Rovers,Bohemians,Shamrock Rovers
-2025-02-15,1,Sligo Rovers 2-3 Waterford,Sligo Rovers,Waterford
-2025-02-14,1,St Patrick's Athletic 0-0 Drogheda United,St Patrick's Athletic,Drogheda United
-2025-02-14,1,Shelbourne 3-1 Derry City,Shelbourne,Derry City
-2025-02-14,1,Cork City 2-2 Galway United,Cork City,Galway United
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-04,8,St Patrick's Athletic 0-0 Shelbourne,St Patrick's Athletic,Shelbourne,3zoeegue4xtul58c8ksahcjdg,6oekk997gdlsss4zhleckvfv8
+2025-04-04,8,Galway United 0-1 Shamrock Rovers,Galway United,Shamrock Rovers,3zoeegue4xtul58c8ksahcjdg,6nzh01uzatsppy1c2gsjot5p0
+2025-04-04,8,Drogheda United 2-0 Waterford,Drogheda United,Waterford,3zoeegue4xtul58c8ksahcjdg,6nklknc768ikulak2wtcgcxsk
+2025-04-04,8,Derry City 2-1 Cork City,Derry City,Cork City,3zoeegue4xtul58c8ksahcjdg,6n5rym2g0nyzaoy7r421jpd78
+2025-04-04,8,Bohemians 4-2 Sligo Rovers,Bohemians,Sligo Rovers,3zoeegue4xtul58c8ksahcjdg,6mqzk4ujkx1h24w6lr7f61ous
+2025-03-28,7,Shamrock Rovers 0-0 Derry City,Shamrock Rovers,Derry City,3zoeegue4xtul58c8ksahcjdg,6lxa79w5cj6umcqxy35mtsmj8
+2025-03-28,7,Sligo Rovers 1-2 Shelbourne,Sligo Rovers,Shelbourne,3zoeegue4xtul58c8ksahcjdg,6mc58xtol2ny6d727se6nrims
+2025-03-28,7,Waterford 1-2 St Patrick's Athletic,Waterford,St Patrick's Athletic,3zoeegue4xtul58c8ksahcjdg,6lin8irq4bvl83bhejsvk16ac
+2025-03-28,7,Cork City 1-1 Drogheda United,Cork City,Drogheda United,3zoeegue4xtul58c8ksahcjdg,6l3x4xy4mtfar1pvdaj3nknbo
+2025-03-28,7,Bohemians 0-2 Galway United,Bohemians,Galway United,3zoeegue4xtul58c8ksahcjdg,6knix82pjf2w95e5ama7dgu8k
+2025-03-15,6,Sligo Rovers 0-1 Derry City,Sligo Rovers,Derry City,3zoeegue4xtul58c8ksahcjdg,6k8s3zd3fxjfh0ilf7fi4qqs4
+2025-03-14,6,St Patrick's Athletic 3-0 Bohemians,St Patrick's Athletic,Bohemians,3zoeegue4xtul58c8ksahcjdg,6jtoll9cgi98prqblmq2pdjpw
+2025-03-14,6,Shelbourne 1-1 Cork City,Shelbourne,Cork City,3zoeegue4xtul58c8ksahcjdg,6jetsqlwf9h5ismscs6q6jmdw
+2025-03-14,6,Galway United 1-0 Waterford,Galway United,Waterford,3zoeegue4xtul58c8ksahcjdg,6izwst6l5r61a5jeji0jbpjis
+2025-03-14,6,Drogheda United 1-2 Shamrock Rovers,Drogheda United,Shamrock Rovers,3zoeegue4xtul58c8ksahcjdg,6il14zw1n8738c6kjvrbrtxjo
+2025-03-07,5,Shamrock Rovers 1-0 St Patrick's Athletic,Shamrock Rovers,St Patrick's Athletic,3zoeegue4xtul58c8ksahcjdg,6i63upa56l792m6z8xukfk8b8
+2025-03-07,5,Waterford 0-3 Bohemians,Waterford,Bohemians,3zoeegue4xtul58c8ksahcjdg,6hr9xgj21eca4q8oew49dq3o4
+2025-03-07,5,Shelbourne 0-1 Drogheda United,Shelbourne,Drogheda United,3zoeegue4xtul58c8ksahcjdg,6hcaak2mxp73767dbbwf4jitw
+2025-03-07,5,Derry City 1-1 Galway United,Derry City,Galway United,3zoeegue4xtul58c8ksahcjdg,6gxf7rlnmj5bc73y8yb287eok
+2025-03-07,5,Cork City 1-1 Sligo Rovers,Cork City,Sligo Rovers,3zoeegue4xtul58c8ksahcjdg,6giqe0jukz9lcaplgzultn47o
+2025-03-03,4,Waterford 2-1 Cork City,Waterford,Cork City,3zoeegue4xtul58c8ksahcjdg,6g3y3k7jrvsdevhedp5l3182c
+2025-03-03,4,St Patrick's Athletic 2-0 Derry City,St Patrick's Athletic,Derry City,3zoeegue4xtul58c8ksahcjdg,6fnakjtgqpuiiuravc2sw51ck
+2025-03-03,4,Sligo Rovers 2-1 Shamrock Rovers,Sligo Rovers,Shamrock Rovers,3zoeegue4xtul58c8ksahcjdg,6f8nlwyo1qlfh44tki0v7gvf8
+2025-03-03,4,Galway United 1-1 Shelbourne,Galway United,Shelbourne,3zoeegue4xtul58c8ksahcjdg,6ettr98mjmni47q9ekn9xf6z8
+2025-03-03,4,Bohemians 0-1 Drogheda United,Bohemians,Drogheda United,3zoeegue4xtul58c8ksahcjdg,6eewnpnpzsi09n30put0pavbo
+2025-02-28,3,St Patrick's Athletic 4-3 Sligo Rovers,St Patrick's Athletic,Sligo Rovers,3zoeegue4xtul58c8ksahcjdg,6dz7io5jtd42455cosqp3h79w
+2025-02-28,3,Shelbourne 1-1 Shamrock Rovers,Shelbourne,Shamrock Rovers,3zoeegue4xtul58c8ksahcjdg,6dkkw4kll80yjomq1ncl64a38
+2025-02-28,3,Drogheda United 1-1 Galway United,Drogheda United,Galway United,3zoeegue4xtul58c8ksahcjdg,6d5sq8y9e62y1mh432uw1muqc
+2025-02-28,3,Derry City 1-2 Waterford,Derry City,Waterford,3zoeegue4xtul58c8ksahcjdg,6cr27g73cb2ewpilt6l6x1wyc
+2025-02-28,3,Cork City 2-1 Bohemians,Cork City,Bohemians,3zoeegue4xtul58c8ksahcjdg,6cbycwoomfl5hx7zpkkixttzo
+2025-02-21,2,Waterford 0-1 Shelbourne,Waterford,Shelbourne,3zoeegue4xtul58c8ksahcjdg,6bh1bdnu9nw1o3wucf6i16az8
+2025-02-21,2,Galway United 2-1 St Patrick's Athletic,Galway United,St Patrick's Athletic,3zoeegue4xtul58c8ksahcjdg,6b1hijxthr4q28ryys446xz4k
+2025-02-21,2,Drogheda United 3-0 Sligo Rovers,Drogheda United,Sligo Rovers,3zoeegue4xtul58c8ksahcjdg,6ajy82u3u3u195iwgexkr0l5g
+2025-02-21,2,Derry City 1-0 Bohemians,Derry City,Bohemians,3zoeegue4xtul58c8ksahcjdg,6a45ku9r5wvyscm99k8qfeaz8
+2025-02-16,1,Bohemians 1-0 Shamrock Rovers,Bohemians,Shamrock Rovers,3zoeegue4xtul58c8ksahcjdg,67ib1ehsw5ld9w1yy6efd3o5w
+2025-02-15,1,Sligo Rovers 2-3 Waterford,Sligo Rovers,Waterford,3zoeegue4xtul58c8ksahcjdg,69ojgpn3men88eafr16b4991w
+2025-02-14,1,St Patrick's Athletic 0-0 Drogheda United,St Patrick's Athletic,Drogheda United,3zoeegue4xtul58c8ksahcjdg,695qbaad6ws0bi9ronqe78gt0
+2025-02-14,1,Shelbourne 3-1 Derry City,Shelbourne,Derry City,3zoeegue4xtul58c8ksahcjdg,68mzjjegqg7fts32r2dar03ro
+2025-02-14,1,Cork City 2-2 Galway United,Cork City,Galway United,3zoeegue4xtul58c8ksahcjdg,684efmi20g6ryvl45rgohb6dw

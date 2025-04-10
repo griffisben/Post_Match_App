@@ -1,25 +1,25 @@
-﻿Date,Round,Match,Home,Away
-2025-04-06,3,Nanjing City 0-0 Nantong Zhiyun,Nanjing City,Nantong Zhiyun
-2025-04-06,3,Shenzhen Juniors 0-3 Chongqing Tonglianglong,Shenzhen Juniors,Chongqing Tonglianglong
-2025-04-06,3,Foshan Nanshi 2-1 Shaanxi Union,Foshan Nanshi,Shaanxi Union
-2025-04-06,3,Liaoning Tieren 2-1 Yanbian Longding,Liaoning Tieren,Yanbian Longding
-2025-04-05,3,Suzhou Dongwu 0-0 Guangxi Pingguo,Suzhou Dongwu,Guangxi Pingguo
-2025-04-05,3,Shanghai Jiading Huilong 0-2 Shijiazhuang Gongfu,Shanghai Jiading Huilong,Shijiazhuang Gongfu
-2025-04-05,3,Qingdao Red Lions 0-0 Dalian K'un City,Qingdao Red Lions,Dalian K'un City
-2025-04-05,3,Dingnan United 1-1 Guangdong GZ-Power,Dingnan United,Guangdong GZ-Power
-2025-03-30,2,Guangxi Pingguo 0-1 Nanjing City,Guangxi Pingguo,Nanjing City
-2025-03-30,2,Shaanxi Union 3-1 Dingnan United,Shaanxi Union,Dingnan United
-2025-03-30,2,Foshan Nanshi 0-2 Suzhou Dongwu,Foshan Nanshi,Suzhou Dongwu
-2025-03-30,2,Shanghai Jiading Huilong 2-1 Shenzhen Juniors,Shanghai Jiading Huilong,Shenzhen Juniors
-2025-03-30,2,Dalian K'un City 0-2 Guangdong GZ-Power,Dalian K'un City,Guangdong GZ-Power
-2025-03-29,2,Chongqing Tonglianglong 2-1 Liaoning Tieren,Chongqing Tonglianglong,Liaoning Tieren
-2025-03-29,2,Nantong Zhiyun 0-2 Shijiazhuang Gongfu,Nantong Zhiyun,Shijiazhuang Gongfu
-2025-03-29,2,Qingdao Red Lions 1-1 Yanbian Longding,Qingdao Red Lions,Yanbian Longding
-2025-03-16,1,Nanjing City 1-2 Dalian K'un City,Nanjing City,Dalian K'un City
-2025-03-16,1,Suzhou Dongwu 0-0 Shaanxi Union,Suzhou Dongwu,Shaanxi Union
-2025-03-16,1,Shenzhen Juniors 2-1 Foshan Nanshi,Shenzhen Juniors,Foshan Nanshi
-2025-03-16,1,Dingnan United 2-2 Shijiazhuang Gongfu,Dingnan United,Shijiazhuang Gongfu
-2025-03-15,1,Guangxi Pingguo 0-3 Liaoning Tieren,Guangxi Pingguo,Liaoning Tieren
-2025-03-15,1,Guangdong GZ-Power 4-0 Yanbian Longding,Guangdong GZ-Power,Yanbian Longding
-2025-03-15,1,Nantong Zhiyun 1-0 Shanghai Jiading Huilong,Nantong Zhiyun,Shanghai Jiading Huilong
-2025-03-15,1,Chongqing Tonglianglong 1-1 Qingdao Red Lions,Chongqing Tonglianglong,Qingdao Red Lions
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-06,3,Nanjing City 0-0 Nantong Zhiyun,Nanjing City,Nantong Zhiyun,9xz0a41b1eezy19zmpup9w9p0,4kpyb2d69kcgi0xzq5yt6uyvo
+2025-04-06,3,Shenzhen Juniors 0-3 Chongqing Tonglianglong,Shenzhen Juniors,Chongqing Tonglianglong,9xz0a41b1eezy19zmpup9w9p0,4kb9v6dx68xnom6q2lm61x990
+2025-04-06,3,Foshan Nanshi 2-1 Shaanxi Union,Foshan Nanshi,Shaanxi Union,9xz0a41b1eezy19zmpup9w9p0,4jwt4geuo99y6zm09icbsnoyc
+2025-04-06,3,Liaoning Tieren 2-1 Yanbian Longding,Liaoning Tieren,Yanbian Longding,9xz0a41b1eezy19zmpup9w9p0,4ji9vfywff64r2w17weas5gd0
+2025-04-05,3,Suzhou Dongwu 0-0 Guangxi Pingguo,Suzhou Dongwu,Guangxi Pingguo,9xz0a41b1eezy19zmpup9w9p0,4j2tls33zy9gsksbf6k16lxck
+2025-04-05,3,Shanghai Jiading Huilong 0-2 Shijiazhuang Gongfu,Shanghai Jiading Huilong,Shijiazhuang Gongfu,9xz0a41b1eezy19zmpup9w9p0,4imhy41x2vgowx26q2amly784
+2025-04-05,3,Qingdao Red Lions 0-0 Dalian K'un City,Qingdao Red Lions,Dalian K'un City,9xz0a41b1eezy19zmpup9w9p0,4i7slfpqa84pvtncei72f5ses
+2025-04-05,3,Dingnan United 1-1 Guangdong GZ-Power,Dingnan United,Guangdong GZ-Power,9xz0a41b1eezy19zmpup9w9p0,4htf0f0nzsuy1n782qgq4o0t0
+2025-03-30,2,Guangxi Pingguo 0-1 Nanjing City,Guangxi Pingguo,Nanjing City,9xz0a41b1eezy19zmpup9w9p0,4hesi5hm1n5m18qqgk0vupclw
+2025-03-30,2,Shaanxi Union 3-1 Dingnan United,Shaanxi Union,Dingnan United,9xz0a41b1eezy19zmpup9w9p0,4h06uiftjz9qdzqycjlgooe8k
+2025-03-30,2,Foshan Nanshi 0-2 Suzhou Dongwu,Foshan Nanshi,Suzhou Dongwu,9xz0a41b1eezy19zmpup9w9p0,4gkqto9hdq9hts2pwcl2ydrf8
+2025-03-30,2,Shanghai Jiading Huilong 2-1 Shenzhen Juniors,Shanghai Jiading Huilong,Shenzhen Juniors,9xz0a41b1eezy19zmpup9w9p0,4g5h0qyvegumtog8xwcsnhq8k
+2025-03-30,2,Dalian K'un City 0-2 Guangdong GZ-Power,Dalian K'un City,Guangdong GZ-Power,9xz0a41b1eezy19zmpup9w9p0,4fpxmn96y600f3ak6qtokst1w
+2025-03-29,2,Chongqing Tonglianglong 2-1 Liaoning Tieren,Chongqing Tonglianglong,Liaoning Tieren,9xz0a41b1eezy19zmpup9w9p0,4famdod40ng171qvxxk9sry8k
+2025-03-29,2,Nantong Zhiyun 0-2 Shijiazhuang Gongfu,Nantong Zhiyun,Shijiazhuang Gongfu,9xz0a41b1eezy19zmpup9w9p0,4evx0nfq5aj8n0gk23ml4rn6c
+2025-03-29,2,Qingdao Red Lions 1-1 Yanbian Longding,Qingdao Red Lions,Yanbian Longding,9xz0a41b1eezy19zmpup9w9p0,4ehfumr88gh2rdi3wiie0o4r8
+2025-03-16,1,Nanjing City 1-2 Dalian K'un City,Nanjing City,Dalian K'un City,9xz0a41b1eezy19zmpup9w9p0,4e23iobko78i4q79g5ha1pvro
+2025-03-16,1,Suzhou Dongwu 0-0 Shaanxi Union,Suzhou Dongwu,Shaanxi Union,9xz0a41b1eezy19zmpup9w9p0,4dign79fujnk8hpq5ngphk3ys
+2025-03-16,1,Shenzhen Juniors 2-1 Foshan Nanshi,Shenzhen Juniors,Foshan Nanshi,9xz0a41b1eezy19zmpup9w9p0,4czz7usltlfzvyycyx3a6bggk
+2025-03-16,1,Dingnan United 2-2 Shijiazhuang Gongfu,Dingnan United,Shijiazhuang Gongfu,9xz0a41b1eezy19zmpup9w9p0,4chp2up140trvb7q8z5l8a5g4
+2025-03-15,1,Guangxi Pingguo 0-3 Liaoning Tieren,Guangxi Pingguo,Liaoning Tieren,9xz0a41b1eezy19zmpup9w9p0,4bz8llydpseqlh1lpmysz0a38
+2025-03-15,1,Guangdong GZ-Power 4-0 Yanbian Longding,Guangdong GZ-Power,Yanbian Longding,9xz0a41b1eezy19zmpup9w9p0,4bh02933ossgqfrfg9ikfo3dg
+2025-03-15,1,Nantong Zhiyun 1-0 Shanghai Jiading Huilong,Nantong Zhiyun,Shanghai Jiading Huilong,9xz0a41b1eezy19zmpup9w9p0,4ayviflha16b2q7umayvts5xw
+2025-03-15,1,Chongqing Tonglianglong 1-1 Qingdao Red Lions,Chongqing Tonglianglong,Qingdao Red Lions,9xz0a41b1eezy19zmpup9w9p0,4addmnxag7qtgpc8ux815edqs

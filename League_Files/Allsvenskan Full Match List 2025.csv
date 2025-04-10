@@ -1,17 +1,17 @@
-﻿Date,Round,Match,Home,Away
-2025-04-07,2,Malmö FF 2-1 Elfsborg,Malmö FF,Elfsborg
-2025-04-06,2,Degerfors 1-0 Värnamo,Degerfors,Värnamo
-2025-04-06,2,Mjällby 1-1 GAIS,Mjällby,GAIS
-2025-04-06,2,Brommapojkarna 0-2 Hammarby,Brommapojkarna,Hammarby
-2025-04-06,2,AIK 4-3 Norrköping,AIK,Norrköping
-2025-04-05,2,Öster 2-0 Häcken,Öster,Häcken
-2025-04-05,2,Sirius 0-1 Djurgården,Sirius,Djurgården
-2025-04-05,2,IFK Göteborg 1-0 Halmstad,IFK Göteborg,Halmstad
-2025-03-31,1,GAIS 0-1 AIK,GAIS,AIK
-2025-03-31,1,Värnamo 1-2 Sirius,Värnamo,Sirius
-2025-03-30,1,Halmstad 0-5 Degerfors,Halmstad,Degerfors
-2025-03-30,1,Norrköping 4-3 Öster,Norrköping,Öster
-2025-03-30,1,Elfsborg 2-2 Mjällby,Elfsborg,Mjällby
-2025-03-30,1,Hammarby 4-0 IFK Göteborg,Hammarby,IFK Göteborg
-2025-03-29,1,Häcken 2-0 Brommapojkarna,Häcken,Brommapojkarna
-2025-03-29,1,Djurgården 0-1 Malmö FF,Djurgården,Malmö FF
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-07,2,Malmö FF 2-1 Elfsborg,Malmö FF,Elfsborg,7nzwafv5w7z5tjzy2dsfkc26s,3tnnqkoqvmhrgsy0uhw4726tw
+2025-04-06,2,Degerfors 1-0 Värnamo,Degerfors,Värnamo,7nzwafv5w7z5tjzy2dsfkc26s,3uude28t1rw3wt0khh0yiafbo
+2025-04-06,2,Mjällby 1-1 GAIS,Mjällby,GAIS,7nzwafv5w7z5tjzy2dsfkc26s,3u1v27ssvn82y7whn8s42o5xw
+2025-04-06,2,Brommapojkarna 0-2 Hammarby,Brommapojkarna,Hammarby,7nzwafv5w7z5tjzy2dsfkc26s,3sgvy8kzimawik0fl3kokce1g
+2025-04-06,2,AIK 4-3 Norrköping,AIK,Norrköping,7nzwafv5w7z5tjzy2dsfkc26s,3s2m9csiiowdwb77ndf3vzcpg
+2025-04-05,2,Öster 2-0 Häcken,Öster,Häcken,7nzwafv5w7z5tjzy2dsfkc26s,3t9aujccmmynfpn7pu9h4k3dg
+2025-04-05,2,Sirius 0-1 Djurgården,Sirius,Djurgården,7nzwafv5w7z5tjzy2dsfkc26s,3ug5w8l5p87hsckumob7brndg
+2025-04-05,2,IFK Göteborg 1-0 Halmstad,IFK Göteborg,Halmstad,7nzwafv5w7z5tjzy2dsfkc26s,3sv2d9iv36llsfzcf2lnhomqc
+2025-03-31,1,GAIS 0-1 AIK,GAIS,AIK,7nzwafv5w7z5tjzy2dsfkc26s,3pndxap4gzkkrbr5dqrcuwcno
+2025-03-31,1,Värnamo 1-2 Sirius,Värnamo,Sirius,7nzwafv5w7z5tjzy2dsfkc26s,3roacabrsr7ahbd6u1gwnetxw
+2025-03-30,1,Halmstad 0-5 Degerfors,Halmstad,Degerfors,7nzwafv5w7z5tjzy2dsfkc26s,3r4s9wi8puami8ap4ylkkrhn8
+2025-03-30,1,Norrköping 4-3 Öster,Norrköping,Öster,7nzwafv5w7z5tjzy2dsfkc26s,3qn0js9zp7jk6hkmqjuknf9qs
+2025-03-30,1,Elfsborg 2-2 Mjällby,Elfsborg,Mjällby,7nzwafv5w7z5tjzy2dsfkc26s,3p5kxgr10npesc3cswfiqp7v8
+2025-03-30,1,Hammarby 4-0 IFK Göteborg,Hammarby,IFK Göteborg,7nzwafv5w7z5tjzy2dsfkc26s,3onupkmys00b2y3pc6n62kp3o
+2025-03-29,1,Häcken 2-0 Brommapojkarna,Häcken,Brommapojkarna,7nzwafv5w7z5tjzy2dsfkc26s,3q5aum75ayslx087b1hq9o2z8
+2025-03-29,1,Djurgården 0-1 Malmö FF,Djurgården,Malmö FF,7nzwafv5w7z5tjzy2dsfkc26s,3o2y5xmw92bfhtfm2wtrtsowk

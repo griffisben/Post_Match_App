@@ -1,47 +1,47 @@
-﻿Date,Round,Match,Home,Away
-2025-03-30,6,Unión La Calera 2-1 Cobresal,Unión La Calera,Cobresal
-2025-03-30,6,Coquimbo Unido 2-1 Audax Italiano,Coquimbo Unido,Audax Italiano
-2025-03-30,6,Huachipato 3-1 La Serena,Huachipato,La Serena
-2025-03-29,6,O'Higgins 3-1 Deportes Limache,O'Higgins,Deportes Limache
-2025-03-28,6,Ñublense 1-1 Deportes Iquique,Ñublense,Deportes Iquique
-2025-03-28,6,Unión Española 1-2 Universidad Católica,Unión Española,Universidad Católica
-2025-03-27,6,Everton 2-0 Universidad de Chile,Everton,Universidad de Chile
-2025-03-27,6,Colo Colo 1-1 Palestino,Colo Colo,Palestino
-2025-03-16,5,Deportes Iquique 0-4 Unión Española,Deportes Iquique,Unión Española
-2025-03-16,5,Palestino 2-0 Ñublense,Palestino,Ñublense
-2025-03-16,5,Cobresal 0-0 O'Higgins,Cobresal,O'Higgins
-2025-03-16,5,La Serena 1-0 Unión La Calera,La Serena,Unión La Calera
-2025-03-15,5,Everton 0-0 Coquimbo Unido,Everton,Coquimbo Unido
-2025-03-14,5,Deportes Limache 2-3 Huachipato,Deportes Limache,Huachipato
-2025-03-14,5,Audax Italiano 1-1 Universidad de Chile,Audax Italiano,Universidad de Chile
-2025-03-09,4,Colo Colo 2-0 Everton,Colo Colo,Everton
-2025-03-09,4,O'Higgins 1-1 La Serena,O'Higgins,La Serena
-2025-03-09,4,Coquimbo Unido 1-1 Cobresal,Coquimbo Unido,Cobresal
-2025-03-08,4,Deportes Iquique 1-3 Palestino,Deportes Iquique,Palestino
-2025-03-08,4,Audax Italiano 3-1 Deportes Limache,Audax Italiano,Deportes Limache
-2025-03-08,4,Ñublense 1-1 Universidad Católica,Ñublense,Universidad Católica
-2025-03-07,4,Unión La Calera 1-0 Huachipato,Unión La Calera,Huachipato
-2025-03-02,3,Unión La Calera 2-2 O'Higgins,Unión La Calera,O'Higgins
-2025-03-02,3,Cobresal 2-1 Universidad de Chile,Cobresal,Universidad de Chile
-2025-03-02,3,Huachipato 2-1 Colo Colo,Huachipato,Colo Colo
-2025-03-01,3,Everton 1-2 Ñublense,Everton,Ñublense
-2025-03-01,3,Palestino 0-2 Audax Italiano,Palestino,Audax Italiano
-2025-03-01,3,Universidad Católica 1-0 Deportes Iquique,Universidad Católica,Deportes Iquique
-2025-03-01,3,La Serena 1-0 Unión Española,La Serena,Unión Española
-2025-02-28,3,Deportes Limache 1-2 Coquimbo Unido,Deportes Limache,Coquimbo Unido
-2025-02-24,2,Colo Colo 0-1 O'Higgins,Colo Colo,O'Higgins
-2025-02-23,2,Universidad de Chile 1-0 Unión La Calera,Universidad de Chile,Unión La Calera
-2025-02-23,2,Cobresal 3-1 La Serena,Cobresal,La Serena
-2025-02-23,2,Huachipato 4-0 Everton,Huachipato,Everton
-2025-02-22,2,Ñublense 1-1 Deportes Limache,Ñublense,Deportes Limache
-2025-02-22,2,Coquimbo Unido 1-0 Universidad Católica,Coquimbo Unido,Universidad Católica
-2025-02-21,2,Unión Española 0-3 Palestino,Unión Española,Palestino
-2025-02-21,2,Audax Italiano 4-2 Deportes Iquique,Audax Italiano,Deportes Iquique
-2025-02-17,1,Unión La Calera 4-0 Unión Española,Unión La Calera,Unión Española
-2025-02-17,1,Universidad Católica 3-1 Audax Italiano,Universidad Católica,Audax Italiano
-2025-02-16,1,Deportes Limache 1-1 Everton,Deportes Limache,Everton
-2025-02-16,1,La Serena 1-3 Colo Colo,La Serena,Colo Colo
-2025-02-15,1,Universidad de Chile 5-0 Ñublense,Universidad de Chile,Ñublense
-2025-02-15,1,O'Higgins 0-0 Huachipato,O'Higgins,Huachipato
-2025-02-15,1,Palestino 2-1 Cobresal,Palestino,Cobresal
-2025-02-14,1,Deportes Iquique 0-3 Coquimbo Unido,Deportes Iquique,Coquimbo Unido
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-03-30,6,Unión La Calera 2-1 Cobresal,Unión La Calera,Cobresal,2tldxhqnjfghebx60g6ea8mj8,5c48olqcm7wp72lag3ffnmhp0
+2025-03-30,6,Coquimbo Unido 2-1 Audax Italiano,Coquimbo Unido,Audax Italiano,2tldxhqnjfghebx60g6ea8mj8,5d73l2ua1uan43kohp7yxg844
+2025-03-30,6,Huachipato 3-1 La Serena,Huachipato,La Serena,2tldxhqnjfghebx60g6ea8mj8,5ch3ymr7her2qulqguz39yf4k
+2025-03-29,6,O'Higgins 3-1 Deportes Limache,O'Higgins,Deportes Limache,2tldxhqnjfghebx60g6ea8mj8,5cu8itbx5tetcjacsyv56lkpg
+2025-03-28,6,Ñublense 1-1 Deportes Iquique,Ñublense,Deportes Iquique,2tldxhqnjfghebx60g6ea8mj8,5brgvck5u3wbsbw2oowfpzqj8
+2025-03-28,6,Unión Española 1-2 Universidad Católica,Unión Española,Universidad Católica,2tldxhqnjfghebx60g6ea8mj8,5bev6hbbv2ol35shz4gl1asyc
+2025-03-27,6,Everton 2-0 Universidad de Chile,Everton,Universidad de Chile,2tldxhqnjfghebx60g6ea8mj8,5b22ts2sza5l44jaemkgqn2fo
+2025-03-27,6,Colo Colo 1-1 Palestino,Colo Colo,Palestino,2tldxhqnjfghebx60g6ea8mj8,5dll8vezjatjngqiqvd3n6rys
+2025-03-16,5,Deportes Iquique 0-4 Unión Española,Deportes Iquique,Unión Española,2tldxhqnjfghebx60g6ea8mj8,59mv0t60a9atdhdnpdl76qmfo
+2025-03-16,5,Palestino 2-0 Ñublense,Palestino,Ñublense,2tldxhqnjfghebx60g6ea8mj8,5acjxze195yh6k19eslrnatck
+2025-03-16,5,Cobresal 0-0 O'Higgins,Cobresal,O'Higgins,2tldxhqnjfghebx60g6ea8mj8,59ztvksblkee764of7npc9v6c
+2025-03-16,5,La Serena 1-0 Unión La Calera,La Serena,Unión La Calera,2tldxhqnjfghebx60g6ea8mj8,58x79ytt07fis56fmj0pfvpjo
+2025-03-15,5,Everton 0-0 Coquimbo Unido,Everton,Coquimbo Unido,2tldxhqnjfghebx60g6ea8mj8,58izqyx9dcck7prtodfeyjztg
+2025-03-14,5,Deportes Limache 2-3 Huachipato,Deportes Limache,Huachipato,2tldxhqnjfghebx60g6ea8mj8,5apbqzdxdy1dcdi67ac3kl3pw
+2025-03-14,5,Audax Italiano 1-1 Universidad de Chile,Audax Italiano,Universidad de Chile,2tldxhqnjfghebx60g6ea8mj8,6hi5eohlkbx1rvnjmxos5utjo
+2025-03-09,4,Colo Colo 2-0 Everton,Colo Colo,Everton,2tldxhqnjfghebx60g6ea8mj8,56rkfdqiaki22eigcqgv3g6xg
+2025-03-09,4,O'Higgins 1-1 La Serena,O'Higgins,La Serena,2tldxhqnjfghebx60g6ea8mj8,56ez7wax4py9vmyn1mrfksnis
+2025-03-09,4,Coquimbo Unido 1-1 Cobresal,Coquimbo Unido,Cobresal,2tldxhqnjfghebx60g6ea8mj8,5625c658d6ymfq1enp4mbk178
+2025-03-08,4,Deportes Iquique 1-3 Palestino,Deportes Iquique,Palestino,2tldxhqnjfghebx60g6ea8mj8,57gxbt0ass2703gnf9cz80g7o
+2025-03-08,4,Audax Italiano 3-1 Deportes Limache,Audax Italiano,Deportes Limache,2tldxhqnjfghebx60g6ea8mj8,5747xtww785upkgmk4gw5whlg
+2025-03-08,4,Ñublense 1-1 Universidad Católica,Ñublense,Universidad Católica,2tldxhqnjfghebx60g6ea8mj8,55phiqlehfwe2d0c3smjpztp0
+2025-03-07,4,Unión La Calera 1-0 Huachipato,Unión La Calera,Huachipato,2tldxhqnjfghebx60g6ea8mj8,57tl9nqdlkz7cjimw6di6a1w4
+2025-03-02,3,Unión La Calera 2-2 O'Higgins,Unión La Calera,O'Higgins,2tldxhqnjfghebx60g6ea8mj8,54ng1co5kq8kgzkpl55zof0us
+2025-03-02,3,Cobresal 2-1 Universidad de Chile,Cobresal,Universidad de Chile,2tldxhqnjfghebx60g6ea8mj8,52i156v85szd90yjcb9qgvy1g
+2025-03-02,3,Huachipato 2-1 Colo Colo,Huachipato,Colo Colo,2tldxhqnjfghebx60g6ea8mj8,52uh8jrmv6124t5d8yqtgfgno
+2025-03-01,3,Everton 1-2 Ñublense,Everton,Ñublense,2tldxhqnjfghebx60g6ea8mj8,550403efdplwfco1dbxoiv9xw
+2025-03-01,3,Palestino 0-2 Audax Italiano,Palestino,Audax Italiano,2tldxhqnjfghebx60g6ea8mj8,53w7mtebt056je8wtb29vlyqc
+2025-03-01,3,Universidad Católica 1-0 Deportes Iquique,Universidad Católica,Deportes Iquique,2tldxhqnjfghebx60g6ea8mj8,5373gwkkmlze0nl2wh06gj4lw
+2025-03-01,3,La Serena 1-0 Unión Española,La Serena,Unión Española,2tldxhqnjfghebx60g6ea8mj8,54ar7pna31b6co60ude6vip04
+2025-02-28,3,Deportes Limache 1-2 Coquimbo Unido,Deportes Limache,Coquimbo Unido,2tldxhqnjfghebx60g6ea8mj8,53jpgomo97d28ia60j5zboefo
+2025-02-24,2,Colo Colo 0-1 O'Higgins,Colo Colo,O'Higgins,2tldxhqnjfghebx60g6ea8mj8,525i4ldpdgnxjw47ex48chp90
+2025-02-23,2,Universidad de Chile 1-0 Unión La Calera,Universidad de Chile,Unión La Calera,2tldxhqnjfghebx60g6ea8mj8,50rb1ncz6ufi7djywxesbhyxg
+2025-02-23,2,Cobresal 3-1 La Serena,Cobresal,La Serena,2tldxhqnjfghebx60g6ea8mj8,50eugbivj50ol7bxk4riiil90
+2025-02-23,2,Huachipato 4-0 Everton,Huachipato,Everton,2tldxhqnjfghebx60g6ea8mj8,513rz88bjcag9qgzayh3f9mok
+2025-02-22,2,Ñublense 1-1 Deportes Limache,Ñublense,Deportes Limache,2tldxhqnjfghebx60g6ea8mj8,51gg0fibx7wxxxrmcq8c6d2xg
+2025-02-22,2,Coquimbo Unido 1-0 Universidad Católica,Coquimbo Unido,Universidad Católica,2tldxhqnjfghebx60g6ea8mj8,4zphmcdgjwiac3i5fiq9qhlp0
+2025-02-21,2,Unión Española 0-3 Palestino,Unión Española,Palestino,2tldxhqnjfghebx60g6ea8mj8,51sxufaoshpemjax74y2qjor8
+2025-02-21,2,Audax Italiano 4-2 Deportes Iquique,Audax Italiano,Deportes Iquique,2tldxhqnjfghebx60g6ea8mj8,50247nlpoio38mx9en599vaxg
+2025-02-17,1,Unión La Calera 4-0 Unión Española,Unión La Calera,Unión Española,2tldxhqnjfghebx60g6ea8mj8,4ygn2my2zwjjqo1dnunx6b4lw
+2025-02-17,1,Universidad Católica 3-1 Audax Italiano,Universidad Católica,Audax Italiano,2tldxhqnjfghebx60g6ea8mj8,4y1ftj64nh5o6dxzrdvtoqkgk
+2025-02-16,1,Deportes Limache 1-1 Everton,Deportes Limache,Everton,2tldxhqnjfghebx60g6ea8mj8,4xm22gfaawuk1gzzaxyst5xjo
+2025-02-16,1,La Serena 1-3 Colo Colo,La Serena,Colo Colo,2tldxhqnjfghebx60g6ea8mj8,4w7om50cu1mxm6ti11l44ig44
+2025-02-15,1,Universidad de Chile 5-0 Ñublense,Universidad de Chile,Ñublense,2tldxhqnjfghebx60g6ea8mj8,4yvxxinpynpo4fewmjck2mrdg
+2025-02-15,1,O'Higgins 0-0 Huachipato,O'Higgins,Huachipato,2tldxhqnjfghebx60g6ea8mj8,4zcv6fy8auwmt7bxfvop6xc7o
+2025-02-15,1,Palestino 2-1 Cobresal,Palestino,Cobresal,2tldxhqnjfghebx60g6ea8mj8,4wr18ogs66v6eggfvlnri69zo
+2025-02-14,1,Deportes Iquique 0-3 Coquimbo Unido,Deportes Iquique,Coquimbo Unido,2tldxhqnjfghebx60g6ea8mj8,4x6h11b6myy3kp18dpm1kdy50

@@ -1,41 +1,41 @@
-﻿Date,Round,Match,Home,Away
-2025-04-06,5,Yunnan Yukun 1-0 Qingdao Hainiu,Yunnan Yukun,Qingdao Hainiu
-2025-04-06,5,Beijing Guoan 2-0 Zhejiang,Beijing Guoan,Zhejiang
-2025-04-06,5,Shanghai Port 1-1 Shanghai Shenhua,Shanghai Port,Shanghai Shenhua
-2025-04-06,5,Chengdu Rongcheng 2-0 Dalian Yingbo,Chengdu Rongcheng,Dalian Yingbo
-2025-04-06,5,Meizhou Hakka 3-1 Wuhan Three Towns,Meizhou Hakka,Wuhan Three Towns
-2025-04-06,5,Qingdao West Coast 2-2 Tianjin Jinmen Tiger,Qingdao West Coast,Tianjin Jinmen Tiger
-2025-04-06,5,Changchun Yatai 1-2 Shandong Taishan,Changchun Yatai,Shandong Taishan
-2025-04-05,5,Shenzhen Peng City 1-3 Henan,Shenzhen Peng City,Henan
-2025-04-02,4,Shanghai Port 2-1 Meizhou Hakka,Shanghai Port,Meizhou Hakka
-2025-04-02,4,Tianjin Jinmen Tiger 2-2 Beijing Guoan,Tianjin Jinmen Tiger,Beijing Guoan
-2025-04-02,4,Shandong Taishan 0-3 Chengdu Rongcheng,Shandong Taishan,Chengdu Rongcheng
-2025-04-02,4,Qingdao Hainiu 1-1 Dalian Yingbo,Qingdao Hainiu,Dalian Yingbo
-2025-04-02,4,Shanghai Shenhua 3-1 Yunnan Yukun,Shanghai Shenhua,Yunnan Yukun
-2025-04-02,4,Changchun Yatai 1-1 Wuhan Three Towns,Changchun Yatai,Wuhan Three Towns
-2025-04-01,4,Zhejiang 3-0 Shenzhen Peng City,Zhejiang,Shenzhen Peng City
-2025-04-01,4,Henan 2-3 Qingdao West Coast,Henan,Qingdao West Coast
-2025-03-29,3,Beijing Guoan 1-1 Chengdu Rongcheng,Beijing Guoan,Chengdu Rongcheng
-2025-03-29,3,Meizhou Hakka 3-4 Shandong Taishan,Meizhou Hakka,Shandong Taishan
-2025-03-29,3,Henan 1-3 Shanghai Shenhua,Henan,Shanghai Shenhua
-2025-03-29,3,Tianjin Jinmen Tiger 1-0 Qingdao Hainiu,Tianjin Jinmen Tiger,Qingdao Hainiu
-2025-03-29,3,Dalian Yingbo 2-0 Changchun Yatai,Dalian Yingbo,Changchun Yatai
-2025-03-28,3,Shenzhen Peng City 3-4 Yunnan Yukun,Shenzhen Peng City,Yunnan Yukun
-2025-03-28,3,Wuhan Three Towns 0-4 Zhejiang,Wuhan Three Towns,Zhejiang
-2025-03-28,3,Qingdao West Coast 3-3 Shanghai Port,Qingdao West Coast,Shanghai Port
-2025-03-03,2,Qingdao West Coast 2-0 Wuhan Three Towns,Qingdao West Coast,Wuhan Three Towns
-2025-03-02,2,Chengdu Rongcheng 1-2 Tianjin Jinmen Tiger,Chengdu Rongcheng,Tianjin Jinmen Tiger
-2025-03-01,2,Yunnan Yukun 1-1 Zhejiang,Yunnan Yukun,Zhejiang
-2025-03-01,2,Shanghai Shenhua 2-2 Beijing Guoan,Shanghai Shenhua,Beijing Guoan
-2025-03-01,2,Meizhou Hakka 2-1 Henan,Meizhou Hakka,Henan
-2025-03-01,2,Qingdao Hainiu 0-1 Shenzhen Peng City,Qingdao Hainiu,Shenzhen Peng City
-2025-02-28,2,Shanghai Port 2-0 Changchun Yatai,Shanghai Port,Changchun Yatai
-2025-02-28,2,Shandong Taishan 4-1 Dalian Yingbo,Shandong Taishan,Dalian Yingbo
-2025-02-23,1,Shanghai Port 3-1 Shenzhen Peng City,Shanghai Port,Shenzhen Peng City
-2025-02-23,1,Tianjin Jinmen Tiger 2-2 Meizhou Hakka,Tianjin Jinmen Tiger,Meizhou Hakka
-2025-02-23,1,Shandong Taishan 0-0 Henan,Shandong Taishan,Henan
-2025-02-23,1,Zhejiang 1-1 Dalian Yingbo,Zhejiang,Dalian Yingbo
-2025-02-23,1,Qingdao Hainiu 2-2 Qingdao West Coast,Qingdao Hainiu,Qingdao West Coast
-2025-02-22,1,Yunnan Yukun 0-2 Beijing Guoan,Yunnan Yukun,Beijing Guoan
-2025-02-22,1,Shanghai Shenhua 2-1 Changchun Yatai,Shanghai Shenhua,Changchun Yatai
-2025-02-22,1,Chengdu Rongcheng 1-0 Wuhan Three Towns,Chengdu Rongcheng,Wuhan Three Towns
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-06,5,Yunnan Yukun 1-0 Qingdao Hainiu,Yunnan Yukun,Qingdao Hainiu,clgqx4d0993mz8wx3fg0vddsk,7ewdlfavin6w17s9y5n2xwdn8
+2025-04-06,5,Beijing Guoan 2-0 Zhejiang,Beijing Guoan,Zhejiang,clgqx4d0993mz8wx3fg0vddsk,7eh31f4f1okg2drkeyacjpatw
+2025-04-06,5,Shanghai Port 1-1 Shanghai Shenhua,Shanghai Port,Shanghai Shenhua,clgqx4d0993mz8wx3fg0vddsk,7e1lnwbwk6bzn8hokx48p7mdw
+2025-04-06,5,Chengdu Rongcheng 2-0 Dalian Yingbo,Chengdu Rongcheng,Dalian Yingbo,clgqx4d0993mz8wx3fg0vddsk,7dmlpa1k670gtudt1ac2a5jx0
+2025-04-06,5,Meizhou Hakka 3-1 Wuhan Three Towns,Meizhou Hakka,Wuhan Three Towns,clgqx4d0993mz8wx3fg0vddsk,7d7l06mv0jzntkzhg3289csus
+2025-04-06,5,Qingdao West Coast 2-2 Tianjin Jinmen Tiger,Qingdao West Coast,Tianjin Jinmen Tiger,clgqx4d0993mz8wx3fg0vddsk,7csod7f6l9ab30c1skzbnqsk4
+2025-04-06,5,Changchun Yatai 1-2 Shandong Taishan,Changchun Yatai,Shandong Taishan,clgqx4d0993mz8wx3fg0vddsk,7cdsq2nzn9nvj73ug07c852xg
+2025-04-05,5,Shenzhen Peng City 1-3 Henan,Shenzhen Peng City,Henan,clgqx4d0993mz8wx3fg0vddsk,7bymld7rachaijchbuo4ehfdg
+2025-04-02,4,Shanghai Port 2-1 Meizhou Hakka,Shanghai Port,Meizhou Hakka,clgqx4d0993mz8wx3fg0vddsk,7bjv576vwyg4gksei4a2upa8k
+2025-04-02,4,Tianjin Jinmen Tiger 2-2 Beijing Guoan,Tianjin Jinmen Tiger,Beijing Guoan,clgqx4d0993mz8wx3fg0vddsk,7b3h9klbae9pfykj34p0bwpw4
+2025-04-02,4,Shandong Taishan 0-3 Chengdu Rongcheng,Shandong Taishan,Chengdu Rongcheng,clgqx4d0993mz8wx3fg0vddsk,7aoo76n256qu1n5g2tifa4x04
+2025-04-02,4,Qingdao Hainiu 1-1 Dalian Yingbo,Qingdao Hainiu,Dalian Yingbo,clgqx4d0993mz8wx3fg0vddsk,7a9n1ulltvfvdth0dc1zztvys
+2025-04-02,4,Shanghai Shenhua 3-1 Yunnan Yukun,Shanghai Shenhua,Yunnan Yukun,clgqx4d0993mz8wx3fg0vddsk,79uo7dw1tzlkwdjqyrupsg6qc
+2025-04-02,4,Changchun Yatai 1-1 Wuhan Three Towns,Changchun Yatai,Wuhan Three Towns,clgqx4d0993mz8wx3fg0vddsk,79fkvjrtdn9cdma0ev2j9fjmc
+2025-04-01,4,Zhejiang 3-0 Shenzhen Peng City,Zhejiang,Shenzhen Peng City,clgqx4d0993mz8wx3fg0vddsk,78zs3nhypyc58oqhtl9lexams
+2025-04-01,4,Henan 2-3 Qingdao West Coast,Henan,Qingdao West Coast,clgqx4d0993mz8wx3fg0vddsk,78kqwh3mlphqo51fpdl39ncwk
+2025-03-29,3,Beijing Guoan 1-1 Chengdu Rongcheng,Beijing Guoan,Chengdu Rongcheng,clgqx4d0993mz8wx3fg0vddsk,785t15gheqz0sy8zbcy4zs74k
+2025-03-29,3,Meizhou Hakka 3-4 Shandong Taishan,Meizhou Hakka,Shandong Taishan,clgqx4d0993mz8wx3fg0vddsk,77q38tmhtsb4tfoeg1do1knpw
+2025-03-29,3,Henan 1-3 Shanghai Shenhua,Henan,Shanghai Shenhua,clgqx4d0993mz8wx3fg0vddsk,77b9ddy7brdcoii11phe6dnh0
+2025-03-29,3,Tianjin Jinmen Tiger 1-0 Qingdao Hainiu,Tianjin Jinmen Tiger,Qingdao Hainiu,clgqx4d0993mz8wx3fg0vddsk,76vi1txvydqpmtw5ujymrqfx0
+2025-03-29,3,Dalian Yingbo 2-0 Changchun Yatai,Dalian Yingbo,Changchun Yatai,clgqx4d0993mz8wx3fg0vddsk,76g3gnhqhwoinv0y5fr7d0y6s
+2025-03-28,3,Shenzhen Peng City 3-4 Yunnan Yukun,Shenzhen Peng City,Yunnan Yukun,clgqx4d0993mz8wx3fg0vddsk,75yh6afdbmk8rjmp60trxurys
+2025-03-28,3,Wuhan Three Towns 0-4 Zhejiang,Wuhan Three Towns,Zhejiang,clgqx4d0993mz8wx3fg0vddsk,75iwefovr1xtdbmjupfjh589g
+2025-03-28,3,Qingdao West Coast 3-3 Shanghai Port,Qingdao West Coast,Shanghai Port,clgqx4d0993mz8wx3fg0vddsk,7535b3u7ftb0govtmq67q8il0
+2025-03-03,2,Qingdao West Coast 2-0 Wuhan Three Towns,Qingdao West Coast,Wuhan Three Towns,clgqx4d0993mz8wx3fg0vddsk,7499i1xb7nfso3yn1mhtscob8
+2025-03-02,2,Chengdu Rongcheng 1-2 Tianjin Jinmen Tiger,Chengdu Rongcheng,Tianjin Jinmen Tiger,clgqx4d0993mz8wx3fg0vddsk,74od9nlsorthgcakr09b8ig44
+2025-03-01,2,Yunnan Yukun 1-1 Zhejiang,Yunnan Yukun,Zhejiang,clgqx4d0993mz8wx3fg0vddsk,73tkvbio0csdqourpbb4x2u50
+2025-03-01,2,Shanghai Shenhua 2-2 Beijing Guoan,Shanghai Shenhua,Beijing Guoan,clgqx4d0993mz8wx3fg0vddsk,73e89act22etjn4pp7q65d7v8
+2025-03-01,2,Meizhou Hakka 2-1 Henan,Meizhou Hakka,Henan,clgqx4d0993mz8wx3fg0vddsk,72yvznk7ylk3qflus86rnszkk
+2025-03-01,2,Qingdao Hainiu 0-1 Shenzhen Peng City,Qingdao Hainiu,Shenzhen Peng City,clgqx4d0993mz8wx3fg0vddsk,72jbsqnr7xexaaau4gjlxvfo4
+2025-02-28,2,Shanghai Port 2-0 Changchun Yatai,Shanghai Port,Changchun Yatai,clgqx4d0993mz8wx3fg0vddsk,724qigrafrcfcxkfiorckw1zo
+2025-02-28,2,Shandong Taishan 4-1 Dalian Yingbo,Shandong Taishan,Dalian Yingbo,clgqx4d0993mz8wx3fg0vddsk,71pt5hpfwns7c7dwy9gezyh3o
+2025-02-23,1,Shanghai Port 3-1 Shenzhen Peng City,Shanghai Port,Shenzhen Peng City,clgqx4d0993mz8wx3fg0vddsk,71ak9o2vjo92yz1t92f4jt91w
+2025-02-23,1,Tianjin Jinmen Tiger 2-2 Meizhou Hakka,Tianjin Jinmen Tiger,Meizhou Hakka,clgqx4d0993mz8wx3fg0vddsk,70qbws8l4pmz1yzr1cj6pfh90
+2025-02-23,1,Shandong Taishan 0-0 Henan,Shandong Taishan,Henan,clgqx4d0993mz8wx3fg0vddsk,707fjdo88jtmt7e38ykskolck
+2025-02-23,1,Zhejiang 1-1 Dalian Yingbo,Zhejiang,Dalian Yingbo,clgqx4d0993mz8wx3fg0vddsk,6zoksgf8ai16ocf6rw9y8bspg
+2025-02-23,1,Qingdao Hainiu 2-2 Qingdao West Coast,Qingdao Hainiu,Qingdao West Coast,clgqx4d0993mz8wx3fg0vddsk,6z5r48h3p1zb419wqamfoa3v8
+2025-02-22,1,Yunnan Yukun 0-2 Beijing Guoan,Yunnan Yukun,Beijing Guoan,clgqx4d0993mz8wx3fg0vddsk,6yn8zz03f8nvnbb64mv27ne38
+2025-02-22,1,Shanghai Shenhua 2-1 Changchun Yatai,Shanghai Shenhua,Changchun Yatai,clgqx4d0993mz8wx3fg0vddsk,6y4pxp04f4ljvauxb3w5vvcwk
+2025-02-22,1,Chengdu Rongcheng 1-0 Wuhan Three Towns,Chengdu Rongcheng,Wuhan Three Towns,clgqx4d0993mz8wx3fg0vddsk,6xizxvk0gf84rb8gp7s10szdg

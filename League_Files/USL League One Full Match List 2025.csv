@@ -1,23 +1,23 @@
-﻿Date,Round,Match,Home,Away
-2025-04-05,5,Alta 2-0 Westchester SC,Alta,Westchester SC
-2025-04-05,5,Spokane Velocity 0-0 Portland Hearts of Pine,Spokane Velocity,Portland Hearts of Pine
-2025-04-05,5,Texoma 0-3 Naples,Texoma,Naples
-2025-04-05,5,Chattanooga Red Wolves 2-2 Tormenta,Chattanooga Red Wolves,Tormenta
-2025-04-05,5,Greenville Triumph 1-0 Charlotte Independence,Greenville Triumph,Charlotte Independence
-2025-03-29,4,Texoma 1-3 Westchester SC,Texoma,Westchester SC
-2025-03-29,4,Naples 0-0 Portland Hearts of Pine,Naples,Portland Hearts of Pine
-2025-03-29,4,Greenville Triumph 0-4 Spokane Velocity,Greenville Triumph,Spokane Velocity
-2025-03-29,4,Tormenta 1-3 Union Omaha,Tormenta,Union Omaha
-2025-03-29,4,Richmond Kickers 1-2 Forward Madison,Richmond Kickers,Forward Madison
-2025-03-28,4,Charlotte Independence 0-0 Chattanooga Red Wolves,Charlotte Independence,Chattanooga Red Wolves
-2025-03-22,3,Texoma 0-2 One Knoxville,Texoma,One Knoxville
-2025-03-22,3,Spokane Velocity 0-1 Naples,Spokane Velocity,Naples
-2025-03-22,3,Richmond Kickers 3-1 Alta,Richmond Kickers,Alta
-2025-03-16,2,Spokane Velocity 2-2 One Knoxville,Spokane Velocity,One Knoxville
-2025-03-15,2,Naples 2-0 Forward Madison,Naples,Forward Madison
-2025-03-15,2,Tormenta 2-0 Alta,Tormenta,Alta
-2025-03-15,2,Charlotte Independence 1-0 Richmond Kickers,Charlotte Independence,Richmond Kickers
-2025-03-12,2,Greenville Triumph 3-0 Union Omaha,Greenville Triumph,Union Omaha
-2025-03-08,1,Naples 1-1 Chattanooga Red Wolves,Naples,Chattanooga Red Wolves
-2025-03-08,1,Greenville Triumph 1-1 Westchester SC,Greenville Triumph,Westchester SC
-2025-03-07,1,Tormenta 2-4 Richmond Kickers,Tormenta,Richmond Kickers
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-05,5,Alta 2-0 Westchester SC,Alta,Westchester SC,4b8z3pen6fglo1t1ultg1gmc4,3krqxki1dc5u2azd5e7n4hogk
+2025-04-05,5,Spokane Velocity 0-0 Portland Hearts of Pine,Spokane Velocity,Portland Hearts of Pine,4b8z3pen6fglo1t1ultg1gmc4,3kchamx7vuel57js29q76rl78
+2025-04-05,5,Texoma 0-3 Naples,Texoma,Naples,4b8z3pen6fglo1t1ultg1gmc4,3jz541k4j2ecsvwd90zy9tp90
+2025-04-05,5,Chattanooga Red Wolves 2-2 Tormenta,Chattanooga Red Wolves,Tormenta,4b8z3pen6fglo1t1ultg1gmc4,3jlltxub5631om4uuwt90lces
+2025-04-05,5,Greenville Triumph 1-0 Charlotte Independence,Greenville Triumph,Charlotte Independence,4b8z3pen6fglo1t1ultg1gmc4,3j851ta9l69a3fvt41unppjx0
+2025-03-29,4,Texoma 1-3 Westchester SC,Texoma,Westchester SC,4b8z3pen6fglo1t1ultg1gmc4,3iuqx5w8n2iu6ehufggpjt89g
+2025-03-29,4,Naples 0-0 Portland Hearts of Pine,Naples,Portland Hearts of Pine,4b8z3pen6fglo1t1ultg1gmc4,3ih7jqh7rxwvsvnh3tsnlyvpw
+2025-03-29,4,Greenville Triumph 0-4 Spokane Velocity,Greenville Triumph,Spokane Velocity,4b8z3pen6fglo1t1ultg1gmc4,3i284lynpbxnosf6nywbsdic4
+2025-03-29,4,Tormenta 1-3 Union Omaha,Tormenta,Union Omaha,4b8z3pen6fglo1t1ultg1gmc4,3hohq909x7byloh09r26zz6dw
+2025-03-29,4,Richmond Kickers 1-2 Forward Madison,Richmond Kickers,Forward Madison,4b8z3pen6fglo1t1ultg1gmc4,3hay8tkdj9ojziyljehwjawic
+2025-03-28,4,Charlotte Independence 0-0 Chattanooga Red Wolves,Charlotte Independence,Chattanooga Red Wolves,4b8z3pen6fglo1t1ultg1gmc4,3gxdesa5okn58kvdj2mbl54b8
+2025-03-22,3,Texoma 0-2 One Knoxville,Texoma,One Knoxville,4b8z3pen6fglo1t1ultg1gmc4,3g5ziyso6ic3e0txirx1837ro
+2025-03-22,3,Spokane Velocity 0-1 Naples,Spokane Velocity,Naples,4b8z3pen6fglo1t1ultg1gmc4,3gjzst07u8fh3t9lf62t74g7o
+2025-03-22,3,Richmond Kickers 3-1 Alta,Richmond Kickers,Alta,4b8z3pen6fglo1t1ultg1gmc4,3fq1zkw5zlk00zql3kiyaswlw
+2025-03-16,2,Spokane Velocity 2-2 One Knoxville,Spokane Velocity,One Knoxville,4b8z3pen6fglo1t1ultg1gmc4,3fa5vsl18uov2y1rt3aewk3dg
+2025-03-15,2,Naples 2-0 Forward Madison,Naples,Forward Madison,4b8z3pen6fglo1t1ultg1gmc4,3eti21crb1gx5ruqfmb8cqkgk
+2025-03-15,2,Tormenta 2-0 Alta,Tormenta,Alta,4b8z3pen6fglo1t1ultg1gmc4,3eea90nn8zxf5qivx312ftudw
+2025-03-15,2,Charlotte Independence 1-0 Richmond Kickers,Charlotte Independence,Richmond Kickers,4b8z3pen6fglo1t1ultg1gmc4,3dz9ju1q6xuze30twcs487ml0
+2025-03-12,2,Greenville Triumph 3-0 Union Omaha,Greenville Triumph,Union Omaha,4b8z3pen6fglo1t1ultg1gmc4,3dkcijjpscuu5fo6sznh4tr10
+2025-03-08,1,Naples 1-1 Chattanooga Red Wolves,Naples,Chattanooga Red Wolves,4b8z3pen6fglo1t1ultg1gmc4,3d58t3qwk2kv7qj49fmhmkyl0
+2025-03-08,1,Greenville Triumph 1-1 Westchester SC,Greenville Triumph,Westchester SC,4b8z3pen6fglo1t1ultg1gmc4,3c4zdjokjko4f704n1r6r2tqs
+2025-03-07,1,Tormenta 2-4 Richmond Kickers,Tormenta,Richmond Kickers,4b8z3pen6fglo1t1ultg1gmc4,3cooksxisokw68fz731fekfmc

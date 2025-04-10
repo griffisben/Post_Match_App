@@ -1,43 +1,43 @@
-﻿Date,Round,Match,Home,Away
-2025-04-06,6.0,Seongnam 1-0 Ansan Greeners,Seongnam,Ansan Greeners
-2025-04-06,6.0,Chungnam Asan 3-1 Chungbuk Cheongju,Chungnam Asan,Chungbuk Cheongju
-2025-04-06,6.0,Gimpo Citizen 1-2 Bucheon 1995,Gimpo Citizen,Bucheon 1995
-2025-04-06,6.0,Suwon Bluewings 4-0 Gyeongnam,Suwon Bluewings,Gyeongnam
-2025-04-05,6.0,Busan IPark 0-1 Jeonnam Dragons,Busan IPark,Jeonnam Dragons
-2025-04-05,6.0,Hwaseong 0-1 Incheon United,Hwaseong,Incheon United
-2025-04-05,6.0,Seoul E-Land 3-0 Cheonan City,Seoul E-Land,Cheonan City
-2025-03-30,5.0,Chungnam Asan 1-1 Seongnam,Chungnam Asan,Seongnam
-2025-03-30,5.0,Cheonan City 0-2 Gimpo Citizen,Cheonan City,Gimpo Citizen
-2025-03-30,5.0,Seoul E-Land 3-2 Bucheon 1995,Seoul E-Land,Bucheon 1995
-2025-03-29,5.0,Incheon United 1-1 Busan IPark,Incheon United,Busan IPark
-2025-03-29,5.0,Gyeongnam 3-0 Chungbuk Cheongju,Gyeongnam,Chungbuk Cheongju
-2025-03-29,5.0,Suwon Bluewings 2-1 Jeonnam Dragons,Suwon Bluewings,Jeonnam Dragons
-2025-03-29,5.0,Ansan Greeners 3-3 Hwaseong,Ansan Greeners,Hwaseong
-2025-03-16,4.0,Bucheon 1995 3-1 Ansan Greeners,Bucheon 1995,Ansan Greeners
-2025-03-16,4.0,Gyeongnam 2-2 Jeonnam Dragons,Gyeongnam,Jeonnam Dragons
-2025-03-16,4.0,Busan IPark 2-1 Cheonan City,Busan IPark,Cheonan City
-2025-03-15,4.0,Suwon Bluewings 0-0 Chungnam Asan,Suwon Bluewings,Chungnam Asan
-2025-03-15,4.0,Gimpo Citizen 0-0 Seongnam,Gimpo Citizen,Seongnam
-2025-03-15,4.0,Hwaseong 2-1 Chungbuk Cheongju,Hwaseong,Chungbuk Cheongju
-2025-03-15,4.0,Incheon United 1-0 Seoul E-Land,Incheon United,Seoul E-Land
-2025-03-09,3.0,Seongnam 2-1 Incheon United,Seongnam,Incheon United
-2025-03-09,3.0,Cheonan City 1-0 Chungnam Asan,Cheonan City,Chungnam Asan
-2025-03-09,3.0,Seoul E-Land 4-2 Suwon Bluewings,Seoul E-Land,Suwon Bluewings
-2025-03-08,3.0,Ansan Greeners 0-1 Jeonnam Dragons,Ansan Greeners,Jeonnam Dragons
-2025-03-08,3.0,Gimpo Citizen 2-3 Chungbuk Cheongju,Gimpo Citizen,Chungbuk Cheongju
-2025-03-08,3.0,Hwaseong 1-1 Gyeongnam,Hwaseong,Gyeongnam
-2025-03-08,3.0,Bucheon 1995 0-2 Busan IPark,Bucheon 1995,Busan IPark
-2025-03-03,2.0,Seongnam 1-1 Chungbuk Cheongju,Seongnam,Chungbuk Cheongju
-2025-03-02,2.0,Cheonan City 1-2 Bucheon 1995,Cheonan City,Bucheon 1995
-2025-03-02,2.0,Busan IPark 0-1 Gyeongnam,Busan IPark,Gyeongnam
-2025-03-02,2.0,Hwaseong 1-1 Chungnam Asan,Hwaseong,Chungnam Asan
-2025-03-01,2.0,Ansan Greeners 0-2 Gimpo Citizen,Ansan Greeners,Gimpo Citizen
-2025-03-01,2.0,Seoul E-Land 1-1 Jeonnam Dragons,Seoul E-Land,Jeonnam Dragons
-2025-03-01,2.0,Incheon United 2-0 Suwon Bluewings,Incheon United,Suwon Bluewings
-2025-02-23,1.0,Bucheon 1995 3-1 Chungbuk Cheongju,Bucheon 1995,Chungbuk Cheongju
-2025-02-23,1.0,Seoul E-Land 2-1 Chungnam Asan,Seoul E-Land,Chungnam Asan
-2025-02-23,1.0,Seongnam 2-0 Hwaseong,Seongnam,Hwaseong
-2025-02-22,1.0,Ansan Greeners 0-1 Suwon Bluewings,Ansan Greeners,Suwon Bluewings
-2025-02-22,1.0,Busan IPark 0-0 Gimpo Citizen,Busan IPark,Gimpo Citizen
-2025-02-22,1.0,Cheonan City 0-2 Jeonnam Dragons,Cheonan City,Jeonnam Dragons
-2025-02-22,1.0,Incheon United 2-0 Gyeongnam,Incheon United,Gyeongnam
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-06,6.0,Seongnam 1-0 Ansan Greeners,Seongnam,Ansan Greeners,68j3uekmye1w1x3isb9jqtes4,22pdmaw2o5zu1j1vmanb2ketw
+2025-04-06,6.0,Chungnam Asan 3-1 Chungbuk Cheongju,Chungnam Asan,Chungbuk Cheongju,68j3uekmye1w1x3isb9jqtes4,22clz1v1fquhr1mg1vzu27j10
+2025-04-06,6.0,Gimpo Citizen 1-2 Bucheon 1995,Gimpo Citizen,Bucheon 1995,68j3uekmye1w1x3isb9jqtes4,21zp1pfrcwya52sxv1mj9sjdg
+2025-04-06,6.0,Suwon Bluewings 4-0 Gyeongnam,Suwon Bluewings,Gyeongnam,68j3uekmye1w1x3isb9jqtes4,21n1fz9m6ptido3i0tnvr5yqc
+2025-04-05,6.0,Busan IPark 0-1 Jeonnam Dragons,Busan IPark,Jeonnam Dragons,68j3uekmye1w1x3isb9jqtes4,21acorapl6xbct3zesf8wj310
+2025-04-05,6.0,Hwaseong 0-1 Incheon United,Hwaseong,Incheon United,68j3uekmye1w1x3isb9jqtes4,20xo679v0xnerbytrq9ado26s
+2025-04-05,6.0,Seoul E-Land 3-0 Cheonan City,Seoul E-Land,Cheonan City,68j3uekmye1w1x3isb9jqtes4,20knj3bduw4x4ia1fm7w7s00k
+2025-03-30,5.0,Chungnam Asan 1-1 Seongnam,Chungnam Asan,Seongnam,68j3uekmye1w1x3isb9jqtes4,207pn7di67tq5iw2lkuppcv84
+2025-03-30,5.0,Cheonan City 0-2 Gimpo Citizen,Cheonan City,Gimpo Citizen,68j3uekmye1w1x3isb9jqtes4,1zsqmpo2ispkhbj8coijghfro
+2025-03-30,5.0,Seoul E-Land 3-2 Bucheon 1995,Seoul E-Land,Bucheon 1995,68j3uekmye1w1x3isb9jqtes4,1zftg1eff1nohud31bsd26l1w
+2025-03-29,5.0,Incheon United 1-1 Busan IPark,Incheon United,Busan IPark,68j3uekmye1w1x3isb9jqtes4,1z2zjtqvgp7wml51cwtkwgw0k
+2025-03-29,5.0,Gyeongnam 3-0 Chungbuk Cheongju,Gyeongnam,Chungbuk Cheongju,68j3uekmye1w1x3isb9jqtes4,1yq4ic6rklbxn1miwkzfqrkes
+2025-03-29,5.0,Suwon Bluewings 2-1 Jeonnam Dragons,Suwon Bluewings,Jeonnam Dragons,68j3uekmye1w1x3isb9jqtes4,1yd5hla0tfs5rlrin3ars6b6c
+2025-03-29,5.0,Ansan Greeners 3-3 Hwaseong,Ansan Greeners,Hwaseong,68j3uekmye1w1x3isb9jqtes4,1y0cjkz8g5dyrobcd9mffcsgk
+2025-03-16,4.0,Bucheon 1995 3-1 Ansan Greeners,Bucheon 1995,Ansan Greeners,68j3uekmye1w1x3isb9jqtes4,1xnm8m21pmgn5jr15wphjhdlg
+2025-03-16,4.0,Gyeongnam 2-2 Jeonnam Dragons,Gyeongnam,Jeonnam Dragons,68j3uekmye1w1x3isb9jqtes4,1xarxjp5uiukp8nxamrxh1250
+2025-03-16,4.0,Busan IPark 2-1 Cheonan City,Busan IPark,Cheonan City,68j3uekmye1w1x3isb9jqtes4,1wxusy3z36urswkwpkt4ttq1g
+2025-03-15,4.0,Suwon Bluewings 0-0 Chungnam Asan,Suwon Bluewings,Chungnam Asan,68j3uekmye1w1x3isb9jqtes4,1wkvagdfe7usuv7r5of8nv8yc
+2025-03-15,4.0,Gimpo Citizen 0-0 Seongnam,Gimpo Citizen,Seongnam,68j3uekmye1w1x3isb9jqtes4,1w81lfyndq38mce6eygvug7x0
+2025-03-15,4.0,Hwaseong 2-1 Chungbuk Cheongju,Hwaseong,Chungbuk Cheongju,68j3uekmye1w1x3isb9jqtes4,1vv9m1ybgry8pkjaw6muucdn8
+2025-03-15,4.0,Incheon United 1-0 Seoul E-Land,Incheon United,Seoul E-Land,68j3uekmye1w1x3isb9jqtes4,1vij6s4icf8bgvr20iia6uuxg
+2025-03-09,3.0,Seongnam 2-1 Incheon United,Seongnam,Incheon United,68j3uekmye1w1x3isb9jqtes4,1v42bjkai02hq5i8p1oj40h04
+2025-03-09,3.0,Cheonan City 1-0 Chungnam Asan,Cheonan City,Chungnam Asan,68j3uekmye1w1x3isb9jqtes4,1ur6cfrv5zu439pavszpstfys
+2025-03-09,3.0,Seoul E-Land 4-2 Suwon Bluewings,Seoul E-Land,Suwon Bluewings,68j3uekmye1w1x3isb9jqtes4,1uedewyxziw1iojxwgnccgzys
+2025-03-08,3.0,Ansan Greeners 0-1 Jeonnam Dragons,Ansan Greeners,Jeonnam Dragons,68j3uekmye1w1x3isb9jqtes4,1u1kqua0d75to4k7abyo33pck
+2025-03-08,3.0,Gimpo Citizen 2-3 Chungbuk Cheongju,Gimpo Citizen,Chungbuk Cheongju,68j3uekmye1w1x3isb9jqtes4,1tolqmkl0jvud1blm04p9f8k4
+2025-03-08,3.0,Hwaseong 1-1 Gyeongnam,Hwaseong,Gyeongnam,68j3uekmye1w1x3isb9jqtes4,1tboekcn52on2f2cyiagzisyc
+2025-03-08,3.0,Bucheon 1995 0-2 Busan IPark,Bucheon 1995,Busan IPark,68j3uekmye1w1x3isb9jqtes4,1syuqam0yqaoi5rwh6gr2xbf8
+2025-03-03,2.0,Seongnam 1-1 Chungbuk Cheongju,Seongnam,Chungbuk Cheongju,68j3uekmye1w1x3isb9jqtes4,1slm8qyoyuxykxmg75jbqutck
+2025-03-02,2.0,Cheonan City 1-2 Bucheon 1995,Cheonan City,Bucheon 1995,68j3uekmye1w1x3isb9jqtes4,1s8fh1m0k3j14mfb4z4uk46j8
+2025-03-02,2.0,Busan IPark 0-1 Gyeongnam,Busan IPark,Gyeongnam,68j3uekmye1w1x3isb9jqtes4,1rv3bncjlhbzarwl2fji27384
+2025-03-02,2.0,Hwaseong 1-1 Chungnam Asan,Hwaseong,Chungnam Asan,68j3uekmye1w1x3isb9jqtes4,1ri7v07cxlikc8z45nf6qyyok
+2025-03-01,2.0,Ansan Greeners 0-2 Gimpo Citizen,Ansan Greeners,Gimpo Citizen,68j3uekmye1w1x3isb9jqtes4,1r53wykah959744b7sf404ljo
+2025-03-01,2.0,Seoul E-Land 1-1 Jeonnam Dragons,Seoul E-Land,Jeonnam Dragons,68j3uekmye1w1x3isb9jqtes4,1qrtizzqsb3o0lvnyqugs7s44
+2025-03-01,2.0,Incheon United 2-0 Suwon Bluewings,Incheon United,Suwon Bluewings,68j3uekmye1w1x3isb9jqtes4,1qeh97u42eo3bfkpy74plx2xg
+2025-02-23,1.0,Bucheon 1995 3-1 Chungbuk Cheongju,Bucheon 1995,Chungbuk Cheongju,68j3uekmye1w1x3isb9jqtes4,1pzfm3orniaoh95fzal0fx1qs
+2025-02-23,1.0,Seoul E-Land 2-1 Chungnam Asan,Seoul E-Land,Chungnam Asan,68j3uekmye1w1x3isb9jqtes4,1pj7izf8bsgfbgvisirjgps0k
+2025-02-23,1.0,Seongnam 2-0 Hwaseong,Seongnam,Hwaseong,68j3uekmye1w1x3isb9jqtes4,1p3hb6wql2i8gesn1bj5u5afo
+2025-02-22,1.0,Ansan Greeners 0-1 Suwon Bluewings,Ansan Greeners,Suwon Bluewings,68j3uekmye1w1x3isb9jqtes4,1onf44cz010b18zoucax540t0
+2025-02-22,1.0,Busan IPark 0-0 Gimpo Citizen,Busan IPark,Gimpo Citizen,68j3uekmye1w1x3isb9jqtes4,1o7i7s1cm8s3akdum5r03z1n8
+2025-02-22,1.0,Cheonan City 0-2 Jeonnam Dragons,Cheonan City,Jeonnam Dragons,68j3uekmye1w1x3isb9jqtes4,1nrsci5r9kex5vb56rv0cn8d0
+2025-02-22,1.0,Incheon United 2-0 Gyeongnam,Incheon United,Gyeongnam,68j3uekmye1w1x3isb9jqtes4,1n8w83hlwhzkbjszg4me6q7f8

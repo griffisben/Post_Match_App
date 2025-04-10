@@ -1,27 +1,27 @@
-﻿Date,Round,Match,Home,Away
-2025-04-08,6,Riga FC 1-1 Metta,Riga FC,Metta
-2025-04-05,5,FS Jelgava 2-1 Super Nova,FS Jelgava,Super Nova
-2025-04-05,5,Tukums 2-0 Grobiņa,Tukums,Grobiņa
-2025-04-04,5,BFC Daugavpils 2-1 Auda,BFC Daugavpils,Auda
-2025-04-04,5,Metta 1-0 RFS,Metta,RFS
-2025-04-03,5,Liepāja 2-5 Riga FC,Liepāja,Riga FC
-2025-03-31,4,Tukums 2-2 Super Nova,Tukums,Super Nova
-2025-03-30,4,Auda 2-0 FS Jelgava,Auda,FS Jelgava
-2025-03-30,4,Grobiņa 2-4 Metta,Grobiņa,Metta
-2025-03-29,4,RFS 4-1 Liepāja,RFS,Liepāja
-2025-03-29,4,Riga FC 1-2 BFC Daugavpils,Riga FC,BFC Daugavpils
-2025-03-16,3,Liepāja 4-1 Grobiņa,Liepāja,Grobiņa
-2025-03-16,3,Auda 1-0 Super Nova,Auda,Super Nova
-2025-03-16,3,Metta 3-2 Tukums,Metta,Tukums
-2025-03-15,3,BFC Daugavpils 1-2 RFS,BFC Daugavpils,RFS
-2025-03-15,3,FS Jelgava 1-1 Riga FC,FS Jelgava,Riga FC
-2025-03-12,2,Super Nova 4-0 Metta,Super Nova,Metta
-2025-03-12,2,Liepāja 0-0 Tukums,Liepāja,Tukums
-2025-03-11,2,RFS 1-0 FS Jelgava,RFS,FS Jelgava
-2025-03-11,2,Grobiņa 3-2 BFC Daugavpils,Grobiņa,BFC Daugavpils
-2025-03-10,2,Riga FC 2-2 Auda,Riga FC,Auda
-2025-03-07,1,Liepāja 4-0 Metta,Liepāja,Metta
-2025-03-07,1,BFC Daugavpils 3-0 Tukums,BFC Daugavpils,Tukums
-2025-03-06,1,Grobiņa 1-1 FS Jelgava,Grobiņa,FS Jelgava
-2025-03-06,1,Riga FC 2-0 Super Nova,Riga FC,Super Nova
-2025-03-05,1,Auda 1-2 RFS,Auda,RFS
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-08,6,Riga FC 1-1 Metta,Riga FC,Metta,2qr1uzryatclzbpgo6qavxct0,6wvha2wc1yb2c2k3i4ikhqw44
+2025-04-05,5,FS Jelgava 2-1 Super Nova,FS Jelgava,Super Nova,2qr1uzryatclzbpgo6qavxct0,6wgbu3mh34xnvkpqm6advqfx0
+2025-04-05,5,Tukums 2-0 Grobiņa,Tukums,Grobiņa,2qr1uzryatclzbpgo6qavxct0,6w1c4ugkvue2jg776294qw0t0
+2025-04-04,5,BFC Daugavpils 2-1 Auda,BFC Daugavpils,Auda,2qr1uzryatclzbpgo6qavxct0,6vm600yeinr0ow6az1hfm71n8
+2025-04-04,5,Metta 1-0 RFS,Metta,RFS,2qr1uzryatclzbpgo6qavxct0,6v70u7lyuak8k6uw2cs7zrfh0
+2025-04-03,5,Liepāja 2-5 Riga FC,Liepāja,Riga FC,2qr1uzryatclzbpgo6qavxct0,6urotisgj9o4hskhqldiyjdp0
+2025-03-31,4,Tukums 2-2 Super Nova,Tukums,Super Nova,2qr1uzryatclzbpgo6qavxct0,6ucrjblgi0bmm38310i8353x0
+2025-03-30,4,Auda 2-0 FS Jelgava,Auda,FS Jelgava,2qr1uzryatclzbpgo6qavxct0,6tv241mp600ovljy4conuge8k
+2025-03-30,4,Grobiņa 2-4 Metta,Grobiņa,Metta,2qr1uzryatclzbpgo6qavxct0,6tfvaubnygjkh6y33kdppa590
+2025-03-29,4,RFS 4-1 Liepāja,RFS,Liepāja,2qr1uzryatclzbpgo6qavxct0,6t0t6fkamsjtw02s5q2pk26ms
+2025-03-29,4,Riga FC 1-2 BFC Daugavpils,Riga FC,BFC Daugavpils,2qr1uzryatclzbpgo6qavxct0,6sliz2i1m26aioeocvfiw915g
+2025-03-16,3,Liepāja 4-1 Grobiņa,Liepāja,Grobiņa,2qr1uzryatclzbpgo6qavxct0,6rrhornktbpnww0jibjm2g4r8
+2025-03-16,3,Auda 1-0 Super Nova,Auda,Super Nova,2qr1uzryatclzbpgo6qavxct0,6s6gx4i3e91f5ya4ug6exq8es
+2025-03-16,3,Metta 3-2 Tukums,Metta,Tukums,2qr1uzryatclzbpgo6qavxct0,6rce1xy7uxda5b4gg271q9m38
+2025-03-15,3,BFC Daugavpils 1-2 RFS,BFC Daugavpils,RFS,2qr1uzryatclzbpgo6qavxct0,6qwfo2whdjugcs2mkkf2oep04
+2025-03-15,3,FS Jelgava 1-1 Riga FC,FS Jelgava,Riga FC,2qr1uzryatclzbpgo6qavxct0,6qh9dbln98z62upvyqhlp1gd0
+2025-03-12,2,Super Nova 4-0 Metta,Super Nova,Metta,2qr1uzryatclzbpgo6qavxct0,6q1by321r6b8w3st04ma9y6fo
+2025-03-12,2,Liepāja 0-0 Tukums,Liepāja,Tukums,2qr1uzryatclzbpgo6qavxct0,6pm5819gqzn7qsls7mwspsydw
+2025-03-11,2,RFS 1-0 FS Jelgava,RFS,FS Jelgava,2qr1uzryatclzbpgo6qavxct0,6p721mlar3o95k7a4pp20rn6c
+2025-03-11,2,Grobiņa 3-2 BFC Daugavpils,Grobiņa,BFC Daugavpils,2qr1uzryatclzbpgo6qavxct0,6opst4t4rhdtk036xo6c5c178
+2025-03-10,2,Riga FC 2-2 Auda,Riga FC,Auda,2qr1uzryatclzbpgo6qavxct0,6oaj5p3eiadbnoqg2k5wgyz2s
+2025-03-07,1,Liepāja 4-0 Metta,Liepāja,Metta,2qr1uzryatclzbpgo6qavxct0,6nvg7vlfp66frp5gur6egzzf8
+2025-03-07,1,BFC Daugavpils 3-0 Tukums,BFC Daugavpils,Tukums,2qr1uzryatclzbpgo6qavxct0,6nd0tjmi36ls6bpof3wvrxyxg
+2025-03-06,1,Grobiņa 1-1 FS Jelgava,Grobiņa,FS Jelgava,2qr1uzryatclzbpgo6qavxct0,6mu0t4j2hsz1z7x1oygnv1gr8
+2025-03-06,1,Riga FC 2-0 Super Nova,Riga FC,Super Nova,2qr1uzryatclzbpgo6qavxct0,6mazeltmpfzp9jegudb72wftg
+2025-03-05,1,Auda 1-2 RFS,Auda,RFS,2qr1uzryatclzbpgo6qavxct0,6lp5le1osbchyvqiq9nvmwutw

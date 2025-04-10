@@ -1,44 +1,44 @@
-﻿Date,Round,Match,Home,Away
-2025-04-06,7,Gwangju 1-0 Jeju FC,Gwangju,Jeju FC
-2025-04-06,7,Anyang 2-0 Gangwon,Anyang,Gangwon
-2025-04-05,7,Suwon 1-1 Pohang Steelers,Suwon,Pohang Steelers
-2025-04-05,7,Daejeon Hana Citizen 0-2 Jeonbuk Motors,Daejeon Hana Citizen,Jeonbuk Motors
-2025-04-05,7,Gimcheon Sangmu 2-0 Daegu,Gimcheon Sangmu,Daegu
-2025-04-05,7,Ulsan HD 0-0 Seoul,Ulsan HD,Seoul
-2025-04-01,18,Ulsan HD 2-3 Daejeon Hana Citizen,Ulsan HD,Daejeon Hana Citizen
-2025-03-30,6,Anyang 0-1 Jeonbuk Motors,Anyang,Jeonbuk Motors
-2025-03-30,6,Gimcheon Sangmu 1-0 Gangwon,Gimcheon Sangmu,Gangwon
-2025-03-30,6,Jeju FC 1-0 Suwon,Jeju FC,Suwon
-2025-03-29,6,Daejeon Hana Citizen 1-1 Gwangju,Daejeon Hana Citizen,Gwangju
-2025-03-29,6,Pohang Steelers 1-0 Ulsan HD,Pohang Steelers,Ulsan HD
-2025-03-29,6,Seoul 3-2 Daegu,Seoul,Daegu
-2025-03-22,4,Gwangju 2-3 Pohang Steelers,Gwangju,Pohang Steelers
-2025-03-16,5,Jeonbuk Motors 2-2 Pohang Steelers,Jeonbuk Motors,Pohang Steelers
-2025-03-16,5,Gimcheon Sangmu 0-0 Gwangju,Gimcheon Sangmu,Gwangju
-2025-03-16,5,Suwon 1-1 Ulsan HD,Suwon,Ulsan HD
-2025-03-15,5,Daegu 0-1 Anyang,Daegu,Anyang
-2025-03-15,5,Gangwon 0-1 Seoul,Gangwon,Seoul
-2025-03-15,5,Jeju FC 1-3 Daejeon Hana Citizen,Jeju FC,Daejeon Hana Citizen
-2025-03-09,4,Jeonbuk Motors 0-1 Gangwon,Jeonbuk Motors,Gangwon
-2025-03-09,4,Ulsan HD 2-0 Jeju FC,Ulsan HD,Jeju FC
-2025-03-08,4,Anyang 1-3 Gimcheon Sangmu,Anyang,Gimcheon Sangmu
-2025-03-08,4,Daegu 1-2 Daejeon Hana Citizen,Daegu,Daejeon Hana Citizen
-2025-03-08,4,Suwon 0-0 Seoul,Suwon,Seoul
-2025-03-03,3,Seoul 0-0 Gimcheon Sangmu,Seoul,Gimcheon Sangmu
-2025-03-02,3,Gangwon 0-0 Jeju FC,Gangwon,Jeju FC
-2025-03-02,3,Daejeon Hana Citizen 1-0 Suwon,Daejeon Hana Citizen,Suwon
-2025-03-01,3,Gwangju 2-1 Anyang,Gwangju,Anyang
-2025-03-01,3,Pohang Steelers 0-0 Daegu,Pohang Steelers,Daegu
-2025-03-01,3,Ulsan HD 1-0 Jeonbuk Motors,Ulsan HD,Jeonbuk Motors
-2025-02-23,2,Gangwon 2-1 Pohang Steelers,Gangwon,Pohang Steelers
-2025-02-23,2,Jeonbuk Motors 2-2 Gwangju,Jeonbuk Motors,Gwangju
-2025-02-23,2,Daejeon Hana Citizen 0-2 Ulsan HD,Daejeon Hana Citizen,Ulsan HD
-2025-02-22,2,Daegu 3-1 Suwon,Daegu,Suwon
-2025-02-22,2,Seoul 2-1 Anyang,Seoul,Anyang
-2025-02-22,2,Jeju FC 2-3 Gimcheon Sangmu,Jeju FC,Gimcheon Sangmu
-2025-02-16,1,Daegu 2-1 Gangwon,Daegu,Gangwon
-2025-02-16,1,Jeonbuk Motors 2-1 Gimcheon Sangmu,Jeonbuk Motors,Gimcheon Sangmu
-2025-02-16,1,Ulsan HD 0-1 Anyang,Ulsan HD,Anyang
-2025-02-15,1,Gwangju 0-0 Suwon,Gwangju,Suwon
-2025-02-15,1,Jeju FC 2-0 Seoul,Jeju FC,Seoul
-2025-02-15,1,Pohang Steelers 0-3 Daejeon Hana Citizen,Pohang Steelers,Daejeon Hana Citizen
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-04-06,7,Gwangju 1-0 Jeju FC,Gwangju,Jeju FC,5rllgorksj0l5npi51efu4ges,6owlhzqai8jkx32t909qsfdhw
+2025-04-06,7,Anyang 2-0 Gangwon,Anyang,Gangwon,5rllgorksj0l5npi51efu4ges,6oj5y7te8v4vz5i8ehxjfup78
+2025-04-05,7,Suwon 1-1 Pohang Steelers,Suwon,Pohang Steelers,5rllgorksj0l5npi51efu4ges,6o5a5mbjgg9uwwj632x5n96vo
+2025-04-05,7,Daejeon Hana Citizen 0-2 Jeonbuk Motors,Daejeon Hana Citizen,Jeonbuk Motors,5rllgorksj0l5npi51efu4ges,6nrkp1cvc6apg1gjfbowjtlp0
+2025-04-05,7,Gimcheon Sangmu 2-0 Daegu,Gimcheon Sangmu,Daegu,5rllgorksj0l5npi51efu4ges,6ne5ol104aqr793izdcnp4npw
+2025-04-05,7,Ulsan HD 0-0 Seoul,Ulsan HD,Seoul,5rllgorksj0l5npi51efu4ges,6n0su4fbqsd4bjv7g0qu2ge8k
+2025-04-01,18,Ulsan HD 2-3 Daejeon Hana Citizen,Ulsan HD,Daejeon Hana Citizen,5rllgorksj0l5npi51efu4ges,7edsll6t4q2qhelo2c3yg5990
+2025-03-30,6,Anyang 0-1 Jeonbuk Motors,Anyang,Jeonbuk Motors,5rllgorksj0l5npi51efu4ges,6mn9wgs8feebq4mhfp4fbt53o
+2025-03-30,6,Gimcheon Sangmu 1-0 Gangwon,Gimcheon Sangmu,Gangwon,5rllgorksj0l5npi51efu4ges,6m9me53nt4nhf9no5orgz6rys
+2025-03-30,6,Jeju FC 1-0 Suwon,Jeju FC,Suwon,5rllgorksj0l5npi51efu4ges,6luk03tv4hcml9f9zkuj9cqhg
+2025-03-29,6,Daejeon Hana Citizen 1-1 Gwangju,Daejeon Hana Citizen,Gwangju,5rllgorksj0l5npi51efu4ges,6lh2zaopyc3g0tpis8m8sj6z8
+2025-03-29,6,Pohang Steelers 1-0 Ulsan HD,Pohang Steelers,Ulsan HD,5rllgorksj0l5npi51efu4ges,6l34gmzswy81pgbmqfoi35rmc
+2025-03-29,6,Seoul 3-2 Daegu,Seoul,Daegu,5rllgorksj0l5npi51efu4ges,6kpngd9no9ud7zrqa3d91az9w
+2025-03-22,4,Gwangju 2-3 Pohang Steelers,Gwangju,Pohang Steelers,5rllgorksj0l5npi51efu4ges,6hp2wp0cz4791mb1cgxjlbpck
+2025-03-16,5,Jeonbuk Motors 2-2 Pohang Steelers,Jeonbuk Motors,Pohang Steelers,5rllgorksj0l5npi51efu4ges,6kbz3s4dq52b46alduyom2pzo
+2025-03-16,5,Gimcheon Sangmu 0-0 Gwangju,Gimcheon Sangmu,Gwangju,5rllgorksj0l5npi51efu4ges,6jxz0ri0ar1rx1oo1pni3ufpw
+2025-03-16,5,Suwon 1-1 Ulsan HD,Suwon,Ulsan HD,5rllgorksj0l5npi51efu4ges,6jkeooarajyntzguu6oquwnpw
+2025-03-15,5,Daegu 0-1 Anyang,Daegu,Anyang,5rllgorksj0l5npi51efu4ges,6j73r31r64ph1rxar5qem9yqc
+2025-03-15,5,Gangwon 0-1 Seoul,Gangwon,Seoul,5rllgorksj0l5npi51efu4ges,6itmj2vil3dsd8ciryk137pxw
+2025-03-15,5,Jeju FC 1-3 Daejeon Hana Citizen,Jeju FC,Daejeon Hana Citizen,5rllgorksj0l5npi51efu4ges,6ig1fpym8fsereg3sydwt81ec
+2025-03-09,4,Jeonbuk Motors 0-1 Gangwon,Jeonbuk Motors,Gangwon,5rllgorksj0l5npi51efu4ges,6i2gqrqyag55xnw2v6azhvnkk
+2025-03-09,4,Ulsan HD 2-0 Jeju FC,Ulsan HD,Jeju FC,5rllgorksj0l5npi51efu4ges,6hbo4fk1nm0vu4kgwogoq1gyc
+2025-03-08,4,Anyang 1-3 Gimcheon Sangmu,Anyang,Gimcheon Sangmu,5rllgorksj0l5npi51efu4ges,6gwnt2y9wzetnu0975zuds0es
+2025-03-08,4,Daegu 1-2 Daejeon Hana Citizen,Daegu,Daejeon Hana Citizen,5rllgorksj0l5npi51efu4ges,6gj9f32ud2pktenawk1zrtxjo
+2025-03-08,4,Suwon 0-0 Seoul,Suwon,Seoul,5rllgorksj0l5npi51efu4ges,6g5wg3w0n4ttolqvutw9bkufo
+2025-03-03,3,Seoul 0-0 Gimcheon Sangmu,Seoul,Gimcheon Sangmu,5rllgorksj0l5npi51efu4ges,6fsex1546l22igzh3l8q2l82c
+2025-03-02,3,Gangwon 0-0 Jeju FC,Gangwon,Jeju FC,5rllgorksj0l5npi51efu4ges,6fexp7kzxcfcvc5m5a2x77vh0
+2025-03-02,3,Daejeon Hana Citizen 1-0 Suwon,Daejeon Hana Citizen,Suwon,5rllgorksj0l5npi51efu4ges,6f1ipw7xu0nhyristo85z02z8
+2025-03-01,3,Gwangju 2-1 Anyang,Gwangju,Anyang,5rllgorksj0l5npi51efu4ges,6enzlyeo7rhcxnm703o76imtw
+2025-03-01,3,Pohang Steelers 0-0 Daegu,Pohang Steelers,Daegu,5rllgorksj0l5npi51efu4ges,6eah46lggdm6y88ndybwy3spg
+2025-03-01,3,Ulsan HD 1-0 Jeonbuk Motors,Ulsan HD,Jeonbuk Motors,5rllgorksj0l5npi51efu4ges,6dx2w8zzprt2ebjywox01z8d0
+2025-02-23,2,Gangwon 2-1 Pohang Steelers,Gangwon,Pohang Steelers,5rllgorksj0l5npi51efu4ges,6djofanlc874dglzqciy2sy6s
+2025-02-23,2,Jeonbuk Motors 2-2 Gwangju,Jeonbuk Motors,Gwangju,5rllgorksj0l5npi51efu4ges,6d6c2ml6483cpd7es352vxmac
+2025-02-23,2,Daejeon Hana Citizen 0-2 Ulsan HD,Daejeon Hana Citizen,Ulsan HD,5rllgorksj0l5npi51efu4ges,6csx1ojr6khkim04vteiupmvo
+2025-02-22,2,Daegu 3-1 Suwon,Daegu,Suwon,5rllgorksj0l5npi51efu4ges,6cfmre9m1kbg4apu4k5csmpec
+2025-02-22,2,Seoul 2-1 Anyang,Seoul,Anyang,5rllgorksj0l5npi51efu4ges,6c0u864zpwd6g7x7597ip9lhw
+2025-02-22,2,Jeju FC 2-3 Gimcheon Sangmu,Jeju FC,Gimcheon Sangmu,5rllgorksj0l5npi51efu4ges,6bnd0q8h66btx5o2ke7jpdyqc
+2025-02-16,1,Daegu 2-1 Gangwon,Daegu,Gangwon,5rllgorksj0l5npi51efu4ges,6b9v4507u3nz3h5291abnznro
+2025-02-16,1,Jeonbuk Motors 2-1 Gimcheon Sangmu,Jeonbuk Motors,Gimcheon Sangmu,5rllgorksj0l5npi51efu4ges,6at8p5pm4ujgo995h7f9tml90
+2025-02-16,1,Ulsan HD 0-1 Anyang,Ulsan HD,Anyang,5rllgorksj0l5npi51efu4ges,6acrhw922kcl3g4abx79rfxg4
+2025-02-15,1,Gwangju 0-0 Suwon,Gwangju,Suwon,5rllgorksj0l5npi51efu4ges,69w7ru6phqgcl4x064s37dmhg
+2025-02-15,1,Jeju FC 2-0 Seoul,Jeju FC,Seoul,5rllgorksj0l5npi51efu4ges,69fhwvmqa7atcs40uum33mln8
+2025-02-15,1,Pohang Steelers 0-3 Daejeon Hana Citizen,Pohang Steelers,Daejeon Hana Citizen,5rllgorksj0l5npi51efu4ges,68vnx3ewbo03u2ks3qd0ht6ac
