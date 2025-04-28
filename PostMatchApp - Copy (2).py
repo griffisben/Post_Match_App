@@ -228,7 +228,6 @@ with st.sidebar:
 #     pass
 
 #########################
-@alt.theme.register('ben_theme', enable=True)
 def ben_theme():
     return {
         'config': {
@@ -251,11 +250,11 @@ def ben_theme():
         }
     }
 
-# # register the custom theme under a chosen name
-# alt.themes.register('ben_theme', ben_theme)
+# register the custom theme under a chosen name
+alt.themes.register('ben_theme', ben_theme)
 
-# # enable the newly registered theme
-# alt.themes.enable('ben_theme')
+# enable the newly registered theme
+alt.themes.enable('ben_theme')
 ################################
 
 report_tab, data_tab, graph_tab, rank_tab, full_ranks_tab, xg_tab, scatter_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'Full League Ranks', 'xG & xGA By Match', 'Variable Scatters'])
