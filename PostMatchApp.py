@@ -412,7 +412,7 @@ with graph_tab:
             chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
             
         chart.layer[0].encoding.y.title = var
-        st.altair_chart(chart, use_container_width=True)
+        st.altair_chart(chart, use_container_width=False)
 
     if plot_type == '📊 Bar':
         lg_avg_var = league_data[var].mean()
@@ -483,7 +483,7 @@ with graph_tab:
                 chart = (c + lg_avg_line + team_avg_line + team_avg_label)
 
         chart.layer[0].encoding.y.title = var
-        st.altair_chart(chart, use_container_width=True)
+        st.altair_chart(chart, use_container_width=False)
 
 
 with rank_tab:
