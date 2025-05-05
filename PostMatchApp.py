@@ -23,58 +23,18 @@ def color_percentile(pc):
 norm = matplotlib.colors.Normalize(vmin=1, vmax=16)
 cmap = matplotlib.colormaps['coolwarm']
 
-# def get_fotmob_table_data(lg):
-#     img_base = "https://images.fotmob.com/image_resources/logo/teamlogo"
-#     #######################################################
-    
-#     url = f"https://www.fotmob.com/api/tltable?leagueId={lg_id_dict[lg]}"
-#     page = requests.get(url)
-#     soup = BeautifulSoup(page.content, "html.parser")
-#     json_data = pd.read_json(StringIO(soup.getText()))
-    
-#     table = json_data['data'].apply(lambda x: x['table']).apply(lambda x: x['all'])
-#     df = pd.json_normalize(table)
-#     df = df.T
-    
-#     df_all = pd.DataFrame()
-#     for i in range(len(df)):
-#         for j in range(len(df.columns)):
-#             row = pd.DataFrame(pd.Series(df.iloc[i,j])).T
-#             df_all = pd.concat([df_all,row])
-#     df_all.reset_index(drop=True,inplace=True)
-    
-#     df_all['logo'] = [f"{img_base}/{df_all['id'][i]}.png" for i in range(len(df_all))]
-#     df_all['goals'] = [int(df_all['scoresStr'][i].split("-")[0]) for i in range(len(df_all))]
-#     df_all['conceded_goals'] = [int(df_all['scoresStr'][i].split("-")[1]) for i in range(len(df_all))]
-#     df_all['real_position'] = df_all['idx']
-#     df_all.sort_values(by=['real_position'],ascending=True,inplace=True)
-#     df_all.reset_index(drop=True,inplace=True)
-#     df_all['Goals per match'] = [df_all['goals'][i]/df_all['played'][i] if df_all.played[i]>0 else 0 for i in range(len(df_all))]
-#     df_all['Goals against per match'] = [df_all['conceded_goals'][i]/df_all['played'][i] if df_all.played[i]>0 else 0 for i in range(len(df_all))]
-    
-#     tables = df_all[['real_position','name','played','wins','draws','losses','pts','goals','conceded_goals','goalConDiff','logo']].rename(columns={
-#         'pts':'Pts',
-#         'name':'Team',
-#         'real_position':'Pos',
-#         'xg':'xG',
-#         'xgConceded':'xGA',
-#         'goals':'GF',
-#         'conceded_goals':'GA',
-#         'played':'M',
-#         'wins':'W',
-#         'draws':'D',
-#         'losses':'L',
-#         'goalConDiff':'GD'
-#     })
-#     tables[['Pts','GF','GA','Pos','M']] = tables[['Pts','GF','GA','Pos','M']].astype(int)
-#     logos = tables.logo.tolist()[::-1]
-#     tables = tables.iloc[:,:-1]
-    
-#     tables.rename(columns={'Pos':' '},inplace=True)
-    
-#     indexdf = tables[::-1].copy()
+def table_start_end(df,start_date,end_date):
+    df.Date = pd.to_datetime(df.Date)
+    df = df[df.Date.between(pd.to_datetime(start_date),pd.to_datetime(end_date))]
 
-#     return indexdf, logos
+    table = df.groupby(['Team']).agg({'Result':'count','Pts':'sum','xPts':'sum','Win':'sum','Draw':'sum','Loss':'sum','Goals':'sum','Goals Conceded':'sum','GD':'sum','xG':'sum','xGA':'sum','xGD':'sum'}).reset_index().sort_values(by=['Pts','GD','Goals','Win'],ascending=[False,False,False,False]).rename(columns={'Win':'W','Draw':'D','Loss':'L','Goals':'GF','Goals Conceded':'GA','Result':'GP'})
+    table.reset_index(drop=True,inplace=True)
+    table.reset_index(drop=False,inplace=True)
+    table.rename(columns={'index':'Pos'},inplace=True)
+    table.Pos = 1+table.Pos
+
+    return table
+    
 
 # def create_fotmob_table_img(lg, date, indexdf, logos):
 #     plt.clf()
@@ -258,7 +218,7 @@ def ben_theme():
 # alt.themes.enable('ben_theme')
 ################################
 
-report_tab, data_tab, graph_tab, rank_tab, full_ranks_tab, xg_tab, scatter_tab = st.tabs(['Match Report', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'Full League Ranks', 'xG & xGA By Match', 'Variable Scatters'])
+report_tab, league_table_tab, data_tab, graph_tab, rank_tab, full_ranks_tab, xg_tab, scatter_tab = st.tabs(['Match Report', 'League Table', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'Full League Ranks', 'xG & xGA By Match', 'Variable Scatters'])
 
 for i in range(len(render_matches)):
     try:
@@ -286,6 +246,11 @@ conditions_team = [
     team_data['Goals'] < team_data['Goals Conceded']]
 choices_team = [3, 0]
 team_data['Pts'] = np.select(conditions_team, choices_team, default=1)
+
+team_data['Win'] = (team_data.Result=='W').astype(int)
+team_data['Draw'] = (team_data.Result=='D').astype(int)
+team_data['Loss'] = (team_data.Result=='L').astype(int)
+
 
 team_data['Field Tilt - Possession'] = team_data['Field Tilt'] - team_data['Possession']
 team_data['xT Difference'] = team_data['xT'] - team_data['xT Against']
@@ -345,6 +310,14 @@ team_data[available_vars] = team_data[available_vars].astype(float)
 league_data[available_vars] = league_data[available_vars].astype(float)
 
 league_data_base = league_data.copy()
+
+####################
+with league_table_tab:
+    start_date = st.date_input("Start Date for Table", value=league_data.Date.min(), min_value=league_data.Date.min(), max_value=league_data.Date.max(), format="YYYY-MM-DD")
+    end_date = st.date_input("Start Date for Table", value=league_data.Date.max(), min_value=league_data.Date.min(), max_value=league_data.Date.max(), format="YYYY-MM-DD")
+
+    st.dataframe(table_start_end(league_data,start_date,end_date))
+###################
 
 data_tab.write(team_data)
 
