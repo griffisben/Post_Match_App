@@ -314,7 +314,7 @@ league_data_base = league_data.copy()
 ####################
 with league_table_tab:
     start_date = st.date_input("Start Date for Table", value=league_data.Date.min(), min_value=league_data.Date.min(), max_value=league_data.Date.max(), format="YYYY-MM-DD")
-    end_date = st.date_input("Start Date for Table", value=league_data.Date.max(), min_value=league_data.Date.min(), max_value=league_data.Date.max(), format="YYYY-MM-DD")
+    end_date = st.date_input("End Date for Table", value=league_data.Date.max(), min_value=league_data.Date.min(), max_value=league_data.Date.max(), format="YYYY-MM-DD")
 
     st.dataframe(table_start_end(league_data,start_date,end_date))
 ###################
