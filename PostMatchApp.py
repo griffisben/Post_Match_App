@@ -142,7 +142,7 @@ with st.sidebar:
     season = st.selectbox('Season', (sorted(lg_lookup[lg_lookup.League == lgg].Season.unique().tolist(),reverse=True)))
     
 update_date = lg_lookup[(lg_lookup.League==lgg) & (lg_lookup.Season==season)].Update.values[0]
-league = lgg.replace("ü","u").replace("ó","o").replace("è","e")
+league = lgg.replace("ü","u").replace("ó","o").replace("è","e").replace("ã","a")
     
 st.title(f"{lgg} {season} Post-Match Reports")
 st.subheader(f"Last Updated: {update_date}\n")
