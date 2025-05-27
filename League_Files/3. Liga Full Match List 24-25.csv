@@ -1,181 +1,381 @@
-﻿Date,Round,Match,Home,Away
-2024-12-15,18,Saarbrücken 1-1 Alemannia Aachen,Saarbrücken,Alemannia Aachen
-2024-12-15,18,Osnabrück 2-0 Rot-Weiss Essen,Osnabrück,Rot-Weiss Essen
-2024-12-15,18,Energie Cottbus 3-1 Hansa Rostock,Energie Cottbus,Hansa Rostock
-2024-12-14,18,1860 München 0-4 Verl,1860 München,Verl
-2024-12-14,18,Wehen Wiesbaden 2-5 Ingolstadt,Wehen Wiesbaden,Ingolstadt
-2024-12-14,18,Sandhausen 4-6 Erzgebirge Aue,Sandhausen,Erzgebirge Aue
-2024-12-14,18,Arminia Bielefeld 3-3 Unterhaching,Arminia Bielefeld,Unterhaching
-2024-12-14,18,Hannover 96 II 1-2 Viktoria Köln,Hannover 96 II,Viktoria Köln
-2024-12-14,18,Stuttgart II 0-3 Borussia Dortmund II,Stuttgart II,Borussia Dortmund II
-2024-12-13,18,Dynamo Dresden 2-1 Waldhof Mannheim,Dynamo Dresden,Waldhof Mannheim
-2024-12-08,17,Viktoria Köln 2-0 Osnabrück,Viktoria Köln,Osnabrück
-2024-12-08,17,Dynamo Dresden 3-0 Arminia Bielefeld,Dynamo Dresden,Arminia Bielefeld
-2024-12-08,17,Rot-Weiss Essen 0-3 1860 München,Rot-Weiss Essen,1860 München
-2024-12-07,17,Alemannia Aachen 2-1 Stuttgart II,Alemannia Aachen,Stuttgart II
-2024-12-07,17,Waldhof Mannheim 0-1 Energie Cottbus,Waldhof Mannheim,Energie Cottbus
-2024-12-07,17,Unterhaching 1-2 Hannover 96 II,Unterhaching,Hannover 96 II
-2024-12-07,17,Borussia Dortmund II 2-2 Wehen Wiesbaden,Borussia Dortmund II,Wehen Wiesbaden
-2024-12-07,17,Hansa Rostock 1-0 Sandhausen,Hansa Rostock,Sandhausen
-2024-12-07,17,Ingolstadt 1-0 Erzgebirge Aue,Ingolstadt,Erzgebirge Aue
-2024-12-06,17,Verl 1-1 Saarbrücken,Verl,Saarbrücken
-2024-12-01,16,Wehen Wiesbaden 3-1 Viktoria Köln,Wehen Wiesbaden,Viktoria Köln
-2024-12-01,16,Saarbrücken 1-0 Rot-Weiss Essen,Saarbrücken,Rot-Weiss Essen
-2024-12-01,16,Osnabrück 1-1 Alemannia Aachen,Osnabrück,Alemannia Aachen
-2024-11-30,16,Stuttgart II 2-0 Waldhof Mannheim,Stuttgart II,Waldhof Mannheim
-2024-11-30,16,1860 München 1-2 Hansa Rostock,1860 München,Hansa Rostock
-2024-11-30,16,Erzgebirge Aue 2-5 Verl,Erzgebirge Aue,Verl
-2024-11-30,16,Hannover 96 II 2-0 Borussia Dortmund II,Hannover 96 II,Borussia Dortmund II
-2024-11-30,16,Sandhausen 2-4 Dynamo Dresden,Sandhausen,Dynamo Dresden
-2024-11-30,16,Energie Cottbus 2-0 Unterhaching,Energie Cottbus,Unterhaching
-2024-11-29,16,Arminia Bielefeld 1-0 Ingolstadt,Arminia Bielefeld,Ingolstadt
-2024-11-24,15,Borussia Dortmund II 3-1 Erzgebirge Aue,Borussia Dortmund II,Erzgebirge Aue
-2024-11-24,15,Ingolstadt 4-2 Osnabrück,Ingolstadt,Osnabrück
-2024-11-24,15,Waldhof Mannheim 2-1 Hannover 96 II,Waldhof Mannheim,Hannover 96 II
-2024-11-23,15,Unterhaching 1-1 Wehen Wiesbaden,Unterhaching,Wehen Wiesbaden
-2024-11-23,15,Verl 2-2 Stuttgart II,Verl,Stuttgart II
-2024-11-23,15,Alemannia Aachen 1-1 1860 München,Alemannia Aachen,1860 München
-2024-11-23,15,Rot-Weiss Essen 1-1 Sandhausen,Rot-Weiss Essen,Sandhausen
-2024-11-23,15,Dynamo Dresden 1-1 Saarbrücken,Dynamo Dresden,Saarbrücken
-2024-11-23,15,Hansa Rostock 2-1 Arminia Bielefeld,Hansa Rostock,Arminia Bielefeld
-2024-11-22,15,Viktoria Köln 0-1 Energie Cottbus,Viktoria Köln,Energie Cottbus
-2024-11-10,14,Stuttgart II 3-2 Unterhaching,Stuttgart II,Unterhaching
-2024-11-10,14,Erzgebirge Aue 2-1 Rot-Weiss Essen,Erzgebirge Aue,Rot-Weiss Essen
-2024-11-10,14,Hannover 96 II 0-4 Ingolstadt,Hannover 96 II,Ingolstadt
-2024-11-09,14,Arminia Bielefeld 2-0 Viktoria Köln,Arminia Bielefeld,Viktoria Köln
-2024-11-09,14,1860 München 3-0 Waldhof Mannheim,1860 München,Waldhof Mannheim
-2024-11-09,14,Saarbrücken 3-1 Wehen Wiesbaden,Saarbrücken,Wehen Wiesbaden
-2024-11-09,14,Sandhausen 4-0 Alemannia Aachen,Sandhausen,Alemannia Aachen
-2024-11-09,14,Energie Cottbus 3-3 Borussia Dortmund II,Energie Cottbus,Borussia Dortmund II
-2024-11-09,14,Osnabrück 0-3 Dynamo Dresden,Osnabrück,Dynamo Dresden
-2024-11-08,14,Verl 1-0 Hansa Rostock,Verl,Hansa Rostock
-2024-11-03,13,Borussia Dortmund II 3-1 Verl,Borussia Dortmund II,Verl
-2024-11-03,13,Wehen Wiesbaden 0-0 Arminia Bielefeld,Wehen Wiesbaden,Arminia Bielefeld
-2024-11-03,13,Unterhaching 1-1 Waldhof Mannheim,Unterhaching,Waldhof Mannheim
-2024-11-02,13,Alemannia Aachen 0-0 Hannover 96 II,Alemannia Aachen,Hannover 96 II
-2024-11-02,13,Hansa Rostock 2-0 Osnabrück,Hansa Rostock,Osnabrück
-2024-11-02,13,Sandhausen 0-3 1860 München,Sandhausen,1860 München
-2024-11-02,13,Rot-Weiss Essen 4-0 Energie Cottbus,Rot-Weiss Essen,Energie Cottbus
-2024-11-02,13,Ingolstadt 1-1 Dynamo Dresden,Ingolstadt,Dynamo Dresden
-2024-11-02,13,Erzgebirge Aue 1-1 Saarbrücken,Erzgebirge Aue,Saarbrücken
-2024-11-01,13,Viktoria Köln 2-0 Stuttgart II,Viktoria Köln,Stuttgart II
-2024-10-27,12,Waldhof Mannheim 2-2 Wehen Wiesbaden,Waldhof Mannheim,Wehen Wiesbaden
-2024-10-27,12,Stuttgart II 0-1 Erzgebirge Aue,Stuttgart II,Erzgebirge Aue
-2024-10-27,12,Energie Cottbus 5-1 1860 München,Energie Cottbus,1860 München
-2024-10-26,12,Verl 1-1 Sandhausen,Verl,Sandhausen
-2024-10-26,12,Hansa Rostock 4-0 Rot-Weiss Essen,Hansa Rostock,Rot-Weiss Essen
-2024-10-26,12,Dynamo Dresden 2-1 Hannover 96 II,Dynamo Dresden,Hannover 96 II
-2024-10-26,12,Unterhaching 1-1 Viktoria Köln,Unterhaching,Viktoria Köln
-2024-10-26,12,Osnabrück 1-1 Saarbrücken,Osnabrück,Saarbrücken
-2024-10-26,12,Arminia Bielefeld 1-1 Alemannia Aachen,Arminia Bielefeld,Alemannia Aachen
-2024-10-25,12,Ingolstadt 5-3 Borussia Dortmund II,Ingolstadt,Borussia Dortmund II
-2024-10-23,11,1860 München 2-2 Osnabrück,1860 München,Osnabrück
-2024-10-23,11,Rot-Weiss Essen 1-3 Verl,Rot-Weiss Essen,Verl
-2024-10-23,11,Alemannia Aachen 3-1 Unterhaching,Alemannia Aachen,Unterhaching
-2024-10-23,11,Wehen Wiesbaden 1-0 Dynamo Dresden,Wehen Wiesbaden,Dynamo Dresden
-2024-10-23,11,Hannover 96 II 1-4 Arminia Bielefeld,Hannover 96 II,Arminia Bielefeld
-2024-10-22,11,Sandhausen 1-1 Stuttgart II,Sandhausen,Stuttgart II
-2024-10-22,11,Borussia Dortmund II 0-1 Waldhof Mannheim,Borussia Dortmund II,Waldhof Mannheim
-2024-10-22,11,Erzgebirge Aue 1-3 Energie Cottbus,Erzgebirge Aue,Energie Cottbus
-2024-10-22,11,Viktoria Köln 4-4 Ingolstadt,Viktoria Köln,Ingolstadt
-2024-10-22,11,Saarbrücken 2-0 Hansa Rostock,Saarbrücken,Hansa Rostock
-2024-10-20,10,Unterhaching 2-2 1860 München,Unterhaching,1860 München
-2024-10-20,10,Arminia Bielefeld 3-1 Osnabrück,Arminia Bielefeld,Osnabrück
-2024-10-20,10,Dynamo Dresden 3-3 Rot-Weiss Essen,Dynamo Dresden,Rot-Weiss Essen
-2024-10-19,10,Stuttgart II 2-3 Saarbrücken,Stuttgart II,Saarbrücken
-2024-10-19,10,Energie Cottbus 1-1 Sandhausen,Energie Cottbus,Sandhausen
-2024-10-19,10,Wehen Wiesbaden 1-5 Hannover 96 II,Wehen Wiesbaden,Hannover 96 II
-2024-10-19,10,Viktoria Köln 3-5 Borussia Dortmund II,Viktoria Köln,Borussia Dortmund II
-2024-10-19,10,Ingolstadt 1-1 Verl,Ingolstadt,Verl
-2024-10-19,10,Hansa Rostock 1-2 Alemannia Aachen,Hansa Rostock,Alemannia Aachen
-2024-10-18,10,Waldhof Mannheim 3-0 Erzgebirge Aue,Waldhof Mannheim,Erzgebirge Aue
-2024-10-06,9,Osnabrück 1-0 Stuttgart II,Osnabrück,Stuttgart II
-2024-10-06,9,Saarbrücken 0-0 Arminia Bielefeld,Saarbrücken,Arminia Bielefeld
-2024-10-06,9,Hannover 96 II 0-0 Energie Cottbus,Hannover 96 II,Energie Cottbus
-2024-10-05,9,Alemannia Aachen 1-1 Ingolstadt,Alemannia Aachen,Ingolstadt
-2024-10-05,9,Verl 2-0 Unterhaching,Verl,Unterhaching
-2024-10-05,9,Rot-Weiss Essen 2-1 Viktoria Köln,Rot-Weiss Essen,Viktoria Köln
-2024-10-05,9,Sandhausen 2-1 Waldhof Mannheim,Sandhausen,Waldhof Mannheim
-2024-10-05,9,1860 München 2-3 Wehen Wiesbaden,1860 München,Wehen Wiesbaden
-2024-10-05,9,Erzgebirge Aue 1-2 Hansa Rostock,Erzgebirge Aue,Hansa Rostock
-2024-10-04,9,Borussia Dortmund II 2-1 Dynamo Dresden,Borussia Dortmund II,Dynamo Dresden
-2024-09-29,8,Arminia Bielefeld 2-1 Verl,Arminia Bielefeld,Verl
-2024-09-29,8,Dynamo Dresden 0-0 Alemannia Aachen,Dynamo Dresden,Alemannia Aachen
-2024-09-29,8,Ingolstadt 2-1 Hansa Rostock,Ingolstadt,Hansa Rostock
-2024-09-28,8,Energie Cottbus 4-1 Saarbrücken,Energie Cottbus,Saarbrücken
-2024-09-28,8,Hannover 96 II 3-1 Stuttgart II,Hannover 96 II,Stuttgart II
-2024-09-28,8,Borussia Dortmund II 1-2 1860 München,Borussia Dortmund II,1860 München
-2024-09-28,8,Wehen Wiesbaden 2-1 Osnabrück,Wehen Wiesbaden,Osnabrück
-2024-09-28,8,Viktoria Köln 2-0 Erzgebirge Aue,Viktoria Köln,Erzgebirge Aue
-2024-09-28,8,Waldhof Mannheim 1-0 Rot-Weiss Essen,Waldhof Mannheim,Rot-Weiss Essen
-2024-09-27,8,Unterhaching 0-0 Sandhausen,Unterhaching,Sandhausen
-2024-09-25,7,Saarbrücken 1-0 Viktoria Köln,Saarbrücken,Viktoria Köln
-2024-09-25,7,Rot-Weiss Essen 3-1 Borussia Dortmund II,Rot-Weiss Essen,Borussia Dortmund II
-2024-09-25,7,Alemannia Aachen 0-0 Waldhof Mannheim,Alemannia Aachen,Waldhof Mannheim
-2024-09-25,7,Verl 0-3 Dynamo Dresden,Verl,Dynamo Dresden
-2024-09-25,7,1860 München 1-0 Hannover 96 II,1860 München,Hannover 96 II
-2024-09-24,7,Osnabrück 2-5 Energie Cottbus,Osnabrück,Energie Cottbus
-2024-09-24,7,Sandhausen 4-3 Ingolstadt,Sandhausen,Ingolstadt
-2024-09-24,7,Erzgebirge Aue 2-1 Wehen Wiesbaden,Erzgebirge Aue,Wehen Wiesbaden
-2024-09-24,7,Stuttgart II 3-0 Arminia Bielefeld,Stuttgart II,Arminia Bielefeld
-2024-09-24,7,Hansa Rostock 4-1 Unterhaching,Hansa Rostock,Unterhaching
-2024-09-22,6,Borussia Dortmund II 3-0 Alemannia Aachen,Borussia Dortmund II,Alemannia Aachen
-2024-09-22,6,Viktoria Köln 2-1 Verl,Viktoria Köln,Verl
-2024-09-22,6,Hannover 96 II 1-3 Saarbrücken,Hannover 96 II,Saarbrücken
-2024-09-21,6,Arminia Bielefeld 0-1 1860 München,Arminia Bielefeld,1860 München
-2024-09-21,6,Dynamo Dresden 1-1 Hansa Rostock,Dynamo Dresden,Hansa Rostock
-2024-09-21,6,Wehen Wiesbaden 1-3 Sandhausen,Wehen Wiesbaden,Sandhausen
-2024-09-21,6,Energie Cottbus 4-0 Stuttgart II,Energie Cottbus,Stuttgart II
-2024-09-21,6,Ingolstadt 2-2 Rot-Weiss Essen,Ingolstadt,Rot-Weiss Essen
-2024-09-21,6,Waldhof Mannheim 3-2 Osnabrück,Waldhof Mannheim,Osnabrück
-2024-09-20,6,Unterhaching 2-2 Erzgebirge Aue,Unterhaching,Erzgebirge Aue
-2024-09-15,5,Alemannia Aachen 1-0 Viktoria Köln,Alemannia Aachen,Viktoria Köln
-2024-09-15,5,Verl 0-3 Energie Cottbus,Verl,Energie Cottbus
-2024-09-15,5,Erzgebirge Aue 1-3 Arminia Bielefeld,Erzgebirge Aue,Arminia Bielefeld
-2024-09-14,5,Osnabrück 1-1 Hannover 96 II,Osnabrück,Hannover 96 II
-2024-09-14,5,1860 München 2-3 Dynamo Dresden,1860 München,Dynamo Dresden
-2024-09-14,5,Saarbrücken 1-1 Unterhaching,Saarbrücken,Unterhaching
-2024-09-14,5,Rot-Weiss Essen 0-3 Wehen Wiesbaden,Rot-Weiss Essen,Wehen Wiesbaden
-2024-09-14,5,Stuttgart II 3-2 Ingolstadt,Stuttgart II,Ingolstadt
-2024-09-14,5,Hansa Rostock 1-1 Waldhof Mannheim,Hansa Rostock,Waldhof Mannheim
-2024-09-13,5,Sandhausen 3-1 Borussia Dortmund II,Sandhausen,Borussia Dortmund II
-2024-09-01,4,Hannover 96 II 1-2 Verl,Hannover 96 II,Verl
-2024-09-01,4,Unterhaching 2-0 Rot-Weiss Essen,Unterhaching,Rot-Weiss Essen
-2024-09-01,4,Wehen Wiesbaden 2-1 Energie Cottbus,Wehen Wiesbaden,Energie Cottbus
-2024-08-31,4,Borussia Dortmund II 1-1 Osnabrück,Borussia Dortmund II,Osnabrück
-2024-08-31,4,Ingolstadt 1-2 1860 München,Ingolstadt,1860 München
-2024-08-31,4,Arminia Bielefeld 1-1 Sandhausen,Arminia Bielefeld,Sandhausen
-2024-08-31,4,Dynamo Dresden 2-0 Stuttgart II,Dynamo Dresden,Stuttgart II
-2024-08-31,4,Waldhof Mannheim 0-1 Saarbrücken,Waldhof Mannheim,Saarbrücken
-2024-08-31,4,Alemannia Aachen 1-2 Erzgebirge Aue,Alemannia Aachen,Erzgebirge Aue
-2024-08-30,4,Viktoria Köln 3-0 Hansa Rostock,Viktoria Köln,Hansa Rostock
-2024-08-25,3,Stuttgart II 2-2 Wehen Wiesbaden,Stuttgart II,Wehen Wiesbaden
-2024-08-25,3,Verl 1-1 Waldhof Mannheim,Verl,Waldhof Mannheim
-2024-08-25,3,1860 München 1-3 Viktoria Köln,1860 München,Viktoria Köln
-2024-08-24,3,Energie Cottbus 2-1 Alemannia Aachen,Energie Cottbus,Alemannia Aachen
-2024-08-24,3,Sandhausen 0-1 Hannover 96 II,Sandhausen,Hannover 96 II
-2024-08-24,3,Saarbrücken 2-3 Ingolstadt,Saarbrücken,Ingolstadt
-2024-08-24,3,Rot-Weiss Essen 0-0 Arminia Bielefeld,Rot-Weiss Essen,Arminia Bielefeld
-2024-08-24,3,Hansa Rostock 1-1 Borussia Dortmund II,Hansa Rostock,Borussia Dortmund II
-2024-08-24,3,Osnabrück 4-2 Unterhaching,Osnabrück,Unterhaching
-2024-08-23,3,Erzgebirge Aue 2-0 Dynamo Dresden,Erzgebirge Aue,Dynamo Dresden
-2024-08-11,2,Saarbrücken 0-1 Sandhausen,Saarbrücken,Sandhausen
-2024-08-11,2,Stuttgart II 3-1 1860 München,Stuttgart II,1860 München
-2024-08-11,2,Hannover 96 II 1-3 Rot-Weiss Essen,Hannover 96 II,Rot-Weiss Essen
-2024-08-10,2,Arminia Bielefeld 1-0 Borussia Dortmund II,Arminia Bielefeld,Borussia Dortmund II
-2024-08-10,2,Alemannia Aachen 1-1 Verl,Alemannia Aachen,Verl
-2024-08-10,2,Osnabrück 0-2 Erzgebirge Aue,Osnabrück,Erzgebirge Aue
-2024-08-10,2,Waldhof Mannheim 1-2 Viktoria Köln,Waldhof Mannheim,Viktoria Köln
-2024-08-10,2,Wehen Wiesbaden 1-0 Hansa Rostock,Wehen Wiesbaden,Hansa Rostock
-2024-08-10,2,Unterhaching 2-1 Ingolstadt,Unterhaching,Ingolstadt
-2024-08-09,2,Dynamo Dresden 4-2 Energie Cottbus,Dynamo Dresden,Energie Cottbus
-2024-08-04,1,Ingolstadt 2-1 Waldhof Mannheim,Ingolstadt,Waldhof Mannheim
-2024-08-04,1,Energie Cottbus 1-2 Arminia Bielefeld,Energie Cottbus,Arminia Bielefeld
-2024-08-04,1,Viktoria Köln 1-2 Dynamo Dresden,Viktoria Köln,Dynamo Dresden
-2024-08-03,1,Hansa Rostock 1-1 Stuttgart II,Hansa Rostock,Stuttgart II
-2024-08-03,1,Sandhausen 1-0 Osnabrück,Sandhausen,Osnabrück
-2024-08-03,1,Verl 2-2 Wehen Wiesbaden,Verl,Wehen Wiesbaden
-2024-08-03,1,Borussia Dortmund II 3-0 Unterhaching,Borussia Dortmund II,Unterhaching
-2024-08-03,1,Erzgebirge Aue 2-1 Hannover 96 II,Erzgebirge Aue,Hannover 96 II
-2024-08-03,1,Rot-Weiss Essen 1-2 Alemannia Aachen,Rot-Weiss Essen,Alemannia Aachen
-2024-08-02,1,1860 München 0-1 Saarbrücken,1860 München,Saarbrücken
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2025-05-17,38,Sandhausen 0-4 Viktoria Köln,Sandhausen,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,99k49cfzwgg9bd6puialtp82c
+2025-05-17,38,Arminia Bielefeld 1-0 Waldhof Mannheim,Arminia Bielefeld,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,996tsmnnak02jpqb84hcqezo4
+2025-05-17,38,1860 München 1-1 Erzgebirge Aue,1860 München,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,98telgd6sombkwq6z4eb5uhp0
+2025-05-17,38,Dynamo Dresden 3-0 Unterhaching,Dynamo Dresden,Unterhaching,r36pztzv4rtrzmxjv552im1g,98g3udtm1kotxfgh6qz658kd0
+2025-05-17,38,Wehen Wiesbaden 2-1 Alemannia Aachen,Wehen Wiesbaden,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,982t1k4ddy9j4m9vf6b2gh72s
+2025-05-17,38,Energie Cottbus 1-4 Ingolstadt,Energie Cottbus,Ingolstadt,r36pztzv4rtrzmxjv552im1g,97p7fjiqzgcsrro675f6ypses
+2025-05-17,38,Osnabrück 0-3 Verl,Osnabrück,Verl,r36pztzv4rtrzmxjv552im1g,97bqoxdfqkas496ls91kvqwic
+2025-05-17,38,Hannover 96 II 2-1 Hansa Rostock,Hannover 96 II,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,96y548cqsev45120pgnro5jis
+2025-05-17,38,Stuttgart II 1-1 Rot-Weiss Essen,Stuttgart II,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,96kj5x0fhfol6zfr5iu4n651w
+2025-05-17,38,Saarbrücken 2-1 Borussia Dortmund II,Saarbrücken,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,966y046u4rn6f6ydefvhap5hw
+2025-05-11,37,Viktoria Köln 2-0 Hannover 96 II,Viktoria Köln,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,934aklq83vjqhjlzqunoc43dg
+2025-05-11,37,Rot-Weiss Essen 3-1 Osnabrück,Rot-Weiss Essen,Osnabrück,r36pztzv4rtrzmxjv552im1g,949es4sjyewn5c3xp24mn69sk
+2025-05-11,37,Unterhaching 1-2 Arminia Bielefeld,Unterhaching,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,93v4ujrxrg9kzy7ntcibyplas
+2025-05-10,37,Ingolstadt 2-3 Wehen Wiesbaden,Ingolstadt,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,92qp34csmoy8xoaqipiqi3ehg
+2025-05-10,37,Erzgebirge Aue 2-3 Sandhausen,Erzgebirge Aue,Sandhausen,r36pztzv4rtrzmxjv552im1g,95g0ukg1ri37w8t41pajmb310
+2025-05-10,37,Waldhof Mannheim 1-0 Dynamo Dresden,Waldhof Mannheim,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,950qsha5i8ej05yki4ixj26tw
+2025-05-10,37,Verl 2-2 1860 München,Verl,1860 München,r36pztzv4rtrzmxjv552im1g,94n0jr1038o7fv8w3agu2hz4k
+2025-05-10,37,Hansa Rostock 1-3 Energie Cottbus,Hansa Rostock,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,93hpoak2wkcp86y4osi5olkb8
+2025-05-10,37,Alemannia Aachen 4-2 Saarbrücken,Alemannia Aachen,Saarbrücken,r36pztzv4rtrzmxjv552im1g,92dfmyud8ejqyjmvtavodf5ec
+2025-05-09,37,Borussia Dortmund II 0-1 Stuttgart II,Borussia Dortmund II,Stuttgart II,r36pztzv4rtrzmxjv552im1g,95te9rewj9uam3tukddi7ul90
+2025-05-07,26,Unterhaching 0-2 Hansa Rostock,Unterhaching,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,7ym4cwjugx24q5uzl5fmwzms4
+2025-05-04,36,Hannover 96 II 0-0 Unterhaching,Hannover 96 II,Unterhaching,r36pztzv4rtrzmxjv552im1g,918ftfzqod66gfmey31vr0650
+2025-05-04,36,Erzgebirge Aue 1-0 Ingolstadt,Erzgebirge Aue,Ingolstadt,r36pztzv4rtrzmxjv552im1g,8zoq49letxl08ebkr6wcn2z9w
+2025-05-04,36,Energie Cottbus 2-4 Waldhof Mannheim,Energie Cottbus,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,9200oj253c0smmyihaneha2vo
+2025-05-03,36,Arminia Bielefeld 1-1 Dynamo Dresden,Arminia Bielefeld,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,90hmmpt670nkj1ufepi87gob8
+2025-05-03,36,Sandhausen 0-3 Hansa Rostock,Sandhausen,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,90v3t7kogy7i9xnq1y3mim0ic
+2025-05-03,36,Wehen Wiesbaden 4-2 Borussia Dortmund II,Wehen Wiesbaden,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,9045fpwr5dudsy3yzhdu5od90
+2025-05-03,36,Stuttgart II 2-1 Alemannia Aachen,Stuttgart II,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,8zb1blkry2sxfx5g482ehthck
+2025-05-03,36,Saarbrücken 4-3 Verl,Saarbrücken,Verl,r36pztzv4rtrzmxjv552im1g,8yxm4pqp9aywtsmbt562lx8gk
+2025-05-03,36,1860 München 1-3 Rot-Weiss Essen,1860 München,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,8ykbk1f8tbp8fwa0wvwyy6tqs
+2025-05-02,36,Osnabrück 2-0 Viktoria Köln,Osnabrück,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,91moi2e1bpa5o36z8fcnpjeok
+2025-04-27,35,Waldhof Mannheim 0-0 Stuttgart II,Waldhof Mannheim,Stuttgart II,r36pztzv4rtrzmxjv552im1g,8xfy3ek55i0ctv3ftbc2xsff8
+2025-04-27,35,Alemannia Aachen 1-0 Osnabrück,Alemannia Aachen,Osnabrück,r36pztzv4rtrzmxjv552im1g,8y6x24q5n10648crn32008aac
+2025-04-27,35,Ingolstadt 0-3 Arminia Bielefeld,Ingolstadt,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,8xtg4q22slvuj6qph45huq9sk
+2025-04-26,35,Verl 5-1 Erzgebirge Aue,Verl,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,8x2f4ducp1cj8flgiwr7yldlg
+2025-04-26,35,Rot-Weiss Essen 0-3 Saarbrücken,Rot-Weiss Essen,Saarbrücken,r36pztzv4rtrzmxjv552im1g,8woxlojdf1kfnqvbza76b1ic4
+2025-04-26,35,Unterhaching 1-1 Energie Cottbus,Unterhaching,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,8wb90f8cwokdlx0dy8nl9zfh0
+2025-04-26,35,Borussia Dortmund II 0-4 Hannover 96 II,Borussia Dortmund II,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,8vxu13898gze5gr854lt7lqtw
+2025-04-26,35,Dynamo Dresden 2-1 Sandhausen,Dynamo Dresden,Sandhausen,r36pztzv4rtrzmxjv552im1g,8vk66bon2nhqudt2n5qwmg8pg
+2025-04-26,35,Viktoria Köln 2-0 Wehen Wiesbaden,Viktoria Köln,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,8v6u8qffrxh7f4sm1hsrye6fo
+2025-04-25,35,Hansa Rostock 1-0 1860 München,Hansa Rostock,1860 München,r36pztzv4rtrzmxjv552im1g,8urg8ak58oe5sy99hj4tslw5w
+2025-04-20,34,Erzgebirge Aue 2-1 Borussia Dortmund II,Erzgebirge Aue,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,8s67omdbr1oxocew2sk8zisyc
+2025-04-20,34,Hannover 96 II 1-1 Waldhof Mannheim,Hannover 96 II,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,8rskbgj5vz6h0u03z6udwfdhw
+2025-04-20,34,Saarbrücken 1-4 Dynamo Dresden,Saarbrücken,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,8r1eggqyzwrr7mtan34tsdgr8
+2025-04-19,34,Osnabrück 1-0 Ingolstadt,Osnabrück,Ingolstadt,r36pztzv4rtrzmxjv552im1g,8sjgqs47lycx37js3fnzpd9g4
+2025-04-19,34,Stuttgart II 1-1 Verl,Stuttgart II,Verl,r36pztzv4rtrzmxjv552im1g,8rf0sfhbaipopmmhhcq010qac
+2025-04-19,34,Arminia Bielefeld 4-0 Hansa Rostock,Arminia Bielefeld,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,8ue774vee7mytwf8v10q9zeok
+2025-04-19,34,Wehen Wiesbaden 3-0 Unterhaching,Wehen Wiesbaden,Unterhaching,r36pztzv4rtrzmxjv552im1g,8u0x7i889fpapci5jcoue0cno
+2025-04-19,34,Energie Cottbus 1-0 Viktoria Köln,Energie Cottbus,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,8tngly32ag0wdwujdts6jl1jo
+2025-04-19,34,Sandhausen 0-2 Rot-Weiss Essen,Sandhausen,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,8t9zz3n20vhoslyi22ri3bh1w
+2025-04-19,34,1860 München 2-1 Alemannia Aachen,1860 München,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,8swqaqecmdarpoiep5zov0nis
+2025-04-13,33,Viktoria Köln 0-2 Arminia Bielefeld,Viktoria Köln,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,8nzn1glnca8sqiezbx9aa36l0
+2025-04-13,33,Borussia Dortmund II 4-1 Energie Cottbus,Borussia Dortmund II,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,8or5odmtm4lynucmh197abi1g
+2025-04-13,33,Waldhof Mannheim 0-3 1860 München,Waldhof Mannheim,1860 München,r36pztzv4rtrzmxjv552im1g,8n8wlhsj9bw744ssnhb8lreac
+2025-04-12,33,Alemannia Aachen 2-1 Sandhausen,Alemannia Aachen,Sandhausen,r36pztzv4rtrzmxjv552im1g,8qo0xneueukld7p935bgjhr10
+2025-04-12,33,Dynamo Dresden 0-1 Osnabrück,Dynamo Dresden,Osnabrück,r36pztzv4rtrzmxjv552im1g,8qama8a5en2bv9ch2nz9usdn8
+2025-04-12,33,Hansa Rostock 4-0 Verl,Hansa Rostock,Verl,r36pztzv4rtrzmxjv552im1g,8pvh9et1qk82wdgit03locp3o
+2025-04-12,33,Rot-Weiss Essen 4-2 Erzgebirge Aue,Rot-Weiss Essen,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,8pi6a5llm1ipq83t6aveye0wk
+2025-04-12,33,Unterhaching 2-2 Stuttgart II,Unterhaching,Stuttgart II,r36pztzv4rtrzmxjv552im1g,8p4vn9hc6kpxu5plnpaqu8ydw
+2025-04-12,33,Ingolstadt 3-3 Hannover 96 II,Ingolstadt,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,8nm7blk25rj5fk0c0q4s3h4wk
+2025-04-11,33,Wehen Wiesbaden 1-1 Saarbrücken,Wehen Wiesbaden,Saarbrücken,r36pztzv4rtrzmxjv552im1g,8od8rwsvpr7q3p4hsmsaonwus
+2025-04-09,32,Verl 0-1 Borussia Dortmund II,Verl,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,8mvixode50qsl9puaolzmts7o
+2025-04-09,32,Dynamo Dresden 2-2 Ingolstadt,Dynamo Dresden,Ingolstadt,r36pztzv4rtrzmxjv552im1g,8mi0mtk91clteit7u55rc3bpw
+2025-04-09,32,Osnabrück 0-1 Hansa Rostock,Osnabrück,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,8m4g149xq3f03wb7q0pr2neac
+2025-04-09,32,1860 München 2-0 Sandhausen,1860 München,Sandhausen,r36pztzv4rtrzmxjv552im1g,8kjws64p9epqtknxyeus3dg5w
+2025-04-09,32,Energie Cottbus 0-1 Rot-Weiss Essen,Energie Cottbus,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,8k6e1cptr8mxaovazu9znp1ck
+2025-04-08,32,Hannover 96 II 1-1 Alemannia Aachen,Hannover 96 II,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,8lqv06udbj28mrwv7f7hb13bo
+2025-04-08,32,Saarbrücken 2-0 Erzgebirge Aue,Saarbrücken,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,8ldka9ha7xiju4wsp8c66ya6s
+2025-04-08,32,Arminia Bielefeld 4-2 Wehen Wiesbaden,Arminia Bielefeld,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,8kzqsazr7gljrumed61ml5hqs
+2025-04-08,32,Stuttgart II 1-2 Viktoria Köln,Stuttgart II,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,8jsx00sq8ibd75m1j0bom2mtw
+2025-04-08,32,Waldhof Mannheim 0-2 Unterhaching,Waldhof Mannheim,Unterhaching,r36pztzv4rtrzmxjv552im1g,8jfbbisn59qn1yn8e26w3g650
+2025-04-06,31,Rot-Weiss Essen 2-1 Hansa Rostock,Rot-Weiss Essen,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,8fm3gr5vak7rfbbym2spjn9ck
+2025-04-06,31,Sandhausen 1-3 Verl,Sandhausen,Verl,r36pztzv4rtrzmxjv552im1g,8hwxbkra5qboxlpkdjj5stj4k
+2025-04-06,31,Borussia Dortmund II 3-3 Ingolstadt,Borussia Dortmund II,Ingolstadt,r36pztzv4rtrzmxjv552im1g,8j1qy9zjfn2b2t2vkojmdvcic
+2025-04-05,31,Alemannia Aachen 0-1 Arminia Bielefeld,Alemannia Aachen,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,8h5wm1q8rdp9cvz72mr1c7l04
+2025-04-05,31,Saarbrücken 1-1 Osnabrück,Saarbrücken,Osnabrück,r36pztzv4rtrzmxjv552im1g,8iahsix723w1a2xihvtm2i2ac
+2025-04-05,31,1860 München 5-1 Energie Cottbus,1860 München,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,8hjeedbyve6rnriyoouoabkes
+2025-04-05,31,Wehen Wiesbaden 2-2 Waldhof Mannheim,Wehen Wiesbaden,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,8gsf69egmalwc91y9w6t3i61g
+2025-04-05,31,Erzgebirge Aue 2-1 Stuttgart II,Erzgebirge Aue,Stuttgart II,r36pztzv4rtrzmxjv552im1g,8gf07ib4ka4dl5qscmigegzkk
+2025-04-05,31,Viktoria Köln 3-1 Unterhaching,Viktoria Köln,Unterhaching,r36pztzv4rtrzmxjv552im1g,8g1mfpxijyy2esp1ea8oaz9qs
+2025-04-04,31,Hannover 96 II 2-3 Dynamo Dresden,Hannover 96 II,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,8ioaqfd7pw6ehl0obu1wjnjmc
+2025-03-30,30,Stuttgart II 2-1 Sandhausen,Stuttgart II,Sandhausen,r36pztzv4rtrzmxjv552im1g,8euf7q0s1068wqds4v78cp5w4
+2025-03-30,30,Dynamo Dresden 2-0 Wehen Wiesbaden,Dynamo Dresden,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,8cxljptg7cm78wwvlvglmqbdg
+2025-03-30,30,Ingolstadt 3-1 Viktoria Köln,Ingolstadt,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,8egtwhjfox5uoshpqylsw6vpw
+2025-03-29,30,Arminia Bielefeld 2-2 Hannover 96 II,Arminia Bielefeld,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,8dovmj9r1e1ykr3wywzk4imfo
+2025-03-29,30,Energie Cottbus 1-0 Erzgebirge Aue,Energie Cottbus,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,8f8lxpwqiqnyvkcozolk91dzo
+2025-03-29,30,Unterhaching 0-2 Alemannia Aachen,Unterhaching,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,8db3vmtjl2p21qiv2wjvx8e1g
+2025-03-29,30,Hansa Rostock 0-0 Saarbrücken,Hansa Rostock,Saarbrücken,r36pztzv4rtrzmxjv552im1g,8ck1042bccwb3xnsve1c8lrf8
+2025-03-29,30,Waldhof Mannheim 0-0 Borussia Dortmund II,Waldhof Mannheim,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,8c6ewai2qfiai85gqlstqxhqs
+2025-03-29,30,Osnabrück 1-0 1860 München,Osnabrück,1860 München,r36pztzv4rtrzmxjv552im1g,8bsro4j8vncd0j65a0wi3tzx0
+2025-03-28,30,Verl 3-0 Rot-Weiss Essen,Verl,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,8e29nt1frm2dkwjz9hb33b9xw
+2025-03-16,29,Alemannia Aachen 2-1 Hansa Rostock,Alemannia Aachen,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,8b1xkrbruzzat48t4j8ghswt0
+2025-03-16,29,Erzgebirge Aue 0-1 Waldhof Mannheim,Erzgebirge Aue,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,8957xc20cqk4etlijxueuw1lg
+2025-03-16,29,Sandhausen 0-1 Energie Cottbus,Sandhausen,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,88el9ui4l80fs2a899coh0zro
+2025-03-15,29,1860 München 2-1 Unterhaching,1860 München,Unterhaching,r36pztzv4rtrzmxjv552im1g,8bfhu7d5yi4a4xie1l736elg4
+2025-03-15,29,Borussia Dortmund II 1-1 Viktoria Köln,Borussia Dortmund II,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,8amw3mguvy230oxipaax4uw44
+2025-03-15,29,Hannover 96 II 3-2 Wehen Wiesbaden,Hannover 96 II,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,8a9m2y23j1dybbdyosgnt85ck
+2025-03-15,29,Osnabrück 0-1 Arminia Bielefeld,Osnabrück,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,89w65xov5bfh19fvwewsst444
+2025-03-15,29,Rot-Weiss Essen 1-1 Dynamo Dresden,Rot-Weiss Essen,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,89ih6qbrb9ikk6dkhacmlcydw
+2025-03-15,29,Verl 1-4 Ingolstadt,Verl,Ingolstadt,r36pztzv4rtrzmxjv552im1g,8818lpzr989izoktzo9heolqs
+2025-03-14,29,Saarbrücken 0-2 Stuttgart II,Saarbrücken,Stuttgart II,r36pztzv4rtrzmxjv552im1g,88ruvxduopfr5b711t0tw9kwk
+2025-03-12,28,Dynamo Dresden 0-0 Borussia Dortmund II,Dynamo Dresden,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,87nwdlkw0gof5tjlcyr8fnx1w
+2025-03-12,28,Wehen Wiesbaden 0-0 1860 München,Wehen Wiesbaden,1860 München,r36pztzv4rtrzmxjv552im1g,87ajyumbx2wuvyifikjn7n3tg
+2025-03-12,28,Hansa Rostock 4-1 Erzgebirge Aue,Hansa Rostock,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,86xal9a8210kfb8itxzxqjg2c
+2025-03-12,28,Viktoria Köln 1-0 Rot-Weiss Essen,Viktoria Köln,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,84mcd5pwol3hectnx7ma5fl78
+2025-03-12,28,Waldhof Mannheim 3-2 Sandhausen,Waldhof Mannheim,Sandhausen,r36pztzv4rtrzmxjv552im1g,848r80d99ne1jfrnzzt5iyoes
+2025-03-11,28,Energie Cottbus 2-2 Hannover 96 II,Energie Cottbus,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,86jop6drbf69jbaiduow04ljo
+2025-03-11,28,Ingolstadt 0-3 Alemannia Aachen,Ingolstadt,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,866fzm9b80j83kq2ypub2abdg
+2025-03-11,28,Arminia Bielefeld 3-1 Saarbrücken,Arminia Bielefeld,Saarbrücken,r36pztzv4rtrzmxjv552im1g,85svwknpylnrjyxd3m420m42c
+2025-03-11,28,Unterhaching 1-2 Verl,Unterhaching,Verl,r36pztzv4rtrzmxjv552im1g,85do0r1crwvzts25x22jzw9as
+2025-03-11,28,Stuttgart II 1-2 Osnabrück,Stuttgart II,Osnabrück,r36pztzv4rtrzmxjv552im1g,84zxi6dkidjbvhzsa1zwmpa8k
+2025-03-09,27,Rot-Weiss Essen 1-0 Waldhof Mannheim,Rot-Weiss Essen,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,80gqyua0pfchahrqyw2ivapec
+2025-03-09,27,Erzgebirge Aue 2-1 Viktoria Köln,Erzgebirge Aue,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,81mdv8qnqinwg7lqcuawszvh0
+2025-03-09,27,1860 München 1-0 Borussia Dortmund II,1860 München,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,83vfux5ntp8arxh422suxn8yc
+2025-03-08,27,Verl 2-1 Arminia Bielefeld,Verl,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,82dudbv6ee1of6aod1b9bwis4
+2025-03-08,27,Alemannia Aachen 0-1 Dynamo Dresden,Alemannia Aachen,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,83i3jyytcg035eqq409wqlkpg
+2025-03-08,27,Hansa Rostock 2-0 Ingolstadt,Hansa Rostock,Ingolstadt,r36pztzv4rtrzmxjv552im1g,834u2n7hnu78qb3zb8rbb4duc
+2025-03-08,27,Sandhausen 2-2 Unterhaching,Sandhausen,Unterhaching,r36pztzv4rtrzmxjv552im1g,82rdgg8fc0001vnbtcw5kuw44
+2025-03-08,27,Stuttgart II 2-1 Hannover 96 II,Stuttgart II,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,81935kz8c693xqwv58cy9dgk4
+2025-03-08,27,Saarbrücken 2-1 Energie Cottbus,Saarbrücken,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,80vteqjqrvzwl3n418eka9jpw
+2025-03-07,27,Osnabrück 0-1 Wehen Wiesbaden,Osnabrück,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,820c6oc2q7g92cfctlyv1urys
+2025-03-02,26,Arminia Bielefeld 4-1 Stuttgart II,Arminia Bielefeld,Stuttgart II,r36pztzv4rtrzmxjv552im1g,7yzh6m9ohbggez0qp9uhcse1g
+2025-03-02,26,Waldhof Mannheim 2-1 Alemannia Aachen,Waldhof Mannheim,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,7zcw6e274nnw5r94i6pi37fo4
+2025-03-01,26,Dynamo Dresden 3-0 Verl,Dynamo Dresden,Verl,r36pztzv4rtrzmxjv552im1g,7y8sur4f83x23y7180w1t2ntg
+2025-03-01,26,Borussia Dortmund II 0-1 Rot-Weiss Essen,Borussia Dortmund II,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,803kha01h9pc3gxr8mxnjx1qs
+2025-03-01,26,Wehen Wiesbaden 0-2 Erzgebirge Aue,Wehen Wiesbaden,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,7xvh3b4q458k7zf4pedmrlm38
+2025-03-01,26,Hannover 96 II 1-3 1860 München,Hannover 96 II,1860 München,r36pztzv4rtrzmxjv552im1g,7xi3mq0rkhrwwzfw3h0ij8hlg
+2025-03-01,26,Ingolstadt 2-1 Sandhausen,Ingolstadt,Sandhausen,r36pztzv4rtrzmxjv552im1g,7x4nkamts8nkqnph5s0w8y1w4
+2025-03-01,26,Energie Cottbus 1-2 Osnabrück,Energie Cottbus,Osnabrück,r36pztzv4rtrzmxjv552im1g,7wrf2nzyewuxknzqm26p041sk
+2025-02-28,26,Viktoria Köln 1-2 Saarbrücken,Viktoria Köln,Saarbrücken,r36pztzv4rtrzmxjv552im1g,7zq7t3kjemj1ngdbij9dz2z9w
+2025-02-23,25,Sandhausen 0-1 Wehen Wiesbaden,Sandhausen,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,7we20sgz4y3kfowsay85z6ej8
+2025-02-23,25,Osnabrück 1-1 Waldhof Mannheim,Osnabrück,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,7uhn2jv1bsinu6h3m93bcdono
+2025-02-23,25,Stuttgart II 2-0 Energie Cottbus,Stuttgart II,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,7tqm1jyorj1o3xd0och6g6qz8
+2025-02-22,25,Saarbrücken 4-1 Hannover 96 II,Saarbrücken,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,7td7rff55a4a4cs883027vdp0
+2025-02-22,25,Verl 1-1 Viktoria Köln,Verl,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,7w0vfw2fdmycy5x1bih9f2tqs
+2025-02-22,25,Rot-Weiss Essen 2-0 Ingolstadt,Rot-Weiss Essen,Ingolstadt,r36pztzv4rtrzmxjv552im1g,7v8ia8u20euidp92m1859o3ro
+2025-02-22,25,Alemannia Aachen 2-2 Borussia Dortmund II,Alemannia Aachen,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,7uv942f91tby6btsp6156ttsk
+2025-02-22,25,Erzgebirge Aue 1-0 Unterhaching,Erzgebirge Aue,Unterhaching,r36pztzv4rtrzmxjv552im1g,7u46lzsvw1si76se9l2j809w4
+2025-02-22,25,Hansa Rostock 1-0 Dynamo Dresden,Hansa Rostock,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,7szv4s1eymiv5vlmbg3sp43ys
+2025-02-21,25,1860 München 0-3 Arminia Bielefeld,1860 München,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,7vlpghd9w0vgh9513z2za7ac4
+2025-02-16,24,Dynamo Dresden 5-2 1860 München,Dynamo Dresden,1860 München,r36pztzv4rtrzmxjv552im1g,7r4elqws33j0fqv6zlkp0sges
+2025-02-16,24,Energie Cottbus 1-0 Verl,Energie Cottbus,Verl,r36pztzv4rtrzmxjv552im1g,7qr4j72qagaw8ilrr76nfwzdg
+2025-02-16,24,Unterhaching 2-0 Saarbrücken,Unterhaching,Saarbrücken,r36pztzv4rtrzmxjv552im1g,7s8rdfhmcahrttlpp8dl7h05w
+2025-02-15,24,Borussia Dortmund II 1-0 Sandhausen,Borussia Dortmund II,Sandhausen,r36pztzv4rtrzmxjv552im1g,7rhtlpqs45mu96xe52kyz0bo4
+2025-02-15,24,Arminia Bielefeld 2-1 Erzgebirge Aue,Arminia Bielefeld,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,7smbgn9yvkusdl2g9jzqcq68k
+2025-02-15,24,Wehen Wiesbaden 1-3 Rot-Weiss Essen,Wehen Wiesbaden,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,7rvebeuaf99e9tjzi2uvh87pw
+2025-02-15,24,Hannover 96 II 1-5 Osnabrück,Hannover 96 II,Osnabrück,r36pztzv4rtrzmxjv552im1g,7qbtggfox5ivsiuxv49q78n4k
+2025-02-15,24,Ingolstadt 1-1 Stuttgart II,Ingolstadt,Stuttgart II,r36pztzv4rtrzmxjv552im1g,7pkylrdrafmgw2uibsqwrm0b8
+2025-02-15,24,Waldhof Mannheim 5-0 Hansa Rostock,Waldhof Mannheim,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,7p7hozyxus8epa4dtuxl223v8
+2025-02-14,24,Viktoria Köln 3-1 Alemannia Aachen,Viktoria Köln,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,7pyctrbptm2e4vh4l8vkqc6j8
+2025-02-09,23,Osnabrück 1-0 Borussia Dortmund II,Osnabrück,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,7lu4rqwabktdz7g1c4z9zcdg4
+2025-02-09,23,Verl 1-0 Hannover 96 II,Verl,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,7ou2bifwf8mrpnr4yfla1dlas
+2025-02-09,23,Hansa Rostock 1-1 Viktoria Köln,Hansa Rostock,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,7mzbg1lejxn8md8uv8er9me50
+2025-02-08,23,1860 München 1-1 Ingolstadt,1860 München,Ingolstadt,r36pztzv4rtrzmxjv552im1g,7ogq4uxzsulg72p8iu7mbw26s
+2025-02-08,23,Stuttgart II 2-1 Dynamo Dresden,Stuttgart II,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,7o3dzejpkmdb6ys0txyv1fbpw
+2025-02-08,23,Rot-Weiss Essen 1-1 Unterhaching,Rot-Weiss Essen,Unterhaching,r36pztzv4rtrzmxjv552im1g,7ncozsn6cv4e7ppu14i0n4h04
+2025-02-08,23,Energie Cottbus 2-1 Wehen Wiesbaden,Energie Cottbus,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,7mlt8mjexr9diromf2ocyj8yc
+2025-02-08,23,Erzgebirge Aue 1-1 Alemannia Aachen,Erzgebirge Aue,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,7m7lh1go44ec93ghlsuts57o4
+2025-02-08,23,Saarbrücken 2-1 Waldhof Mannheim,Saarbrücken,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,7lf6e20svvj1pofan0ta6dqms
+2025-02-07,23,Sandhausen 1-0 Arminia Bielefeld,Sandhausen,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,7nq0233g5ikoafoenf0ud0vtg
+2025-02-02,22,Hannover 96 II 2-2 Sandhausen,Hannover 96 II,Sandhausen,r36pztzv4rtrzmxjv552im1g,7ko8oxiots6v8nu5wtfpzrh1w
+2025-02-02,22,Unterhaching 2-3 Osnabrück,Unterhaching,Osnabrück,r36pztzv4rtrzmxjv552im1g,7jjkl4jejnopqq4m1aplxssus
+2025-02-02,22,Arminia Bielefeld 1-2 Rot-Weiss Essen,Arminia Bielefeld,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,7ho78l2dxja2hbdhqudddi784
+2025-02-01,22,Viktoria Köln 1-2 1860 München,Viktoria Köln,1860 München,r36pztzv4rtrzmxjv552im1g,7kar6io3cvyi0nl1b42e0vuvo
+2025-02-01,22,Dynamo Dresden 2-1 Erzgebirge Aue,Dynamo Dresden,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,7l1murkz44j2mx9x0ftw0knx0
+2025-02-01,22,Borussia Dortmund II 0-2 Hansa Rostock,Borussia Dortmund II,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,7j630tu5l3oxzm2pw0nt5kiz8
+2025-02-01,22,Wehen Wiesbaden 2-0 Stuttgart II,Wehen Wiesbaden,Stuttgart II,r36pztzv4rtrzmxjv552im1g,7ish1rlzx0j3uodvwun6xpmac
+2025-02-01,22,Ingolstadt 1-0 Saarbrücken,Ingolstadt,Saarbrücken,r36pztzv4rtrzmxjv552im1g,7ievkg7n6qtgsc7783bsx7xg4
+2025-02-01,22,Waldhof Mannheim 2-2 Verl,Waldhof Mannheim,Verl,r36pztzv4rtrzmxjv552im1g,7i1glypytzgubf78lekssn578
+2025-01-31,22,Alemannia Aachen 0-0 Energie Cottbus,Alemannia Aachen,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,7jx6i433vbsgsiqba5yuek6xg
+2025-01-26,21,Borussia Dortmund II 0-4 Arminia Bielefeld,Borussia Dortmund II,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,7fe23767c0z3gogzxajhupqtw
+2025-01-26,21,Ingolstadt 3-1 Unterhaching,Ingolstadt,Unterhaching,r36pztzv4rtrzmxjv552im1g,7e9yc4u0fhk7n35aq9g6kjt3o
+2025-01-26,21,Rot-Weiss Essen 5-1 Hannover 96 II,Rot-Weiss Essen,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,7gxelz252hf6kz78bxjdr5no4
+2025-01-25,21,Sandhausen 3-4 Saarbrücken,Sandhausen,Saarbrücken,r36pztzv4rtrzmxjv552im1g,7g4w3nm5qq94mo4whqa2bycd0
+2025-01-25,21,Verl 2-1 Alemannia Aachen,Verl,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,7hao83nbdno638fmf5q9etyj8
+2025-01-25,21,Energie Cottbus 1-1 Dynamo Dresden,Energie Cottbus,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,7gi9ty830tgtf91ilm5w1p1qs
+2025-01-25,21,1860 München 1-1 Stuttgart II,1860 München,Stuttgart II,r36pztzv4rtrzmxjv552im1g,7frdma3l9qsgb6yfqjamt747o
+2025-01-25,21,Hansa Rostock 1-4 Wehen Wiesbaden,Hansa Rostock,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,7f0n4y7s1pqtot2zs0e4wbj84
+2025-01-25,21,Erzgebirge Aue 0-0 Osnabrück,Erzgebirge Aue,Osnabrück,r36pztzv4rtrzmxjv552im1g,7enat2bacl8mbczo7zlaknhuc
+2025-01-24,21,Viktoria Köln 1-0 Waldhof Mannheim,Viktoria Köln,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,7dwnuh4c2r8blvsic3ap2l8us
+2025-01-19,20,Waldhof Mannheim 0-0 Ingolstadt,Waldhof Mannheim,Ingolstadt,r36pztzv4rtrzmxjv552im1g,7djdzrcykt79edqldqvkpumfo
+2025-01-19,20,Alemannia Aachen 2-0 Rot-Weiss Essen,Alemannia Aachen,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,7d62rad3fmsoomarpeizp1es4
+2025-01-19,20,Dynamo Dresden 2-3 Viktoria Köln,Dynamo Dresden,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,7cew6dxyc6kqcnolvwkishe6s
+2025-01-18,20,Wehen Wiesbaden 0-1 Verl,Wehen Wiesbaden,Verl,r36pztzv4rtrzmxjv552im1g,7a5fk8zq4uipo08isdr4f3zmc
+2025-01-18,20,Unterhaching 1-2 Borussia Dortmund II,Unterhaching,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,7csckd6qnszjxad0qaaxf4bh0
+2025-01-18,20,Osnabrück 3-2 Sandhausen,Osnabrück,Sandhausen,r36pztzv4rtrzmxjv552im1g,7c1gjz2vp2tm63p8wraj5ml90
+2025-01-18,20,Stuttgart II 0-3 Hansa Rostock,Stuttgart II,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,7b99vv0zcv0jvxworgd3q6l1w
+2025-01-18,20,Saarbrücken 4-0 1860 München,Saarbrücken,1860 München,r36pztzv4rtrzmxjv552im1g,7avz6p6s799au2lj5zvsn56ac
+2025-01-18,20,Arminia Bielefeld 0-2 Energie Cottbus,Arminia Bielefeld,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,7aisw5ytn2st9mhzo7vgkh7v8
+2025-01-17,20,Hannover 96 II 2-1 Erzgebirge Aue,Hannover 96 II,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,7boaj9miek6cfrc25n3q5fi1g
+2024-12-22,19,Hansa Rostock 1-0 Hannover 96 II,Hansa Rostock,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,77jl08b08w4ng6q8l5jdzgums
+2024-12-22,19,Verl 1-1 Osnabrück,Verl,Osnabrück,r36pztzv4rtrzmxjv552im1g,79s3wt8l2nhdjao3ub7a6itxw
+2024-12-22,19,Waldhof Mannheim 1-1 Arminia Bielefeld,Waldhof Mannheim,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,76sztpuk4jed9o5n0yabxb0us
+2024-12-21,19,Alemannia Aachen 0-0 Wehen Wiesbaden,Alemannia Aachen,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,78a6dditqtn3lbu7ivk4koro4
+2024-12-21,19,Unterhaching 0-3 Dynamo Dresden,Unterhaching,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,79eqp9ax7v0yqi1294xzlbcpg
+2024-12-21,19,Viktoria Köln 2-0 Sandhausen,Viktoria Köln,Sandhausen,r36pztzv4rtrzmxjv552im1g,791gxmpi4p6737g1qwekr05ck
+2024-12-21,19,Rot-Weiss Essen 2-2 Stuttgart II,Rot-Weiss Essen,Stuttgart II,r36pztzv4rtrzmxjv552im1g,78nofca0sp8uowdeupgpxkq38
+2024-12-21,19,Borussia Dortmund II 0-0 Saarbrücken,Borussia Dortmund II,Saarbrücken,r36pztzv4rtrzmxjv552im1g,77wrog72ygysoc9ec9pay4ges
+2024-12-21,19,Erzgebirge Aue 3-1 1860 München,Erzgebirge Aue,1860 München,r36pztzv4rtrzmxjv552im1g,76duk5njkp3m59ehoghjsdy50
+2024-12-20,19,Ingolstadt 1-1 Energie Cottbus,Ingolstadt,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,77682cdjft7bil8fd3cex979w
+2024-12-15,18,Saarbrücken 1-1 Alemannia Aachen,Saarbrücken,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,72l2383wnwfdpl2lz9sbjcbv8
+2024-12-15,18,Osnabrück 2-0 Rot-Weiss Essen,Osnabrück,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,759veousny529emd78cbyritw
+2024-12-15,18,Energie Cottbus 3-1 Hansa Rostock,Energie Cottbus,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,73s6tnkvpabkdr5ds236t1es4
+2024-12-14,18,1860 München 0-4 Verl,1860 München,Verl,r36pztzv4rtrzmxjv552im1g,760l9d10bbtvw54hi0mu51gd0
+2024-12-14,18,Wehen Wiesbaden 2-5 Ingolstadt,Wehen Wiesbaden,Ingolstadt,r36pztzv4rtrzmxjv552im1g,75n82adj4e7w028t1hn66934k
+2024-12-14,18,Sandhausen 4-6 Erzgebirge Aue,Sandhausen,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,74whu15s9yegi9hp8kavuwwes
+2024-12-14,18,Arminia Bielefeld 3-3 Unterhaching,Arminia Bielefeld,Unterhaching,r36pztzv4rtrzmxjv552im1g,74j1udf0gkw4yc1xzvok03t3o
+2024-12-14,18,Hannover 96 II 1-2 Viktoria Köln,Hannover 96 II,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,73esswl5bndiwp8tqzhof1mac
+2024-12-14,18,Stuttgart II 0-3 Borussia Dortmund II,Stuttgart II,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,731gpgb54ayys7xcud87j0tuc
+2024-12-13,18,Dynamo Dresden 2-1 Waldhof Mannheim,Dynamo Dresden,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,745ke8pprqtnxdsnspcjk8glw
+2024-12-08,17,Viktoria Köln 2-0 Osnabrück,Viktoria Köln,Osnabrück,r36pztzv4rtrzmxjv552im1g,71u7lkoiars2l85b73e8tt72s
+2024-12-08,17,Dynamo Dresden 3-0 Arminia Bielefeld,Dynamo Dresden,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,6zwl3y45nnn8ljwq80v2h88ic
+2024-12-08,17,Rot-Weiss Essen 0-3 1860 München,Rot-Weiss Essen,1860 München,r36pztzv4rtrzmxjv552im1g,6ys8g8hsagpduz503xmpf3sic
+2024-12-07,17,Alemannia Aachen 2-1 Stuttgart II,Alemannia Aachen,Stuttgart II,r36pztzv4rtrzmxjv552im1g,711oq1f8fjvcuobtwj4akxez8
+2024-12-07,17,Waldhof Mannheim 0-1 Energie Cottbus,Waldhof Mannheim,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,71f8lme2ktjezzybp6z3zwis4
+2024-12-07,17,Unterhaching 1-2 Hannover 96 II,Unterhaching,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,70o5dhsq1n40kfzcqc5297r4k
+2024-12-07,17,Borussia Dortmund II 2-2 Wehen Wiesbaden,Borussia Dortmund II,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,70acm2s1lej3dwxc811xbr95g
+2024-12-07,17,Hansa Rostock 1-0 Sandhausen,Hansa Rostock,Sandhausen,r36pztzv4rtrzmxjv552im1g,6zj2knguj8swn7osy8t4gskd0
+2024-12-07,17,Ingolstadt 1-0 Erzgebirge Aue,Ingolstadt,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,6z5flgji3pm4hgn6w2d7ob2ms
+2024-12-06,17,Verl 1-1 Saarbrücken,Verl,Saarbrücken,r36pztzv4rtrzmxjv552im1g,727ksl7683czb1mi19qi01x5g
+2024-12-01,16,Wehen Wiesbaden 3-1 Viktoria Köln,Wehen Wiesbaden,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,6wjxd5420qpha37yv2g9phyj8
+2024-12-01,16,Saarbrücken 1-0 Rot-Weiss Essen,Saarbrücken,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,6v0ac9yt1q8kogyil71h497h0
+2024-12-01,16,Osnabrück 1-1 Alemannia Aachen,Osnabrück,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,6vr2qdd11jjw32sn30fbe702c
+2024-11-30,16,Stuttgart II 2-0 Waldhof Mannheim,Stuttgart II,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,6vdp9nrrfpfcwxgz2jp1aomj8
+2024-11-30,16,1860 München 1-2 Hansa Rostock,1860 München,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,6yelthn5xfv482m6fjr357ehg
+2024-11-30,16,Erzgebirge Aue 2-5 Verl,Erzgebirge Aue,Verl,r36pztzv4rtrzmxjv552im1g,6y1er8x51o9wuiut6hq5dg6j8
+2024-11-30,16,Hannover 96 II 2-0 Borussia Dortmund II,Hannover 96 II,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,6xo4g9vyt65kfkwfmcxex1dzo
+2024-11-30,16,Sandhausen 2-4 Dynamo Dresden,Sandhausen,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,6xasar56sdamql1a59ywjz1n8
+2024-11-30,16,Energie Cottbus 2-0 Unterhaching,Energie Cottbus,Unterhaching,r36pztzv4rtrzmxjv552im1g,6w4e79k0mkup0jxf336lajj84
+2024-11-29,16,Arminia Bielefeld 1-0 Ingolstadt,Arminia Bielefeld,Ingolstadt,r36pztzv4rtrzmxjv552im1g,6wx9okl35us3tbppxs8uiyqs4
+2024-11-24,15,Borussia Dortmund II 3-1 Erzgebirge Aue,Borussia Dortmund II,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,6srmfhbpdvdkrm7yws2cq3nys
+2024-11-24,15,Ingolstadt 4-2 Osnabrück,Ingolstadt,Osnabrück,r36pztzv4rtrzmxjv552im1g,6rnnxt7d6bjx7mjd7n0m9k1lg
+2024-11-24,15,Waldhof Mannheim 2-1 Hannover 96 II,Waldhof Mannheim,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,6tvoyq82ean6ibhlsmdz6v9xw
+2024-11-23,15,Unterhaching 1-1 Wehen Wiesbaden,Unterhaching,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,6t4ysvulx298lcm7yliijqkno
+2024-11-23,15,Verl 2-2 Stuttgart II,Verl,Stuttgart II,r36pztzv4rtrzmxjv552im1g,6umu687lg6o5dl4sm8bg6mk9g
+2024-11-23,15,Alemannia Aachen 1-1 1860 München,Alemannia Aachen,1860 München,r36pztzv4rtrzmxjv552im1g,6u91unbcc9d6o1md7ezpiyrkk
+2024-11-23,15,Rot-Weiss Essen 1-1 Sandhausen,Rot-Weiss Essen,Sandhausen,r36pztzv4rtrzmxjv552im1g,6tiandat84acwijfmndwv7bpw
+2024-11-23,15,Dynamo Dresden 1-1 Saarbrücken,Dynamo Dresden,Saarbrücken,r36pztzv4rtrzmxjv552im1g,6seei8ohv1z9fgylxxxi8yz2s
+2024-11-23,15,Hansa Rostock 2-1 Arminia Bielefeld,Hansa Rostock,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,6r8jh5m1c872eskqd4dc8r11w
+2024-11-22,15,Viktoria Köln 0-1 Energie Cottbus,Viktoria Köln,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,6s13m7rcsdx78k1kne57qqv4k
+2024-11-10,14,Stuttgart II 3-2 Unterhaching,Stuttgart II,Unterhaching,r36pztzv4rtrzmxjv552im1g,6nwd9113b4ar9x6yjjrqt7n6c
+2024-11-10,14,Erzgebirge Aue 2-1 Rot-Weiss Essen,Erzgebirge Aue,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,6nj13p4452qi4ym696w5dw5qs
+2024-11-10,14,Hannover 96 II 0-4 Ingolstadt,Hannover 96 II,Ingolstadt,r36pztzv4rtrzmxjv552im1g,6o9nsm36u8m0gm4nm5232wm50
+2024-11-09,14,Arminia Bielefeld 2-0 Viktoria Köln,Arminia Bielefeld,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,6pdmw9ds1wfyi91ybz8l5rzmc
+2024-11-09,14,1860 München 3-0 Waldhof Mannheim,1860 München,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,6qhmv96qzbnu1fcqbvd4f8qac
+2024-11-09,14,Saarbrücken 3-1 Wehen Wiesbaden,Saarbrücken,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,6q49jrsdx9eh7ij19zzonuwb8
+2024-11-09,14,Sandhausen 4-0 Alemannia Aachen,Sandhausen,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,6pquzi654epaynl3ht8yk6jv8
+2024-11-09,14,Energie Cottbus 3-3 Borussia Dortmund II,Energie Cottbus,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,6p05p5n3iys0gvlezpy230bo4
+2024-11-09,14,Osnabrück 0-3 Dynamo Dresden,Osnabrück,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,6omyq0apkxyt65ueclv63qhhw
+2024-11-08,14,Verl 1-0 Hansa Rostock,Verl,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,6qv6h1vrjnqmz110ipusq4pw4
+2024-11-03,13,Borussia Dortmund II 3-1 Verl,Borussia Dortmund II,Verl,r36pztzv4rtrzmxjv552im1g,6kv94umefid6a13741i75dq1g
+2024-11-03,13,Wehen Wiesbaden 0-0 Arminia Bielefeld,Wehen Wiesbaden,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,6khiivp8d7hcuzgkli63qx6ok
+2024-11-03,13,Unterhaching 1-1 Waldhof Mannheim,Unterhaching,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,6l8knvez3m5fya65axlxbbg9g
+2024-11-02,13,Alemannia Aachen 0-0 Hannover 96 II,Alemannia Aachen,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,6n5h64gd0uga59gtzx6q4l1ck
+2024-11-02,13,Hansa Rostock 2-0 Osnabrück,Hansa Rostock,Osnabrück,r36pztzv4rtrzmxjv552im1g,6mrz0yh9jx7rnl77545xy8c9g
+2024-11-02,13,Sandhausen 0-3 1860 München,Sandhausen,1860 München,r36pztzv4rtrzmxjv552im1g,6lzg1j1dn74czofrcv5w7hzpw
+2024-11-02,13,Rot-Weiss Essen 4-0 Energie Cottbus,Rot-Weiss Essen,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,6lm4451c95lx5psk9lfd1apsk
+2024-11-02,13,Ingolstadt 1-1 Dynamo Dresden,Ingolstadt,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,6k3nmz5euqw5qehwcpv6jay38
+2024-11-02,13,Erzgebirge Aue 1-1 Saarbrücken,Erzgebirge Aue,Saarbrücken,r36pztzv4rtrzmxjv552im1g,6jpvyrctzupcl0n7w0w0uqk2c
+2024-11-01,13,Viktoria Köln 2-0 Stuttgart II,Viktoria Köln,Stuttgart II,r36pztzv4rtrzmxjv552im1g,6mcxj77t9xz4jf5rp6el9k2dw
+2024-10-27,12,Waldhof Mannheim 2-2 Wehen Wiesbaden,Waldhof Mannheim,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,6g9noc8uoyxaudsmec8hvyyhg
+2024-10-27,12,Stuttgart II 0-1 Erzgebirge Aue,Stuttgart II,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,6gn6vmtqf9empvhbyllirc7x0
+2024-10-27,12,Energie Cottbus 5-1 1860 München,Energie Cottbus,1860 München,r36pztzv4rtrzmxjv552im1g,6iz1emybzwlgpkfpildpogaok
+2024-10-26,12,Verl 1-1 Sandhausen,Verl,Sandhausen,r36pztzv4rtrzmxjv552im1g,6i7x0xd04zd0962xceakexr84
+2024-10-26,12,Hansa Rostock 4-0 Rot-Weiss Essen,Hansa Rostock,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,6hfwdb1ukc5vr7y1r8q6ql05w
+2024-10-26,12,Dynamo Dresden 2-1 Hannover 96 II,Dynamo Dresden,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,6jcgpxjajt2u9iwuf0ntcy0b8
+2024-10-26,12,Unterhaching 1-1 Viktoria Köln,Unterhaching,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,6htd8fzzombq6gn5ucq1x6oes
+2024-10-26,12,Osnabrück 1-1 Saarbrücken,Osnabrück,Saarbrücken,r36pztzv4rtrzmxjv552im1g,6h0m245hao8g5f9x8w2nniw44
+2024-10-26,12,Arminia Bielefeld 1-1 Alemannia Aachen,Arminia Bielefeld,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,6fwhuyikehm4lx6bzgfa37sb8
+2024-10-25,12,Ingolstadt 5-3 Borussia Dortmund II,Ingolstadt,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,6iliube5r7fi8wr47c2rcksno
+2024-10-23,11,1860 München 2-2 Osnabrück,1860 München,Osnabrück,r36pztzv4rtrzmxjv552im1g,6dnqm6fa875ulxnb0gz3og93o
+2024-10-23,11,Rot-Weiss Essen 1-3 Verl,Rot-Weiss Essen,Verl,r36pztzv4rtrzmxjv552im1g,6da3ebjvrecs0srbzbgik6wic
+2024-10-23,11,Alemannia Aachen 3-1 Unterhaching,Alemannia Aachen,Unterhaching,r36pztzv4rtrzmxjv552im1g,6cw5rzd2terk1ncjsj4quczro
+2024-10-23,11,Wehen Wiesbaden 1-0 Dynamo Dresden,Wehen Wiesbaden,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,6ci1v5ov39vbynf5rjsuhfyms
+2024-10-23,11,Hannover 96 II 1-4 Arminia Bielefeld,Hannover 96 II,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,6c2unw9sjs0wb3ce9t8tuub6c
+2024-10-22,11,Sandhausen 1-1 Stuttgart II,Sandhausen,Stuttgart II,r36pztzv4rtrzmxjv552im1g,6fj6jt2r6un615jl1moitqp04
+2024-10-22,11,Borussia Dortmund II 0-1 Waldhof Mannheim,Borussia Dortmund II,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,6f5rb6xqpeq6c79deosldwv10
+2024-10-22,11,Erzgebirge Aue 1-3 Energie Cottbus,Erzgebirge Aue,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,6es69zh5jo13jngx9u8ahq8es
+2024-10-22,11,Viktoria Köln 4-4 Ingolstadt,Viktoria Köln,Ingolstadt,r36pztzv4rtrzmxjv552im1g,6eel81rrlp5u438979o18tzpw
+2024-10-22,11,Saarbrücken 2-0 Hansa Rostock,Saarbrücken,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,6e15zhz8wtvn40vzcihuvlrmc
+2024-10-20,10,Unterhaching 2-2 1860 München,Unterhaching,1860 München,r36pztzv4rtrzmxjv552im1g,6a677ddggy1hfohhelje6ao0k
+2024-10-20,10,Arminia Bielefeld 3-1 Osnabrück,Arminia Bielefeld,Osnabrück,r36pztzv4rtrzmxjv552im1g,6ak420wx76wto8e8hg3xb9638
+2024-10-20,10,Dynamo Dresden 3-3 Rot-Weiss Essen,Dynamo Dresden,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,69saer8cxclz6if631c743w9g
+2024-10-19,10,Stuttgart II 2-3 Saarbrücken,Stuttgart II,Saarbrücken,r36pztzv4rtrzmxjv552im1g,6bbh1iom2wbznxx4gw4weplas
+2024-10-19,10,Energie Cottbus 1-1 Sandhausen,Energie Cottbus,Sandhausen,r36pztzv4rtrzmxjv552im1g,6bp18smnelrjmlge2aaovcbv8
+2024-10-19,10,Wehen Wiesbaden 1-5 Hannover 96 II,Wehen Wiesbaden,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,69eqowlc3k2ccn7t0yd7rwavo
+2024-10-19,10,Viktoria Köln 3-5 Borussia Dortmund II,Viktoria Köln,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,690wyjz3a19nnrxp6bzoou0ic
+2024-10-19,10,Ingolstadt 1-1 Verl,Ingolstadt,Verl,r36pztzv4rtrzmxjv552im1g,68nqlnem1dln4vqkuhywwcbo4
+2024-10-19,10,Hansa Rostock 1-2 Alemannia Aachen,Hansa Rostock,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,68adxl11yzvtirfo79j4mjkt0
+2024-10-18,10,Waldhof Mannheim 3-0 Erzgebirge Aue,Waldhof Mannheim,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,6ay0s9a50dxdxpa2na603i9zo
+2024-10-06,9,Osnabrück 1-0 Stuttgart II,Osnabrück,Stuttgart II,r36pztzv4rtrzmxjv552im1g,659v1i778nmuq0651yz3h7or8
+2024-10-06,9,Saarbrücken 0-0 Arminia Bielefeld,Saarbrücken,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,64w0e24lbtk4ww543xgwtgjys
+2024-10-06,9,Hannover 96 II 0-0 Energie Cottbus,Hannover 96 II,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,674aby5xzbccl092iwk2vqbys
+2024-10-05,9,Alemannia Aachen 1-1 Ingolstadt,Alemannia Aachen,Ingolstadt,r36pztzv4rtrzmxjv552im1g,660m00urw5g1s4rj2egrcbuac
+2024-10-05,9,Verl 2-0 Unterhaching,Verl,Unterhaching,r36pztzv4rtrzmxjv552im1g,67wp6tpson9zbw83r7n0eulg4
+2024-10-05,9,Rot-Weiss Essen 2-1 Viktoria Köln,Rot-Weiss Essen,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,67jarumy852s45q2psyvpwefo
+2024-10-05,9,Sandhausen 2-1 Waldhof Mannheim,Sandhausen,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,66r0e0rb0eh3y5dtpww35f1g4
+2024-10-05,9,1860 München 2-3 Wehen Wiesbaden,1860 München,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,66drjad33ve9tt6gsp9qdxw5w
+2024-10-05,9,Erzgebirge Aue 1-2 Hansa Rostock,Erzgebirge Aue,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,64ihmjbn59pyti21uz5j5adxw
+2024-10-04,9,Borussia Dortmund II 2-1 Dynamo Dresden,Borussia Dortmund II,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,65n9mev0xbgkuhgkccqnqs6j8
+2024-09-29,8,Arminia Bielefeld 2-1 Verl,Arminia Bielefeld,Verl,r36pztzv4rtrzmxjv552im1g,631qj2fzkhqa3du3see3obrx0
+2024-09-29,8,Dynamo Dresden 0-0 Alemannia Aachen,Dynamo Dresden,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,6458njq92lo77lyck4u9umuj8
+2024-09-29,8,Ingolstadt 2-1 Hansa Rostock,Ingolstadt,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,63ewcmd14uj0c04ewi37knwus
+2024-09-28,8,Energie Cottbus 4-1 Saarbrücken,Energie Cottbus,Saarbrücken,r36pztzv4rtrzmxjv552im1g,61ioj251461tfs89q780awmxg
+2024-09-28,8,Hannover 96 II 3-1 Stuttgart II,Hannover 96 II,Stuttgart II,r36pztzv4rtrzmxjv552im1g,63s00jcrgiby93oyu3yd0989g
+2024-09-28,8,Borussia Dortmund II 1-2 1860 München,Borussia Dortmund II,1860 München,r36pztzv4rtrzmxjv552im1g,62ataq7b4i5gvj8e3b6ig8i6s
+2024-09-28,8,Wehen Wiesbaden 2-1 Osnabrück,Wehen Wiesbaden,Osnabrück,r36pztzv4rtrzmxjv552im1g,61vwzsccfe6pyltrmz6d3g26s
+2024-09-28,8,Viktoria Köln 2-0 Erzgebirge Aue,Viktoria Köln,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,6158qm2eakf4ju9vqvqsci51w
+2024-09-28,8,Waldhof Mannheim 1-0 Rot-Weiss Essen,Waldhof Mannheim,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,60rooe4i8rd6x9kkev1y4ez9w
+2024-09-27,8,Unterhaching 0-0 Sandhausen,Unterhaching,Sandhausen,r36pztzv4rtrzmxjv552im1g,62ojmme9srwaq6ft23yr1xo9g
+2024-09-25,7,Saarbrücken 1-0 Viktoria Köln,Saarbrücken,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,600olq28bqlnxhksa33ew9gyc
+2024-09-25,7,Rot-Weiss Essen 3-1 Borussia Dortmund II,Rot-Weiss Essen,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,5za5tpimv2dukje47ww8uf578
+2024-09-25,7,Alemannia Aachen 0-0 Waldhof Mannheim,Alemannia Aachen,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,5ywwp5ctovhsm3gek1gd0h4pg
+2024-09-25,7,Verl 0-3 Dynamo Dresden,Verl,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,5xsufszwslvmfmxyipsp8vx90
+2024-09-25,7,1860 München 1-0 Hannover 96 II,1860 München,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,5xf2bno060rij8wid60otnehg
+2024-09-24,7,Osnabrück 2-5 Energie Cottbus,Osnabrück,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,60e3uw9abj7a9an75j3el7y8k
+2024-09-24,7,Sandhausen 4-3 Ingolstadt,Sandhausen,Ingolstadt,r36pztzv4rtrzmxjv552im1g,5zng7dmsqwvped5rj1a6dnpjo
+2024-09-24,7,Erzgebirge Aue 2-1 Wehen Wiesbaden,Erzgebirge Aue,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,5yjgix76ahu3sff7q0s3p7k0k
+2024-09-24,7,Stuttgart II 3-0 Arminia Bielefeld,Stuttgart II,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,5y69bwi0w07le87ztuc8th2xg
+2024-09-24,7,Hansa Rostock 4-1 Unterhaching,Hansa Rostock,Unterhaching,r36pztzv4rtrzmxjv552im1g,5wzioq16xjer7qrw3nlclnmdw
+2024-09-22,6,Borussia Dortmund II 3-0 Alemannia Aachen,Borussia Dortmund II,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,5uqz4cukgi4ju0tee2ynlmrkk
+2024-09-22,6,Viktoria Köln 2-1 Verl,Viktoria Köln,Verl,r36pztzv4rtrzmxjv552im1g,5vvbw2phvgpkbusm2q5lgn3mc
+2024-09-22,6,Hannover 96 II 1-3 Saarbrücken,Hannover 96 II,Saarbrücken,r36pztzv4rtrzmxjv552im1g,5w8mg2wystu59036nm25k7jf8
+2024-09-21,6,Arminia Bielefeld 0-1 1860 München,Arminia Bielefeld,1860 München,r36pztzv4rtrzmxjv552im1g,5vhzcjrt9cwp1cbll7j34n190
+2024-09-21,6,Dynamo Dresden 1-1 Hansa Rostock,Dynamo Dresden,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,5wlzbw5z9hpe3ghv5dhqvbo5w
+2024-09-21,6,Wehen Wiesbaden 1-3 Sandhausen,Wehen Wiesbaden,Sandhausen,r36pztzv4rtrzmxjv552im1g,5udkedywyzbhuu5kohnstgqac
+2024-09-21,6,Energie Cottbus 4-0 Stuttgart II,Energie Cottbus,Stuttgart II,r36pztzv4rtrzmxjv552im1g,5u0cxsogy5t8vggb0k72vlus4
+2024-09-21,6,Ingolstadt 2-2 Rot-Weiss Essen,Ingolstadt,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,5tmzc1if4ciiehdl2e4j3ntw4
+2024-09-21,6,Waldhof Mannheim 3-2 Osnabrück,Waldhof Mannheim,Osnabrück,r36pztzv4rtrzmxjv552im1g,5t9qqdcwjhggdh7nz3xpdm5g4
+2024-09-20,6,Unterhaching 2-2 Erzgebirge Aue,Unterhaching,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,5v4dxho17ay43jyynmznixr84
+2024-09-15,5,Alemannia Aachen 1-0 Viktoria Köln,Alemannia Aachen,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,5qbarmpqe2858eiek2m2ep0r8
+2024-09-15,5,Verl 0-3 Energie Cottbus,Verl,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,5refrzmwk96vfy1vy2xwwj310
+2024-09-15,5,Erzgebirge Aue 1-3 Arminia Bielefeld,Erzgebirge Aue,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,5sjbpr8jjbaju706spcrsb1uc
+2024-09-14,5,Osnabrück 1-1 Hannover 96 II,Osnabrück,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,5swigofaf73wzuw2gn683ue50
+2024-09-14,5,1860 München 2-3 Dynamo Dresden,1860 München,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,5r1h283ls71jap9s13rah1qms
+2024-09-14,5,Saarbrücken 1-1 Unterhaching,Saarbrücken,Unterhaching,r36pztzv4rtrzmxjv552im1g,5s4jtepq9v0baxkhh1fjrk9w4
+2024-09-14,5,Rot-Weiss Essen 0-3 Wehen Wiesbaden,Rot-Weiss Essen,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,5qoefrtcq8y0tam0ney6gczdg
+2024-09-14,5,Stuttgart II 3-2 Ingolstadt,Stuttgart II,Ingolstadt,r36pztzv4rtrzmxjv552im1g,5py6egjzsqxxpexvyxniwlo9g
+2024-09-14,5,Hansa Rostock 1-1 Waldhof Mannheim,Hansa Rostock,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,5pkuuad8y665np1uc0xmk2v4k
+2024-09-13,5,Sandhausen 3-1 Borussia Dortmund II,Sandhausen,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,5rrlu433qhyjtxjdfso8nrndg
+2024-09-01,4,Hannover 96 II 1-2 Verl,Hannover 96 II,Verl,r36pztzv4rtrzmxjv552im1g,5p7w6nuwb3ppahasxj84yan84
+2024-09-01,4,Unterhaching 2-0 Rot-Weiss Essen,Unterhaching,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,5nr7uvfarpcw2ez8uc56n07pw
+2024-09-01,4,Wehen Wiesbaden 2-1 Energie Cottbus,Wehen Wiesbaden,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,5mmcmszrkdyn30jksvpartlp0
+2024-08-31,4,Borussia Dortmund II 1-1 Osnabrück,Borussia Dortmund II,Osnabrück,r36pztzv4rtrzmxjv552im1g,5ne5o9h5l151kmeipz5t664gk
+2024-08-31,4,Ingolstadt 1-2 1860 München,Ingolstadt,1860 München,r36pztzv4rtrzmxjv552im1g,5ohjupshs0ulf6jne9aemxudw
+2024-08-31,4,Arminia Bielefeld 1-1 Sandhausen,Arminia Bielefeld,Sandhausen,r36pztzv4rtrzmxjv552im1g,5o44da5pkbmvukdekmmxlx2xg
+2024-08-31,4,Dynamo Dresden 2-0 Stuttgart II,Dynamo Dresden,Stuttgart II,r36pztzv4rtrzmxjv552im1g,5mzdhjce2iyo30zpkzdc3vspg
+2024-08-31,4,Waldhof Mannheim 0-1 Saarbrücken,Waldhof Mannheim,Saarbrücken,r36pztzv4rtrzmxjv552im1g,5m9cnct0zfpqvnizin9jjr5zo
+2024-08-31,4,Alemannia Aachen 1-2 Erzgebirge Aue,Alemannia Aachen,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,5lwam80egwouge535ydc5c4d0
+2024-08-30,4,Viktoria Köln 3-0 Hansa Rostock,Viktoria Köln,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,5oun93wdp1lgw3xqusnf8uh3o
+2024-08-25,3,Stuttgart II 2-2 Wehen Wiesbaden,Stuttgart II,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,5imouoy28py3v5kkhv6rlqw44
+2024-08-25,3,Verl 1-1 Waldhof Mannheim,Verl,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,5kfx32ui7yc96rjbmdiry10d0
+2024-08-25,3,1860 München 1-3 Viktoria Köln,1860 München,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,5k2sqgj4m14ys07k3wlyf0cgk
+2024-08-24,3,Energie Cottbus 2-1 Alemannia Aachen,Energie Cottbus,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,5l5zcmfzords42smc16gv0kd0
+2024-08-24,3,Sandhausen 0-1 Hannover 96 II,Sandhausen,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,5lj72o9sbnbauqqeoufkjyiok
+2024-08-24,3,Saarbrücken 2-3 Ingolstadt,Saarbrücken,Ingolstadt,r36pztzv4rtrzmxjv552im1g,5ksz4ib72jilhbxo2to1b69sk
+2024-08-24,3,Rot-Weiss Essen 0-0 Arminia Bielefeld,Rot-Weiss Essen,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,5jpq7agbcl44xguiivtt4jtw4
+2024-08-24,3,Hansa Rostock 1-1 Borussia Dortmund II,Hansa Rostock,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,5jcnuv6tgzbxvgade91to6q6s
+2024-08-24,3,Osnabrück 4-2 Unterhaching,Osnabrück,Unterhaching,r36pztzv4rtrzmxjv552im1g,5izpp1n31ccrr3fywioz2bdas
+2024-08-23,3,Erzgebirge Aue 2-0 Dynamo Dresden,Erzgebirge Aue,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,5i7x7y2y8ek5i7c5r4m41ec5w
+2024-08-11,2,Saarbrücken 0-1 Sandhausen,Saarbrücken,Sandhausen,r36pztzv4rtrzmxjv552im1g,5exn7hz5nemxeayqvnrl5hw5w
+2024-08-11,2,Stuttgart II 3-1 1860 München,Stuttgart II,1860 München,r36pztzv4rtrzmxjv552im1g,5faq12ayqsd0r1x8rim0bnuok
+2024-08-11,2,Hannover 96 II 1-3 Rot-Weiss Essen,Hannover 96 II,Rot-Weiss Essen,r36pztzv4rtrzmxjv552im1g,5fnxlh05ym7qxnjmt9ye4nrbo
+2024-08-10,2,Arminia Bielefeld 1-0 Borussia Dortmund II,Arminia Bielefeld,Borussia Dortmund II,r36pztzv4rtrzmxjv552im1g,5grvs7o6xq2cf30dmf35kl5as
+2024-08-10,2,Alemannia Aachen 1-1 Verl,Alemannia Aachen,Verl,r36pztzv4rtrzmxjv552im1g,5huvgnha1gjvyarigro49k36c
+2024-08-10,2,Osnabrück 0-2 Erzgebirge Aue,Osnabrück,Erzgebirge Aue,r36pztzv4rtrzmxjv552im1g,5hhula32nifb2nyw6gz8rlqtw
+2024-08-10,2,Waldhof Mannheim 1-2 Viktoria Köln,Waldhof Mannheim,Viktoria Köln,r36pztzv4rtrzmxjv552im1g,5h4rqx5yzbw8e0m8kpf464kd0
+2024-08-10,2,Wehen Wiesbaden 1-0 Hansa Rostock,Wehen Wiesbaden,Hansa Rostock,r36pztzv4rtrzmxjv552im1g,5g1hufrde9ibcr1ulone6ubys
+2024-08-10,2,Unterhaching 2-1 Ingolstadt,Unterhaching,Ingolstadt,r36pztzv4rtrzmxjv552im1g,5eki8lls6co73yue2welrdams
+2024-08-09,2,Dynamo Dresden 4-2 Energie Cottbus,Dynamo Dresden,Energie Cottbus,r36pztzv4rtrzmxjv552im1g,5gertfsbp5iumxpcqu34h1638
+2024-08-04,1,Ingolstadt 2-1 Waldhof Mannheim,Ingolstadt,Waldhof Mannheim,r36pztzv4rtrzmxjv552im1g,5d9zu2r9ifdbckgp8hno5dfro
+2024-08-04,1,Energie Cottbus 1-2 Arminia Bielefeld,Energie Cottbus,Arminia Bielefeld,r36pztzv4rtrzmxjv552im1g,5dri12e6albvagkvx5luxsff8
+2024-08-04,1,Viktoria Köln 1-2 Dynamo Dresden,Viktoria Köln,Dynamo Dresden,r36pztzv4rtrzmxjv552im1g,5b1gp31xaqbs2zwrz9prmw2dw
+2024-08-03,1,Hansa Rostock 1-1 Stuttgart II,Hansa Rostock,Stuttgart II,r36pztzv4rtrzmxjv552im1g,5bxjq5gbe4amx29ea9q0h5wr8
+2024-08-03,1,Sandhausen 1-0 Osnabrück,Sandhausen,Osnabrück,r36pztzv4rtrzmxjv552im1g,5e7g87p00xmlvlj25fpdjtr84
+2024-08-03,1,Verl 2-2 Wehen Wiesbaden,Verl,Wehen Wiesbaden,r36pztzv4rtrzmxjv552im1g,5cttmp39u7h4goosjj2j7sjro
+2024-08-03,1,Borussia Dortmund II 3-0 Unterhaching,Borussia Dortmund II,Unterhaching,r36pztzv4rtrzmxjv552im1g,5cdnyweadryv1hw7dvcd2htlg
+2024-08-03,1,Erzgebirge Aue 2-1 Hannover 96 II,Erzgebirge Aue,Hannover 96 II,r36pztzv4rtrzmxjv552im1g,5bhf8qryw5ltvvbodj3bu43ro
+2024-08-03,1,Rot-Weiss Essen 1-2 Alemannia Aachen,Rot-Weiss Essen,Alemannia Aachen,r36pztzv4rtrzmxjv552im1g,5albg7erjmmlxqx6sno4gxkic
+2024-08-02,1,1860 München 0-1 Saarbrücken,1860 München,Saarbrücken,r36pztzv4rtrzmxjv552im1g,5a1y3ys8fqoxqmrm4xmi2oduc
