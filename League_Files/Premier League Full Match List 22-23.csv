@@ -1,0 +1,381 @@
+﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2023-05-28,38,Southampton 4-4 Liverpool,Southampton,Liverpool,80foo89mm28qjvyhjzlpwj28k,8dcpa3h5ct098c9huu7k5uqdw
+2023-05-28,38,Manchester United 2-1 Fulham,Manchester United,Fulham,80foo89mm28qjvyhjzlpwj28k,8d91bnpqvzq5w4j4sice62i38
+2023-05-28,38,Leicester City 2-1 West Ham United,Leicester City,West Ham United,80foo89mm28qjvyhjzlpwj28k,8d5afkfjgwypiqbucz8xhm1hw
+2023-05-28,38,Leeds United 1-4 Tottenham Hotspur,Leeds United,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,8d1oakp0tm9d840r29g3gbztg
+2023-05-28,38,Everton 1-0 AFC Bournemouth,Everton,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,8cxyfua16yckz5069m8j5sqhg
+2023-05-28,38,Crystal Palace 1-1 Nottingham Forest,Crystal Palace,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,8cu8riauedpbidggix9ci6yhg
+2023-05-28,38,Chelsea 1-1 Newcastle United,Chelsea,Newcastle United,80foo89mm28qjvyhjzlpwj28k,8cqc8i3qvtutp7b0vjs9xnj84
+2023-05-28,38,Brentford 1-0 Manchester City,Brentford,Manchester City,80foo89mm28qjvyhjzlpwj28k,8cmntai9uu0s52o53rvtjg8ic
+2023-05-28,38,Aston Villa 2-1 Brighton & Hove Albion,Aston Villa,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,8ch56xfolvefvs1nui08bbk7o
+2023-05-28,38,Arsenal 5-0 Wolverhampton Wanderers,Arsenal,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,8cdcpvo7lpl9de1zr9yvmhudw
+2023-05-25,32,Manchester United 4-1 Chelsea,Manchester United,Chelsea,80foo89mm28qjvyhjzlpwj28k,86si0oarjjadt37dlfuy22yok
+2023-05-24,32,Brighton & Hove Albion 1-1 Manchester City,Brighton & Hove Albion,Manchester City,80foo89mm28qjvyhjzlpwj28k,869q7k4a8qnq5or2pah9ntgyc
+2023-05-22,37,Newcastle United 0-0 Leicester City,Newcastle United,Leicester City,80foo89mm28qjvyhjzlpwj28k,8bubffc54qa5l85e3lfefscno
+2023-05-21,37,Manchester City 1-0 Chelsea,Manchester City,Chelsea,80foo89mm28qjvyhjzlpwj28k,8bqjv9zju5um4f2tr8dg3unmc
+2023-05-21,37,Brighton & Hove Albion 3-1 Southampton,Brighton & Hove Albion,Southampton,80foo89mm28qjvyhjzlpwj28k,8bf61f45jzpsf87j6qusty0wk
+2023-05-21,37,West Ham United 3-1 Leeds United,West Ham United,Leeds United,80foo89mm28qjvyhjzlpwj28k,8c5ncqdnlput4qi5yuszelhjo
+2023-05-20,37,Nottingham Forest 1-0 Arsenal,Nottingham Forest,Arsenal,80foo89mm28qjvyhjzlpwj28k,8by1k0st6tmes250lwujh49hw
+2023-05-20,37,Wolverhampton Wanderers 1-1 Everton,Wolverhampton Wanderers,Everton,80foo89mm28qjvyhjzlpwj28k,8c9ghgjwruqpmgsdlgmzvepzo
+2023-05-20,37,Liverpool 1-1 Aston Villa,Liverpool,Aston Villa,80foo89mm28qjvyhjzlpwj28k,8bmpdp81luuna82e7ek5pbdhw
+2023-05-20,37,Fulham 2-2 Crystal Palace,Fulham,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,8bj08dy4zraz4o6clo9jat5as
+2023-05-20,37,AFC Bournemouth 0-1 Manchester United,AFC Bournemouth,Manchester United,80foo89mm28qjvyhjzlpwj28k,8bbffgwnbiq4b4de350y0ujh0
+2023-05-20,37,Tottenham Hotspur 1-3 Brentford,Tottenham Hotspur,Brentford,80foo89mm28qjvyhjzlpwj28k,8c1tbladwt1e0rlnvvbjhdb10
+2023-05-18,25,Newcastle United 4-1 Brighton & Hove Albion,Newcastle United,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7z6d5j17z5j8mb4m8mf96hz4k
+2023-05-15,36,Leicester City 0-3 Liverpool,Leicester City,Liverpool,80foo89mm28qjvyhjzlpwj28k,8b067arwxk39b25enzfieavx0
+2023-05-14,36,Arsenal 0-3 Brighton & Hove Albion,Arsenal,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,8a8s66jck6oiwr4lr2lacgv84
+2023-05-14,36,Everton 0-3 Manchester City,Everton,Manchester City,80foo89mm28qjvyhjzlpwj28k,8aswuf67flnbl8f8gd3llotuc
+2023-05-14,36,Brentford 2-0 West Ham United,Brentford,West Ham United,80foo89mm28qjvyhjzlpwj28k,8ag5hioptfdkny9nw3zo8lo9g
+2023-05-13,36,Southampton 0-2 Fulham,Southampton,Fulham,80foo89mm28qjvyhjzlpwj28k,8b7np759y1dddj82b2sn6jor8
+2023-05-13,36,Manchester United 2-0 Wolverhampton Wanderers,Manchester United,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,8b3yzc4ifrwl29rf9k18wahas
+2023-05-13,36,Crystal Palace 2-0 AFC Bournemouth,Crystal Palace,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,8anlhxtqf1l1ayoh0ql4yia6s
+2023-05-13,36,Chelsea 2-2 Nottingham Forest,Chelsea,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,8ajvf1llitb7ltqp13tw2u4us
+2023-05-13,36,Aston Villa 2-1 Tottenham Hotspur,Aston Villa,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,8acf547s3fut2irrwwxbdeqdw
+2023-05-13,36,Leeds United 2-2 Newcastle United,Leeds United,Newcastle United,80foo89mm28qjvyhjzlpwj28k,8awjomda4v09cqep3xh3h16vo
+2023-05-08,35,Nottingham Forest 4-3 Southampton,Nottingham Forest,Southampton,80foo89mm28qjvyhjzlpwj28k,89u04bd8xuzdokpxiw4iaxams
+2023-05-08,35,Brighton & Hove Albion 1-5 Everton,Brighton & Hove Albion,Everton,80foo89mm28qjvyhjzlpwj28k,89axibt6c3fkey0rxe1h6lu6s
+2023-05-08,35,Fulham 5-3 Leicester City,Fulham,Leicester City,80foo89mm28qjvyhjzlpwj28k,89er1ie44l39tryyvwheui32s
+2023-05-07,35,West Ham United 1-0 Manchester United,West Ham United,Manchester United,80foo89mm28qjvyhjzlpwj28k,8a1ench5115tnikmkkxf5b6dw
+2023-05-07,35,Newcastle United 0-2 Arsenal,Newcastle United,Arsenal,80foo89mm28qjvyhjzlpwj28k,89pubjwxwhq0hg3ef4nw5q978
+2023-05-06,35,Liverpool 1-0 Brentford,Liverpool,Brentford,80foo89mm28qjvyhjzlpwj28k,89iefcwou7gxquvouyfmkq7tg
+2023-05-06,35,Wolverhampton Wanderers 1-0 Aston Villa,Wolverhampton Wanderers,Aston Villa,80foo89mm28qjvyhjzlpwj28k,8a50vbr14rsepp5zk7i5y38yc
+2023-05-06,35,Tottenham Hotspur 1-0 Crystal Palace,Tottenham Hotspur,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,89xou0mm86610xlg6v4p1pgr8
+2023-05-06,35,Manchester City 2-1 Leeds United,Manchester City,Leeds United,80foo89mm28qjvyhjzlpwj28k,89m5puw4ny6iwcfdbpma7tz4k
+2023-05-06,35,AFC Bournemouth 1-3 Chelsea,AFC Bournemouth,Chelsea,80foo89mm28qjvyhjzlpwj28k,89770bx3eqnoegj2xtl4nwkd0
+2023-05-04,28,Brighton & Hove Albion 1-0 Manchester United,Brighton & Hove Albion,Manchester United,80foo89mm28qjvyhjzlpwj28k,820mdic5xskesuc6tj9rz8n4k
+2023-05-03,28,Manchester City 3-0 West Ham United,Manchester City,West Ham United,80foo89mm28qjvyhjzlpwj28k,82by5cv7bir8tp4hemr7psmj8
+2023-05-03,28,Liverpool 1-0 Fulham,Liverpool,Fulham,80foo89mm28qjvyhjzlpwj28k,82869wmdlyczovsrynosrsxzo
+2023-05-02,34,Arsenal 3-1 Chelsea,Arsenal,Chelsea,80foo89mm28qjvyhjzlpwj28k,887fp0ih4vl22bqcj23x73klw
+2023-05-01,34,Leicester City 2-2 Everton,Leicester City,Everton,80foo89mm28qjvyhjzlpwj28k,88qs0uu5s2cvyg7xt6swg9s0k
+2023-04-30,34,Liverpool 4-3 Tottenham Hotspur,Liverpool,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,88uehw52oiejlcbagwqu0fcpg
+2023-04-30,34,Newcastle United 3-1 Southampton,Newcastle United,Southampton,80foo89mm28qjvyhjzlpwj28k,893f5pbyws2y6oas0xk4jhxck
+2023-04-30,34,Manchester United 1-0 Aston Villa,Manchester United,Aston Villa,80foo89mm28qjvyhjzlpwj28k,88zrhl9dyd9m55ohbez52rkes
+2023-04-30,34,Fulham 1-2 Manchester City,Fulham,Manchester City,80foo89mm28qjvyhjzlpwj28k,88my9m2nocl6w3j6evx2y61as
+2023-04-30,34,AFC Bournemouth 4-1 Leeds United,AFC Bournemouth,Leeds United,80foo89mm28qjvyhjzlpwj28k,883pas40nvq9lfaqgsy611nh0
+2023-04-29,34,Brighton & Hove Albion 6-0 Wolverhampton Wanderers,Brighton & Hove Albion,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,88fa6yvk5w643yrscyze2dul0
+2023-04-29,34,Brentford 2-1 Nottingham Forest,Brentford,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,88b9jotg74i5p781rwn8esnx0
+2023-04-29,34,Crystal Palace 4-3 West Ham United,Crystal Palace,West Ham United,80foo89mm28qjvyhjzlpwj28k,88jak6uibii7i7invsyprdk44
+2023-04-27,33,Tottenham Hotspur 2-2 Manchester United,Tottenham Hotspur,Manchester United,80foo89mm28qjvyhjzlpwj28k,87gvuvkrxsq4u6o1x9muqan84
+2023-04-27,33,Southampton 0-1 AFC Bournemouth,Southampton,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,87zwq1f3iw8hqyqdeaebc85jo
+2023-04-27,33,Everton 1-4 Newcastle United,Everton,Newcastle United,80foo89mm28qjvyhjzlpwj28k,875qqv93zsg9ltkucxo0vrfh0
+2023-04-26,33,Manchester City 4-1 Arsenal,Manchester City,Arsenal,80foo89mm28qjvyhjzlpwj28k,87w5iwmmv41ih41ozw5ec44yc
+2023-04-26,33,Chelsea 0-2 Brentford,Chelsea,Brentford,80foo89mm28qjvyhjzlpwj28k,87sa6wfck14hcfedaggy1fyms
+2023-04-26,33,West Ham United 1-2 Liverpool,West Ham United,Liverpool,80foo89mm28qjvyhjzlpwj28k,87koi6vdnxxj8dp9c8eqmsnx0
+2023-04-26,33,Nottingham Forest 3-1 Brighton & Hove Albion,Nottingham Forest,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,87d6rpr6im2rhwvz5oy1plgyc
+2023-04-25,33,Leeds United 1-1 Leicester City,Leeds United,Leicester City,80foo89mm28qjvyhjzlpwj28k,879gm1gilkzi54kn5dotuc1sk
+2023-04-25,33,Aston Villa 1-0 Fulham,Aston Villa,Fulham,80foo89mm28qjvyhjzlpwj28k,8703160yc6j3utg39a7g9rzmc
+2023-04-25,33,Wolverhampton Wanderers 2-0 Crystal Palace,Wolverhampton Wanderers,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,87oeuavxktwkh4q5diadtbcpg
+2023-04-23,32,Newcastle United 6-1 Tottenham Hotspur,Newcastle United,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,86wbm9amnb65rhye76n0u2rkk
+2023-04-23,32,AFC Bournemouth 0-4 West Ham United,AFC Bournemouth,West Ham United,80foo89mm28qjvyhjzlpwj28k,85yimwn4z3kst3peylx2p7nys
+2023-04-22,32,Liverpool 3-2 Nottingham Forest,Liverpool,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,86os5msciw0qnk3gdd9n8pk44
+2023-04-22,32,Leicester City 2-1 Wolverhampton Wanderers,Leicester City,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,86kwhx6hzg4soaggjj5jc9tlg
+2023-04-22,32,Crystal Palace 0-0 Everton,Crystal Palace,Everton,80foo89mm28qjvyhjzlpwj28k,86ddo875nw2scsthtvduc0mj8
+2023-04-22,32,Brentford 1-1 Aston Villa,Brentford,Aston Villa,80foo89mm28qjvyhjzlpwj28k,865z3bvnnxy2emsdq43hifz84
+2023-04-22,32,Fulham 2-1 Leeds United,Fulham,Leeds United,80foo89mm28qjvyhjzlpwj28k,86h5fvvyaajecwdvjctyj34t0
+2023-04-21,32,Arsenal 3-3 Southampton,Arsenal,Southampton,80foo89mm28qjvyhjzlpwj28k,8627gttl9s44j98l1784aufx0
+2023-04-17,31,Leeds United 1-6 Liverpool,Leeds United,Liverpool,80foo89mm28qjvyhjzlpwj28k,856nk0343bqqsn34gglrap3x0
+2023-04-16,31,Nottingham Forest 0-2 Manchester United,Nottingham Forest,Manchester United,80foo89mm28qjvyhjzlpwj28k,85fl77xa4ku7q8n091xkm153o
+2023-04-16,31,West Ham United 2-2 Arsenal,West Ham United,Arsenal,80foo89mm28qjvyhjzlpwj28k,85qqs44yn14i0ew9lp6660qvo
+2023-04-15,31,Manchester City 3-1 Leicester City,Manchester City,Leicester City,80foo89mm28qjvyhjzlpwj28k,85c1wzdeviqmgmmb25k8oqrkk
+2023-04-15,31,Tottenham Hotspur 2-3 AFC Bournemouth,Tottenham Hotspur,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,85mzgy97tmviwsuazepb8szdg
+2023-04-15,31,Wolverhampton Wanderers 2-0 Brentford,Wolverhampton Wanderers,Brentford,80foo89mm28qjvyhjzlpwj28k,85umzn1dxqx0msl3aeojqv95g
+2023-04-15,31,Southampton 0-2 Crystal Palace,Southampton,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,85ja7tzx2g6sla41binpj9nh0
+2023-04-15,31,Everton 1-3 Fulham,Everton,Fulham,80foo89mm28qjvyhjzlpwj28k,85311sjawkaqps0vpdsafqlg4
+2023-04-15,31,Chelsea 1-2 Brighton & Hove Albion,Chelsea,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,84zd8ucs5tf0hck8qe4z2hc7o
+2023-04-15,31,Aston Villa 3-0 Newcastle United,Aston Villa,Newcastle United,80foo89mm28qjvyhjzlpwj28k,84vppb7uceqldtjzbftnhxes4
+2023-04-09,30,Liverpool 2-2 Arsenal,Liverpool,Arsenal,80foo89mm28qjvyhjzlpwj28k,84d5bpoe6452qvrce5nhai4no
+2023-04-09,30,Leeds United 1-5 Crystal Palace,Leeds United,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,845jfwpwth4obdduf9qzkjitw
+2023-04-08,30,Southampton 1-4 Manchester City,Southampton,Manchester City,80foo89mm28qjvyhjzlpwj28k,84kkaagbsi1qu4omlf12q0glw
+2023-04-08,30,Wolverhampton Wanderers 1-0 Chelsea,Wolverhampton Wanderers,Chelsea,80foo89mm28qjvyhjzlpwj28k,84ryqsgaz8qivpumfi2cb3klw
+2023-04-08,30,Tottenham Hotspur 2-1 Brighton & Hove Albion,Tottenham Hotspur,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,84o8f2iptsk9sahd3ch7k6j2s
+2023-04-08,30,Leicester City 0-1 AFC Bournemouth,Leicester City,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,849dmb2hoyttcphka0wz862hg
+2023-04-08,30,Fulham 0-1 West Ham United,Fulham,West Ham United,80foo89mm28qjvyhjzlpwj28k,841u97q9hf2ulxm71yaw3blsk
+2023-04-08,30,Brentford 1-2 Newcastle United,Brentford,Newcastle United,80foo89mm28qjvyhjzlpwj28k,83y49jd2l48wus172suuva39w
+2023-04-08,30,Aston Villa 2-0 Nottingham Forest,Aston Villa,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,83ugwgddthnoogte0han63cwk
+2023-04-08,30,Manchester United 2-0 Everton,Manchester United,Everton,80foo89mm28qjvyhjzlpwj28k,84gworu5j3cveuoyvoxhl6has
+2023-04-05,25,Manchester United 1-0 Brentford,Manchester United,Brentford,80foo89mm28qjvyhjzlpwj28k,7z2hyqdsmyo99zcx09wmdsg7o
+2023-04-05,7,West Ham United 1-5 Newcastle United,West Ham United,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7fjga6gl9ty1b7l0fg2j7qsk4
+2023-04-04,8,Chelsea 0-0 Liverpool,Chelsea,Liverpool,80foo89mm28qjvyhjzlpwj28k,7fyo4rhkdmonwjjdqgiqv23o4
+2023-04-04,7,Leicester City 1-2 Aston Villa,Leicester City,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7f24hx2we11zxgsvmxop1hdzo
+2023-04-04,7,Leeds United 2-1 Nottingham Forest,Leeds United,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7eyflh07pvmpsl4gikocglt04
+2023-04-04,7,AFC Bournemouth 0-2 Brighton & Hove Albion,AFC Bournemouth,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7ejkkrfda38qjdnmcbwplf66s
+2023-04-03,29,Everton 1-1 Tottenham Hotspur,Everton,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,839s24huiy6wu5amhq48ian84
+2023-04-02,29,Newcastle United 2-0 Manchester United,Newcastle United,Manchester United,80foo89mm28qjvyhjzlpwj28k,83j84nzr89rzqzualnfzid4ic
+2023-04-02,29,West Ham United 1-0 Southampton,West Ham United,Southampton,80foo89mm28qjvyhjzlpwj28k,83qrb15pmv3g94j3uu8xna2hg
+2023-04-01,29,Chelsea 0-2 Aston Villa,Chelsea,Aston Villa,80foo89mm28qjvyhjzlpwj28k,832egw0poig51bxto04871edw
+2023-04-01,29,Nottingham Forest 1-1 Wolverhampton Wanderers,Nottingham Forest,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,83n1w0duabsqlzpor5flre9ec
+2023-04-01,29,Crystal Palace 2-1 Leicester City,Crystal Palace,Leicester City,80foo89mm28qjvyhjzlpwj28k,8362yz3m5oqyj4lg1tk41pedw
+2023-04-01,29,Brighton & Hove Albion 3-3 Brentford,Brighton & Hove Albion,Brentford,80foo89mm28qjvyhjzlpwj28k,82ymhttz7kt7t7lpifg35tfro
+2023-04-01,29,Arsenal 4-1 Leeds United,Arsenal,Leeds United,80foo89mm28qjvyhjzlpwj28k,82uv0iweqdtwoxumyxluw2mfo
+2023-04-01,29,AFC Bournemouth 2-1 Fulham,AFC Bournemouth,Fulham,80foo89mm28qjvyhjzlpwj28k,82qxevqxnsvn03tioa77ltp90
+2023-04-01,29,Manchester City 4-1 Liverpool,Manchester City,Liverpool,80foo89mm28qjvyhjzlpwj28k,83djcxkpqo9cw6xndwomo8jro
+2023-03-19,28,Arsenal 4-1 Crystal Palace,Arsenal,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,81pedj36mi2hh47jx6jirj2fo
+2023-03-18,28,Chelsea 2-2 Everton,Chelsea,Everton,80foo89mm28qjvyhjzlpwj28k,824ildm3s9c1fjd1wojxr92xg
+2023-03-18,28,Wolverhampton Wanderers 2-4 Leeds United,Wolverhampton Wanderers,Leeds United,80foo89mm28qjvyhjzlpwj28k,82n97i84xi8nfpe56k9ofr95g
+2023-03-18,28,Southampton 3-3 Tottenham Hotspur,Southampton,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,82jlwg7galvu7ixvjuy498bo4
+2023-03-18,28,Brentford 1-1 Leicester City,Brentford,Leicester City,80foo89mm28qjvyhjzlpwj28k,81wwat5ifa6z6d886gnsbdbf8
+2023-03-18,28,Aston Villa 3-0 AFC Bournemouth,Aston Villa,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,81t0w979mvz5kg9urx0nx8h78
+2023-03-17,28,Nottingham Forest 1-2 Newcastle United,Nottingham Forest,Newcastle United,80foo89mm28qjvyhjzlpwj28k,82fts0pgmtwq8550jncy6kob8
+2023-03-15,8,Brighton & Hove Albion 1-0 Crystal Palace,Brighton & Hove Albion,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7fuszx8yumtlau1tzpgo8ct1w
+2023-03-15,7,Southampton 0-2 Brentford,Southampton,Brentford,80foo89mm28qjvyhjzlpwj28k,7ffn69y1bavnqie7bx9xkiln8
+2023-03-12,27,Newcastle United 2-1 Wolverhampton Wanderers,Newcastle United,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,81c8a39qivfg84seg2dh06f4k
+2023-03-12,27,West Ham United 1-1 Aston Villa,West Ham United,Aston Villa,80foo89mm28qjvyhjzlpwj28k,81k14lr3a2ascfocpd24u8duc
+2023-03-12,27,Manchester United 0-0 Southampton,Manchester United,Southampton,80foo89mm28qjvyhjzlpwj28k,818au0h00uprd81ucm13z60b8
+2023-03-12,27,Fulham 0-3 Arsenal,Fulham,Arsenal,80foo89mm28qjvyhjzlpwj28k,80wo7ssolxn5ccvk7pgd4t1qs
+2023-03-11,27,Crystal Palace 0-1 Manchester City,Crystal Palace,Manchester City,80foo89mm28qjvyhjzlpwj28k,80p0s2p5uf42bf98y9zoa0xzo
+2023-03-11,27,Tottenham Hotspur 3-1 Nottingham Forest,Tottenham Hotspur,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,81g3ywkb13h8fuwwf8l0uritw
+2023-03-11,27,Leicester City 1-3 Chelsea,Leicester City,Chelsea,80foo89mm28qjvyhjzlpwj28k,814gku9knisw6v40n0fhm05jo
+2023-03-11,27,Leeds United 2-2 Brighton & Hove Albion,Leeds United,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,810gnh9ry25lc42iv0gxb105w
+2023-03-11,27,Everton 1-0 Brentford,Everton,Brentford,80foo89mm28qjvyhjzlpwj28k,80sozcdp3ewakjyjiyr2f4178
+2023-03-11,27,AFC Bournemouth 1-0 Liverpool,AFC Bournemouth,Liverpool,80foo89mm28qjvyhjzlpwj28k,80l75lws9fdo9q0c73irvwges
+2023-03-06,26,Brentford 3-2 Fulham,Brentford,Fulham,80foo89mm28qjvyhjzlpwj28k,7zpayoqo0gxyqc6hdg823pfkk
+2023-03-05,26,Liverpool 7-0 Manchester United,Liverpool,Manchester United,80foo89mm28qjvyhjzlpwj28k,8020iin6zomm7gy2dpd53q5n8
+2023-03-05,26,Nottingham Forest 2-2 Everton,Nottingham Forest,Everton,80foo89mm28qjvyhjzlpwj28k,809ojyqo3z8ih4krox5xkhjpw
+2023-03-04,26,Southampton 1-0 Leicester City,Southampton,Leicester City,80foo89mm28qjvyhjzlpwj28k,80dglm64qye6sv02og94njx90
+2023-03-04,26,Wolverhampton Wanderers 1-0 Tottenham Hotspur,Wolverhampton Wanderers,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,80hadwhjjuamxerulqkzb9dzo
+2023-03-04,26,Chelsea 1-0 Leeds United,Chelsea,Leeds United,80foo89mm28qjvyhjzlpwj28k,7zy79vflo756pvk3m2jo0uhw4
+2023-03-04,26,Brighton & Hove Albion 4-0 West Ham United,Brighton & Hove Albion,West Ham United,80foo89mm28qjvyhjzlpwj28k,7zumcohvc4rzy9oq51bhysvtg
+2023-03-04,26,Aston Villa 1-0 Crystal Palace,Aston Villa,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7zlk9ygmr74uykys95w8b0ob8
+2023-03-04,26,Arsenal 3-2 AFC Bournemouth,Arsenal,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7zhpi4cst2axiks84piig14pg
+2023-03-04,26,Manchester City 2-0 Newcastle United,Manchester City,Newcastle United,80foo89mm28qjvyhjzlpwj28k,805uk2gh0x1y0n4jnbc4apvkk
+2023-03-01,7,Liverpool 2-0 Wolverhampton Wanderers,Liverpool,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7f7j270vjgdfi7dprop28p53o
+2023-03-01,7,Arsenal 4-0 Everton,Arsenal,Everton,80foo89mm28qjvyhjzlpwj28k,7en91ug4qtmrld0dc0cy8v76c
+2023-02-26,25,Tottenham Hotspur 2-0 Chelsea,Tottenham Hotspur,Chelsea,80foo89mm28qjvyhjzlpwj28k,7za7786j6f1ad4tbk40rcusyc
+2023-02-25,25,Crystal Palace 0-0 Liverpool,Crystal Palace,Liverpool,80foo89mm28qjvyhjzlpwj28k,7yjghbrkci0pldqp7z31l2sk4
+2023-02-25,25,AFC Bournemouth 1-4 Manchester City,AFC Bournemouth,Manchester City,80foo89mm28qjvyhjzlpwj28k,7yflxicj0v2t6iikegotlwzro
+2023-02-25,25,West Ham United 4-0 Nottingham Forest,West Ham United,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7zdzyx5m4vvi413ar8upnogt0
+2023-02-25,25,Leicester City 0-1 Arsenal,Leicester City,Arsenal,80foo89mm28qjvyhjzlpwj28k,7yyrrfmgekcs5n0kl4txzksus
+2023-02-25,25,Leeds United 1-0 Southampton,Leeds United,Southampton,80foo89mm28qjvyhjzlpwj28k,7yv1bltq90abib96x86fouh3o
+2023-02-25,25,Everton 0-2 Aston Villa,Everton,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7yn9lcz3w6cojutdvvb5di784
+2023-02-24,25,Fulham 1-1 Wolverhampton Wanderers,Fulham,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7yr5t9j4weqkab2xy0zctufbo
+2023-02-19,24,Tottenham Hotspur 2-0 West Ham United,Tottenham Hotspur,West Ham United,80foo89mm28qjvyhjzlpwj28k,7y83gqxrymtft7p7d2te0pz4k
+2023-02-19,24,Manchester United 3-0 Leicester City,Manchester United,Leicester City,80foo89mm28qjvyhjzlpwj28k,7xv56tiwivy24ygojle5v1c0k
+2023-02-18,24,Newcastle United 0-2 Liverpool,Newcastle United,Liverpool,80foo89mm28qjvyhjzlpwj28k,7y0qdqkmpvd9zplwyes8j9250
+2023-02-18,24,Wolverhampton Wanderers 0-1 AFC Bournemouth,Wolverhampton Wanderers,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7ybxrpkye8ud8nsm0w20qd250
+2023-02-18,24,Nottingham Forest 1-1 Manchester City,Nottingham Forest,Manchester City,80foo89mm28qjvyhjzlpwj28k,7y4fhxirsaxzcxe3xase5g104
+2023-02-18,24,Everton 1-0 Leeds United,Everton,Leeds United,80foo89mm28qjvyhjzlpwj28k,7xrb7eiw3olwl6rtmmtz7orv8
+2023-02-18,24,Chelsea 0-1 Southampton,Chelsea,Southampton,80foo89mm28qjvyhjzlpwj28k,7xnj5obkm7m0jbboj8wchwv10
+2023-02-18,24,Brighton & Hove Albion 0-1 Fulham,Brighton & Hove Albion,Fulham,80foo89mm28qjvyhjzlpwj28k,7xjjwwlh6qwlcbrv98qyzbqj8
+2023-02-18,24,Brentford 1-1 Crystal Palace,Brentford,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7xfqeosl8xjf9jvupuwmubod0
+2023-02-18,24,Aston Villa 2-4 Arsenal,Aston Villa,Arsenal,80foo89mm28qjvyhjzlpwj28k,7xbw9vex02ujde10533pr9lw4
+2023-02-15,12,Arsenal 1-3 Manchester City,Arsenal,Manchester City,80foo89mm28qjvyhjzlpwj28k,7k69f1t5qrvj8by5f7aqipvkk
+2023-02-13,23,Liverpool 2-0 Everton,Liverpool,Everton,80foo89mm28qjvyhjzlpwj28k,7wvxewsmznlrwicyn7poxzl04
+2023-02-12,23,Manchester City 3-1 Aston Villa,Manchester City,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7wzz0g4na4qou8jm3dxcwymfo
+2023-02-12,23,Leeds United 0-2 Manchester United,Leeds United,Manchester United,80foo89mm28qjvyhjzlpwj28k,7wo4fw5hxyfqkcvt77lsugq38
+2023-02-11,23,AFC Bournemouth 1-1 Newcastle United,AFC Bournemouth,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7w84q7fdip4gxokffz3k6bl78
+2023-02-11,23,Southampton 1-2 Wolverhampton Wanderers,Southampton,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7x4877sgfp81k06pri1cbdhqs
+2023-02-11,23,Leicester City 4-1 Tottenham Hotspur,Leicester City,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7ws18wxzkxe4ro1yryzbf7vh0
+2023-02-11,23,Fulham 2-0 Nottingham Forest,Fulham,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7wjffxkb60o73ch3hgb3hwyz8
+2023-02-11,23,Crystal Palace 1-1 Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7wfmvb50k98lleppnn22e6rdg
+2023-02-11,23,Arsenal 1-1 Brentford,Arsenal,Brentford,80foo89mm28qjvyhjzlpwj28k,7wbwzoptxevhqinsjq3c7gums
+2023-02-11,23,West Ham United 1-1 Chelsea,West Ham United,Chelsea,80foo89mm28qjvyhjzlpwj28k,7x82b732f0vzhvv9hio60ql90
+2023-02-08,8,Manchester United 2-2 Leeds United,Manchester United,Leeds United,80foo89mm28qjvyhjzlpwj28k,7g67290xscobcqxo6lwqm8h04
+2023-02-05,22,Tottenham Hotspur 1-0 Manchester City,Tottenham Hotspur,Manchester City,80foo89mm28qjvyhjzlpwj28k,7vywu4rcufiim96sbao9b75ec
+2023-02-05,22,Nottingham Forest 1-0 Leeds United,Nottingham Forest,Leeds United,80foo89mm28qjvyhjzlpwj28k,7vuziaiqxnymp0q83ytrz78k4
+2023-02-04,22,Newcastle United 1-1 West Ham United,Newcastle United,West Ham United,80foo89mm28qjvyhjzlpwj28k,7vr0rqha1yceg3d0xcikqaihg
+2023-02-04,22,Wolverhampton Wanderers 3-0 Liverpool,Wolverhampton Wanderers,Liverpool,80foo89mm28qjvyhjzlpwj28k,7w4dbdgwoblqki3khqdkdbwgk
+2023-02-04,22,Manchester United 2-1 Crystal Palace,Manchester United,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7vn2fb40tqbznty45p8jbgrh0
+2023-02-04,22,Brighton & Hove Albion 1-0 AFC Bournemouth,Brighton & Hove Albion,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7vbp17l71dmwphlkkumuonaqc
+2023-02-04,22,Brentford 3-0 Southampton,Brentford,Southampton,80foo89mm28qjvyhjzlpwj28k,7v7qzkjwej4jkrfqt5pll4mxg
+2023-02-04,22,Aston Villa 2-4 Leicester City,Aston Villa,Leicester City,80foo89mm28qjvyhjzlpwj28k,7v3zde8az8gl5tln16ezqj504
+2023-02-04,22,Everton 1-0 Arsenal,Everton,Arsenal,80foo89mm28qjvyhjzlpwj28k,7vjaqfpfr3aiu0aqmqcqe1hqs
+2023-02-03,22,Chelsea 0-0 Fulham,Chelsea,Fulham,80foo89mm28qjvyhjzlpwj28k,7vfh6ziu9chx501cdmzg5oums
+2023-01-23,21,Fulham 0-1 Tottenham Hotspur,Fulham,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7ud84u4m3h4nn1tqg0riqzehg
+2023-01-22,21,Arsenal 3-2 Manchester United,Arsenal,Manchester United,80foo89mm28qjvyhjzlpwj28k,7u4b3p3a0oaizqp6fbo9swil0
+2023-01-22,21,Manchester City 3-0 Wolverhampton Wanderers,Manchester City,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7usk2dncq3tdyz8qpbn3h8e1g
+2023-01-22,21,Leeds United 0-0 Brentford,Leeds United,Brentford,80foo89mm28qjvyhjzlpwj28k,7ugyjc4q9q4ce4kjsuumhhpuc
+2023-01-21,21,Crystal Palace 0-0 Newcastle United,Crystal Palace,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7u9jyqoz4sqrtw3byovnwp91w
+2023-01-21,21,West Ham United 2-0 Everton,West Ham United,Everton,80foo89mm28qjvyhjzlpwj28k,7v08a5ertzulapbgymtty7q50
+2023-01-21,21,Southampton 0-1 Aston Villa,Southampton,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7uwdjz1pczv4q0em80nmai710
+2023-01-21,21,Leicester City 2-2 Brighton & Hove Albion,Leicester City,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7ukt0rzkdx90bx5nmh62grthw
+2023-01-21,21,AFC Bournemouth 1-1 Nottingham Forest,AFC Bournemouth,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7u0g9ku5ahapcoirwc98ewpas
+2023-01-21,21,Liverpool 0-0 Chelsea,Liverpool,Chelsea,80foo89mm28qjvyhjzlpwj28k,7uoopvy787g8eyalpemoa3504
+2023-01-19,7,Manchester City 4-2 Tottenham Hotspur,Manchester City,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7fbjdiag3kjaau613lqk04c2c
+2023-01-18,7,Crystal Palace 1-1 Manchester United,Crystal Palace,Manchester United,80foo89mm28qjvyhjzlpwj28k,7eqtwefop5nj4cgyoenc0molw
+2023-01-15,20,Tottenham Hotspur 0-2 Arsenal,Tottenham Hotspur,Arsenal,80foo89mm28qjvyhjzlpwj28k,7tsqwuha5rrvbusdgdn7qtul0
+2023-01-15,20,Newcastle United 1-0 Fulham,Newcastle United,Fulham,80foo89mm28qjvyhjzlpwj28k,7tl75sva3kicn766ody75jcb8
+2023-01-15,20,Chelsea 1-0 Crystal Palace,Chelsea,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7t9io4mfsbtznuvznx75e4bo4
+2023-01-14,20,Brentford 2-0 AFC Bournemouth,Brentford,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7t1zt4ww49pr18xpgd6r7wxsk
+2023-01-14,20,Wolverhampton Wanderers 1-0 West Ham United,Wolverhampton Wanderers,West Ham United,80foo89mm28qjvyhjzlpwj28k,7twn8vjhqzv3632ebsktl591w
+2023-01-14,20,Nottingham Forest 2-0 Leicester City,Nottingham Forest,Leicester City,80foo89mm28qjvyhjzlpwj28k,7tp0zhr5q9bse4zd0low06cr8
+2023-01-14,20,Everton 1-2 Southampton,Everton,Southampton,80foo89mm28qjvyhjzlpwj28k,7tddgbbgt68qmsy1cnezqbris
+2023-01-14,20,Brighton & Hove Albion 3-0 Liverpool,Brighton & Hove Albion,Liverpool,80foo89mm28qjvyhjzlpwj28k,7t5r2nwlkdj3c1vrc5ph22jo4
+2023-01-14,20,Manchester United 2-1 Manchester City,Manchester United,Manchester City,80foo89mm28qjvyhjzlpwj28k,7th7chthnkbvopnrrmgxvvspg
+2023-01-13,20,Aston Villa 2-1 Leeds United,Aston Villa,Leeds United,80foo89mm28qjvyhjzlpwj28k,7sy9ww366i17um5nbre7pgrv8
+2023-01-12,7,Fulham 2-1 Chelsea,Fulham,Chelsea,80foo89mm28qjvyhjzlpwj28k,7eupj4mft1ft7offllytk0c9g
+2023-01-05,19,Chelsea 0-1 Manchester City,Chelsea,Manchester City,80foo89mm28qjvyhjzlpwj28k,7s6gvh3jul2rze2ujie39i044
+2023-01-04,19,Crystal Palace 0-4 Tottenham Hotspur,Crystal Palace,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7saaov3om952cec4m4tdvcu1g
+2023-01-04,19,Aston Villa 1-1 Wolverhampton Wanderers,Aston Villa,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7rxu1yxpwsj44xhkgv02byvbo
+2023-01-04,19,Leeds United 2-2 West Ham United,Leeds United,West Ham United,80foo89mm28qjvyhjzlpwj28k,7sj3ihcnm3pav00cvhemohi50
+2023-01-04,19,Southampton 0-1 Nottingham Forest,Southampton,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7sui6j4kwlmu5mwl466socges
+2023-01-03,19,Manchester United 3-0 AFC Bournemouth,Manchester United,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7sqnr53h0z5f8h8tdiddby0ic
+2023-01-03,19,Leicester City 0-1 Fulham,Leicester City,Fulham,80foo89mm28qjvyhjzlpwj28k,7smtbqn03fgla2i5b6f9ffn6c
+2023-01-03,19,Everton 1-4 Brighton & Hove Albion,Everton,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7sfiv3yu0qjmevbvz9xneusk4
+2023-01-03,19,Arsenal 0-0 Newcastle United,Arsenal,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7ru4fx3twa1qv7xp4p277dd04
+2023-01-02,19,Brentford 3-1 Liverpool,Brentford,Liverpool,80foo89mm28qjvyhjzlpwj28k,7s2hu2dmkxbpe1imkr0cmokyc
+2023-01-01,18,Nottingham Forest 1-1 Chelsea,Nottingham Forest,Chelsea,80foo89mm28qjvyhjzlpwj28k,7rej3dxao3h9ah06akrwaa904
+2023-01-01,18,Tottenham Hotspur 0-2 Aston Villa,Tottenham Hotspur,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7rikjs9mb7smncsl7olu3y7mc
+2022-12-31,18,Brighton & Hove Albion 2-4 Arsenal,Brighton & Hove Albion,Arsenal,80foo89mm28qjvyhjzlpwj28k,7qv0qfgbyes2ae4rflw1yaj9w
+2022-12-31,18,Newcastle United 0-0 Leeds United,Newcastle United,Leeds United,80foo89mm28qjvyhjzlpwj28k,7rac4piut5n53fqowpf2z7fo4
+2022-12-31,18,Manchester City 1-1 Everton,Manchester City,Everton,80foo89mm28qjvyhjzlpwj28k,7r6e94z7ikmlrusl4733vk93o
+2022-12-31,18,Fulham 2-1 Southampton,Fulham,Southampton,80foo89mm28qjvyhjzlpwj28k,7qywl3ccbc0g63hde2a9gqfpw
+2022-12-31,18,AFC Bournemouth 0-2 Crystal Palace,AFC Bournemouth,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7qr5v2e4md5dzui2v8tdwu7mc
+2022-12-31,18,Wolverhampton Wanderers 0-1 Manchester United,Wolverhampton Wanderers,Manchester United,80foo89mm28qjvyhjzlpwj28k,7rqa4nd82onyj7qy1gftyw4r8
+2022-12-30,18,Liverpool 2-1 Leicester City,Liverpool,Leicester City,80foo89mm28qjvyhjzlpwj28k,7r2m0jh9l2q72b745vs5gjod0
+2022-12-30,18,West Ham United 0-2 Brentford,West Ham United,Brentford,80foo89mm28qjvyhjzlpwj28k,7rmhwx0r1it1d310r2mobuck4
+2022-12-28,17,Leeds United 1-3 Manchester City,Leeds United,Manchester City,80foo89mm28qjvyhjzlpwj28k,7qa6s6q55ziprmp6cgtktcil0
+2022-12-27,17,Manchester United 3-0 Nottingham Forest,Manchester United,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7qjdl13nm3q0gs68mct71b0us
+2022-12-27,17,Chelsea 2-0 AFC Bournemouth,Chelsea,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7pxq3zem23n47sgedmmvjwfmc
+2022-12-26,17,Arsenal 3-1 West Ham United,Arsenal,West Ham United,80foo89mm28qjvyhjzlpwj28k,7pljiy2vyhdjcpee5547puzv8
+2022-12-26,17,Aston Villa 1-3 Liverpool,Aston Villa,Liverpool,80foo89mm28qjvyhjzlpwj28k,7ppha6ni8fkxglfbg5wunm904
+2022-12-26,17,Southampton 1-3 Brighton & Hove Albion,Southampton,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7qn1jobwik3wwwtbcwyat007o
+2022-12-26,17,Leicester City 0-3 Newcastle United,Leicester City,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7qdyrfbbfr8wij8rd3fy87eok
+2022-12-26,17,Everton 1-2 Wolverhampton Wanderers,Everton,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7q6afsfox61jukxbf9utnnbpw
+2022-12-26,17,Crystal Palace 0-3 Fulham,Crystal Palace,Fulham,80foo89mm28qjvyhjzlpwj28k,7q1x8nb5vuj4z7dbgzo6y385w
+2022-12-26,17,Brentford 2-2 Tottenham Hotspur,Brentford,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7pth75s0pf15oncmovn8t1puc
+2022-11-13,16,Fulham 1-2 Manchester United,Fulham,Manchester United,80foo89mm28qjvyhjzlpwj28k,7oqdzu5q0f19thyfvuw6zyas4
+2022-11-13,16,Brighton & Hove Albion 1-2 Aston Villa,Brighton & Hove Albion,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7omnd8h9u7pmsiowydwtguql0
+2022-11-12,16,Wolverhampton Wanderers 0-2 Arsenal,Wolverhampton Wanderers,Arsenal,80foo89mm28qjvyhjzlpwj28k,7phktaonnu0r9kovrar77atck
+2022-11-12,16,Newcastle United 1-0 Chelsea,Newcastle United,Chelsea,80foo89mm28qjvyhjzlpwj28k,7p1k0qw9o0os3fyr71uf7djbo
+2022-11-12,16,West Ham United 0-2 Leicester City,West Ham United,Leicester City,80foo89mm28qjvyhjzlpwj28k,7pdtiumckqqjrq08r25m2oqhg
+2022-11-12,16,Tottenham Hotspur 4-3 Leeds United,Tottenham Hotspur,Leeds United,80foo89mm28qjvyhjzlpwj28k,7p9nrubpfvyzpxalmhxyln504
+2022-11-12,16,Nottingham Forest 1-0 Crystal Palace,Nottingham Forest,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7p5ncnavw6tv16n84kb1whb10
+2022-11-12,16,Liverpool 3-1 Southampton,Liverpool,Southampton,80foo89mm28qjvyhjzlpwj28k,7ou2he1b332aqxznoihdppic4
+2022-11-12,16,AFC Bournemouth 3-0 Everton,AFC Bournemouth,Everton,80foo89mm28qjvyhjzlpwj28k,7oh185kjqwgsotjy9tooy4l5g
+2022-11-12,16,Manchester City 1-2 Brentford,Manchester City,Brentford,80foo89mm28qjvyhjzlpwj28k,7oxvw6aq2da2972qdco8547x0
+2022-11-06,15,Tottenham Hotspur 1-2 Liverpool,Tottenham Hotspur,Liverpool,80foo89mm28qjvyhjzlpwj28k,7o5awu1npgpl2lh7zcnpqcljo
+2022-11-06,15,West Ham United 1-2 Crystal Palace,West Ham United,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7o95x3znoc8va6z2x1n5b1ct0
+2022-11-06,15,Southampton 1-4 Newcastle United,Southampton,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7o1b4ltv4ea4a2aikl0jamk9g
+2022-11-06,15,Aston Villa 3-1 Manchester United,Aston Villa,Manchester United,80foo89mm28qjvyhjzlpwj28k,7ne70mqvpwsyzr0mm5o5i0pas
+2022-11-06,15,Chelsea 0-1 Arsenal,Chelsea,Arsenal,80foo89mm28qjvyhjzlpwj28k,7ni6sujb9210r14fp96ndmt5g
+2022-11-05,15,Everton 0-2 Leicester City,Everton,Leicester City,80foo89mm28qjvyhjzlpwj28k,7nm1b7w425tyx4j0yzpn7hb84
+2022-11-05,15,Wolverhampton Wanderers 2-3 Brighton & Hove Albion,Wolverhampton Wanderers,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7od422xubdnl6sr7s343d7z10
+2022-11-05,15,Nottingham Forest 2-2 Brentford,Nottingham Forest,Brentford,80foo89mm28qjvyhjzlpwj28k,7nxieumke8mopwocdjg4bn8k4
+2022-11-05,15,Manchester City 2-1 Fulham,Manchester City,Fulham,80foo89mm28qjvyhjzlpwj28k,7ntosqn2ex2tprudcgvooslxw
+2022-11-05,15,Leeds United 4-3 AFC Bournemouth,Leeds United,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7npusiepu14ka85083erryxp0
+2022-10-30,14,Manchester United 1-0 West Ham United,Manchester United,West Ham United,80foo89mm28qjvyhjzlpwj28k,7n68refvaktvzlcfb0jm1cg7o
+2022-10-30,14,Arsenal 5-0 Nottingham Forest,Arsenal,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7mdp85a1knmhnbg9c80m23ehg
+2022-10-29,14,Liverpool 1-2 Leeds United,Liverpool,Leeds United,80foo89mm28qjvyhjzlpwj28k,7n2a17mn2gllthh2669k3tij8
+2022-10-29,14,Fulham 0-0 Everton,Fulham,Everton,80foo89mm28qjvyhjzlpwj28k,7mukwye149edo0anignatrnro
+2022-10-29,14,Newcastle United 4-0 Aston Villa,Newcastle United,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7na80oavhqsk5sted07zakjkk
+2022-10-29,14,Crystal Palace 1-0 Southampton,Crystal Palace,Southampton,80foo89mm28qjvyhjzlpwj28k,7mqonwftxk0zk3800acx6ucr8
+2022-10-29,14,Brighton & Hove Albion 4-1 Chelsea,Brighton & Hove Albion,Chelsea,80foo89mm28qjvyhjzlpwj28k,7mlcaz328lz6tthnwdz365444
+2022-10-29,14,Brentford 1-1 Wolverhampton Wanderers,Brentford,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7mhgbq9eqolw04j0ndb7ris5w
+2022-10-29,14,AFC Bournemouth 2-3 Tottenham Hotspur,AFC Bournemouth,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7m9ym55elj7fvkr2s3loqi8lw
+2022-10-29,14,Leicester City 0-1 Manchester City,Leicester City,Manchester City,80foo89mm28qjvyhjzlpwj28k,7myfqgnzlga70kttcfd7g55as
+2022-10-24,13,West Ham United 2-0 AFC Bournemouth,West Ham United,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7m27f2z56398pv3if38ihsil0
+2022-10-23,13,Tottenham Hotspur 1-2 Newcastle United,Tottenham Hotspur,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7ly4fqhihqbfm8nwseibc97h0
+2022-10-23,13,Wolverhampton Wanderers 0-4 Leicester City,Wolverhampton Wanderers,Leicester City,80foo89mm28qjvyhjzlpwj28k,7m64yiyuu2hjgep2kwim5so44
+2022-10-23,13,Southampton 1-1 Arsenal,Southampton,Arsenal,80foo89mm28qjvyhjzlpwj28k,7lub1c3dqxaqqop0mujn2e6fo
+2022-10-23,13,Leeds United 2-3 Fulham,Leeds United,Fulham,80foo89mm28qjvyhjzlpwj28k,7lijostmk55vf2eclj6y604r8
+2022-10-23,13,Aston Villa 4-0 Brentford,Aston Villa,Brentford,80foo89mm28qjvyhjzlpwj28k,7l6vl44n9bmbhd3o3zwvjcxzo
+2022-10-22,13,Chelsea 1-1 Manchester United,Chelsea,Manchester United,80foo89mm28qjvyhjzlpwj28k,7lauyo1jqgyr7mms6yjifzac4
+2022-10-22,13,Manchester City 3-1 Brighton & Hove Albion,Manchester City,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7lmjgeukd8vmehed5g2nk1vkk
+2022-10-22,13,Everton 3-0 Crystal Palace,Everton,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7lereuocjhruqrmiot282jor8
+2022-10-22,13,Nottingham Forest 1-0 Liverpool,Nottingham Forest,Liverpool,80foo89mm28qjvyhjzlpwj28k,7lqdyaa4xm113zf8t14zxbdhw
+2022-10-20,12,Leicester City 2-0 Leeds United,Leicester City,Leeds United,80foo89mm28qjvyhjzlpwj28k,7kqb7zudahd2stsj9ogi8zevo
+2022-10-20,12,Fulham 3-0 Aston Villa,Fulham,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7kmkzcndhw5p8cta1ymegduz8
+2022-10-19,12,Manchester United 2-0 Tottenham Hotspur,Manchester United,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7kzeb4lte1dh4r9cutd3lyj2s
+2022-10-19,12,Newcastle United 1-0 Everton,Newcastle United,Everton,80foo89mm28qjvyhjzlpwj28k,7l349e6uxkopqw9i97byd0j6c
+2022-10-19,12,Liverpool 1-0 West Ham United,Liverpool,West Ham United,80foo89mm28qjvyhjzlpwj28k,7kvlhvq8fqjjttfr6vhs4u7mc
+2022-10-19,12,Brentford 0-0 Chelsea,Brentford,Chelsea,80foo89mm28qjvyhjzlpwj28k,7katrhxuegesndba2en673mz8
+2022-10-19,12,AFC Bournemouth 0-1 Southampton,AFC Bournemouth,Southampton,80foo89mm28qjvyhjzlpwj28k,7k25ahz5g6q17xpgymh9puihg
+2022-10-18,12,Crystal Palace 2-1 Wolverhampton Wanderers,Crystal Palace,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7kin76sh1zvqesibgnojy4650
+2022-10-18,12,Brighton & Hove Albion 0-0 Nottingham Forest,Brighton & Hove Albion,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7kescdsb8axor3nu4spy5shsk
+2022-10-16,11,Liverpool 1-0 Manchester City,Liverpool,Manchester City,80foo89mm28qjvyhjzlpwj28k,7ji2coreb1e78culiuxo9cw0k
+2022-10-16,11,Southampton 1-1 West Ham United,Southampton,West Ham United,80foo89mm28qjvyhjzlpwj28k,7jpd66fzbivau8d2l0jgcccgk
+2022-10-16,11,Manchester United 0-0 Newcastle United,Manchester United,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7jlp1giejudv2bytpfqqapx5g
+2022-10-16,11,Leeds United 0-1 Arsenal,Leeds United,Arsenal,80foo89mm28qjvyhjzlpwj28k,7jab08uimtwea4ndzjisf3jtg
+2022-10-16,11,Aston Villa 0-2 Chelsea,Aston Villa,Chelsea,80foo89mm28qjvyhjzlpwj28k,7iy3oohb0wi5kjfw8yxegtr10
+2022-10-15,11,Tottenham Hotspur 2-0 Everton,Tottenham Hotspur,Everton,80foo89mm28qjvyhjzlpwj28k,7jt78nr81nywvpd1aqpzdwgt0
+2022-10-15,11,Wolverhampton Wanderers 1-0 Nottingham Forest,Wolverhampton Wanderers,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7jxkpa259xpq28rwfew0opjbo
+2022-10-15,11,Fulham 2-2 AFC Bournemouth,Fulham,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7j6eef34er0i6xc96n3cwl3pw
+2022-10-15,11,Leicester City 0-0 Crystal Palace,Leicester City,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7je8b5l5uorzz2agqr5pwj28k
+2022-10-14,11,Brentford 2-0 Brighton & Hove Albion,Brentford,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7j2f27lvhsjywsg1w985ecnx0
+2022-10-10,10,Nottingham Forest 1-1 Aston Villa,Nottingham Forest,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7ioyndunupwscmifvg6ytwu8k
+2022-10-09,10,Everton 1-2 Manchester United,Everton,Manchester United,80foo89mm28qjvyhjzlpwj28k,7ideu1q0vca8cad8gmflk8utw
+2022-10-09,10,Arsenal 3-2 Liverpool,Arsenal,Liverpool,80foo89mm28qjvyhjzlpwj28k,7hxm007jjp2fwp977136lzims
+2022-10-09,10,West Ham United 3-1 Fulham,West Ham United,Fulham,80foo89mm28qjvyhjzlpwj28k,7ispiictf4dpdynjvuotzh444
+2022-10-09,10,Crystal Palace 2-1 Leeds United,Crystal Palace,Leeds United,80foo89mm28qjvyhjzlpwj28k,7i9e9jireeu02jnlqej2m6z9w
+2022-10-08,10,Brighton & Hove Albion 0-1 Tottenham Hotspur,Brighton & Hove Albion,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7i1j59e8aknu0bhzbiopnd1xw
+2022-10-08,10,Newcastle United 5-1 Brentford,Newcastle United,Brentford,80foo89mm28qjvyhjzlpwj28k,7il8l6sx3wslpdbn0d3ywohec
+2022-10-08,10,Manchester City 4-0 Southampton,Manchester City,Southampton,80foo89mm28qjvyhjzlpwj28k,7ihcygtuizm14nwm8zutncsgk
+2022-10-08,10,Chelsea 3-0 Wolverhampton Wanderers,Chelsea,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7i5chy4gtleocxc4mput7ge1g
+2022-10-08,10,AFC Bournemouth 2-1 Leicester City,AFC Bournemouth,Leicester City,80foo89mm28qjvyhjzlpwj28k,7htuptj7mwbf6ecbbjclrrv9w
+2022-10-03,9,Leicester City 4-0 Nottingham Forest,Leicester City,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7han7wbih0n3n2wmbqwm3r3mc
+2022-10-02,9,Leeds United 0-0 Aston Villa,Leeds United,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7h6qq00tg7k5kzs4zjlbrf09g
+2022-10-02,9,Manchester City 6-3 Manchester United,Manchester City,Manchester United,80foo89mm28qjvyhjzlpwj28k,7hihctwscadvz50q1uwpd5qfo
+2022-10-01,9,West Ham United 2-0 Wolverhampton Wanderers,West Ham United,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7hq1ohu0shkdo25sqaudma5uc
+2022-10-01,9,Southampton 1-2 Everton,Southampton,Everton,80foo89mm28qjvyhjzlpwj28k,7hm7p1jx7ilz0j88ubw5altec
+2022-10-01,9,Liverpool 3-3 Brighton & Hove Albion,Liverpool,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7hen08dkjdxbqvtenjpxkghsk
+2022-10-01,9,Fulham 1-4 Newcastle United,Fulham,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7h31cohh9jbvfk0kejfw16yok
+2022-10-01,9,Crystal Palace 1-2 Chelsea,Crystal Palace,Chelsea,80foo89mm28qjvyhjzlpwj28k,7gxb7j7gogeu2t21v8iuq5q8k
+2022-10-01,9,AFC Bournemouth 0-0 Brentford,AFC Bournemouth,Brentford,80foo89mm28qjvyhjzlpwj28k,7gpqjkjjbryjsoweuvnextb10
+2022-10-01,9,Arsenal 3-1 Tottenham Hotspur,Arsenal,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7gto1gmqzx74z6ycjvw5fisyc
+2022-09-18,8,Everton 1-0 West Ham United,Everton,West Ham United,80foo89mm28qjvyhjzlpwj28k,7g2gpldpf182ie7h8i1pqp2c4
+2022-09-18,8,Brentford 0-3 Arsenal,Brentford,Arsenal,80foo89mm28qjvyhjzlpwj28k,7fqz5bxj5ucewq4f0ju4xf7ro
+2022-09-17,8,Tottenham Hotspur 6-2 Leicester City,Tottenham Hotspur,Leicester City,80foo89mm28qjvyhjzlpwj28k,7ghqdozqnvrycu2i95ccp64no
+2022-09-17,8,Newcastle United 1-1 AFC Bournemouth,Newcastle United,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7ga1nuvq69qa0pbdybxyxvi1g
+2022-09-17,8,Wolverhampton Wanderers 0-3 Manchester City,Wolverhampton Wanderers,Manchester City,80foo89mm28qjvyhjzlpwj28k,7glnufos5k115vbci4yx0ajo4
+2022-09-16,8,Nottingham Forest 2-3 Fulham,Nottingham Forest,Fulham,80foo89mm28qjvyhjzlpwj28k,7gdvnv06qmrlsghowyxx8mj2s
+2022-09-16,8,Aston Villa 1-0 Southampton,Aston Villa,Southampton,80foo89mm28qjvyhjzlpwj28k,7fn5rf19lurugigc5h7fk19g4
+2022-09-04,6,Manchester United 3-1 Arsenal,Manchester United,Arsenal,80foo89mm28qjvyhjzlpwj28k,7e0iedo5h5g8kbfjir1rurt3o
+2022-09-04,6,Brighton & Hove Albion 5-2 Leicester City,Brighton & Hove Albion,Leicester City,80foo89mm28qjvyhjzlpwj28k,7dolm8cv335l8artyhfp5iuxg
+2022-09-03,6,Aston Villa 1-1 Manchester City,Aston Villa,Manchester City,80foo89mm28qjvyhjzlpwj28k,7dgigplchyvgwvy5iy1qdvfo4
+2022-09-03,6,Wolverhampton Wanderers 1-0 Southampton,Wolverhampton Wanderers,Southampton,80foo89mm28qjvyhjzlpwj28k,7efu83ztfqe77ngvk240zxq8k
+2022-09-03,6,Tottenham Hotspur 2-1 Fulham,Tottenham Hotspur,Fulham,80foo89mm28qjvyhjzlpwj28k,7ec3lf45d40xfa3m725ja0pas
+2022-09-03,6,Nottingham Forest 2-3 AFC Bournemouth,Nottingham Forest,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7e8dxvaw3ez895v5ulrdhm7tg
+2022-09-03,6,Newcastle United 0-0 Crystal Palace,Newcastle United,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7e4cfn11pabu0t50ufu1d39xw
+2022-09-03,6,Chelsea 2-1 West Ham United,Chelsea,West Ham United,80foo89mm28qjvyhjzlpwj28k,7dsnvdr5qyqfghb35uq9tvt3o
+2022-09-03,6,Brentford 5-2 Leeds United,Brentford,Leeds United,80foo89mm28qjvyhjzlpwj28k,7dkjxwqn8ulj4ao6bsnpwwkyc
+2022-09-03,6,Everton 0-0 Liverpool,Everton,Liverpool,80foo89mm28qjvyhjzlpwj28k,7dwqmzsp2yq8d0pt9olci7nro
+2022-09-01,5,Leicester City 0-1 Manchester United,Leicester City,Manchester United,80foo89mm28qjvyhjzlpwj28k,7cvyt8m2h0wjw6uc4n2x0cavo
+2022-08-31,5,Liverpool 2-1 Newcastle United,Liverpool,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7d323t6k1a7ni7lg6k5el60pg
+2022-08-31,5,West Ham United 1-1 Tottenham Hotspur,West Ham United,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7czi0py4t4ljknn9y77n299g4
+2022-08-31,5,Manchester City 6-0 Nottingham Forest,Manchester City,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7d6k97elsqvsf8rgfie9wg5xw
+2022-08-31,5,Arsenal 2-1 Aston Villa,Arsenal,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7chaz0xbisqw6hrv86jn8y5uc
+2022-08-31,5,AFC Bournemouth 0-0 Wolverhampton Wanderers,AFC Bournemouth,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7cdr7p89sm4s9s7uqkoy4clxw
+2022-08-30,5,Leeds United 1-1 Everton,Leeds United,Everton,80foo89mm28qjvyhjzlpwj28k,7cs27cahxes5lh1tdpve56a6s
+2022-08-30,5,Southampton 2-1 Chelsea,Southampton,Chelsea,80foo89mm28qjvyhjzlpwj28k,7dcbye3abxdopxrri26bxe6ms
+2022-08-30,5,Fulham 2-1 Brighton & Hove Albion,Fulham,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7cog3nhv5kqr4llhqqdljwe1g
+2022-08-30,5,Crystal Palace 1-1 Brentford,Crystal Palace,Brentford,80foo89mm28qjvyhjzlpwj28k,7ckwr20u9yn1xsk41g4igw7is
+2022-08-28,4,Nottingham Forest 0-2 Tottenham Hotspur,Nottingham Forest,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,7c2f1r3fe7code6ijoi1xzh1w
+2022-08-28,4,Wolverhampton Wanderers 1-1 Newcastle United,Wolverhampton Wanderers,Newcastle United,80foo89mm28qjvyhjzlpwj28k,7ca79i0x3g0g6rz287el0gff8
+2022-08-28,4,Aston Villa 0-1 West Ham United,Aston Villa,West Ham United,80foo89mm28qjvyhjzlpwj28k,7bex5twjbsqw9ej3m9m5pjz84
+2022-08-27,4,Arsenal 2-1 Fulham,Arsenal,Fulham,80foo89mm28qjvyhjzlpwj28k,7bb7s1xql4319r5yjyggh4oic
+2022-08-27,4,Manchester City 4-2 Crystal Palace,Manchester City,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,7bywnsz9lqipuvfoemezlysk4
+2022-08-27,4,Liverpool 9-0 AFC Bournemouth,Liverpool,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,7bve4ti04949k5h8hp1zvkff8
+2022-08-27,4,Chelsea 2-1 Leicester City,Chelsea,Leicester City,80foo89mm28qjvyhjzlpwj28k,7brsfi4ilbeqrm4lwx9ckm1p0
+2022-08-27,4,Brighton & Hove Albion 1-0 Leeds United,Brighton & Hove Albion,Leeds United,80foo89mm28qjvyhjzlpwj28k,7bnu92oqdtnnkzg16fsht07bo
+2022-08-27,4,Brentford 1-1 Everton,Brentford,Everton,80foo89mm28qjvyhjzlpwj28k,7bk72vmpn3s2m7zwgjsmn8104
+2022-08-27,4,Southampton 0-1 Manchester United,Southampton,Manchester United,80foo89mm28qjvyhjzlpwj28k,7c6gs85yfct1aoe50ivukesyc
+2022-08-22,3,Manchester United 2-1 Liverpool,Manchester United,Liverpool,80foo89mm28qjvyhjzlpwj28k,7ax1hlagko44dz6qj1i4lsz6c
+2022-08-21,3,Newcastle United 3-3 Manchester City,Newcastle United,Manchester City,80foo89mm28qjvyhjzlpwj28k,7b0oyh1uyf8p7mpbhoqzbyuj8
+2022-08-21,3,West Ham United 0-2 Brighton & Hove Albion,West Ham United,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,7b7p73tyrh2ypsdwzlkkao4d0
+2022-08-21,3,Leeds United 3-0 Chelsea,Leeds United,Chelsea,80foo89mm28qjvyhjzlpwj28k,7aps8fgxbdrm2q71y1y2xek2c
+2022-08-20,3,AFC Bournemouth 0-3 Arsenal,AFC Bournemouth,Arsenal,80foo89mm28qjvyhjzlpwj28k,7ab9xm624n3nzipi5785fqj2s
+2022-08-20,3,Leicester City 1-2 Southampton,Leicester City,Southampton,80foo89mm28qjvyhjzlpwj28k,7ate81oi8vj23ghy8arjn6yac
+2022-08-20,3,Fulham 3-2 Brentford,Fulham,Brentford,80foo89mm28qjvyhjzlpwj28k,7am0gmg3iy8a4z4g6ovfqyxw4
+2022-08-20,3,Everton 1-1 Nottingham Forest,Everton,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,7aigpre6vqngl3pgc83cemluc
+2022-08-20,3,Crystal Palace 3-1 Aston Villa,Crystal Palace,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7aewf90s861wvnd769qj7ei38
+2022-08-20,3,Tottenham Hotspur 1-0 Wolverhampton Wanderers,Tottenham Hotspur,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,7b49ealpj85ci33tvxdes2zv8
+2022-08-15,2,Liverpool 1-1 Crystal Palace,Liverpool,Crystal Palace,80foo89mm28qjvyhjzlpwj28k,79sv89z5m0h38hhx8c70is45w
+2022-08-14,2,Chelsea 2-2 Tottenham Hotspur,Chelsea,Tottenham Hotspur,80foo89mm28qjvyhjzlpwj28k,79nq0mzhyjn0hzydburymqn84
+2022-08-14,2,Nottingham Forest 1-0 West Ham United,Nottingham Forest,West Ham United,80foo89mm28qjvyhjzlpwj28k,7a0erxq9ekdf8zyq1qv14328k
+2022-08-13,2,Brentford 4-0 Manchester United,Brentford,Manchester United,80foo89mm28qjvyhjzlpwj28k,79g8vvv95zv2095h73ndbiql0
+2022-08-13,2,Wolverhampton Wanderers 0-0 Fulham,Wolverhampton Wanderers,Fulham,80foo89mm28qjvyhjzlpwj28k,7a7p4c9nxxc07rxvt6zfzrcb8
+2022-08-13,2,Southampton 2-2 Leeds United,Southampton,Leeds United,80foo89mm28qjvyhjzlpwj28k,7a42qtx4fe33ffanldqgm2jo4
+2022-08-13,2,Manchester City 4-0 AFC Bournemouth,Manchester City,AFC Bournemouth,80foo89mm28qjvyhjzlpwj28k,79wljxrxhum95ngoy54qh5ij8
+2022-08-13,2,Brighton & Hove Albion 0-0 Newcastle United,Brighton & Hove Albion,Newcastle United,80foo89mm28qjvyhjzlpwj28k,79jt1xsbqqzkmv84h13ohpnv8
+2022-08-13,2,Arsenal 4-2 Leicester City,Arsenal,Leicester City,80foo89mm28qjvyhjzlpwj28k,798cfqzxhgvwir123ar1c4rv8
+2022-08-13,2,Aston Villa 2-1 Everton,Aston Villa,Everton,80foo89mm28qjvyhjzlpwj28k,79c8rqzqfvykrulu5jcxs6cr8
+2022-08-07,1,West Ham United 0-2 Manchester City,West Ham United,Manchester City,80foo89mm28qjvyhjzlpwj28k,794hlf29so6k95ehq8zpw68t0
+2022-08-07,1,Manchester United 1-2 Brighton & Hove Albion,Manchester United,Brighton & Hove Albion,80foo89mm28qjvyhjzlpwj28k,78znfy85uaerx9r6ugb6xss2c
+2022-08-07,1,Leicester City 2-2 Brentford,Leicester City,Brentford,80foo89mm28qjvyhjzlpwj28k,78l2aulgv8s2oinpqrapeg9hw
+2022-08-06,1,Everton 0-1 Chelsea,Everton,Chelsea,80foo89mm28qjvyhjzlpwj28k,786jn15u3n2zflv6blwf52hhw
+2022-08-06,1,Tottenham Hotspur 4-1 Southampton,Tottenham Hotspur,Southampton,80foo89mm28qjvyhjzlpwj28k,78upoc84lzgsp3bwunoz9agb8
+2022-08-06,1,Newcastle United 2-0 Nottingham Forest,Newcastle United,Nottingham Forest,80foo89mm28qjvyhjzlpwj28k,78puaztdhvin42821blcoz0no
+2022-08-06,1,Leeds United 2-1 Wolverhampton Wanderers,Leeds United,Wolverhampton Wanderers,80foo89mm28qjvyhjzlpwj28k,78gauarxibmuqx5lb5zpgbllg
+2022-08-06,1,AFC Bournemouth 2-0 Aston Villa,AFC Bournemouth,Aston Villa,80foo89mm28qjvyhjzlpwj28k,7819maaj4jri83a8c753xcowk
+2022-08-06,1,Fulham 2-2 Liverpool,Fulham,Liverpool,80foo89mm28qjvyhjzlpwj28k,78bis3qan491aqnwxn71ix6ok
+2022-08-05,1,Crystal Palace 0-2 Arsenal,Crystal Palace,Arsenal,80foo89mm28qjvyhjzlpwj28k,77un7n0p62hpiztlkk8dh8s9g
