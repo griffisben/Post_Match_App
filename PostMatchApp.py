@@ -36,93 +36,6 @@ def table_start_end(df,start_date,end_date):
     return table
     
 
-# def create_fotmob_table_img(lg, date, indexdf, logos):
-#     plt.clf()
-#     sns.set(rc={'axes.facecolor':'#fbf9f4', 'figure.facecolor':'#fbf9f4',
-#                'ytick.labelcolor':'#4A2E19', 'xtick.labelcolor':'#4A2E19'})
-    
-    
-#     fig = plt.figure(figsize=(5,6), dpi=200)
-#     ax = plt.subplot()
-    
-#     ncols = len(indexdf.columns.tolist())+1
-#     nrows = indexdf.shape[0]
-    
-#     ax.set_xlim(0, ncols + .5)
-#     ax.set_ylim(0, nrows + 1.5)
-    
-#     positions = [0.75, 1.2, 5, 5.75, 6.5, 7.25, 8, 8.75, 9.5, 10.25]
-#     columns = indexdf.columns.tolist()
-    
-#     for i in range(nrows):
-#         for j, column in enumerate(columns):
-#             text_label = f'{indexdf[column].iloc[i]}'
-#             weight = 'regular'
-#             ax.annotate(
-#                 xy=(positions[j], i + .5),
-#                 text = text_label.replace(' U18',''),
-#                 ha='left',
-#                 va='center', color='#4A2E19',
-#                 weight=weight,
-#                 size=7.5
-#             )
-    
-#     column_names = columns
-#     for index, c in enumerate(column_names):
-#             ax.annotate(
-#                 xy=(positions[index], nrows + .25),
-#                 text=column_names[index],
-#                 ha='left',
-#                 va='bottom',
-#                 weight='bold', color='#4A2E19',
-#                 size=7.5
-#             )
-    
-#     ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [nrows, nrows], lw=1.5, color='black', marker='', zorder=4)
-#     ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [0, 0], lw=1.5, color='black', marker='', zorder=4)
-#     for x in range(1, nrows):
-#         ax.plot([ax.get_xlim()[0], ax.get_xlim()[1]], [x, x], lw=.5, color='gray', ls=':', zorder=3 , marker='')
-    
-#     ax.set_axis_off()
-    
-#     DC_to_FC = ax.transData.transform
-#     FC_to_NFC = fig.transFigure.inverted().transform
-#     DC_to_NFC = lambda x: FC_to_NFC(DC_to_FC(x))
-#     ax_point_1 = DC_to_NFC([2.25, 0.25])
-#     ax_point_2 = DC_to_NFC([2.75, 0.75])
-#     ax_width = abs(ax_point_1[0] - ax_point_2[0])
-#     ax_height = abs(ax_point_1[1] - ax_point_2[1])
-#     def ax_logo(link, ax):
-#         club_icon = Image.open(urllib.request.urlopen(link))
-#         ax.imshow(club_icon)
-#         ax.axis('off')
-#         return ax
-
-#     for x in range(0, nrows):
-#         ax_coords = DC_to_NFC([0, x + .25])
-#         ax = fig.add_axes(
-#             [ax_coords[0], ax_coords[1], ax_width, ax_height]
-#         )
-#         ax_logo(logos[x], ax)
-    
-#     fig.text(
-#         x=0.15, y=.91,
-#         s=f'{lg} Table',
-#         ha='left',
-#         va='bottom',
-#         weight='bold',
-#         size=11, color='#4A2E19'
-#     )
-#     fig.text(
-#         x=0.15, y=.9,
-#         s=f'Table code by @sonofacorner\nTable is from FotMob | football-match-reports.streamlit.app',
-#         ha='left',
-#         va='top',
-#         weight='regular',
-#         size=6, color='#4A2E19'
-#     )
-
-#     return fig
 
 def add_mov_avg(df,var):
     df['4-Match Moving Average'] = np.nan
@@ -177,13 +90,6 @@ with st.sidebar:
 
     focal_color = st.color_picker("Pick a color to highlight the team on League Ranking tab", "#4c94f6")
 
-# try:
-#     with st.sidebar:
-#         st.write(f"{lgg} Table (via FotMob)")
-#         table_indexdf, table_logos = get_fotmob_table_data(lgg)
-#         st.table(table_indexdf[::-1].reset_index(drop=True).rename(columns={' ':'Pos.'}))
-# except:
-#     pass
 
 #########################
 @alt.theme.register('ben_theme', enable=True)
@@ -209,11 +115,6 @@ def ben_theme():
         }
     }
 
-# # register the custom theme under a chosen name
-# alt.themes.register('ben_theme', ben_theme)
-
-# # enable the newly registered theme
-# alt.themes.enable('ben_theme')
 ################################
 
 report_tab, league_table_tab, data_tab, graph_tab, rank_tab, full_ranks_tab, xg_tab, scatter_tab = st.tabs(['Match Report', 'League Table', 'Data by Match - Table', 'Data by Match - Graph', 'League Rankings', 'Full League Ranks', 'xG & xGA By Match', 'Variable Scatters'])
@@ -325,136 +226,183 @@ with graph_tab:
     mov_avg = st.radio("Add a 4-Match Moving Average Line?", ['Yes', 'No'])
     team_data2 = add_mov_avg(team_data,var)
 
+
     if plot_type == '📈 Line':
         lg_avg_var = league_data[var].mean()
         team_avg_var = team_data[var].mean()
-        
-        c = (alt.Chart(
-                team_data2[::-1],
-                title={
-                    "text": [f"{team} {var}, {league}"],
-                    "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
-                }
-            )
-            .mark_line(point=True, color='#4c94f6')
-            .encode(
-                x=alt.X('Date', sort=None),
-                y=alt.Y(var, scale=alt.Scale(zero=False)),
-                tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
-            )
-        )
-    
-        lg_avg_line = alt.Chart(pd.DataFrame({'y': [lg_avg_var]})).mark_rule(color='#ee5454').encode(y='y')
-        
-        lg_avg_label = lg_avg_line.mark_text(
-            x="width",
-            dx=-2,
-            align="right",
-            baseline="bottom",
-            text="League Avg",
-            color='#ee5454'
-        )
-    
-        team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color='#f6ba00').encode(y='y')
-        
-        team_avg_label = team_avg_line.mark_text(
-            x="width",
-            dx=-2,
-            align="right",
-            baseline="bottom",
-            text="Team Avg",
-            color='#f6ba00'
-        )
 
+        ###########
+        fig_line, ax = plt.subplots(figsize=(12, 6))
+        
+        ax.plot(team_data2[::-1]['Date'], team_data2[::-1][var], marker='o', color='#4c94f6', label=var)
         if mov_avg == 'Yes':
-            mov_avg_line = (alt.Chart(
-                    team_data2[::-1],
-                )
-                .mark_line(point=False, color='#4a2e19', strokeDash=[8,8])
-                .encode(
-                    x=alt.X('Date', sort=None),
-                    y=alt.Y('4-Match Moving Average', scale=alt.Scale(zero=False)),
-                    tooltip=['Match', 'Date', '4-Match Moving Average']
-                )
-            )
+            ax.plot(team_data2[::-1]['Date'], team_data2[::-1]['4-Match Moving Average'], linestyle='--', color='#4a2e19', label='4-Match Moving Average')
+
+        ax.axhline(y=lg_avg_var, color='#ee5454', linestyle='-', label='League Avg')
+        ax.axhline(y=team_avg_var, color='#f6ba00', linestyle='-', label='Team Avg')
+    
+        ax.set_title(f"{team} {var}, {league}\nData via Opta as of {update_date} | Created on football-match-reports.streamlit.app")
+        ax.set_xlabel('Date')
+        plt.xticks(rotation=90)
+        ax.set_ylabel(var)
+        ax.legend()
+        ax.grid(False)
+
+        st.pyplot(fig_line)
+        ###########
+        # c = (alt.Chart(
+        #         team_data2[::-1],
+        #         title={
+        #             "text": [f"{team} {var}, {league}"],
+        #             "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
+        #         }
+        #     )
+        #     .mark_line(point=True, color='#4c94f6')
+        #     .encode(
+        #         x=alt.X('Date', sort=None),
+        #         y=alt.Y(var, scale=alt.Scale(zero=False)),
+        #         tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
+        #     )
+        # )
+    
+        # lg_avg_line = alt.Chart(pd.DataFrame({'y': [lg_avg_var]})).mark_rule(color='#ee5454').encode(y='y')
+        
+        # lg_avg_label = lg_avg_line.mark_text(
+        #     x="width",
+        #     dx=-2,
+        #     align="right",
+        #     baseline="bottom",
+        #     text="League Avg",
+        #     color='#ee5454'
+        # )
+    
+        # team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color='#f6ba00').encode(y='y')
+        
+        # team_avg_label = team_avg_line.mark_text(
+        #     x="width",
+        #     dx=-2,
+        #     align="right",
+        #     baseline="bottom",
+        #     text="Team Avg",
+        #     color='#f6ba00'
+        # )
+
+        # if mov_avg == 'Yes':
+        #     mov_avg_line = (alt.Chart(
+        #             team_data2[::-1],
+        #         )
+        #         .mark_line(point=False, color='#4a2e19', strokeDash=[8,8])
+        #         .encode(
+        #             x=alt.X('Date', sort=None),
+        #             y=alt.Y('4-Match Moving Average', scale=alt.Scale(zero=False)),
+        #             tooltip=['Match', 'Date', '4-Match Moving Average']
+        #         )
+        #     )
             
-            chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label + mov_avg_line)
-        if mov_avg == 'No':
-            chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
+        #     chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label + mov_avg_line)
+        # if mov_avg == 'No':
+        #     chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
             
-        chart.layer[0].encoding.y.title = var
-        st.altair_chart(chart, use_container_width=False)
+        # chart.layer[0].encoding.y.title = var
+        # st.altair_chart(chart, use_container_width=False)
 
     if plot_type == '📊 Bar':
         lg_avg_var = league_data[var].mean()
         team_avg_var = team_data[var].mean()
 
-        c = (alt.Chart(
-                team_data[::-1],
-                title={
-                    "text": [f"{team} {var}, {league}"],
-                    "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
-                }
-            )
-            .mark_bar()
-            .encode(
-                x=alt.X('Date', sort=None),
-                y=alt.Y(var, scale=alt.Scale(zero=False)), 
-                color=alt.condition(alt.datum[var] >= 0, alt.value('#4c94f6'), alt.value('#ee5454')),
-                tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
-            )
-        )
+        ##########
+        fig_bar, ax = plt.subplots(figsize=(12, 6))
 
-        if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
-            lg_avg_line = alt.Chart(pd.DataFrame({'y': [lg_avg_var]})).mark_rule(color='#ee5454').encode(y='y')
-            
-            lg_avg_label = lg_avg_line.mark_text(
-                x="width",
-                dx=-2,
-                align="right",
-                baseline="bottom",
-                text="League Avg",
-                color='#ee5454'
-            )
+        colors = ['#4c94f6' if x >= 0 else '#ee5454' for x in team_data2[::-1][var]]
+        ax.bar(team_data2[::-1]['Date'], team_data2[::-1][var], color=colors, label=var)
+    
+        lg_avg_var = league_data[var].mean()
+        team_avg_var = team_data[var].mean()
+
         if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
-            lg_avg_line = alt.Chart(pd.DataFrame({'y': [0]})).mark_rule(color='k').encode(y='y')
+            ax.axhline(y=0, color='silver', linestyle='-.')
+        else:
+            ax.axhline(y=lg_avg_var, color='#ee5454', linestyle='-', label='League Avg')
+        ax.axhline(y=team_avg_var, color='#f6ba00', linestyle='-', label='Team Avg')
     
-        team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color='#f6ba00').encode(y='y')
-        
-        team_avg_label = team_avg_line.mark_text(
-            x="width",
-            dx=-2,
-            align="right",
-            baseline="bottom",
-            text="Team Avg",
-            color='#f6ba00'
-        )
-    
-
         if mov_avg == 'Yes':
-            mov_avg_line = (alt.Chart(
-                    team_data2[::-1],
-                )
-                .mark_line(point=False, color='#4a2e19', strokeDash=[8,8])
-                .encode(
-                    x=alt.X('Date', sort=None),
-                    y=alt.Y('4-Match Moving Average', scale=alt.Scale(zero=False)),
-                    tooltip=['Match', 'Date', '4-Match Moving Average']
-                )
-            )
-            if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
-                chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label + mov_avg_line)
-            if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
-                chart = (c + lg_avg_line + team_avg_line + team_avg_label + mov_avg_line)
+            ax.plot(team_data2[::-1]['Date'], team_data2[::-1]['4-Match Moving Average'], linestyle='--', color='#4a2e19', label='4-Match Moving Average')
+    
+        ax.set_title(f"{team} {var}, {league}\nData via Opta as of {update_date} | Created on football-match-reports.streamlit.app")
+        ax.set_xlabel('Date')
+        plt.xticks(rotation=90)
+        ax.set_ylabel(var)
+        ax.legend()
+        ax.grid(False)
 
-        if mov_avg == 'No':
-            if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
-                chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
-            if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
-                chart = (c + lg_avg_line + team_avg_line + team_avg_label)
+        st.pyplot(fig_bar)
+        ##########
+        # c = (alt.Chart(
+        #         team_data[::-1],
+        #         title={
+        #             "text": [f"{team} {var}, {league}"],
+        #             "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
+        #         }
+        #     )
+        #     .mark_bar()
+        #     .encode(
+        #         x=alt.X('Date', sort=None),
+        #         y=alt.Y(var, scale=alt.Scale(zero=False)), 
+        #         color=alt.condition(alt.datum[var] >= 0, alt.value('#4c94f6'), alt.value('#ee5454')),
+        #         tooltip=['Match', 'Date', var, 'Possession','Field Tilt']
+        #     )
+        # )
 
-        chart.layer[0].encoding.y.title = var
-        st.altair_chart(chart, use_container_width=False)
+        # if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+        #     lg_avg_line = alt.Chart(pd.DataFrame({'y': [lg_avg_var]})).mark_rule(color='#ee5454').encode(y='y')
+            
+        #     lg_avg_label = lg_avg_line.mark_text(
+        #         x="width",
+        #         dx=-2,
+        #         align="right",
+        #         baseline="bottom",
+        #         text="League Avg",
+        #         color='#ee5454'
+        #     )
+        # if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+        #     lg_avg_line = alt.Chart(pd.DataFrame({'y': [0]})).mark_rule(color='k').encode(y='y')
+    
+        # team_avg_line = alt.Chart(pd.DataFrame({'y': [team_avg_var]})).mark_rule(color='#f6ba00').encode(y='y')
+        
+        # team_avg_label = team_avg_line.mark_text(
+        #     x="width",
+        #     dx=-2,
+        #     align="right",
+        #     baseline="bottom",
+        #     text="Team Avg",
+        #     color='#f6ba00'
+        # )
+    
+
+        # if mov_avg == 'Yes':
+        #     mov_avg_line = (alt.Chart(
+        #             team_data2[::-1],
+        #         )
+        #         .mark_line(point=False, color='#4a2e19', strokeDash=[8,8])
+        #         .encode(
+        #             x=alt.X('Date', sort=None),
+        #             y=alt.Y('4-Match Moving Average', scale=alt.Scale(zero=False)),
+        #             tooltip=['Match', 'Date', '4-Match Moving Average']
+        #         )
+        #     )
+        #     if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+        #         chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label + mov_avg_line)
+        #     if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+        #         chart = (c + lg_avg_line + team_avg_line + team_avg_label + mov_avg_line)
+
+        # if mov_avg == 'No':
+        #     if var not in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+        #         chart = (c + lg_avg_line + lg_avg_label + team_avg_line + team_avg_label)
+        #     if var in ['xT Difference','GD-xGD','Pts-xPts','npxGD','Open Play xGD','Set Piece xGD']:
+        #         chart = (c + lg_avg_line + team_avg_line + team_avg_label)
+
+        # chart.layer[0].encoding.y.title = var
+        # st.altair_chart(chart, use_container_width=False)
 
 
 with rank_tab:
