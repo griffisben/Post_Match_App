@@ -1,4 +1,109 @@
 ﻿Date,Home,Away,HG,AG,MatchName,HomeSlug,AwaySlug,Year,Month,Day,URL
+2025-12-21,Debrecen,Kisvárda,0,1,Debrecen 0-1 Kisvárda 2025-12-21,dvsc-,kisvárda-master-good-,2025,12,21,https://m4sport.hu/video/2025/12/21/fizz-liga-dvsc-kisvárda-master-good-merkozes/
+2025-12-21,Újpest,Kazincbarcika,2,1,Újpest 2-1 Kazincbarcika 2025-12-21,ujpest-fc-,kazincbarcika-sc-,2025,12,21,https://m4sport.hu/video/2025/12/21/fizz-liga-ujpest-fc-kazincbarcika-sc-merkozes/
+2025-12-20,Győri ETO,Puskás,2,0,Győri ETO 2-0 Puskás 2025-12-20,eto-fc-gyor-,puskas-akademia-fc-,2025,12,20,https://m4sport.hu/video/2025/12/20/fizz-liga-eto-fc-gyor-puskas-akademia-fc-merkozes/
+2025-12-20,Paks,Nyíregyháza Spartacus,2,1,Paks 2-1 Nyíregyháza Spartacus 2025-12-20,paksi-fc-,nyiregyhaza-spartacus-fc-,2025,12,20,https://m4sport.hu/video/2025/12/20/fizz-liga-paksi-fc-nyiregyhaza-spartacus-fc-merkozes/
+2025-12-20,Zalaegerszeg,MTK,1,1,Zalaegerszeg 1-1 MTK 2025-12-20,zte-fc-,mtk-budapest-,2025,12,20,https://m4sport.hu/video/2025/12/20/fizz-liga-zte-fc-mtk-budapest-merkozes/
+2025-12-19,Diósgyőr,Ferencváros,0,1,Diósgyőr 0-1 Ferencváros 2025-12-19,dvtk-,ferencvarosi-tc-,2025,12,19,https://m4sport.hu/video/2025/12/19/fizz-liga-dvtk-ferencvarosi-tc-merkozes/
+2025-12-14,Kisvárda,Zalaegerszeg,3,3,Kisvárda 3-3 Zalaegerszeg 2025-12-14,kisvárda-master-good-,zte-fc-,2025,12,14,https://m4sport.hu/video/2025/12/14/fizz-liga-kisvárda-master-good-zte-fc-merkozes/
+2025-12-14,Ferencváros,Debrecen,0,1,Ferencváros 0-1 Debrecen 2025-12-14,ferencvarosi-tc-,dvsc-,2025,12,14,https://m4sport.hu/video/2025/12/14/fizz-liga-ferencvarosi-tc-dvsc-merkozes/
+2025-12-14,Kazincbarcika,Paks,0,2,Kazincbarcika 0-2 Paks 2025-12-14,kazincbarcika-sc-,paksi-fc-,2025,12,14,https://m4sport.hu/video/2025/12/14/fizz-liga-kazincbarcika-sc-paksi-fc-merkozes/
+2025-12-13,MTK,Újpest,3,4,MTK 3-4 Újpest 2025-12-13,mtk-budapest-,ujpest-fc-,2025,12,13,https://m4sport.hu/video/2025/12/13/fizz-liga-mtk-budapest-ujpest-fc-merkozes/
+2025-12-13,Puskás,Diósgyőr,2,1,Puskás 2-1 Diósgyőr 2025-12-13,puskas-akademia-fc-,dvtk-,2025,12,13,https://m4sport.hu/video/2025/12/13/fizz-liga-puskas-akademia-fc-dvtk-merkozes/
+2025-12-13,Nyíregyháza Spartacus,Győri ETO,0,1,Nyíregyháza Spartacus 0-1 Győri ETO 2025-12-13,nyiregyhaza-spartacus-fc-,eto-fc-gyor-,2025,12,13,https://m4sport.hu/video/2025/12/13/fizz-liga-nyiregyhaza-spartacus-fc-eto-fc-gyor-merkozes/
+2025-12-07,Újpest,Zalaegerszeg,0,2,Újpest 0-2 Zalaegerszeg 2025-12-07,ujpest-fc-,zte-fc-,2025,12,07,https://m4sport.hu/video/2025/12/07/fizz-liga-ujpest-fc-zte-fc-merkozes/
+2025-12-07,Ferencváros,Kisvárda,3,0,Ferencváros 3-0 Kisvárda 2025-12-07,ferencvarosi-tc-,kisvárda-master-good-,2025,12,07,https://m4sport.hu/video/2025/12/07/fizz-liga-ferencvarosi-tc-kisvárda-master-good-merkozes/
+2025-12-07,Győri ETO,Kazincbarcika,3,1,Győri ETO 3-1 Kazincbarcika 2025-12-07,eto-fc-gyor-,kazincbarcika-sc-,2025,12,07,https://m4sport.hu/video/2025/12/07/fizz-liga-eto-fc-gyor-kazincbarcika-sc-merkozes/
+2025-12-06,Paks,MTK,3,1,Paks 3-1 MTK 2025-12-06,paksi-fc-,mtk-budapest-,2025,12,06,https://m4sport.hu/video/2025/12/06/fizz-liga-paksi-fc-mtk-budapest-merkozes/
+2025-12-06,Debrecen,Puskás,0,1,Debrecen 0-1 Puskás 2025-12-06,dvsc-,puskas-akademia-fc-,2025,12,06,https://m4sport.hu/video/2025/12/06/fizz-liga-dvsc-puskas-akademia-fc-merkozes/
+2025-12-06,Diósgyőr,Nyíregyháza Spartacus,2,0,Diósgyőr 2-0 Nyíregyháza Spartacus 2025-12-06,dvtk-,nyiregyhaza-spartacus-fc-,2025,12,06,https://m4sport.hu/video/2025/12/06/fizz-liga-dvtk-nyiregyhaza-spartacus-fc-merkozes/
+2025-12-04,Kisvárda,Ferencváros,0,1,Kisvárda 0-1 Ferencváros 2025-12-04,kisvárda-master-good-,ferencvarosi-tc-,2025,12,04,https://m4sport.hu/video/2025/12/04/fizz-liga-kisvárda-master-good-ferencvarosi-tc-merkozes/
+2025-12-03,Kazincbarcika,Győri ETO,1,3,Kazincbarcika 1-3 Győri ETO 2025-12-03,kazincbarcika-sc-,eto-fc-gyor-,2025,12,03,https://m4sport.hu/video/2025/12/03/fizz-liga-kazincbarcika-sc-eto-fc-gyor-merkozes/
+2025-11-30,Puskás,Ferencváros,1,2,Puskás 1-2 Ferencváros 2025-11-30,puskas-akademia-fc-,ferencvarosi-tc-,2025,11,30,https://m4sport.hu/video/2025/11/30/fizz-liga-puskas-akademia-fc-ferencvarosi-tc-merkozes/
+2025-11-30,Kisvárda,Újpest,3,0,Kisvárda 3-0 Újpest 2025-11-30,kisvárda-master-good-,ujpest-fc-,2025,11,30,https://m4sport.hu/video/2025/11/30/fizz-liga-kisvárda-master-good-ujpest-fc-merkozes/
+2025-11-29,Győri ETO,MTK,3,0,Győri ETO 3-0 MTK 2025-11-29,eto-fc-gyor-,mtk-budapest-,2025,11,29,https://m4sport.hu/video/2025/11/29/fizz-liga-eto-fc-gyor-mtk-budapest-merkozes/
+2025-11-29,Kazincbarcika,Diósgyőr,1,1,Kazincbarcika 1-1 Diósgyőr 2025-11-29,kazincbarcika-sc-,dvtk-,2025,11,29,https://m4sport.hu/video/2025/11/29/fizz-liga-kazincbarcika-sc-dvtk-merkozes/
+2025-11-29,Zalaegerszeg,Paks,1,0,Zalaegerszeg 1-0 Paks 2025-11-29,zte-fc-,paksi-fc-,2025,11,29,https://m4sport.hu/video/2025/11/29/fizz-liga-zte-fc-paksi-fc-merkozes/
+2025-11-28,Nyíregyháza Spartacus,Debrecen,0,3,Nyíregyháza Spartacus 0-3 Debrecen 2025-11-28,nyiregyhaza-spartacus-fc-,dvsc-,2025,11,28,https://m4sport.hu/video/2025/11/28/fizz-liga-nyiregyhaza-spartacus-fc-dvsc-merkozes/
+2025-11-23,Diósgyőr,MTK,4,0,Diósgyőr 4-0 MTK 2025-11-23,dvtk-,mtk-budapest-,2025,11,23,https://m4sport.hu/video/2025/11/23/fizz-liga-dvtk-mtk-budapest-merkozes/
+2025-11-23,Paks,Újpest,1,3,Paks 1-3 Újpest 2025-11-23,paksi-fc-,ujpest-fc-,2025,11,23,https://m4sport.hu/video/2025/11/23/fizz-liga-paksi-fc-ujpest-fc-merkozes/
+2025-11-22,Ferencváros,Nyíregyháza Spartacus,1,3,Ferencváros 1-3 Nyíregyháza Spartacus 2025-11-22,ferencvarosi-tc-,nyiregyhaza-spartacus-fc-,2025,11,22,https://m4sport.hu/video/2025/11/22/fizz-liga-ferencvarosi-tc-nyiregyhaza-spartacus-fc-merkozes/
+2025-11-22,Debrecen,Kazincbarcika,2,1,Debrecen 2-1 Kazincbarcika 2025-11-22,dvsc-,kazincbarcika-sc-,2025,11,22,https://m4sport.hu/video/2025/11/22/fizz-liga-dvsc-kazincbarcika-sc-merkozes/
+2025-11-22,Puskás,Kisvárda,2,0,Puskás 2-0 Kisvárda 2025-11-22,puskas-akademia-fc-,kisvárda-master-good-,2025,11,22,https://m4sport.hu/video/2025/11/22/fizz-liga-puskas-akademia-fc-kisvárda-master-good-merkozes/
+2025-11-21,Győri ETO,Zalaegerszeg,0,1,Győri ETO 0-1 Zalaegerszeg 2025-11-21,eto-fc-gyor-,zte-fc-,2025,11,21,https://m4sport.hu/video/2025/11/21/fizz-liga-eto-fc-gyor-zte-fc-merkozes/
+2025-11-09,Nyíregyháza Spartacus,Puskás,1,1,Nyíregyháza Spartacus 1-1 Puskás 2025-11-09,nyiregyhaza-spartacus-fc-,puskas-akademia-fc-,2025,11,09,https://m4sport.hu/video/2025/11/09/fizz-liga-nyiregyhaza-spartacus-fc-puskas-akademia-fc-merkozes/
+2025-11-09,Kazincbarcika,Ferencváros,1,3,Kazincbarcika 1-3 Ferencváros 2025-11-09,kazincbarcika-sc-,ferencvarosi-tc-,2025,11,09,https://m4sport.hu/video/2025/11/09/fizz-liga-kazincbarcika-sc-ferencvarosi-tc-merkozes/
+2025-11-09,MTK,Debrecen,3,0,MTK 3-0 Debrecen 2025-11-09,mtk-budapest-,dvsc-,2025,11,09,https://m4sport.hu/video/2025/11/09/fizz-liga-mtk-budapest-dvsc-merkozes/
+2025-11-08,Paks,Kisvárda,5,3,Paks 5-3 Kisvárda 2025-11-08,paksi-fc-,kisvárda-master-good-,2025,11,08,https://m4sport.hu/video/2025/11/08/fizz-liga-paksi-fc-kisvárda-master-good-merkozes/
+2025-11-08,Zalaegerszeg,Diósgyőr,2,0,Zalaegerszeg 2-0 Diósgyőr 2025-11-08,zte-fc-,dvtk-,2025,11,08,https://m4sport.hu/video/2025/11/08/fizz-liga-zte-fc-dvtk-merkozes/
+2025-11-08,Újpest,Győri ETO,0,3,Újpest 0-3 Győri ETO 2025-11-08,ujpest-fc-,eto-fc-gyor-,2025,11,08,https://m4sport.hu/video/2025/11/08/fizz-liga-ujpest-fc-eto-fc-gyor-merkozes/
+2025-11-02,Debrecen,Zalaegerszeg,2,1,Debrecen 2-1 Zalaegerszeg 2025-11-02,dvsc-,zte-fc-,2025,11,02,https://m4sport.hu/video/2025/11/02/fizz-liga-dvsc-zte-fc-merkozes/
+2025-11-02,Diósgyőr,Újpest,1,3,Diósgyőr 1-3 Újpest 2025-11-02,dvtk-,ujpest-fc-,2025,11,02,https://m4sport.hu/video/2025/11/02/fizz-liga-dvtk-ujpest-fc-merkozes/
+2025-11-01,Ferencváros,MTK,4,1,Ferencváros 4-1 MTK 2025-11-01,ferencvarosi-tc-,mtk-budapest-,2025,11,01,https://m4sport.hu/video/2025/11/01/fizz-liga-ferencvarosi-tc-mtk-budapest-merkozes/
+2025-11-01,Győri ETO,Paks,0,0,Győri ETO 0-0 Paks 2025-11-01,eto-fc-gyor-,paksi-fc-,2025,11,01,https://m4sport.hu/video/2025/11/01/fizz-liga-eto-fc-gyor-paksi-fc-merkozes/
+2025-11-01,Kazincbarcika,Puskás,1,3,Kazincbarcika 1-3 Puskás 2025-11-01,kazincbarcika-sc-,puskas-akademia-fc-,2025,11,01,https://m4sport.hu/video/2025/11/01/fizz-liga-kazincbarcika-sc-puskas-akademia-fc-merkozes/
+2025-10-31,Kisvárda,Nyíregyháza Spartacus,0,0,Kisvárda 0-0 Nyíregyháza Spartacus 2025-10-31,kisvárda-master-good-,nyiregyhaza-spartacus-fc-,2025,10,31,https://m4sport.hu/video/2025/10/31/fizz-liga-kisvárda-master-good-nyiregyhaza-spartacus-fc-merkozes/
+2025-10-26,Ferencváros,Zalaegerszeg,1,2,Ferencváros 1-2 Zalaegerszeg 2025-10-26,ferencvarosi-tc-,zte-fc-,2025,10,26,https://m4sport.hu/video/2025/10/26/fizz-liga-ferencvarosi-tc-zte-fc-merkozes/
+2025-10-26,Debrecen,Újpest,5,2,Debrecen 5-2 Újpest 2025-10-26,dvsc-,ujpest-fc-,2025,10,26,https://m4sport.hu/video/2025/10/26/fizz-liga-dvsc-ujpest-fc-merkozes/
+2025-10-26,Kisvárda,Győri ETO,3,2,Kisvárda 3-2 Győri ETO 2025-10-26,kisvárda-master-good-,eto-fc-gyor-,2025,10,26,https://m4sport.hu/video/2025/10/26/fizz-liga-kisvárda-master-good-eto-fc-gyor-merkozes/
+2025-10-25,Nyíregyháza Spartacus,Kazincbarcika,0,1,Nyíregyháza Spartacus 0-1 Kazincbarcika 2025-10-25,nyiregyhaza-spartacus-fc-,kazincbarcika-sc-,2025,10,25,https://m4sport.hu/video/2025/10/25/fizz-liga-nyiregyhaza-spartacus-fc-kazincbarcika-sc-merkozes/
+2025-10-25,Diósgyőr,Paks,2,1,Diósgyőr 2-1 Paks 2025-10-25,dvtk-,paksi-fc-,2025,10,25,https://m4sport.hu/video/2025/10/25/fizz-liga-dvtk-paksi-fc-merkozes/
+2025-10-25,Puskás,MTK,1,1,Puskás 1-1 MTK 2025-10-25,puskas-akademia-fc-,mtk-budapest-,2025,10,25,https://m4sport.hu/video/2025/10/25/fizz-liga-puskas-akademia-fc-mtk-budapest-merkozes/
+2025-10-19,Újpest,Ferencváros,1,1,Újpest 1-1 Ferencváros 2025-10-19,ujpest-fc-,ferencvarosi-tc-,2025,10,19,https://m4sport.hu/video/2025/10/19/fizz-liga-ujpest-fc-ferencvarosi-tc-merkozes/
+2025-10-19,Zalaegerszeg,Puskás,0,1,Zalaegerszeg 0-1 Puskás 2025-10-19,zte-fc-,puskas-akademia-fc-,2025,10,19,https://m4sport.hu/video/2025/10/19/fizz-liga-zte-fc-puskas-akademia-fc-merkozes/
+2025-10-19,Kazincbarcika,Kisvárda,0,1,Kazincbarcika 0-1 Kisvárda 2025-10-19,kazincbarcika-sc-,kisvárda-master-good-,2025,10,19,https://m4sport.hu/video/2025/10/19/fizz-liga-kazincbarcika-sc-kisvárda-master-good-merkozes/
+2025-10-18,Győri ETO,Diósgyőr,3,1,Győri ETO 3-1 Diósgyőr 2025-10-18,eto-fc-gyor-,dvtk-,2025,10,18,https://m4sport.hu/video/2025/10/18/fizz-liga-eto-fc-gyor-dvtk-merkozes/
+2025-10-18,Paks,Debrecen,1,1,Paks 1-1 Debrecen 2025-10-18,paksi-fc-,dvsc-,2025,10,18,https://m4sport.hu/video/2025/10/18/fizz-liga-paksi-fc-dvsc-merkozes/
+2025-10-18,MTK,Nyíregyháza Spartacus,5,1,MTK 5-1 Nyíregyháza Spartacus 2025-10-18,mtk-budapest-,nyiregyhaza-spartacus-fc-,2025,10,18,https://m4sport.hu/video/2025/10/18/fizz-liga-mtk-budapest-nyiregyhaza-spartacus-fc-merkozes/
+2025-10-05,Kisvárda,Diósgyőr,1,0,Kisvárda 1-0 Diósgyőr 2025-10-05,kisvárda-master-good-,dvtk-,2025,10,05,https://m4sport.hu/video/2025/10/05/fizz-liga-kisvárda-master-good-dvtk-merkozes/
+2025-10-05,Ferencváros,Paks,2,2,Ferencváros 2-2 Paks 2025-10-05,ferencvarosi-tc-,paksi-fc-,2025,10,05,https://m4sport.hu/video/2025/10/05/fizz-liga-ferencvarosi-tc-paksi-fc-merkozes/
+2025-10-04,Debrecen,Győri ETO,1,1,Debrecen 1-1 Győri ETO 2025-10-04,dvsc-,eto-fc-gyor-,2025,10,04,https://m4sport.hu/video/2025/10/04/fizz-liga-dvsc-eto-fc-gyor-merkozes/
+2025-10-04,Puskás,Újpest,0,0,Puskás 0-0 Újpest 2025-10-04,puskas-akademia-fc-,ujpest-fc-,2025,10,04,https://m4sport.hu/video/2025/10/04/fizz-liga-puskas-akademia-fc-ujpest-fc-merkozes/
+2025-10-04,Nyíregyháza Spartacus,Zalaegerszeg,3,1,Nyíregyháza Spartacus 3-1 Zalaegerszeg 2025-10-04,nyiregyhaza-spartacus-fc-,zte-fc-,2025,10,04,https://m4sport.hu/video/2025/10/04/fizz-liga-nyiregyhaza-spartacus-fc-zte-fc-merkozes/
+2025-10-03,Kazincbarcika,MTK,3,1,Kazincbarcika 3-1 MTK 2025-10-03,kazincbarcika-sc-,mtk-budapest-,2025,10,03,https://m4sport.hu/video/2025/10/03/fizz-liga-kazincbarcika-sc-mtk-budapest-merkozes/
+2025-09-28,Győri ETO,Ferencváros,0,2,Győri ETO 0-2 Ferencváros 2025-09-28,eto-fc-gyor-,ferencvarosi-tc-,2025,09,28,https://m4sport.hu/video/2025/09/28/fizz-liga-eto-fc-gyor-ferencvarosi-tc-merkozes/
+2025-09-28,MTK,Kisvárda,4,0,MTK 4-0 Kisvárda 2025-09-28,mtk-budapest-,kisvárda-master-good-,2025,09,28,https://m4sport.hu/video/2025/09/28/fizz-liga-mtk-budapest-kisvárda-master-good-merkozes/
+2025-09-27,Paks,Puskás,3,2,Paks 3-2 Puskás 2025-09-27,paksi-fc-,puskas-akademia-fc-,2025,09,27,https://m4sport.hu/video/2025/09/27/fizz-liga-paksi-fc-puskas-akademia-fc-merkozes/
+2025-09-27,Diósgyőr,Debrecen,0,0,Diósgyőr 0-0 Debrecen 2025-09-27,dvtk-,dvsc-,2025,09,27,https://m4sport.hu/video/2025/09/27/fizz-liga-dvtk-dvsc-merkozes/
+2025-09-27,Zalaegerszeg,Kazincbarcika,5,0,Zalaegerszeg 5-0 Kazincbarcika 2025-09-27,zte-fc-,kazincbarcika-sc-,2025,09,27,https://m4sport.hu/video/2025/09/27/fizz-liga-zte-fc-kazincbarcika-sc-merkozes/
+2025-09-26,Újpest,Nyíregyháza Spartacus,2,2,Újpest 2-2 Nyíregyháza Spartacus 2025-09-26,ujpest-fc-,nyiregyhaza-spartacus-fc-,2025,09,26,https://m4sport.hu/video/2025/09/26/fizz-liga-ujpest-fc-nyiregyhaza-spartacus-fc-merkozes/
+2025-09-21,MTK,Zalaegerszeg,1,0,MTK 1-0 Zalaegerszeg 2025-09-21,mtk-budapest-,zte-fc-,2025,09,21,https://m4sport.hu/video/2025/09/21/fizz-liga-mtk-budapest-zte-fc-merkozes/
+2025-09-21,Kisvárda,Debrecen,0,1,Kisvárda 0-1 Debrecen 2025-09-21,kisvárda-master-good-,dvsc-,2025,09,21,https://m4sport.hu/video/2025/09/21/fizz-liga-kisvárda-master-good-dvsc-merkozes/
+2025-09-20,Puskás,Győri ETO,0,2,Puskás 0-2 Győri ETO 2025-09-20,puskas-akademia-fc-,eto-fc-gyor-,2025,09,20,https://m4sport.hu/video/2025/09/20/fizz-liga-puskas-akademia-fc-eto-fc-gyor-merkozes/
+2025-09-20,Kazincbarcika,Újpest,2,0,Kazincbarcika 2-0 Újpest 2025-09-20,kazincbarcika-sc-,ujpest-fc-,2025,09,20,https://m4sport.hu/video/2025/09/20/fizz-liga-kazincbarcika-sc-ujpest-fc-merkozes/
+2025-09-20,Nyíregyháza Spartacus,Paks,1,1,Nyíregyháza Spartacus 1-1 Paks 2025-09-20,nyiregyhaza-spartacus-fc-,paksi-fc-,2025,09,20,https://m4sport.hu/video/2025/09/20/fizz-liga-nyiregyhaza-spartacus-fc-paksi-fc-merkozes/
+2025-09-19,Ferencváros,Diósgyőr,2,2,Ferencváros 2-2 Diósgyőr 2025-09-19,ferencvarosi-tc-,dvtk-,2025,09,19,https://m4sport.hu/video/2025/09/19/fizz-liga-ferencvarosi-tc-dvtk-merkozes/
+2025-08-31,Debrecen,Ferencváros,0,3,Debrecen 0-3 Ferencváros 2025-08-31,dvsc-,ferencvarosi-tc-,2025,08,31,https://m4sport.hu/video/2025/08/31/fizz-liga-dvsc-ferencvarosi-tc-merkozes/
+2025-08-31,Győri ETO,Nyíregyháza Spartacus,1,0,Győri ETO 1-0 Nyíregyháza Spartacus 2025-08-31,eto-fc-gyor-,nyiregyhaza-spartacus-fc-,2025,08,31,https://m4sport.hu/video/2025/08/31/fizz-liga-eto-fc-gyor-nyiregyhaza-spartacus-fc-merkozes/
+2025-08-30,Újpest,MTK,1,2,Újpest 1-2 MTK 2025-08-30,ujpest-fc-,mtk-budapest-,2025,08,30,https://m4sport.hu/video/2025/08/30/fizz-liga-ujpest-fc-mtk-budapest-merkozes/
+2025-08-30,Diósgyőr,Puskás,1,1,Diósgyőr 1-1 Puskás 2025-08-30,dvtk-,puskas-akademia-fc-,2025,08,30,https://m4sport.hu/video/2025/08/30/fizz-liga-dvtk-puskas-akademia-fc-merkozes/
+2025-08-30,Zalaegerszeg,Kisvárda,1,2,Zalaegerszeg 1-2 Kisvárda 2025-08-30,zte-fc-,kisvárda-master-good-,2025,08,30,https://m4sport.hu/video/2025/08/30/fizz-liga-zte-fc-kisvárda-master-good-merkozes/
+2025-08-29,Paks,Kazincbarcika,3,0,Paks 3-0 Kazincbarcika 2025-08-29,paksi-fc-,kazincbarcika-sc-,2025,08,29,https://m4sport.hu/video/2025/08/29/fizz-liga-paksi-fc-kazincbarcika-sc-merkozes/
+2025-08-24,MTK,Paks,2,3,MTK 2-3 Paks 2025-08-24,mtk-budapest-,paksi-fc-,2025,08,24,https://m4sport.hu/video/2025/08/24/fizz-liga-mtk-budapest-paksi-fc-merkozes/
+2025-08-23,Nyíregyháza Spartacus,Diósgyőr,1,4,Nyíregyháza Spartacus 1-4 Diósgyőr 2025-08-23,nyiregyhaza-spartacus-fc-,dvtk-,2025,08,23,https://m4sport.hu/video/2025/08/23/fizz-liga-nyiregyhaza-spartacus-fc-dvtk-merkozes/
+2025-08-23,Zalaegerszeg,Újpest,1,4,Zalaegerszeg 1-4 Újpest 2025-08-23,zte-fc-,ujpest-fc-,2025,08,23,https://m4sport.hu/video/2025/08/23/fizz-liga-zte-fc-ujpest-fc-merkozes/
+2025-08-22,Puskás,Debrecen,1,3,Puskás 1-3 Debrecen 2025-08-22,puskas-akademia-fc-,dvsc-,2025,08,22,https://m4sport.hu/video/2025/08/22/fizz-liga-puskas-akademia-fc-dvsc-merkozes/
+2025-08-17,Paks,Zalaegerszeg,2,2,Paks 2-2 Zalaegerszeg 2025-08-17,paksi-fc-,zte-fc-,2025,08,17,https://m4sport.hu/video/2025/08/17/fizz-liga-paksi-fc-zte-fc-merkozes/
+2025-08-17,MTK,Győri ETO,2,7,MTK 2-7 Győri ETO 2025-08-17,mtk-budapest-,eto-fc-gyor-,2025,08,17,https://m4sport.hu/video/2025/08/17/fizz-liga-mtk-budapest-eto-fc-gyor-merkozes/
+2025-08-17,Debrecen,Nyíregyháza Spartacus,1,2,Debrecen 1-2 Nyíregyháza Spartacus 2025-08-17,dvsc-,nyiregyhaza-spartacus-fc-,2025,08,17,https://m4sport.hu/video/2025/08/17/fizz-liga-dvsc-nyiregyhaza-spartacus-fc-merkozes/
+2025-08-16,Ferencváros,Puskás,1,2,Ferencváros 1-2 Puskás 2025-08-16,ferencvarosi-tc-,puskas-akademia-fc-,2025,08,16,https://m4sport.hu/video/2025/08/16/fizz-liga-ferencvarosi-tc-puskas-akademia-fc-merkozes/
+2025-08-16,Diósgyőr,Kazincbarcika,2,2,Diósgyőr 2-2 Kazincbarcika 2025-08-16,dvtk-,kazincbarcika-sc-,2025,08,16,https://m4sport.hu/video/2025/08/16/fizz-liga-dvtk-kazincbarcika-sc-merkozes/
+2025-08-15,Újpest,Kisvárda,0,1,Újpest 0-1 Kisvárda 2025-08-15,ujpest-fc-,kisvárda-master-good-,2025,08,15,https://m4sport.hu/video/2025/08/15/fizz-liga-ujpest-fc-kisvárda-master-good-merkozes/
+2025-08-10,Újpest,Paks,1,2,Újpest 1-2 Paks 2025-08-10,ujpest-fc-,paksi-fc-,2025,08,10,https://m4sport.hu/video/2025/08/10/fizz-liga-ujpest-fc-paksi-fc-merkozes/
+2025-08-10,Kisvárda,Puskás,2,1,Kisvárda 2-1 Puskás 2025-08-10,kisvárda-master-good-,puskas-akademia-fc-,2025,08,10,https://m4sport.hu/video/2025/08/10/fizz-liga-kisvárda-master-good-puskas-akademia-fc-merkozes/
+2025-08-10,Zalaegerszeg,Győri ETO,1,1,Zalaegerszeg 1-1 Győri ETO 2025-08-10,zte-fc-,eto-fc-gyor-,2025,08,10,https://m4sport.hu/video/2025/08/10/fizz-liga-zte-fc-eto-fc-gyor-merkozes/
+2025-08-09,Nyíregyháza Spartacus,Ferencváros,1,4,Nyíregyháza Spartacus 1-4 Ferencváros 2025-08-09,nyiregyhaza-spartacus-fc-,ferencvarosi-tc-,2025,08,09,https://m4sport.hu/video/2025/08/09/fizz-liga-nyiregyhaza-spartacus-fc-ferencvarosi-tc-merkozes/
+2025-08-09,MTK,Diósgyőr,5,0,MTK 5-0 Diósgyőr 2025-08-09,mtk-budapest-,dvtk-,2025,08,09,https://m4sport.hu/video/2025/08/09/fizz-liga-mtk-budapest-dvtk-merkozes/
+2025-08-08,Kazincbarcika,Debrecen,1,2,Kazincbarcika 1-2 Debrecen 2025-08-08,kazincbarcika-sc-,dvsc-,2025,08,08,https://m4sport.hu/video/2025/08/08/fizz-liga-kazincbarcika-sc-dvsc-merkozes/
+2025-08-03,Győri ETO,Újpest,1,1,Győri ETO 1-1 Újpest 2025-08-03,eto-fc-gyor-,ujpest-fc-,2025,08,03,https://m4sport.hu/video/2025/08/03/fizz-liga-eto-fc-gyor-ujpest-fc-merkozes/
+2025-08-03,Kisvárda,Paks,1,5,Kisvárda 1-5 Paks 2025-08-03,kisvárda-master-good-,paksi-fc-,2025,08,03,https://m4sport.hu/video/2025/08/03/fizz-liga-kisvárda-master-good-paksi-fc-merkozes/
+2025-08-03,Puskás,Nyíregyháza Spartacus,3,2,Puskás 3-2 Nyíregyháza Spartacus 2025-08-03,puskas-akademia-fc-,nyiregyhaza-spartacus-fc-,2025,08,03,https://m4sport.hu/video/2025/08/03/fizz-liga-puskas-akademia-fc-nyiregyhaza-spartacus-fc-merkozes/
+2025-08-02,Ferencváros,Kazincbarcika,3,0,Ferencváros 3-0 Kazincbarcika 2025-08-02,ferencvarosi-tc-,kazincbarcika-sc-,2025,08,02,https://m4sport.hu/video/2025/08/02/fizz-liga-ferencvarosi-tc-kazincbarcika-sc-merkozes/
+2025-08-02,Diósgyőr,Zalaegerszeg,2,2,Diósgyőr 2-2 Zalaegerszeg 2025-08-02,dvtk-,zte-fc-,2025,08,02,https://m4sport.hu/video/2025/08/02/fizz-liga-dvtk-zte-fc-merkozes/
+2025-08-01,Debrecen,MTK,1,0,Debrecen 1-0 MTK 2025-08-01,dvsc-,mtk-budapest-,2025,08,01,https://m4sport.hu/video/2025/08/01/fizz-liga-dvsc-mtk-budapest-merkozes/
+2025-07-27,Puskás,Kazincbarcika,2,1,Puskás 2-1 Kazincbarcika 2025-07-27,puskas-akademia-fc-,kazincbarcika-sc-,2025,07,27,https://m4sport.hu/video/2025/07/27/fizz-liga-puskas-akademia-fc-kazincbarcika-sc-merkozes/
+2025-07-27,Paks,Győri ETO,3,3,Paks 3-3 Győri ETO 2025-07-27,paksi-fc-,eto-fc-gyor-,2025,07,27,https://m4sport.hu/video/2025/07/27/fizz-liga-paksi-fc-eto-fc-gyor-merkozes/
+2025-07-27,Nyíregyháza Spartacus,Kisvárda,1,1,Nyíregyháza Spartacus 1-1 Kisvárda 2025-07-27,nyiregyhaza-spartacus-fc-,kisvárda-master-good-,2025,07,27,https://m4sport.hu/video/2025/07/27/fizz-liga-nyiregyhaza-spartacus-fc-kisvárda-master-good-merkozes/
 2025-07-26,MTK,Ferencváros,1,1,MTK 1-1 Ferencváros 2025-07-26,mtk-budapest-,ferencvarosi-tc-,2025,07,26,https://m4sport.hu/video/2025/07/26/fizz-liga-mtk-budapest-ferencvarosi-tc-merkozes/
 2025-07-26,Zalaegerszeg,Debrecen,3,3,Zalaegerszeg 3-3 Debrecen 2025-07-26,zte-fc-,dvsc-,2025,07,26,https://m4sport.hu/video/2025/07/26/fizz-liga-zte-fc-dvsc-merkozes/
 2025-07-25,Újpest,Diósgyőr,3,1,Újpest 3-1 Diósgyőr 2025-07-25,ujpest-fc-,dvtk-,2025,07,25,https://m4sport.hu/video/2025/07/25/fizz-liga-ujpest-fc-dvtk-merkozes/
