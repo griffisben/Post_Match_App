@@ -241,7 +241,7 @@ with graph_tab:
         ax.axhline(y=lg_avg_var, color='#ee5454', linestyle='-', label='League Avg')
         ax.axhline(y=team_avg_var, color='#f6ba00', linestyle='-', label='Team Avg')
     
-        ax.set_title(f"{team} {var}, {league}\nData via Opta as of {update_date} | Created on football-match-reports.streamlit.app")
+        ax.set_title(f"{team} {var}, {league}\nData via Opta as of {update_date} | Created on @justmessi23")
         ax.set_xlabel('Date')
         plt.xticks(rotation=90)
         ax.set_ylabel(var)
@@ -254,7 +254,7 @@ with graph_tab:
         #         team_data2[::-1],
         #         title={
         #             "text": [f"{team} {var}, {league}"],
-        #             "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
+        #             "subtitle": [f"Data via Opta as of {update_date} | Created: NoivviData (@BeGriffis) via @justmessi23"]
         #         }
         #     )
         #     .mark_line(point=True, color='#4c94f6')
@@ -328,7 +328,7 @@ with graph_tab:
         if mov_avg == 'Yes':
             ax.plot(team_data2[::-1]['Date'], team_data2[::-1]['4-Match Moving Average'], linestyle='--', color='#4a2e19', label='4-Match Moving Average')
     
-        ax.set_title(f"{team} {var}, {league}\nData via Opta as of {update_date} | Created on football-match-reports.streamlit.app")
+        ax.set_title(f"{team} {var}, {league}\nData via Opta as of {update_date} | Created on @justmessi23")
         ax.set_xlabel('Date')
         plt.xticks(rotation=90)
         ax.set_ylabel(var)
@@ -341,7 +341,7 @@ with graph_tab:
         #         team_data[::-1],
         #         title={
         #             "text": [f"{team} {var}, {league}"],
-        #             "subtitle": [f"Data via Opta as of {update_date} | Created: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app"]
+        #             "subtitle": [f"Data via Opta as of {update_date} | Created: NoivviData (@BeGriffis) via @justmessi23"]
         #         }
         #     )
         #     .mark_bar()
@@ -502,7 +502,7 @@ with rank_tab:
     )
     fig.text(
         x=0.14, y=.9,
-        s=f"Data via Opta as of {update_date}  \nCreated: Ben Griffis (@BeGriffis) via football-match-reports.streamlit.app",
+        s=f"Data via Opta as of {update_date}  \nCreated: NoivviData (@BeGriffis) via @justmessi23",
         ha='left',
         va='top',
         weight='regular',
@@ -537,7 +537,7 @@ with xg_tab:
     
     lg_chart_xg = alt.Chart(league_data,  title=alt.Title(
        f"{team} {xvar} & {yvar} by Match, {league}",
-       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
+       subtitle=[f"Data via Opta | Created by NoivviData (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Sub on: @justmessi23"],
     )).mark_circle(size=30, color='silver').encode(
         x=xvar,
         y=yvar,
@@ -548,7 +548,7 @@ with xg_tab:
     range_ = ['blue','black','darkorange']
     team_chart_xg = alt.Chart(team_data,  title=alt.Title(
        f"{team} {xvar} & {yvar} by Match, {league}",
-       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Generated on: football-match-reports.streamlit.app"],
+       subtitle=[f"Data via Opta | Created by NoivviData (@BeGriffis) | Data as of {update_date}",f"Small grey points are all matches in the league. Large Colored points are {team}'s matches","Sub on: @justmessi23"],
     )).mark_circle(size=90).encode(
         x=xvar,
         y=yvar,
@@ -598,7 +598,7 @@ with scatter_tab:
     
     lg_chart_scatter = alt.Chart(league_scatter,  title=alt.Title(
        f"{league}, {rank_method_x} {xvar} & {rank_method_y} {yvar}",
-       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Colored point indicates {team}","Generated on: football-match-reports.streamlit.app"],
+       subtitle=[f"Data via Opta | Created by NoivviData (@BeGriffis) | Data as of {update_date}",f"Colored point indicates {team}","Sub on: @justmessi23"],
     )).mark_circle(size=75, color='grey').encode(
         x=alt.X(xvar).scale(zero=False),
         y=alt.Y(yvar).scale(zero=False),
@@ -608,7 +608,7 @@ with scatter_tab:
 
     team_chart_scatter = alt.Chart(team_scatter,  title=alt.Title(
        f"{league}, {rank_method_x} {xvar} & {rank_method_y} {yvar}",
-       subtitle=[f"Data via Opta | Created by Ben Griffis (@BeGriffis) | Data as of {update_date}",f"Colored point indicates {team}","Generated on: football-match-reports.streamlit.app"],
+       subtitle=[f"Data via Opta | Created by NoivviData (@BeGriffis) | Data as of {update_date}",f"Colored point indicates {team}","Sub on: @justmessi23"],
     )).mark_circle(size=125,color=focal_color).encode(
         x=alt.X(xvar).scale(zero=False),
         y=alt.Y(yvar).scale(zero=False),
