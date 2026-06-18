@@ -14,9 +14,10 @@ import matplotlib
 
 cxG = 1.53570624482222
 
+good_leagues = ['K League 1','K League 2','World Cup']
+
 @st.cache_data(ttl=60*15)
 
-good_leagues = ['K League 1','K League 2','World Cup']
 
 
 def color_percentile(pc):
