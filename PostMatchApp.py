@@ -442,6 +442,10 @@ with rank_tab:
     columns = indexdf_short.columns.tolist()
     
     # Add table's main text
+    if league=='World Cup':
+        tsize = 7
+    else:
+        tsize=10
     for i in range(nrows):
         for j, column in enumerate(columns):
             if column == 'Team':
@@ -462,7 +466,8 @@ with rank_tab:
                 text = text_label,
                 ha='left',
                 va='center', color=t_color,
-                weight=weight
+                weight=weight,
+                size=tsize
             )
             
     # Add column names
