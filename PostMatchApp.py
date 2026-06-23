@@ -37,7 +37,8 @@ def table_start_end(df,start_date,end_date):
 
     return table
     
-good_leagues = ['K League 1','K League 2','World Cup','Irish Premier Division']
+good_leagues = ['K League 1','K League 2','World Cup','Irish Premier Division',
+               'Virsliga','Northern Super League','USL Championship','USL League One']
 
 
 def add_mov_avg(df,var):
