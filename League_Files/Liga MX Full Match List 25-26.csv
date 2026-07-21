@@ -1,4 +1,186 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
+2026-05-24,,Pumas UNAM 1-2 Cruz Azul,Pumas UNAM,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,1uh4plh45gd51zz4nqbumltec
+2026-05-21,,Cruz Azul 0-0 Pumas UNAM,Cruz Azul,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,1u4gh5gk4zuh4ohvjf3skty50
+2026-05-17,,Pumas UNAM 1-0 Pachuca,Pumas UNAM,Pachuca,aegyls91smdw9kipjgbsu8tn8,663jbqu35w33nud5dbgme2zh0
+2026-05-16,,Guadalajara 1-2 Cruz Azul,Guadalajara,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,66qnpllskosufw8fix7lrne38
+2026-05-14,,Pachuca 1-0 Pumas UNAM,Pachuca,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,64szyia7m8voj9qz6htwyi0pg
+2026-05-13,,Cruz Azul 2-2 Guadalajara,Cruz Azul,Guadalajara,aegyls91smdw9kipjgbsu8tn8,65gccx5jxscv2i5oppna0m0wk
+2026-05-10,,Pumas UNAM 3-3 Club América,Pumas UNAM,Club América,aegyls91smdw9kipjgbsu8tn8,7p8yrkv0dmn1x95xdezu61jbo
+2026-05-10,,Pachuca 2-0 Toluca,Pachuca,Toluca,aegyls91smdw9kipjgbsu8tn8,7rbtqkzzkcnln8ze40ruklh5g
+2026-05-09,,Cruz Azul 1-0 Atlas,Cruz Azul,Atlas,aegyls91smdw9kipjgbsu8tn8,7qmq1t0v2rtzwm6gskpul9j4k
+2026-05-09,,Guadalajara 2-0 Tigres UANL,Guadalajara,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,7pxpgk0pi036xn8dgyc62oh04
+2026-05-03,,Toluca 0-1 Pachuca,Toluca,Pachuca,aegyls91smdw9kipjgbsu8tn8,7ok96iqukwjsjro4xjmrawe8k
+2026-05-03,,Club América 3-3 Pumas UNAM,Club América,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,7mhpmvamgypxwv9doz7uzd53o
+2026-05-02,,Atlas 2-3 Cruz Azul,Atlas,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,7nvfofi7yjj8tsynmivendwr8
+2026-05-02,,Tigres UANL 3-1 Guadalajara,Tigres UANL,Guadalajara,aegyls91smdw9kipjgbsu8tn8,7n6j1l4leem68kkersz4ptx5g
+2026-04-26,17.0,Cruz Azul 4-1 Necaxa,Cruz Azul,Necaxa,aegyls91smdw9kipjgbsu8tn8,f2m873x8mlamp787m0uqfw1ec
+2026-04-26,17.0,Santos Laguna 3-0 Monterrey,Santos Laguna,Monterrey,aegyls91smdw9kipjgbsu8tn8,f22p815o9q44sg5bub9xs9fdg
+2026-04-25,17.0,Club América 0-1 Atlas,Club América,Atlas,aegyls91smdw9kipjgbsu8tn8,f0zb5fyjhfkqa48wujjqf2gb8
+2026-04-25,17.0,Juárez 2-1 Atlético San Luis,Juárez,Atlético San Luis,aegyls91smdw9kipjgbsu8tn8,f1j36b7nh9pg7bpi87pna0m50
+2026-04-25,17.0,Guadalajara 0-0 Tijuana,Guadalajara,Tijuana,aegyls91smdw9kipjgbsu8tn8,ezvpjxnb8wvbrxl4uja8jpqms
+2026-04-25,17.0,Toluca 4-1 León,Toluca,León,aegyls91smdw9kipjgbsu8tn8,f0fc7huwxdezyaubr4hg914ic
+2026-04-25,17.0,Tigres UANL 5-1 Mazatlán,Tigres UANL,Mazatlán,aegyls91smdw9kipjgbsu8tn8,ezawprxqj1updluryg0k9sil0
+2026-04-25,17.0,Pachuca 0-2 Pumas UNAM,Pachuca,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,eyph69qjsjlgj3oul8t0b5ogk
+2026-04-24,17.0,Puebla 1-2 Querétaro,Puebla,Querétaro,aegyls91smdw9kipjgbsu8tn8,ey5vrgof82h26junlsndjuzh0
+2026-04-22,16.0,Necaxa 0-0 Guadalajara,Necaxa,Guadalajara,aegyls91smdw9kipjgbsu8tn8,ex2gzh6xj1zdnazi2g9leuu50
+2026-04-22,16.0,Tijuana 3-1 Pachuca,Tijuana,Pachuca,aegyls91smdw9kipjgbsu8tn8,exm8t579l1fvxs1miff2xibys
+2026-04-22,16.0,Mazatlán 4-3 Toluca,Mazatlán,Toluca,aegyls91smdw9kipjgbsu8tn8,ewitfv2vggafew2elfdragbv8
+2026-04-22,16.0,Atlético San Luis 2-0 Santos Laguna,Atlético San Luis,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,evzcg35bargzqc6cqg4aj8nx0
+2026-04-22,16.0,Atlas 0-0 Tigres UANL,Atlas,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,evft9z41qyi4odtkkfcmcudxw
+2026-04-21,16.0,León 2-3 Club América,León,Club América,aegyls91smdw9kipjgbsu8tn8,euah2vd6f8hg5cgq58lwqaot0
+2026-04-21,16.0,Monterrey 2-1 Puebla,Monterrey,Puebla,aegyls91smdw9kipjgbsu8tn8,euw8jvsxinzhuqthhidc92yvo
+2026-04-21,16.0,Pumas UNAM 4-2 Juárez,Pumas UNAM,Juárez,aegyls91smdw9kipjgbsu8tn8,eto43z2rllpj13biwxrtkx9g4
+2026-04-21,16.0,Querétaro 1-1 Cruz Azul,Querétaro,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,et3y8epmjuna7ot3crw4ou0ic
+2026-04-19,15.0,Santos Laguna 0-1 Atlas,Santos Laguna,Atlas,aegyls91smdw9kipjgbsu8tn8,esjw3n7wriqcyppib1281rlec
+2026-04-18,15.0,Club América 2-1 Toluca,Club América,Toluca,aegyls91smdw9kipjgbsu8tn8,erzv98patnnsr8fl3qwc1i784
+2026-04-18,15.0,León 3-1 Juárez,León,Juárez,aegyls91smdw9kipjgbsu8tn8,erfufgswpoide4f92zmln10yc
+2026-04-18,15.0,Guadalajara 5-0 Puebla,Guadalajara,Puebla,aegyls91smdw9kipjgbsu8tn8,eqbr4l6c85y9kgimjq4t3vor8
+2026-04-18,15.0,Monterrey 1-3 Pachuca,Monterrey,Pachuca,aegyls91smdw9kipjgbsu8tn8,eqvuu9fvdw38tf2zyhdvivndg
+2026-04-18,15.0,Cruz Azul 1-1 Tijuana,Cruz Azul,Tijuana,aegyls91smdw9kipjgbsu8tn8,eprrlhzixit6pa1nad3up7kt0
+2026-04-18,15.0,Necaxa 1-1 Tigres UANL,Necaxa,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,ep7h0acm5hfhki00azv3lb6dw
+2026-04-17,15.0,Mazatlán 1-1 Querétaro,Mazatlán,Querétaro,aegyls91smdw9kipjgbsu8tn8,eolgyvvlt5gawxfn8qfzvemtw
+2026-04-17,15.0,Atlético San Luis 0-2 Pumas UNAM,Atlético San Luis,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,eo11wiq827vvw0153x0yrvz10
+2026-04-12,14.0,Toluca 1-1 Atlético San Luis,Toluca,Atlético San Luis,aegyls91smdw9kipjgbsu8tn8,enh9m6apvfirnmpojuvnbou8k
+2026-04-12,14.0,Pumas UNAM 3-1 Mazatlán,Pumas UNAM,Mazatlán,aegyls91smdw9kipjgbsu8tn8,emx84yy5pume1h3nssjkvinf8
+2026-04-11,14.0,Club América 1-1 Cruz Azul,Club América,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,emd3p18sr2hn86p06j54wqpzo
+2026-04-11,14.0,Pachuca 4-2 Santos Laguna,Pachuca,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,elsmib1l03ku4cq9prvhe7klw
+2026-04-11,14.0,Atlas 0-0 Monterrey,Atlas,Monterrey,aegyls91smdw9kipjgbsu8tn8,el765z0kec7woesnygcuy67mc
+2026-04-11,14.0,Tigres UANL 4-1 Guadalajara,Tigres UANL,Guadalajara,aegyls91smdw9kipjgbsu8tn8,ekmilff1v13qoup0k5jdtvzf8
+2026-04-11,14.0,Querétaro 3-1 Necaxa,Querétaro,Necaxa,aegyls91smdw9kipjgbsu8tn8,ek1p0kh8czgwfv55grb3c5fkk
+2026-04-10,14.0,Juárez 1-2 Tijuana,Juárez,Tijuana,aegyls91smdw9kipjgbsu8tn8,ejdnml9bn3me6xz2zdg88ek9g
+2026-04-10,14.0,Puebla 0-1 León,Puebla,León,aegyls91smdw9kipjgbsu8tn8,eitcxzse47wymng3g52pnciz8
+2026-04-07,7.0,Querétaro 1-1 Juárez,Querétaro,Juárez,aegyls91smdw9kipjgbsu8tn8,dl6bf3ivkojia2tq0p0cptno4
+2026-04-05,13.0,Guadalajara 2-2 Pumas UNAM,Guadalajara,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,ei99iq77uconx5k2nw0lo5xqs
+2026-04-04,13.0,Santos Laguna 1-1 Club América,Santos Laguna,Club América,aegyls91smdw9kipjgbsu8tn8,eh4j56n5udw82fa3fyghvp4ic
+2026-04-04,13.0,Cruz Azul 1-2 Pachuca,Cruz Azul,Pachuca,aegyls91smdw9kipjgbsu8tn8,egjq6tfv62qcbjyzgx0nb182c
+2026-04-04,13.0,León 2-0 Atlas,León,Atlas,aegyls91smdw9kipjgbsu8tn8,efyqjptbiwlgnne0008oo3xuc
+2026-04-04,13.0,Querétaro 1-0 Toluca,Querétaro,Toluca,aegyls91smdw9kipjgbsu8tn8,ehoml5eq9oa5tsx3cr6utbi8k
+2026-04-04,13.0,Monterrey 1-2 Atlético San Luis,Monterrey,Atlético San Luis,aegyls91smdw9kipjgbsu8tn8,efbpgws5eo707sy9j0ov6j5sk
+2026-04-03,13.0,Tijuana 1-0 Tigres UANL,Tijuana,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,eercno8d4ksv96gy1lep1wb9w
+2026-04-03,13.0,Necaxa 2-1 Mazatlán,Necaxa,Mazatlán,aegyls91smdw9kipjgbsu8tn8,ee4v1w3o0kpsxbjqx9ihu5444
+2026-04-03,13.0,Puebla 1-1 Juárez,Puebla,Juárez,aegyls91smdw9kipjgbsu8tn8,edkmf6x5dvhw7gu8ajxpheej8
+2026-03-22,12.0,Juárez 2-1 Tigres UANL,Juárez,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,ed0sy2tej3pyh13644j2ngmqc
+2026-03-22,12.0,Santos Laguna 2-1 Puebla,Santos Laguna,Puebla,aegyls91smdw9kipjgbsu8tn8,ecgt1l76d758s744digwrf5sk
+2026-03-22,12.0,Pachuca 1-1 Toluca,Pachuca,Toluca,aegyls91smdw9kipjgbsu8tn8,ea67hhmtp7zdcvsvyxbt6dbmc
+2026-03-21,12.0,Pumas UNAM 1-0 Club América,Pumas UNAM,Club América,aegyls91smdw9kipjgbsu8tn8,ebwye0axpgpmxmhcub4csixhw
+2026-03-21,12.0,Monterrey 2-3 Guadalajara,Monterrey,Guadalajara,aegyls91smdw9kipjgbsu8tn8,ebd3wskeq1xari2re1m4s8e8k
+2026-03-21,12.0,Atlético San Luis 1-2 León,Atlético San Luis,León,aegyls91smdw9kipjgbsu8tn8,easwberc71c3jort9dguv14wk
+2026-03-21,12.0,Atlas 0-0 Querétaro,Atlas,Querétaro,aegyls91smdw9kipjgbsu8tn8,e9idex6t3q9skiwd4nm2pndp0
+2026-03-20,12.0,Mazatlán 1-1 Cruz Azul,Mazatlán,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,e8tzs7lygf1ziub5og1b2em8k
+2026-03-20,12.0,Necaxa 3-0 Tijuana,Necaxa,Tijuana,aegyls91smdw9kipjgbsu8tn8,e888nguhmnt6ti9puwvxokidw
+2026-03-18,9.0,Guadalajara 5-0 León,Guadalajara,León,aegyls91smdw9kipjgbsu8tn8,dwi8u353cet4dfel89whjask4
+2026-03-15,11.0,Club América 2-0 Mazatlán,Club América,Mazatlán,aegyls91smdw9kipjgbsu8tn8,e7muyhxjmj347sxo2zph2hams
+2026-03-15,11.0,Tigres UANL 0-0 Querétaro,Tigres UANL,Querétaro,aegyls91smdw9kipjgbsu8tn8,e3e9f6g5sq52uytmwc3kmcjys
+2026-03-14,11.0,Pumas UNAM 2-2 Cruz Azul,Pumas UNAM,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,e72ve3dhei2ohmj0u88snp3pw
+2026-03-14,11.0,Toluca 1-1 Atlas,Toluca,Atlas,aegyls91smdw9kipjgbsu8tn8,e6hshvs6p2tao96aosj7gmj2s
+2026-03-14,11.0,León 0-3 Tijuana,León,Tijuana,aegyls91smdw9kipjgbsu8tn8,e5wweal2h23w6nhyd2thjlxxw
+2026-03-14,11.0,Guadalajara 3-0 Santos Laguna,Guadalajara,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,e5bk6l09e858v8u53q02nu8lw
+2026-03-14,11.0,Atlético San Luis 1-1 Pachuca,Atlético San Luis,Pachuca,aegyls91smdw9kipjgbsu8tn8,e4p6niepoooijooq4lswsq7tg
+2026-03-13,11.0,Juárez 2-2 Monterrey,Juárez,Monterrey,aegyls91smdw9kipjgbsu8tn8,e42ku9mgrccn9dpova248kg0k
+2026-03-13,11.0,Puebla 0-0 Necaxa,Puebla,Necaxa,aegyls91smdw9kipjgbsu8tn8,e2oui9o3r3m47umti1vwqghec
+2026-03-08,10.0,Tijuana 1-2 Santos Laguna,Tijuana,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,e24fh1262smdhvvm5wtopb1n8
+2026-03-08,10.0,Toluca 3-1 Juárez,Toluca,Juárez,aegyls91smdw9kipjgbsu8tn8,e1ijqyzyjdv9ov85enul9jpqs
+2026-03-07,10.0,Tigres UANL 1-0 Monterrey,Tigres UANL,Monterrey,aegyls91smdw9kipjgbsu8tn8,e06x1gk0werwlmzfi6u0zd6ok
+2026-03-07,10.0,Pachuca 2-1 Puebla,Pachuca,Puebla,aegyls91smdw9kipjgbsu8tn8,dyfwfrfywbkfds3pfduf2krh0
+2026-03-07,10.0,Atlas 1-2 Guadalajara,Atlas,Guadalajara,aegyls91smdw9kipjgbsu8tn8,dzmivrhybl2hfvfisnv3clxqs
+2026-03-07,10.0,Querétaro 1-2 Club América,Querétaro,Club América,aegyls91smdw9kipjgbsu8tn8,e0ri26ukbugso03g0c9nkdwk4
+2026-03-07,10.0,Cruz Azul 3-0 Atlético San Luis,Cruz Azul,Atlético San Luis,aegyls91smdw9kipjgbsu8tn8,dz2n2zh0kl0w75j4lehm0fm6s
+2026-03-06,10.0,Necaxa 0-1 Pumas UNAM,Necaxa,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,dxs2wvduxzw4c4tops13v0etw
+2026-03-06,10.0,Mazatlán 4-2 León,Mazatlán,León,aegyls91smdw9kipjgbsu8tn8,dx36iafylrl4zpj9t8sb9ipec
+2026-03-04,9.0,Club América 1-2 Juárez,Club América,Juárez,aegyls91smdw9kipjgbsu8tn8,dvx1pdk0nfrw21ggkoym49vys
+2026-03-04,9.0,Atlas 2-1 Tijuana,Atlas,Tijuana,aegyls91smdw9kipjgbsu8tn8,dvc7jv8k4l7j7nogro5ykflec
+2026-03-04,9.0,Puebla 3-1 Tigres UANL,Puebla,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,durcarm18yga6t1i7wytc3jmc
+2026-03-04,9.0,Monterrey 4-0 Querétaro,Monterrey,Querétaro,aegyls91smdw9kipjgbsu8tn8,du6g610qugrdbqk2g6mx8hvkk
+2026-03-03,9.0,Pumas UNAM 2-3 Toluca,Pumas UNAM,Toluca,aegyls91smdw9kipjgbsu8tn8,dtln7ywvk4ychfcawkkt6o4d0
+2026-03-03,9.0,Atlético San Luis 4-1 Mazatlán,Atlético San Luis,Mazatlán,aegyls91smdw9kipjgbsu8tn8,dt04ei0twyqizalzil2ig14pg
+2026-03-03,9.0,Santos Laguna 1-2 Cruz Azul,Santos Laguna,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,dscoi8w6pbvr6bn8joj3fedck
+2026-03-03,9.0,Pachuca 2-1 Necaxa,Pachuca,Necaxa,aegyls91smdw9kipjgbsu8tn8,drrhxctdalct0oadwt1tyu784
+2026-02-28,8.0,Club América 1-4 Tigres UANL,Club América,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,dr6jb9gud4hry90miibn8m80k
+2026-02-28,8.0,León 2-1 Necaxa,León,Necaxa,aegyls91smdw9kipjgbsu8tn8,dq0s7wwxcbe7uk4v37wc99dlg
+2026-02-28,8.0,Monterrey 0-2 Cruz Azul,Monterrey,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,dqlipxf4i3artvyittxjeixw4
+2026-02-28,8.0,Toluca 2-0 Guadalajara,Toluca,Guadalajara,aegyls91smdw9kipjgbsu8tn8,dpfbxutiznlh31nnklcp26bkk
+2026-02-28,8.0,Atlético San Luis 0-1 Puebla,Atlético San Luis,Puebla,aegyls91smdw9kipjgbsu8tn8,douita7wuz2gmmphw5tq2drf8
+2026-02-27,8.0,Tijuana 1-1 Pumas UNAM,Tijuana,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,dnn4dq84ke4fyzaicgwv0jjmc
+2026-02-27,8.0,Juárez 3-1 Atlas,Juárez,Atlas,aegyls91smdw9kipjgbsu8tn8,do8nrc57xpetknsci9e6slces
+2026-02-27,8.0,Querétaro 2-2 Santos Laguna,Querétaro,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,dmzquox68tj18c0pv7dnofzmc
+2026-02-27,8.0,Mazatlán 1-0 Pachuca,Mazatlán,Pachuca,aegyls91smdw9kipjgbsu8tn8,dmen6tymhf60s4enkuavktslw
+2026-02-22,7.0,Pumas UNAM 2-0 Monterrey,Pumas UNAM,Monterrey,aegyls91smdw9kipjgbsu8tn8,dkktlbjlptq6ifgypx43vrw2c
+2026-02-21,7.0,Tijuana 1-1 Mazatlán,Tijuana,Mazatlán,aegyls91smdw9kipjgbsu8tn8,dlr5c4apv3ku7uytpsokbj0us
+2026-02-21,7.0,Cruz Azul 2-1 Guadalajara,Cruz Azul,Guadalajara,aegyls91smdw9kipjgbsu8tn8,djxux7w4owy002bvf6w46fd3o
+2026-02-21,7.0,Necaxa 0-3 Toluca,Necaxa,Toluca,aegyls91smdw9kipjgbsu8tn8,djc12fsbq13o441eim2r0172s
+2026-02-21,7.0,León 2-1 Santos Laguna,León,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,diqsvs7l3hilgbf46gt7jomc4
+2026-02-21,7.0,Atlas 3-2 Atlético San Luis,Atlas,Atlético San Luis,aegyls91smdw9kipjgbsu8tn8,di51g1nb8pnxzj7vor142mo7o
+2026-02-20,7.0,Puebla 0-4 Club América,Puebla,Club América,aegyls91smdw9kipjgbsu8tn8,dhh5yi850xyjmk6ewa1zong9g
+2026-02-20,7.0,Tigres UANL 1-2 Pachuca,Tigres UANL,Pachuca,aegyls91smdw9kipjgbsu8tn8,dgvlut1z4g5ygpib87b6genf8
+2026-02-15,6.0,Santos Laguna 1-2 Mazatlán,Santos Laguna,Mazatlán,aegyls91smdw9kipjgbsu8tn8,dfqafnzgrn7gzp1lj7dqjaolw
+2026-02-15,6.0,Cruz Azul 2-1 Tigres UANL,Cruz Azul,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,dgafnf8u29xefzdlzm19i776c
+2026-02-14,6.0,Guadalajara 1-0 Club América,Guadalajara,Club América,aegyls91smdw9kipjgbsu8tn8,df64em1fztqv2i9fvpa70oglw
+2026-02-14,6.0,Juárez 1-2 Necaxa,Juárez,Necaxa,aegyls91smdw9kipjgbsu8tn8,dc9gcuaiufsegugog484738r8
+2026-02-14,6.0,Monterrey 1-0 León,Monterrey,León,aegyls91smdw9kipjgbsu8tn8,ddzsh0rk90twfjn34r6uie784
+2026-02-14,6.0,Pachuca 3-1 Atlas,Pachuca,Atlas,aegyls91smdw9kipjgbsu8tn8,dem0pruz3mmtrtvdbp77zdgyc
+2026-02-14,6.0,Atlético San Luis 3-0 Querétaro,Atlético San Luis,Querétaro,aegyls91smdw9kipjgbsu8tn8,ddftseiapvtuh8l55uhfy8qhg
+2026-02-13,6.0,Toluca 1-0 Tijuana,Toluca,Tijuana,aegyls91smdw9kipjgbsu8tn8,dcvk2uh71l6xqk0bvykgjruhg
+2026-02-13,6.0,Puebla 2-3 Pumas UNAM,Puebla,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,dbpxelec8514zr0ndbr2n3mz8
+2026-02-07,5.0,Club América 1-0 Monterrey,Club América,Monterrey,aegyls91smdw9kipjgbsu8tn8,db5n9499u2ocjbbyq95x22jo4
+2026-02-07,5.0,Pachuca 2-0 Juárez,Pachuca,Juárez,aegyls91smdw9kipjgbsu8tn8,dallwzrl28kfbqpovwk5ynsic
+2026-02-07,5.0,Atlas 2-2 Pumas UNAM,Atlas,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,da1xl310iw1l28nblx7yhrjtg
+2026-02-07,5.0,Toluca 1-1 Cruz Azul,Toluca,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,d9eckweo8hl40y5el4lg5tlas
+2026-02-07,5.0,Querétaro 2-0 León,Querétaro,León,aegyls91smdw9kipjgbsu8tn8,d8sunws4wnxltxzbfpgby75lg
+2026-02-06,5.0,Mazatlán 1-2 Guadalajara,Mazatlán,Guadalajara,aegyls91smdw9kipjgbsu8tn8,d87coaf3q2jdwxxwbhfrqcjys
+2026-02-06,5.0,Tijuana 0-0 Puebla,Tijuana,Puebla,aegyls91smdw9kipjgbsu8tn8,d7mn5ejybaqzim659qu7yhlp0
+2026-02-06,5.0,Necaxa 4-1 Atlético San Luis,Necaxa,Atlético San Luis,aegyls91smdw9kipjgbsu8tn8,d70jzbpsvophpwxurn4ml93bo
+2026-02-06,5.0,Tigres UANL 5-1 Santos Laguna,Tigres UANL,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,d6gujc6asqjmulppgg1yje0pg
+2026-02-01,4.0,Querétaro 0-0 Pachuca,Querétaro,Pachuca,aegyls91smdw9kipjgbsu8tn8,d5a5hhuc4vdvx6mprees7fj84
+2026-01-31,4.0,León 1-2 Tigres UANL,León,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,d3jj0ncdf834w28vioj8r93pw
+2026-01-31,4.0,Monterrey 2-2 Tijuana,Monterrey,Tijuana,aegyls91smdw9kipjgbsu8tn8,d43gamsbcvgrrfygrzopb9990
+2026-01-31,4.0,Atlético San Luis 2-3 Guadalajara,Atlético San Luis,Guadalajara,aegyls91smdw9kipjgbsu8tn8,d5urp4i3tfr6ve27gaj8be3v8
+2026-01-31,4.0,Atlas 1-0 Mazatlán,Atlas,Mazatlán,aegyls91smdw9kipjgbsu8tn8,d2zyhu1vza2xfao3hbetmhvys
+2026-01-31,4.0,Club América 2-0 Necaxa,Club América,Necaxa,aegyls91smdw9kipjgbsu8tn8,d4n8xlwnxyvdk2jmqqevxqdxw
+2026-01-30,4.0,Juárez 3-4 Cruz Azul,Juárez,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,d2gag6vbopzra8baxspdw3vh0
+2026-01-30,4.0,Pumas UNAM 4-0 Santos Laguna,Pumas UNAM,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,d1rp56nfvdo1ysyjgvlyf7pxw
+2026-01-30,4.0,Puebla 0-0 Toluca,Puebla,Toluca,aegyls91smdw9kipjgbsu8tn8,d14rokx0aogvlip9q8n8gbg2c
+2026-01-18,3.0,Pachuca 0-0 Club América,Pachuca,Club América,aegyls91smdw9kipjgbsu8tn8,d0ahxcuudcarpu55z956tbf2s
+2026-01-18,3.0,Santos Laguna 2-2 Juárez,Santos Laguna,Juárez,aegyls91smdw9kipjgbsu8tn8,czo1oms8r5fkucuwgdi7b70no
+2026-01-18,3.0,Pumas UNAM 1-1 León,Pumas UNAM,León,aegyls91smdw9kipjgbsu8tn8,cz3urgsybkslov0cm32mky13o
+2026-01-17,3.0,Tijuana 1-1 Atlético San Luis,Tijuana,Atlético San Luis,aegyls91smdw9kipjgbsu8tn8,cyjzkv7fhd9ej2pwxx1icy904
+2026-01-17,3.0,Cruz Azul 1-0 Puebla,Cruz Azul,Puebla,aegyls91smdw9kipjgbsu8tn8,cy0ekrxypjfzv6bgf4ct34zys
+2026-01-17,3.0,Tigres UANL 0-0 Toluca,Tigres UANL,Toluca,aegyls91smdw9kipjgbsu8tn8,cxguyfwzky03pjawmblkhec5w
+2026-01-17,3.0,Guadalajara 2-1 Querétaro,Guadalajara,Querétaro,aegyls91smdw9kipjgbsu8tn8,cwbjlnrmup1q5puvfpjvq06c4
+2026-01-17,3.0,Necaxa 0-1 Atlas,Necaxa,Atlas,aegyls91smdw9kipjgbsu8tn8,cwx5kkre23q02dhhc3t0f2hw4
+2026-01-16,3.0,Mazatlán 1-5 Monterrey,Mazatlán,Monterrey,aegyls91smdw9kipjgbsu8tn8,cvrz6fcnjb9n74l9arpha7f2s
+2026-01-14,2.0,Toluca 3-1 Santos Laguna,Toluca,Santos Laguna,aegyls91smdw9kipjgbsu8tn8,cv096oc2qe1fmyqbm3ykluqdw
+2026-01-14,2.0,Tigres UANL 0-1 Pumas UNAM,Tigres UANL,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,cuf83ruzqdhhysdji2tgy15w4
+2026-01-14,2.0,Club América 0-2 Atlético San Luis,Club América,Atlético San Luis,aegyls91smdw9kipjgbsu8tn8,ctb8z4i9i9qrhc5de3nbnxtec
+2026-01-14,2.0,Querétaro 1-2 Tijuana,Querétaro,Tijuana,aegyls91smdw9kipjgbsu8tn8,ctvaaskhq3f3up62r58t95bf8
+2026-01-14,2.0,Cruz Azul 2-0 Atlas,Cruz Azul,Atlas,aegyls91smdw9kipjgbsu8tn8,cs6h295arjqirsnh3514o3xuc
+2026-01-13,2.0,Juárez 0-1 Guadalajara,Juárez,Guadalajara,aegyls91smdw9kipjgbsu8tn8,csqmhoi9lyrnqa2fa7u11maz8
+2026-01-13,2.0,Pachuca 2-1 León,Pachuca,León,aegyls91smdw9kipjgbsu8tn8,cqdmh7zr9b4oamdbbduabd3is
+2026-01-13,2.0,Necaxa 0-2 Monterrey,Necaxa,Monterrey,aegyls91smdw9kipjgbsu8tn8,crmzi975i9elqxfm6nvuypyqc
+2026-01-13,2.0,Puebla 2-1 Mazatlán,Puebla,Mazatlán,aegyls91smdw9kipjgbsu8tn8,cqzd1cno8127ibfbeatcbf8yc
+2026-01-11,1.0,Atlético San Luis 1-2 Tigres UANL,Atlético San Luis,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,cpsw8cxhbmaj60otu87qecgt0
+2026-01-11,1.0,Pumas UNAM 1-1 Querétaro,Pumas UNAM,Querétaro,aegyls91smdw9kipjgbsu8tn8,cp5epdiv1i33iuegqxafv1444
+2026-01-10,1.0,Monterrey 0-1 Toluca,Monterrey,Toluca,aegyls91smdw9kipjgbsu8tn8,coi6uyl0i88v8ao460v2uq904
+2026-01-10,1.0,Santos Laguna 1-3 Necaxa,Santos Laguna,Necaxa,aegyls91smdw9kipjgbsu8tn8,cnu0s2rhw7gic9hyitrsfzrpw
+2026-01-10,1.0,León 2-1 Cruz Azul,León,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,cn6oqyozhl5wu1eopnvu4bqc4
+2026-01-10,1.0,Guadalajara 2-0 Pachuca,Guadalajara,Pachuca,aegyls91smdw9kipjgbsu8tn8,cmjrjmvs75p16mn0n0ox8tn2s
+2026-01-09,1.0,Tijuana 0-0 Club América,Tijuana,Club América,aegyls91smdw9kipjgbsu8tn8,clwuludsdahn0n4pd44tr45xw
+2026-01-09,1.0,Atlas 1-0 Puebla,Atlas,Puebla,aegyls91smdw9kipjgbsu8tn8,ckh8hqh1jzx34y9uup1lepkic
+2026-01-09,1.0,Mazatlán 1-2 Juárez,Mazatlán,Juárez,aegyls91smdw9kipjgbsu8tn8,cl7yll5l29ov7jme842g7i978
+2025-12-14,,Toluca 2-1 Tigres UANL,Toluca,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,9r7doxlh4qd0fcdowu1t8ucd0
+2025-12-11,,Tigres UANL 1-0 Toluca,Tigres UANL,Toluca,aegyls91smdw9kipjgbsu8tn8,9qudr7abaizo9k1amsgz0lkb8
+2025-12-06,,Tigres UANL 1-1 Cruz Azul,Tigres UANL,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,2u0isis51h3wf0n08m3wxnn6c
+2025-12-06,,Toluca 3-2 Monterrey,Toluca,Monterrey,aegyls91smdw9kipjgbsu8tn8,2tq4yp6bovc9cfdh4apehe49g
+2025-12-03,,Monterrey 1-0 Toluca,Monterrey,Toluca,aegyls91smdw9kipjgbsu8tn8,2t286psi96ckp6y27o5hjudck
+2025-12-03,,Cruz Azul 1-1 Tigres UANL,Cruz Azul,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,2tft67svq3dihf57nzzk0b9qs
+2025-11-30,,Cruz Azul 3-2 Guadalajara,Cruz Azul,Guadalajara,aegyls91smdw9kipjgbsu8tn8,4g1amyuzdl2u6y0f44fbpnz10
+2025-11-29,,Tigres UANL 5-0 Tijuana,Tigres UANL,Tijuana,aegyls91smdw9kipjgbsu8tn8,4fb28bqdwcvmgxblwevk16vis
+2025-11-29,,Toluca 0-0 Juárez,Toluca,Juárez,aegyls91smdw9kipjgbsu8tn8,4em0oa1c2escw0kqyopbs97h0
+2025-11-29,,Club América 2-1 Monterrey,Club América,Monterrey,aegyls91smdw9kipjgbsu8tn8,4gf3arq2jhtdrjikqzue9u87o
+2025-11-27,,Guadalajara 0-0 Cruz Azul,Guadalajara,Cruz Azul,aegyls91smdw9kipjgbsu8tn8,4duhvimegtuatbyg04l3e81zo
+2025-11-26,,Tijuana 3-0 Tigres UANL,Tijuana,Tigres UANL,aegyls91smdw9kipjgbsu8tn8,4d5uhm9n9tpzqa0sedrmrukgk
+2025-11-26,,Monterrey 2-0 Club América,Monterrey,Club América,aegyls91smdw9kipjgbsu8tn8,4e8a3u5xw3heyiby9m58fvgus
+2025-11-26,,Juárez 1-2 Toluca,Juárez,Toluca,aegyls91smdw9kipjgbsu8tn8,4cczawyf04lnjmqnir1l71jx0
+2025-11-23,,Juárez 2-1 Pachuca,Juárez,Pachuca,aegyls91smdw9kipjgbsu8tn8,38oiihsmvjr51w9db8egmm7mc
 2025-11-20,,Tijuana 3-1 Juárez,Tijuana,Juárez,aegyls91smdw9kipjgbsu8tn8,awxep1mx7li65m3b64uo3vspg
 2025-11-20,,Pachuca 3-1 Pumas UNAM,Pachuca,Pumas UNAM,aegyls91smdw9kipjgbsu8tn8,axd0x163mubcj64e7c958jms4
 2025-11-09,17.0,Santos Laguna 1-0 Pachuca,Santos Laguna,Pachuca,aegyls91smdw9kipjgbsu8tn8,8kkjxwdiuwf0b8y0e26cnm49g
