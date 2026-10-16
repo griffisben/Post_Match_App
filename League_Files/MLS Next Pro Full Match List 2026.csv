@@ -1,421 +1,423 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
-2026-09-20,30,Vancouver Whitecaps II 0-2 San Jose Earthquakes II,Vancouver Whitecaps II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,72xcvl4ercm3la01wdslipa8k
-2026-09-20,30,St. Louis City II 0-2 Austin II,St. Louis City II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,728c0a8rwe554esjod4fbkpp0
-2026-09-20,30,Tacoma Defiance 1-1 Portland Timbers II,Tacoma Defiance,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,71p4h5prte1xjzops1h6yh6ok
-2026-09-20,30,Real Monarchs 2-1 Ventura County,Real Monarchs,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,7146nibsip3igb2g8ktwk41sk
-2026-09-20,30,Houston Dynamo II 2-3 Sporting KC II,Houston Dynamo II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,703xu3es982wmxwq69wx4go44
-2026-09-20,30,Colorado Rapids II 2-1 North Texas,Colorado Rapids II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,6zl1nqr64vv2397b9pcfcncb8
-2026-09-20,14,Minnesota United II 3-2 Los Angeles II,Minnesota United II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,3bpaxnz987hjs82tg25metl3o
-2026-09-20,30,Toronto II 1-3 New England II,Toronto II,New England II,93yvwhz6r37ar71e3pc8ep2c4,6z3kx0tmbhyk13je14wbnfthw
-2026-09-20,30,Philadelphia Union II 1-1 New York City II,Philadelphia Union II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,6yjmlmdnbtp5v18lil7jwytjo
-2026-09-20,30,Orlando City B 2-4 Atlanta United II,Orlando City B,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,6xvf9fcm3gswibv8pqymb302c
-2026-09-20,30,New York RB II 1-2 Huntsville City,New York RB II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,6x37dooopw58pbazfzcezzj10
-2026-09-20,30,Connecticut United 7-2 Inter Miami II,Connecticut United,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,6wk4cjywe9vehy9rpp3wa972s
-2026-09-20,30,Columbus Crew II 1-1 Carolina Core,Columbus Crew II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,6vzxw8duuf0vrvt4ivhpb2uj8
-2026-09-20,30,Cincinnati II 1-2 Crown Legacy,Cincinnati II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,6vgnvwv0ge1oz0i3dj7duu1p0
-2026-09-20,30,Chicago Fire II 0-1 Chattanooga,Chicago Fire II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,6uuiflqjl5o2vjv42p9hkkcus
-2026-09-16,25,Real Monarchs 0-0 Minnesota United II,Real Monarchs,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,5krwqooez8jn2v0ruoft7xic4
-2026-09-14,29,Portland Timbers II 1-1 St. Louis City II,Portland Timbers II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,6txfmxp21zfonuokyxohcanmc
-2026-09-13,29,San Jose Earthquakes II 4-0 Real Monarchs,San Jose Earthquakes II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,6r8se5uo841wuj82fym2a7hg4
-2026-09-13,29,Ventura County 3-0 Tacoma Defiance,Ventura County,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,6p3oi2vskyzse5so00hxf302c
-2026-09-13,29,Austin II 1-0 Colorado Rapids II,Austin II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,6sz306zdp7vnx0owargkz0a38
-2026-09-13,29,North Texas 0-0 Houston Dynamo II,North Texas,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,6sawi25vw1iirzgllr1nxvkes
-2026-09-13,29,Sporting KC II 1-5 Los Angeles II,Sporting KC II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,6rrmlyzhkb3fe5w46p6vwlatw
-2026-09-13,29,Orlando City B 3-1 Toronto II,Orlando City B,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,6qr8i55g0irobi62qv1nlxqms
-2026-09-13,29,New York RB II 1-1 Cincinnati II,New York RB II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,6q5yh6eco4kd2p8yz67zf46qc
-2026-09-13,29,Inter Miami II 1-4 Huntsville City,Inter Miami II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,6pmtfdchyc10lvorqel00b6l0
-2026-09-13,29,Columbus Crew II 1-1 New England II,Columbus Crew II,New England II,93yvwhz6r37ar71e3pc8ep2c4,6lwvz4hdkxr1k5rnodmngejh0
-2026-09-13,29,New York City II 1-0 Connecticut United,New York City II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,6oknrz9asqgrc33qy79rbr190
-2026-09-13,29,Chicago Fire II 1-2 Philadelphia Union II,Chicago Fire II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,6o16i6azgpc08542u5z607pqs
-2026-09-13,29,Chattanooga 4-1 Atlanta United II,Chattanooga,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,6nhwitzjz9ursky4fmf4mz11w
-2026-09-12,29,Minnesota United II 5-1 Vancouver Whitecaps II,Minnesota United II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,6mytft7fn17tjhkozxfstu2ok
-2026-09-12,29,Crown Legacy 2-2 Carolina Core,Crown Legacy,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,6mfwsiqo7lk6acu6uj0gu2oes
-2026-09-09,17,San Jose Earthquakes II 1-3 Ventura County,San Jose Earthquakes II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,3vpfe5hvxl3nwxp18puojaadw
-2026-09-09,29,North Texas 2-3 Houston Dynamo II,North Texas,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,6lduwu64wheoqsbpdip74vwgk
-2026-09-09,29,Huntsville City 1-2 Chattanooga,Huntsville City,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,6ksxftwd20p68m21kerggwowk
-2026-09-08,29,New York City II 4-2 New York RB II,New York City II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,6jsc1o4f8rzhvce5zgb6d5pn8
-2026-09-08,23,Toronto II 4-2 Columbus Crew II,Toronto II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,56gigxlhiy61uoewzn519emfo
-2026-09-08,29,Atlanta United II 4-1 Connecticut United,Atlanta United II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,6k9skzk17mpophacrxj987s44
-2026-09-07,29,Portland Timbers II 0-0 Vancouver Whitecaps II,Portland Timbers II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,6j9scg65dvmc9mn1q3lww5qms
-2026-09-05,28,San Jose Earthquakes II 1-2 Tacoma Defiance,San Jose Earthquakes II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,6h7l17k2rglihoh6p9ei16az8
-2026-09-05,28,Los Angeles II 1-1 Ventura County,Los Angeles II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,6ir1r0y6x0h2tywdqlmrg5bmc
-2026-09-05,28,Minnesota United II 2-0 Colorado Rapids II,Minnesota United II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,6i9o51ilginz37avk84k6tes4
-2026-09-05,28,Sporting KC II 1-2 St. Louis City II,Sporting KC II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,6hqead4chjrkueb8pxqyminmc
-2026-09-04,28,North Texas 4-1 Real Monarchs,North Texas,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,6gm2x7avtkyrpcnjn19j4y3h0
-2026-09-04,28,Carolina Core 2-2 New England II,Carolina Core,New England II,93yvwhz6r37ar71e3pc8ep2c4,6d7qwa67nwaetwo4uubsgkhlg
-2026-09-04,28,Houston Dynamo II 0-2 Austin II,Houston Dynamo II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,6fzb94462opgpivoag4qzp2xg
-2026-09-04,28,Toronto II 2-1 Cincinnati II,Toronto II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,6fg7cjos4w0298d8ukz2wjx1w
-2026-09-04,28,Philadelphia Union II 1-0 Columbus Crew II,Philadelphia Union II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,6exi2ykkntunoyz12huvmxn9w
-2026-09-04,28,Inter Miami II 1-4 Orlando City B,Inter Miami II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,6eetk0jspcadt3ztvd1vsl250
-2026-09-04,28,Crown Legacy 4-0 Chicago Fire II,Crown Legacy,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,6dtwvubj93a9f01am7hjw2c5w
-2026-09-01,15,Inter Miami II 4-2 New York City II,Inter Miami II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,3gc1wlqg4e9tiipr5katabms4
-2026-08-30,27,San Jose Earthquakes II 3-2 Los Angeles II,San Jose Earthquakes II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,6ajksohb39np29aggyv88bhn8
-2026-08-30,27,Real Monarchs 3-0 Tacoma Defiance,Real Monarchs,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,69ivxvz1u0l0yza4ioyh56has
-2026-08-30,27,Vancouver Whitecaps II 5-1 Sporting KC II,Vancouver Whitecaps II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,6cofentgnubu4cwq2381bmfbo
-2026-08-30,27,Orlando City B 3-2 Crown Legacy,Orlando City B,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,6c5rcmjfdn6tct9daly6ay32s
-2026-08-30,27,New England II 1-4 Huntsville City,New England II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,6bna9as9hzwqa24gtjghed3pw
-2026-08-30,27,Houston Dynamo II 0-2 Minnesota United II,Houston Dynamo II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,6b4cumjwpuaco9fttslb2ihas
-2026-08-30,27,Portland Timbers II 2-1 Austin II,Portland Timbers II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,68zuacioepsusci8z0tv9zqj8
-2026-08-30,27,Columbus Crew II 4-0 Chicago Fire II,Columbus Crew II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,659m1ttrxfibdmwmkzqm7jj10
-2026-08-30,27,Cincinnati II 2-3 Philadelphia Union II,Cincinnati II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,6a24vyeswhniivtnk1je19gr8
-2026-08-29,27,Connecticut United 2-4 New York RB II,Connecticut United,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,68gm808wripnu1wxl6ctfzu38
-2026-08-29,27,Chattanooga 5-2 Carolina Core,Chattanooga,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,67yze4ze7y1o76k76beuv91ck
-2026-08-28,27,St. Louis City II 1-1 North Texas,St. Louis City II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,67eal3u29wn4nzcr5gh5deihg
-2026-08-28,27,Colorado Rapids II 2-3 Ventura County,Colorado Rapids II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,66v49evluji4jr6t11dfo5mok
-2026-08-28,27,Toronto II 2-0 New York City II,Toronto II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,66dgl5vrfvqqreirr931fpnh0
-2026-08-28,27,Inter Miami II 1-1 Atlanta United II,Inter Miami II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,65sd4fthtrf591d8meaxlsil0
-2026-08-26,18,Vancouver Whitecaps II 4-1 Los Angeles II,Vancouver Whitecaps II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,3yvs6jpf60sxpotrhieok213o
-2026-08-24,26,Tacoma Defiance 4-0 Sporting KC II,Tacoma Defiance,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,645hwl3x5pnxydb1ob3euuwic
-2026-08-23,26,Ventura County 2-2 Portland Timbers II,Ventura County,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,60x4iul1qezcza0isuwysyyac
-2026-08-23,26,Colorado Rapids II 4-1 Real Monarchs,Colorado Rapids II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,5yto6gyvmylckwj9irjvbcq38
-2026-08-23,26,Austin II 1-0 San Jose Earthquakes II,Austin II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,63m9sba1t5zobyldg7f5z2mms
-2026-08-23,26,St. Louis City II 2-2 Houston Dynamo II,St. Louis City II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,633b1o8yg23ugzoeoo9jbmn84
-2026-08-23,26,New York RB II 5-1 Toronto II,New York RB II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,62k21yx60alq4a0ywtqhchi50
-2026-08-23,26,Huntsville City 1-0 Columbus Crew II,Huntsville City,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,6216w9qozzh74i7ucrbaq3mdw
-2026-08-23,26,Crown Legacy 3-1 Chattanooga,Crown Legacy,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,61i9e1wx918y4agqflk5dmbro
-2026-08-23,26,Chicago Fire II 3-1 Inter Miami II,Chicago Fire II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,60e3txuhtdnsx1wubwrcultec
-2026-08-23,26,Philadelphia Union II 2-4 Connecticut United,Philadelphia Union II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,5zvb8c00o4av5whga8s1w1rmc
-2026-08-22,26,North Texas 1-1 Minnesota United II,North Texas,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,5zcjwfnpflgbjdgc96b8uao0k
-2026-08-22,26,Carolina Core 1-3 Cincinnati II,Carolina Core,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,5ycbwmis1aj93gu3te80h7504
-2026-08-22,26,New York City II 2-1 New England II,New York City II,New England II,93yvwhz6r37ar71e3pc8ep2c4,5xbnfgjtntt5hmuwi3tfhi4us
-2026-08-22,26,Atlanta United II 5-1 Orlando City B,Atlanta United II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,5xt9qu3owh1mv0mx7bv6o07is
-2026-08-20,26,Los Angeles II 2-1 Sporting KC II,Los Angeles II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,5ws9jempsnywnenhzidjeu6fo
-2026-08-19,26,North Texas 0-0 Austin II,North Texas,Austin II,93yvwhz6r37ar71e3pc8ep2c4,5wansz4jwvtdqq423o57962ac
-2026-08-19,26,Inter Miami II 4-2 New England II,Inter Miami II,New England II,93yvwhz6r37ar71e3pc8ep2c4,5vpu91wdmpgj8nx4m86sw1vkk
-2026-08-19,26,Houston Dynamo II 1-1 San Jose Earthquakes II,Houston Dynamo II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,5v60zgrvonislea8afdcret5g
-2026-08-19,26,Crown Legacy 0-2 Connecticut United,Crown Legacy,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,5ulp7s4skovptutfsg4c8hzis
-2026-08-19,26,New York City II 5-0 Cincinnati II,New York City II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,5tjin88qj7emqxjk4myowndw4
-2026-08-18,26,Atlanta United II 2-1 Chicago Fire II,Atlanta United II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,5t0jgag2qt7k24xzmgz275hck
-2026-08-16,25,San Jose Earthquakes II 0-2 St. Louis City II,San Jose Earthquakes II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,5pwx3npa3k70oz9ms8mq97504
-2026-08-16,25,Los Angeles II 4-3 Tacoma Defiance,Los Angeles II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,5sisr3xo4chu4d1rcnhqtuzv8
-2026-08-16,25,New England II 3-4 Philadelphia Union II,New England II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,5rf3gn3wfc6jygzr8yejkgd1w
-2026-08-16,25,Huntsville City 2-0 Inter Miami II,Huntsville City,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,5qhqwzbzq6y1s2alc7q3kurdg
-2026-08-16,25,Cincinnati II 2-3 Connecticut United,Cincinnati II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,5pfe82dazh3622kv9wqo4a710
-2026-08-15,25,North Texas 0-3 Portland Timbers II,North Texas,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,5ocv48ja0lgsqis6ak6bdv5ec
-2026-08-15,25,Austin II 4-1 Vancouver Whitecaps II,Austin II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,5rz036vzsf7j26k7m4fbspjbo
-2026-08-15,25,Sporting KC II 2-2 Colorado Rapids II,Sporting KC II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,5nthb7fmrn61rm3qfvwdr105w
-2026-08-15,25,Columbus Crew II 4-2 New York City II,Columbus Crew II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,5mw2e4sjsprsg7vsoy2gv3dhw
-2026-08-15,25,Chicago Fire II 2-0 Orlando City B,Chicago Fire II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,5ow8f08ui3uomcyer63cil6hg
-2026-08-14,25,Toronto II 2-2 Chattanooga,Toronto II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,5md5z0kaoroloi5e27bi0ksno
-2026-08-14,25,Houston Dynamo II 0-2 Ventura County,Houston Dynamo II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,5lu7bg9soirnchmff3wwbgavo
-2026-08-14,25,Atlanta United II 1-2 New York RB II,Atlanta United II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,5l96e3q3758vgzhb6lpecrbbo
-2026-08-12,17,Huntsville City 2-2 Crown Legacy,Huntsville City,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,3tine72udtabpvuq1xoruyx3o
-2026-08-11,25,New York City II 3-0 Orlando City B,New York City II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,5k8xnkaidup1lacbqcbudkmxg
-2026-08-10,24,Chicago Fire II 2-4 Toronto II,Chicago Fire II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,5dvruycmedqyb9z95zjb38ahg
-2026-08-09,24,Austin II 1-0 Sporting KC II,Austin II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,5jq6857iadngmuejf78ffepzo
-2026-08-09,24,Connecticut United 1-2 New England II,Connecticut United,New England II,93yvwhz6r37ar71e3pc8ep2c4,5g0dqncmnnxom7u7r5j234g7o
-2026-08-08,24,Colorado Rapids II 0-0 St. Louis City II,Colorado Rapids II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,5i5er34nwdxqfnxvs0giy2m1g
-2026-08-08,24,North Texas 3-1 Tacoma Defiance,North Texas,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,5iocrmwoqbbcqgol19co5blec
-2026-08-08,24,Carolina Core 2-0 Huntsville City,Carolina Core,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,5hnnst3gshkzasrip95mv0vf8
-2026-08-08,24,Minnesota United II 1-1 San Jose Earthquakes II,Minnesota United II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,5dc0ez0ehso3oicqzcjegkg0k
-2026-08-08,24,Houston Dynamo II 3-0 Real Monarchs,Houston Dynamo II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,5glxx8080c71pqj219tartyc4
-2026-08-08,24,Chattanooga 1-0 Atlanta United II,Chattanooga,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,5fiopuuyktf3dyjazkn4fskk4
-2026-08-08,24,Columbus Crew II 1-2 New York RB II,Columbus Crew II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,5eysvb1bcf2kg13obltnlawwk
-2026-08-08,24,Portland Timbers II 0-0 Los Angeles II,Portland Timbers II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,5eexm5ou0w8kt0i6ybtv9ugwk
-2026-08-08,24,Philadelphia Union II 2-1 Cincinnati II,Philadelphia Union II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,5j79o3vs0n1yfg9i9aicrlqtw
-2026-08-07,24,Inter Miami II 0-2 Crown Legacy,Inter Miami II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,5h4rncg1obtgd13g3ycaze710
-2026-08-02,23,San Jose Earthquakes II 1-1 Austin II,San Jose Earthquakes II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,5bk9ba6fepj8jblziac1r2o7o
-2026-08-02,23,St. Louis City II 3-0 Real Monarchs,St. Louis City II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,5c8p2tnxnzqfjdfw3ewdvn3tg
-2026-08-02,23,New York RB II 1-4 New England II,New York RB II,New England II,93yvwhz6r37ar71e3pc8ep2c4,5csgh76iu3e6ygnqcq9utim8k
-2026-08-02,23,Chicago Fire II 7-2 Cincinnati II,Chicago Fire II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,5aubf9q53i8cdlm8wt486d638
-2026-08-01,23,Tacoma Defiance 4-2 Vancouver Whitecaps II,Tacoma Defiance,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,5abjya3lfbdxb8ihncsf7qpec
-2026-08-01,23,Huntsville City 1-3 Crown Legacy,Huntsville City,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,59srmfgj86lp6oc2ebujyzy8k
-2026-08-01,23,New York City II 1-1 Philadelphia Union II,New York City II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,599yepj4ypd61h8nlr8myuyvo
-2026-08-01,23,Connecticut United 4-2 Orlando City B,Connecticut United,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,58queuompfzdfow27dznvfllg
-2026-07-31,23,Los Angeles II 3-0 Colorado Rapids II,Los Angeles II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,5894cvxv5zb34f5ctt8ehvevo
-2026-07-31,23,Ventura County 6-1 North Texas,Ventura County,North Texas,93yvwhz6r37ar71e3pc8ep2c4,54p4nu4kxeielw75wa2h7ywwk
-2026-07-31,23,Minnesota United II 1-2 Portland Timbers II,Minnesota United II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,57ouqsy04y1jkn5mjbfardmhg
-2026-07-31,23,Sporting KC II 3-2 Houston Dynamo II,Sporting KC II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,571salwl12nipctte3z5x41lg
-2026-07-31,23,Inter Miami II 0-1 Chattanooga,Inter Miami II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,55rgkqhryjvpm85prvnkgm2hg
-2026-07-31,23,Atlanta United II 3-3 Carolina Core,Atlanta United II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,53uteks12ul0nw70ebop9i1p0
-2026-07-26,22,Tacoma Defiance 2-1 Colorado Rapids II,Tacoma Defiance,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,536g0i2ttzyyggqx3wuwjrbis
-2026-07-26,22,St. Louis City II 1-1 Vancouver Whitecaps II,St. Louis City II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,52ifdv4qs3v7xtquc0zhtpxck
-2026-07-26,22,Orlando City B 0-1 Huntsville City,Orlando City B,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,51y80sw7qlx752y7rw5414lck
-2026-07-26,22,Houston Dynamo II 1-1 Austin II,Houston Dynamo II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,51cfciuzqgcsh0s573npo0o44
-2026-07-26,22,Cincinnati II 2-2 New England II,Cincinnati II,New England II,93yvwhz6r37ar71e3pc8ep2c4,4znn5474jslxuqx708uyutul0
-2026-07-26,22,Connecticut United 2-1 Columbus Crew II,Connecticut United,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,507vbbkldhm7o44ajrghxptec
-2026-07-26,22,Portland Timbers II 1-0 Real Monarchs,Portland Timbers II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,4yzughtegakk4ooy2p5lzxct0
-2026-07-26,22,Atlanta United II 3-2 New York City II,Atlanta United II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,50qmrzoclrwcso1t249vte7f8
-2026-07-25,22,Ventura County 3-0 San Jose Earthquakes II,Ventura County,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,4wl1pmtbib1qsb7v73yg5dclw
-2026-07-25,22,North Texas 2-2 Los Angeles II,North Texas,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,4ydra313iurdcx7ihtswzmuc4
-2026-07-25,22,Carolina Core 1-5 Chicago Fire II,Carolina Core,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,4xt10bqy20v73ry8jkcuwdlhw
-2026-07-25,22,Chattanooga 4-0 Philadelphia Union II,Chattanooga,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,4vzehfw4ubvtiqmr42xpxhh5g
-2026-07-25,22,Inter Miami II 2-1 Toronto II,Inter Miami II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,4x5lco7v32zx1avwrg6d4x34k
-2026-07-24,22,New York RB II 0-3 Crown Legacy,New York RB II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,4vdcoqujve86mur34d23mvswk
-2026-07-23,22,New England II 3-0 New York City II,New England II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,4urcbku6138zyfskbcjxio1zo
-2026-07-22,22,Vancouver Whitecaps II 0-4 Austin II,Vancouver Whitecaps II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,4u522otops22fo75cx24rkv84
-2026-07-22,22,Carolina Core 4-0 Inter Miami II,Carolina Core,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,4tm78s1bbacdj8xz6xzdnq1p0
-2026-07-19,21,Real Monarchs 2-4 Tacoma Defiance,Real Monarchs,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,4sdw6wyfg5wug7jp56jpww8b8
-2026-07-19,15,Sporting KC II 1-0 Minnesota United II,Sporting KC II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,3hcp0smudi7ywqmb53cyh5c7o
-2026-07-19,21,Connecticut United 2-1 New York RB II,Connecticut United,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,4pot8digfhskxjl299vqc7k7o
-2026-07-18,21,Ventura County 2-0 Los Angeles II,Ventura County,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,4qr5i4odvh4b5xcdpaind7cwk
-2026-07-18,21,San Jose Earthquakes II 0-1 North Texas,San Jose Earthquakes II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,4omdlqgsez7tyux0vqvwub6z8
-2026-07-18,21,Huntsville City 2-0 Atlanta United II,Huntsville City,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,4rv0f56t0d4ooruoz1yb7b5zo
-2026-07-18,21,St. Louis City II 1-2 Portland Timbers II,St. Louis City II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,4rbrb4j14umjo8wf782xwfzmc
-2026-07-18,21,Houston Dynamo II 2-1 Colorado Rapids II,Houston Dynamo II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,4q84gy1v5sxsl0dxjromzu32s
-2026-07-18,21,Chattanooga 1-1 Orlando City B,Chattanooga,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,4p76u2cch228g8dtbnn4wp53o
-2026-07-18,21,Columbus Crew II 2-0 Philadelphia Union II,Columbus Crew II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,4o4pcagmj31pzibjzi1ruqr6c
-2026-07-18,21,Crown Legacy 3-2 Chicago Fire II,Crown Legacy,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,4nlj3f2gt8y45bbb0lwf3gw7o
-2026-07-17,21,Toronto II 3-1 Cincinnati II,Toronto II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,4n2hemlc94xdskjp9q1uarod0
-2026-07-15,21,New England II 2-2 Columbus Crew II,New England II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,4mjh0pfwu5lyz62db4gm5kf10
-2026-07-12,20,Austin II 2-3 Minnesota United II,Austin II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,4m063v5sg1ui8seysdcq7xb84
-2026-07-12,20,San Jose Earthquakes II 0-1 Tacoma Defiance,San Jose Earthquakes II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,4lh3oq9apfe32y8skafzyomj8
-2026-07-12,20,Connecticut United 3-2 Toronto II,Connecticut United,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,4kzp2r16llfc7rpu140cjzb4k
-2026-07-12,20,Cincinnati II 1-2 Orlando City B,Cincinnati II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,4khomu6bzg8p2u2q32alprcpg
-2026-07-12,20,Carolina Core 1-1 Chattanooga,Carolina Core,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,4jwf1hfryueen86594rd6nuvo
-2026-07-12,20,Chicago Fire II 3-0 New York RB II,Chicago Fire II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,4jd9v0927moih0w6a9vlouyhg
-2026-07-12,20,Philadelphia Union II 0-0 Huntsville City,Philadelphia Union II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,4ityxsydow4t6gadvkswpw104
-2026-07-11,20,Los Angeles II 0-0 Portland Timbers II,Los Angeles II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,4iakcaef4fphmf6b17zostafo
-2026-07-11,20,Real Monarchs 2-1 Vancouver Whitecaps II,Real Monarchs,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,4fnvwpkp0esi8yrmv6q2zabys
-2026-07-11,20,Colorado Rapids II 1-0 North Texas,Colorado Rapids II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,4hrba1bo7cwksh7tk9hyq7hg4
-2026-07-11,20,Houston Dynamo II 2-1 St. Louis City II,Houston Dynamo II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,4h978g5px86qmph7b6zh85ul0
-2026-07-11,20,Crown Legacy 0-3 New York City II,Crown Legacy,New York City II,93yvwhz6r37ar71e3pc8ep2c4,4gq88izpqvywj8j6ptzp79puc
-2026-07-11,20,Atlanta United II 4-1 Inter Miami II,Atlanta United II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,4g73poibxyi27d85zodv90mc4
-2026-07-07,19,San Jose Earthquakes II 6-1 Sporting KC II,San Jose Earthquakes II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,4arbk8g73zxqiubhn9p5fy61g
-2026-07-07,20,Vancouver Whitecaps II 3-2 Ventura County,Vancouver Whitecaps II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,4eiv4atyas0udiunyc4mfpa1g
-2026-07-05,19,Tacoma Defiance 0-2 Portland Timbers II,Tacoma Defiance,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,4dzno9983li7uooacaaraz7dg
-2026-07-05,19,Los Angeles II 2-2 Real Monarchs,Los Angeles II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,496i39chqv58achb8hug0itjo
-2026-07-05,19,Austin II 3-2 Colorado Rapids II,Austin II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,4dg84s3fjhrdmzxqqkv318tuc
-2026-07-05,19,Huntsville City 2-2 Chicago Fire II,Huntsville City,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,4cwsgyylyr7e7ma0ndw2lmivo
-2026-07-05,19,Crown Legacy 1-1 Orlando City B,Crown Legacy,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,4btsrwyo3204vac6y6jmuzaj8
-2026-07-05,19,Connecticut United 3-1 Carolina Core,Connecticut United,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,4a7d09or1eb3q1cywy1i4mpec
-2026-07-05,19,Cincinnati II 2-2 New York RB II,Cincinnati II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,49pnbccu8ka7o85y4ocn741zo
-2026-07-05,19,Houston Dynamo II 4-0 Minnesota United II,Houston Dynamo II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,4baeegl9ttosyryojm6as41sk
-2026-07-05,19,New England II 0-4 Philadelphia Union II,New England II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,4cct3i9ciabzcmi37kkt8qkgk
-2026-07-04,19,North Texas 3-0 St. Louis City II,North Texas,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,48n9t2sda099tp51erc4oc3ro
-2026-07-04,19,Chattanooga 1-0 Inter Miami II,Chattanooga,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,482zki1zf8irrswjzwql0rnys
-2026-07-04,19,Atlanta United II 1-0 Toronto II,Atlanta United II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,47jslvkl70acv4imrc16qerro
-2026-06-28,18,Los Angeles II 3-1 Houston Dynamo II,Los Angeles II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,470g3iyu8fe8viu3i7xotbq50
-2026-06-28,18,Orlando City B 2-2 Columbus Crew II,Orlando City B,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,45w1p0p4hdfhd84s2tpgn35lg
-2026-06-28,18,Minnesota United II 2-2 Tacoma Defiance,Minnesota United II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,42nydl0l60bfjh5h9sp98n21g
-2026-06-28,18,St. Louis City II 0-2 Austin II,St. Louis City II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,46fg1kfa5jhd3xulom4lzlus4
-2026-06-28,18,New York RB II 5-0 Philadelphia Union II,New York RB II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,45cp5ihitcy5hj3p7uxg9d2c4
-2026-06-28,18,Cincinnati II 1-0 Inter Miami II,Cincinnati II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,449u1tx4wxaaf56e2q25d6p78
-2026-06-28,18,Carolina Core 1-0 Huntsville City,Carolina Core,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,43qjhsim701v96gpnvf0pek2c
-2026-06-28,18,Toronto II 1-3 New England II,Toronto II,New England II,93yvwhz6r37ar71e3pc8ep2c4,4379gdy3f2pyrqaiup8a56a6s
-2026-06-27,18,Ventura County 3-1 Real Monarchs,Ventura County,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,41mrqaj9k8zsy4n97b840w93o
-2026-06-27,18,Colorado Rapids II 1-0 Vancouver Whitecaps II,Colorado Rapids II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,424e24xyetva6z3qpiet9pic4
-2026-06-27,18,Atlanta United II 3-3 Crown Legacy,Atlanta United II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,40jkg2k0m12win6x2cp3xesr8
-2026-06-27,18,Chattanooga 2-2 Chicago Fire II,Chattanooga,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,413dpag9whmp33bzcdheqo2s4
-2026-06-27,18,Portland Timbers II 2-3 San Jose Earthquakes II,Portland Timbers II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,3zyjy571lomgwarykvp4op0d0
-2026-06-26,18,Connecticut United 1-4 New York City II,Connecticut United,New York City II,93yvwhz6r37ar71e3pc8ep2c4,44rsnh3ehy2nlgatq2o5fbfh0
-2026-06-24,30,Los Angeles II 1-0 Minnesota United II,Los Angeles II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,70l89a3c2bxy0ffkvtuiqxdsk
-2026-06-21,17,Tacoma Defiance 1-0 Real Monarchs,Tacoma Defiance,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,3ycmph8875hdym4iv9bdyqv4k
-2026-06-21,17,Austin II 2-1 Sporting KC II,Austin II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,3xtp13hwok3yv8iidjxi5intg
-2026-06-21,17,Orlando City B 1-2 Philadelphia Union II,Orlando City B,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,3xaetmnf3bvy39o1r17tvgvf8
-2026-06-21,17,New York RB II 5-0 Toronto II,New York RB II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,3wrf4wyjqb84qqv35a79kbxg4
-2026-06-21,17,New York City II 1-1 Chattanooga,New York City II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,3uly2wjs439mkq2zvw4ru3bbo
-2026-06-21,17,Columbus Crew II 3-2 Atlanta United II,Columbus Crew II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,3v7uu7mxym0n6w73cztmmshlg
-2026-06-21,17,New England II 1-2 Chicago Fire II,New England II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,3w8f1p5jj8yuc42jwy21to9as
-2026-06-20,17,Colorado Rapids II 0-2 Portland Timbers II,Colorado Rapids II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,3szk7z2tmj0m2oqv39l98d82c
-2026-06-20,17,Minnesota United II 5-2 St. Louis City II,Minnesota United II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,3u221zzs9ah8zli3gnlnl3w2c
-2026-06-20,17,Inter Miami II 0-0 Carolina Core,Inter Miami II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,3s0m6u6rrpd7ns65zyllqmp04
-2026-06-18,17,Connecticut United 4-0 Cincinnati II,Connecticut United,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,3si7dij65tn93m29na330fok4
-2026-06-17,17,Tacoma Defiance 2-1 Houston Dynamo II,Tacoma Defiance,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,3rhxdsddsdneme2ifwx1p8x04
-2026-06-17,17,Vancouver Whitecaps II 3-2 San Jose Earthquakes II,Vancouver Whitecaps II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,3qzaa1v0im7b06u7odz2yc6j8
-2026-06-17,1,New York City II 3-2 Carolina Core,New York City II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,km7woculgcxsxl8k779a0qvo
-2026-06-14,16,Cincinnati II 0-1 Columbus Crew II,Cincinnati II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,3pvz7w1j6fczo28twnwszcqvo
-2026-06-14,16,Chicago Fire II 3-1 Inter Miami II,Chicago Fire II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,3pcu31j69jh0s1jbigwuak1ec
-2026-06-14,16,New England II 2-1 New York RB II,New England II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,3qgm7ajuz5ht49a350rlv06xg
-2026-06-14,16,Toronto II 2-4 Connecticut United,Toronto II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,3otj4jalvc9dnq2rg1j3vkydw
-2026-06-14,16,Philadelphia Union II 0-1 New York City II,Philadelphia Union II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,3oad01d8uv6vnlru3hdh8krv8
-2026-06-14,16,Minnesota United II 1-3 Austin II,Minnesota United II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,3l3bv6qitsaygeb6vqbw4x3x0
-2026-06-13,16,Ventura County 1-1 Colorado Rapids II,Ventura County,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,3moqyn9kn0bdlm66ylpxx9xck
-2026-06-13,16,Huntsville City 1-2 Orlando City B,Huntsville City,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,3n7sicvttdjnjry1sru7d7pjo
-2026-06-13,16,Carolina Core 2-0 Crown Legacy,Carolina Core,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,3ki260dj37ihaxy1i4ungmm8k
-2026-06-13,16,Atlanta United II 4-4 Chattanooga,Atlanta United II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,3m5nnbzbg21sikzorjrfdsv84
-2026-06-13,16,Real Monarchs 4-1 Portland Timbers II,Real Monarchs,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,3lmjzlwfcd1y0gj35pmo02hp0
-2026-06-10,16,Vancouver Whitecaps II 1-1 North Texas,Vancouver Whitecaps II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,3jyn9507d3p2f9ps3nfwf07pw
-2026-06-08,21,Minnesota United II 4-3 Sporting KC II,Minnesota United II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,4syclyxo1bb6up3ato6tenwgk
-2026-06-08,15,Columbus Crew II 2-1 Connecticut United,Columbus Crew II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,3e4eut7peckklqdptx810wufo
-2026-06-07,15,Austin II 2-0 Los Angeles II,Austin II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,3jfrx3iqsbc3tjua3zfqy8hsk
-2026-06-07,15,San Jose Earthquakes II 3-0 Real Monarchs,San Jose Earthquakes II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,3idbnu98vvmihll27kabo4844
-2026-06-07,15,Orlando City B 3-2 Carolina Core,Orlando City B,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,3iwltl85qcyz7zrbtw52yccus
-2026-06-07,15,Cincinnati II 0-1 New England II,Cincinnati II,New England II,93yvwhz6r37ar71e3pc8ep2c4,3hvo1tp91l7crala1miiq8sus
-2026-06-06,15,Ventura County 3-1 Houston Dynamo II,Ventura County,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,3fr2rx9dgmbxwl83g9myozi1g
-2026-06-06,15,Colorado Rapids II 1-1 St. Louis City II,Colorado Rapids II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,3gtmco9i5pkzdpfj6xv4t6pzo
-2026-06-06,15,Chattanooga 4-0 New York RB II,Chattanooga,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,3f6tmrnaoras106k2xk0mbuok
-2026-06-06,15,Atlanta United II 3-0 Chicago Fire II,Atlanta United II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,3enkxb8gwwf78umck1gpjj1n8
-2026-06-05,15,Vancouver Whitecaps II 0-1 Portland Timbers II,Vancouver Whitecaps II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,3ddds0g8pvs3l515m4u784r2s
-2026-06-05,15,Toronto II 2-1 Huntsville City,Toronto II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,3cre9gx4c2md9vjcbacg7upzo
-2026-06-05,15,Crown Legacy 1-0 Philadelphia Union II,Crown Legacy,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,3c8gnsp5iqtvmmthw8og1k7x0
-2026-05-31,26,Orlando City B 5-2 Chattanooga,Orlando City B,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,5u2duj15r1cjfr7wg6xyxrmz8
-2026-05-31,14,Portland Timbers II 1-0 Tacoma Defiance,Portland Timbers II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,3b22dil7rfbmz2l52zd8plkwk
-2026-05-30,14,Ventura County 2-1 Vancouver Whitecaps II,Ventura County,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,39934ic11yg8334dlj5iwfj10
-2026-05-30,14,Huntsville City 2-2 Connecticut United,Huntsville City,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,3agml9vso47lho3gssax2jbbo
-2026-05-30,14,New York City II 2-3 Columbus Crew II,New York City II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,39sdp3kwr9rkda2t31udjacr8
-2026-05-30,14,Carolina Core 1-1 New York RB II,Carolina Core,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,38pnkek0nys91148tatp0wxlg
-2026-05-30,14,St. Louis City II 2-0 North Texas,St. Louis City II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,386lycvbyvyp86hi4331jh79w
-2026-05-29,14,Real Monarchs 1-3 Sporting KC II,Real Monarchs,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,37nogo173hej9otcm9491uqdw
-2026-05-29,14,Toronto II 2-1 Philadelphia Union II,Toronto II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,374lgk89w5gbkn8sxg4qnk8b8
-2026-05-24,13,Columbus Crew II 2-2 Toronto II,Columbus Crew II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,361kirxl0b8mh01ryg03345xw
-2026-05-24,13,Vancouver Whitecaps II 1-3 Real Monarchs,Vancouver Whitecaps II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,35ef9nups66kyswqyba6pruvo
-2026-05-24,13,New York RB II 1-3 Connecticut United,New York RB II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,34v902n4c147iuj6dd9k5wb9w
-2026-05-24,13,Orlando City B 4-1 Inter Miami II,Orlando City B,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,34al8t30iq68t9sf60pabqj2s
-2026-05-24,13,Los Angeles II 1-1 St. Louis City II,Los Angeles II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,36krrtip6bl4ye6y5714decyc
-2026-05-24,13,Portland Timbers II 0-3 Houston Dynamo II,Portland Timbers II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,33r5io3fy8mp1tt9dm684o8pg
-2026-05-24,13,Chattanooga 1-0 Carolina Core,Chattanooga,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,32mh9ma7jgg8nrze1zw8wf4t0
-2026-05-24,13,Minnesota United II 2-0 Colorado Rapids II,Minnesota United II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,322rquvuyo2nnfx4vydy50r2s
-2026-05-23,13,North Texas 2-2 San Jose Earthquakes II,North Texas,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,31jlia5rkw4hojxc0thnch3x0
-2026-05-23,13,New York City II 2-0 Cincinnati II,New York City II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,310feci4lqcbtwy22lif8njf8
-2026-05-23,13,Chicago Fire II 4-0 Huntsville City,Chicago Fire II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,335s3vqytfwdbsmi2gprcbr4k
-2026-05-23,13,Philadelphia Union II 2-1 Atlanta United II,Philadelphia Union II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,30f0bo9tp0o4dl3516zkgzevo
-2026-05-22,13,Tacoma Defiance 1-0 Ventura County,Tacoma Defiance,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,2zvzkswrftqy245uwtb22k2z8
-2026-05-22,13,Sporting KC II 0-3 Austin II,Sporting KC II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,2zd44qjp8dxp59giv35ayqkus
-2026-05-22,13,Crown Legacy 2-2 New England II,Crown Legacy,New England II,93yvwhz6r37ar71e3pc8ep2c4,2ysc8dw8t6k5ybayimt7s1x5g
-2026-05-20,13,Real Monarchs 2-0 Colorado Rapids II,Real Monarchs,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,2y91xk2gkyf8tc4xzl8552cr8
-2026-05-18,12,Inter Miami II 1-5 Crown Legacy,Inter Miami II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,2vzaiu70vqzsv4x04mw3qb8k4
-2026-05-17,12,San Jose Earthquakes II 0-1 Portland Timbers II,San Jose Earthquakes II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,2vdkcmb42ycuyxtogsjl8bdp0
-2026-05-17,12,Austin II 4-1 St. Louis City II,Austin II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,2xq4fhseizvf9efia55v204r8
-2026-05-17,12,Vancouver Whitecaps II 0-2 Tacoma Defiance,Vancouver Whitecaps II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,2x69w3j5pv68ov7p6jq49mpzo
-2026-05-17,12,New York RB II 2-3 New York City II,New York RB II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,2wmqtjqcpqmdl7jqfg1fy10d0
-2026-05-17,12,Cincinnati II 1-3 Chattanooga,Cincinnati II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,2uvk0udt3q2yz19xno7xc6j2s
-2026-05-17,12,Philadelphia Union II 1-1 Columbus Crew II,Philadelphia Union II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,2ucgoz96xdqgrruody7otmsd0
-2026-05-17,12,New England II 1-0 Orlando City B,New England II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,2tna6iadbm8zm7gpz6d8q2sd0
-2026-05-16,12,Los Angeles II 3-2 Ventura County,Los Angeles II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,2suejkk2f7g7amfx53iy5tgk4
-2026-05-16,12,North Texas 5-1 Sporting KC II,North Texas,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,2sb01p0f8xa3f11htin5q8tn8
-2026-05-16,12,Minnesota United II 1-1 Houston Dynamo II,Minnesota United II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,2rqm2ajw0vzfq78d8wqgpfp5g
-2026-05-16,12,Huntsville City 2-6 Atlanta United II,Huntsville City,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,2r7ht08fsd6wy9chyu0t972ms
-2026-05-16,12,Connecticut United 0-2 Toronto II,Connecticut United,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,2qogma3wlz6nlx9a9gdvqt5as
-2026-05-16,12,Carolina Core 2-1 Chicago Fire II,Carolina Core,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,2q6nqewlioqort0u4bk8h45jo
-2026-05-13,12,Portland Timbers II 2-1 Minnesota United II,Portland Timbers II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,2ply62z7ldtc4pfjit3gjxwk4
-2026-05-13,12,Huntsville City 4-0 Cincinnati II,Huntsville City,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,2p2l085fqpc25x4hfj36ygb2s
-2026-05-13,12,Colorado Rapids II 0-2 Austin II,Colorado Rapids II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,2oj98xshoxuel67u9nx4aiexg
-2026-05-13,12,Philadelphia Union II 0-1 New England II,Philadelphia Union II,New England II,93yvwhz6r37ar71e3pc8ep2c4,2o1nb2pzbti0vc7f4k51wf0us
-2026-05-13,12,Real Monarchs 1-1 San Jose Earthquakes II,Real Monarchs,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,2nhfrs8eq3s1ajly7oy6kh6ac
-2026-05-10,11,Austin II 3-0 Tacoma Defiance,Austin II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,2mecigpij6ka2e5gs8a6mzrx0
-2026-05-10,11,Colorado Rapids II 1-3 Sporting KC II,Colorado Rapids II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,2lvkbeomfnmhid18nty9ce61g
-2026-05-10,11,Atlanta United II 0-2 Orlando City B,Atlanta United II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,2ldjcv7geh517je39xugoob2s
-2026-05-10,11,Cincinnati II 2-1 Columbus Crew II,Cincinnati II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,2ksxb772kvesr7g8n755jlus4
-2026-05-10,11,Los Angeles II 3-1 Real Monarchs,Los Angeles II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,2mxbq5e0ooqny2tlpmgsjd6ok
-2026-05-10,11,Portland Timbers II 3-3 Ventura County,Portland Timbers II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,2k9rfhwr6t86k8vjtzhpdkqvo
-2026-05-10,11,New England II 3-2 New York City II,New England II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,2jqk1flkwo4auj54cvdrj2rdg
-2026-05-09,11,Minnesota United II 0-2 North Texas,Minnesota United II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,2j7bdzipono0gmq3s3c34rv2s
-2026-05-09,11,St. Louis City II 1-4 Houston Dynamo II,St. Louis City II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,2io5cz1ydd6aoo35qlf0puplg
-2026-05-09,11,San Jose Earthquakes II 6-1 Vancouver Whitecaps II,San Jose Earthquakes II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,2hm0wf767a9d4gf4is56rorv8
-2026-05-09,11,Chicago Fire II 3-2 Crown Legacy,Chicago Fire II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,2h4g4bj2yqtay8zzg2kga232s
-2026-05-08,11,Inter Miami II 1-2 Chattanooga,Inter Miami II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,2i5bubo8vfypgwrw20w4p3huc
-2026-05-08,11,Toronto II 1-2 New York RB II,Toronto II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,2gl6yedm0oqmuqmln5tlbocus
-2026-05-07,11,Huntsville City 3-0 Carolina Core,Huntsville City,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,2fwd8t854ewfmqi7aosrd4zkk
-2026-05-06,20,Sporting KC II 0-2 Ventura County,Sporting KC II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,4f2205o6k4n8nsxxhwgqaktuc
-2026-05-05,11,New York City II 2-1 Chicago Fire II,New York City II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,2f4yczirx38bmigelx1calr10
-2026-05-03,10,Los Angeles II 2-1 Vancouver Whitecaps II,Los Angeles II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,2ekv2jtuwlgplav9xaz7xw3dg
-2026-05-03,10,Sporting KC II 2-2 Tacoma Defiance,Sporting KC II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,2e0w69oocmr5nf9udk6s96qs4
-2026-05-03,10,Colorado Rapids II 1-3 Houston Dynamo II,Colorado Rapids II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,2dgvocivn1nd2jrej2z8fu8lw
-2026-05-03,10,Orlando City B 2-2 Crown Legacy,Orlando City B,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,2czcqko6p8mo189fdf5niuf4k
-2026-05-03,10,Cincinnati II 5-0 Toronto II,Cincinnati II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,2byiqru8ia7ajoe7v9bqagpas
-2026-05-03,10,Connecticut United 0-0 New England II,Connecticut United,New England II,93yvwhz6r37ar71e3pc8ep2c4,2cg5b77g0o94z54s2qobyabdg
-2026-05-03,10,Columbus Crew II 3-1 Inter Miami II,Columbus Crew II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,2bfccat9248ursupq5q1lmjo4
-2026-05-03,10,Real Monarchs 0-3 Portland Timbers II,Real Monarchs,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,2aweo02gwzbcx6szi58xp5udw
-2026-05-03,10,Philadelphia Union II 1-2 New York RB II,Philadelphia Union II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,2a84cltt9hjqhvyj14soid3pw
-2026-05-02,10,North Texas 0-2 Austin II,North Texas,Austin II,93yvwhz6r37ar71e3pc8ep2c4,29ohbbo09v05k210w71u8qa6s
-2026-05-02,10,Chattanooga 0-2 Huntsville City,Chattanooga,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,291ds6ks7z5hwjq6oaae5x250
-2026-05-02,10,Carolina Core 1-2 Atlanta United II,Carolina Core,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,28gg02vme5l2ua43fsm4nsm50
-2026-05-02,10,Minnesota United II 0-0 St. Louis City II,Minnesota United II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,27v8lp2o4if252ha99jlfpwyc
-2026-05-01,10,Ventura County 1-3 San Jose Earthquakes II,Ventura County,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,27aw16e2mc2l9gpd7bx65clqs
-2026-04-26,9,Tacoma Defiance 4-1 Los Angeles II,Tacoma Defiance,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,26luhjmpno6xwdrxm2atg8ftg
-2026-04-26,9,Vancouver Whitecaps II 1-1 Colorado Rapids II,Vancouver Whitecaps II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,25hdiiny4d1jwdsk04y5i8lqs
-2026-04-26,9,St. Louis City II 2-1 Ventura County,St. Louis City II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,24oogl5cw7wx2088pmjfbx3bo
-2026-04-26,9,New York RB II 4-1 Columbus Crew II,New York RB II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,23oq6x0qth5w2nbzqk6iialn8
-2026-04-26,9,Minnesota United II 1-0 North Texas,Minnesota United II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,230ech076eis3ynpsrq78p4b8
-2026-04-26,9,Chicago Fire II 2-2 Orlando City B,Chicago Fire II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,22eg5m143eoh7tgohmej5e5uc
-2026-04-26,9,Connecticut United 1-2 Philadelphia Union II,Connecticut United,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,21tegl1qx91j4cczb0i4vvqc4
-2026-04-26,9,Sporting KC II 1-2 Houston Dynamo II,Sporting KC II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,262q9u2hitsyqzlhg4vwaibro
-2026-04-25,9,Carolina Core 2-2 Crown Legacy,Carolina Core,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,21bh5e1t3455qx5xxnj9ndhqs
-2026-04-24,9,Toronto II 2-1 New York City II,Toronto II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,20q73hddzw258kcge6dd1vlzo
-2026-04-19,8,Sporting KC II 3-2 Vancouver Whitecaps II,Sporting KC II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,1znz3d61o0acuewqkng7vbaqc
-2026-04-19,8,Colorado Rapids II 1-2 Minnesota United II,Colorado Rapids II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,1z4tq3gkb9i5qoi9uq1kaz9qs
-2026-04-19,8,Orlando City B 2-2 Carolina Core,Orlando City B,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,1ykzw39zvw5jofpr4v720d2j8
-2026-04-19,8,Real Monarchs 0-1 Houston Dynamo II,Real Monarchs,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,1y15rx6062mbaeeafqtkq61as
-2026-04-19,8,New York RB II 3-1 Cincinnati II,New York RB II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,1xhs48iw048x090ssd7b0jpxw
-2026-04-19,8,Los Angeles II 2-1 San Jose Earthquakes II,Los Angeles II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,2077j00yp5yfb3a1ipsc5p79w
-2026-04-19,8,Portland Timbers II 2-2 North Texas,Portland Timbers II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,1wx73hdmgu56vdqzmvibbb578
-2026-04-19,8,New York City II 2-1 Connecticut United,New York City II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,1t3yrkojecoey01d3o1p1pdlg
-2026-04-18,8,Ventura County 1-1 Austin II,Ventura County,Austin II,93yvwhz6r37ar71e3pc8ep2c4,1vb5ulhsvjnh8d8busqsjmuc4
-2026-04-18,8,Inter Miami II 2-4 Huntsville City,Inter Miami II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,1wdqjunx1fykkdhvatdzcqbro
-2026-04-18,8,Crown Legacy 1-0 Chattanooga,Crown Legacy,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,1vugzwgte8j4suctu4prb70no
-2026-04-18,8,Chicago Fire II 0-3 Atlanta United II,Chicago Fire II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,1us0z14crw3ikujvafkz8aa6s
-2026-04-18,8,Columbus Crew II 2-1 New England II,Columbus Crew II,New England II,93yvwhz6r37ar71e3pc8ep2c4,1u8fan9924ho4ho6dec54t82c
-2026-04-17,8,Tacoma Defiance 1-2 St. Louis City II,Tacoma Defiance,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,1tngbkmonn0byv98056yr3cpg
-2026-04-17,8,Toronto II 1-0 Philadelphia Union II,Toronto II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,1sl3ztru8p2fw3z23ipfvrjf8
-2026-04-15,8,Los Angeles II 0-1 Portland Timbers II,Los Angeles II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,1s1rxvzlpny1k88nnwofbrqj8
-2026-04-13,7,Cincinnati II 1-0 New York City II,Cincinnati II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,1pxfb2nz0xxa2kwcjj1qkgh04
-2026-04-12,7,San Jose Earthquakes II 1-0 Minnesota United II,San Jose Earthquakes II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,1qevn9ucfef6iqyco065zzdhw
-2026-04-12,7,Austin II 1-1 Houston Dynamo II,Austin II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,1rhuhba23607clru5x7o738r8
-2026-04-12,7,Ventura County 2-0 Real Monarchs,Ventura County,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,1pe151fk74ldxywx2k3g5wkr8
-2026-04-12,7,Vancouver Whitecaps II 2-1 Tacoma Defiance,Vancouver Whitecaps II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,1qy2wjbo2z2x5b34unltma904
-2026-04-12,7,New England II 1-2 New York RB II,New England II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,1o9ox0t9j6gh9cq05x2ao9ous
-2026-04-12,7,Philadelphia Union II 4-1 Carolina Core,Philadelphia Union II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,1ot0vs8br0cy9mvrpw8hj0lxw
-2026-04-12,7,Toronto II 3-3 Crown Legacy,Toronto II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,1nqksnlagg69x38rf0br1bgno
-2026-04-11,7,Huntsville City 0-0 Chicago Fire II,Huntsville City,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,1n6ddacqj1niusaht06oli044
-2026-04-11,7,Chattanooga 3-1 Orlando City B,Chattanooga,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,1mmp1e97kkxt55uh0j1hyrnkk
-2026-04-11,7,Connecticut United 1-3 Columbus Crew II,Connecticut United,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,1m3f9ct4zcdu4z9mavloor11w
-2026-04-10,7,North Texas 2-2 Sporting KC II,North Texas,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,1llah279e2g2lx61oo28ou3o4
-2026-04-10,7,St. Louis City II 2-2 Colorado Rapids II,St. Louis City II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,1l06jbjzmcugnyyl74kv09d04
-2026-04-10,7,Inter Miami II 0-2 Atlanta United II,Inter Miami II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,1kgrhj36qgiqcmbp9h705ck5w
-2026-04-04,18,Sporting KC II 1-4 North Texas,Sporting KC II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,3zf5w2x3nvbhf6rbpgbdep7v8
-2026-04-03,6,Crown Legacy 2-0 Atlanta United II,Crown Legacy,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,1jvs1et7jkqu6a5kqd0uip9g4
-2026-03-29,5,Tacoma Defiance 0-1 Ventura County,Tacoma Defiance,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,1jcio10zhdgrohlyv0ejxmfpw
-2026-03-28,27,Vancouver Whitecaps II 2-3 Los Angeles II,Vancouver Whitecaps II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,64opf9ui9l4p8gfnktxejx2j8
-2026-03-28,5,Chattanooga 2-0 Columbus Crew II,Chattanooga,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,1itdr8wveoahym6h2fwtd36s4
-2026-03-28,16,Sporting KC II 0-2 St. Louis City II,Sporting KC II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,3nquk4fbbjkzh3becs1fjcutw
-2026-03-28,5,Carolina Core 1-1 Inter Miami II,Carolina Core,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,1ia77m1h7b3oje2xqxo1eq3h0
-2026-03-23,4,Portland Timbers II 0-0 Ventura County,Portland Timbers II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,1hqtf2v273gh12s7ieur8gydw
-2026-03-22,4,Tacoma Defiance 0-1 Austin II,Tacoma Defiance,Austin II,93yvwhz6r37ar71e3pc8ep2c4,1h7y243bgd0xpomo8gpe76sr8
-2026-03-22,4,Sporting KC II 0-1 Minnesota United II,Sporting KC II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,1goypuwj7rx1x9fec6dsyqvx0
-2026-03-22,4,Orlando City B 4-4 Inter Miami II,Orlando City B,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,1g5sotdd9oesk637hi515jwus
-2026-03-22,4,Crown Legacy 3-0 Atlanta United II,Crown Legacy,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,1fmtiwwxnhqrey17chj3blrmc
-2026-03-22,4,New York RB II 1-1 Philadelphia Union II,New York RB II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,1f1wmdeoi19sgr8r845521el0
-2026-03-22,4,Chicago Fire II 0-0 Carolina Core,Chicago Fire II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,1dwfigfcnxvp3d6xf1ezjpo9g
-2026-03-22,4,Real Monarchs 3-2 Vancouver Whitecaps II,Real Monarchs,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,1ddj8umpdwlphxw1iz58fxxck
-2026-03-22,4,St. Louis City II 2-2 Los Angeles II,St. Louis City II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,1ej678kkuzxkzepf7p5vxx5as
-2026-03-22,4,New England II 2-0 Connecticut United,New England II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,1cuea1yy8eefv6rwmgjiwusyc
-2026-03-21,4,Huntsville City 2-2 Chattanooga,Huntsville City,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,1cba1uwuwqkcagan61smunm6s
-2026-03-21,4,Colorado Rapids II 1-4 San Jose Earthquakes II,Colorado Rapids II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,1brerjbhawc07gq9pexb8e8es
-2026-03-21,4,Houston Dynamo II 2-0 North Texas,Houston Dynamo II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,1b9wqirbfm7xsp6mekixyzaj8
-2026-03-21,4,Columbus Crew II 2-0 Cincinnati II,Columbus Crew II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,1ar1xl6cxq079l2ize6gy4l5g
-2026-03-19,4,New York City II 0-5 Toronto II,New York City II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,1a1k8lfx1cu5xu8skxv4wurdg
-2026-03-15,3,Vancouver Whitecaps II 2-1 Minnesota United II,Vancouver Whitecaps II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,182is76sjvzkfxyz2u7z2wiz8
-2026-03-15,3,Austin II 1-0 North Texas,Austin II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,19fevrzqe9n1l5t8r0854q2ac
-2026-03-15,3,Colorado Rapids II 2-2 Sporting KC II,Colorado Rapids II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,18ngawhf195sx6r18sr9mhjbo
-2026-03-15,3,Ventura County 2-3 St. Louis City II,Ventura County,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,13zbheyqhdrspi7exisqjw6xg
-2026-03-15,3,Houston Dynamo II 5-0 Portland Timbers II,Houston Dynamo II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,16pz2m7sch6tjhaib3oll17o4
-2026-03-15,3,Crown Legacy 3-0 Inter Miami II,Crown Legacy,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,15zvks3yunrb56r8bg1xia6ms
-2026-03-15,3,Atlanta United II 4-1 Huntsville City,Atlanta United II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,15bo1w6qz41snlg0iqdwksmqc
-2026-03-15,3,Real Monarchs 2-2 Los Angeles II,Real Monarchs,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,14pldxu06u1v1kalohjdaf21g
-2026-03-15,3,New York City II 1-1 New York RB II,New York City II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,17eggjtfngd9w1nfs0xdb69sk
-2026-03-15,3,Chicago Fire II 2-1 Chattanooga,Chicago Fire II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,13dsg5hs88kvu11qebrwji3o4
-2026-03-15,3,Philadelphia Union II 1-2 Connecticut United,Philadelphia Union II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,12toi8n8yg8nerjboq4pwnpqs
-2026-03-15,3,Columbus Crew II 3-2 Toronto II,Columbus Crew II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,12a8snacue6b8x9gt5l1em590
-2026-03-15,3,New England II 2-1 Cincinnati II,New England II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,11qcb9co8idpsk91me7cfvwno
-2026-03-14,3,Tacoma Defiance 0-0 San Jose Earthquakes II,Tacoma Defiance,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,1172zi8t0mxkky9wbpgunt9uc
-2026-03-14,3,Carolina Core 2-3 Orlando City B,Carolina Core,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,10n4nruoj4whftpyqe4zaa9sk
-2026-03-08,2,San Jose Earthquakes II 4-1 Los Angeles II,San Jose Earthquakes II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,yynpnta4x1x4r4we28r4cl5g
-2026-03-08,2,Austin II 2-2 Ventura County,Austin II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,103hx19wjh4vxuw4y62xvq044
-2026-03-08,2,Sporting KC II 0-5 Real Monarchs,Sporting KC II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,zk6nj8j49be239s7k2hdj2tw
-2026-03-08,2,New York RB II 3-0 Inter Miami II,New York RB II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,t1pkfurm5ivut88u0ofke61g
-2026-03-08,2,Orlando City B 2-1 Chicago Fire II,Orlando City B,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,yh6dvs2yelzrzyv98qr39s7o
-2026-03-08,2,Atlanta United II 2-1 Carolina Core,Atlanta United II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,xy77ywaaaqjlitysk04p7pjo
-2026-03-08,2,Houston Dynamo II 4-0 Tacoma Defiance,Houston Dynamo II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,xe9n15b0cz0l2qpzwoc0dgr8
-2026-03-08,2,New England II 0-0 Toronto II,New England II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,wv9f8enoakt8gc5h09gdjd3o
-2026-03-08,2,St. Louis City II 3-0 Minnesota United II,St. Louis City II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,wc10xze7bsn7wlrbiorhjd3o
-2026-03-08,2,Portland Timbers II 0-0 Vancouver Whitecaps II,Portland Timbers II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,v99ps60b25nrirhozq5u7hg4
-2026-03-08,2,Philadelphia Union II 1-0 Cincinnati II,Philadelphia Union II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,vsemxq1kbbl2u89p6be06hhw
-2026-03-08,2,Chattanooga 4-2 Connecticut United,Chattanooga,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,uq12224bvd226ydhymgbc9hw
-2026-03-08,2,Columbus Crew II 0-0 New York City II,Columbus Crew II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,u517witwvmop7h558glbhf6c
-2026-03-07,2,North Texas 3-1 Colorado Rapids II,North Texas,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,tlehpd1uoqla7t640blbvwno
-2026-03-06,2,Crown Legacy 7-2 Huntsville City,Crown Legacy,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,sjblg38a1bzwvf8ecpg3z7ys
-2026-03-02,2,Orlando City B 1-3 Huntsville City,Orlando City B,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,s048h1ewr6jed3eqwk9nio7o
-2026-03-01,1,Tacoma Defiance 2-2 Los Angeles II,Tacoma Defiance,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,rdp1xpetjl92ympjtwxmyhas
-2026-03-01,1,Austin II 2-4 Minnesota United II,Austin II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,qra0la84c8w01facc8ea71n8
-2026-03-01,1,New England II 1-1 Atlanta United II,New England II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,q3pqc5k560hk0iiga45uz1uc
-2026-03-01,1,Ventura County 4-2 Vancouver Whitecaps II,Ventura County,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,mia5fethvtpxnbm24rxt2ec4
-2026-03-01,1,Houston Dynamo II 2-0 Colorado Rapids II,Houston Dynamo II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,pf8vtjub2c46m0bz9wt3l5hw
-2026-03-01,1,Cincinnati II 1-3 Connecticut United,Cincinnati II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,ojxsma2z1y7hnrxno9jfkil0
-2026-03-01,1,Real Monarchs 2-2 North Texas,Real Monarchs,North Texas,93yvwhz6r37ar71e3pc8ep2c4,nsd0m5yfwo6d1daeqhdxo26s
-2026-03-01,1,New York RB II 4-2 Columbus Crew II,New York RB II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,n4jizrn7a1k1dpcdul2hs2s4
-2026-03-01,1,Portland Timbers II 2-1 San Jose Earthquakes II,Portland Timbers II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,lvs06sf8a0m08rit1dxo6adw
-2026-03-01,1,Chattanooga 1-4 Crown Legacy,Chattanooga,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,l8qoe2q3wtvokrqg56ohtm38
-2026-02-28,1,St. Louis City II 4-0 Sporting KC II,St. Louis City II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,jzydjflsjatcndhvg9i20lck
-2026-02-28,1,Philadelphia Union II 1-0 Toronto II,Philadelphia Union II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,j9e78g7a4fox36ii4a676vx0
-2026-02-27,1,Inter Miami II 1-1 Chicago Fire II,Inter Miami II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,ii74blljlmn8cr03mp4it990
+2026-10-11,,San Jose Earthquakes II 3-3 Tacoma Defiance,San Jose Earthquakes II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,29azagjln507vzugq59q2ny1g
+2026-10-11,,New York RB II 3-1 Huntsville City,New York RB II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,28z9gtpp9wo463ve3qak9pj4k
+2026-09-20,30.0,Vancouver Whitecaps II 0-2 San Jose Earthquakes II,Vancouver Whitecaps II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,72xcvl4ercm3la01wdslipa8k
+2026-09-20,30.0,St. Louis City II 0-2 Austin II,St. Louis City II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,728c0a8rwe554esjod4fbkpp0
+2026-09-20,30.0,Tacoma Defiance 1-1 Portland Timbers II,Tacoma Defiance,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,71p4h5prte1xjzops1h6yh6ok
+2026-09-20,30.0,Real Monarchs 2-1 Ventura County,Real Monarchs,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,7146nibsip3igb2g8ktwk41sk
+2026-09-20,30.0,Houston Dynamo II 2-3 Sporting KC II,Houston Dynamo II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,703xu3es982wmxwq69wx4go44
+2026-09-20,30.0,Colorado Rapids II 2-1 North Texas,Colorado Rapids II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,6zl1nqr64vv2397b9pcfcncb8
+2026-09-20,14.0,Minnesota United II 3-2 Los Angeles II,Minnesota United II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,3bpaxnz987hjs82tg25metl3o
+2026-09-20,30.0,Toronto II 1-3 New England II,Toronto II,New England II,93yvwhz6r37ar71e3pc8ep2c4,6z3kx0tmbhyk13je14wbnfthw
+2026-09-20,30.0,Philadelphia Union II 1-1 New York City II,Philadelphia Union II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,6yjmlmdnbtp5v18lil7jwytjo
+2026-09-20,30.0,Orlando City B 2-4 Atlanta United II,Orlando City B,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,6xvf9fcm3gswibv8pqymb302c
+2026-09-20,30.0,New York RB II 1-2 Huntsville City,New York RB II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,6x37dooopw58pbazfzcezzj10
+2026-09-20,30.0,Connecticut United 7-2 Inter Miami II,Connecticut United,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,6wk4cjywe9vehy9rpp3wa972s
+2026-09-20,30.0,Columbus Crew II 1-1 Carolina Core,Columbus Crew II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,6vzxw8duuf0vrvt4ivhpb2uj8
+2026-09-20,30.0,Cincinnati II 1-2 Crown Legacy,Cincinnati II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,6vgnvwv0ge1oz0i3dj7duu1p0
+2026-09-20,30.0,Chicago Fire II 0-1 Chattanooga,Chicago Fire II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,6uuiflqjl5o2vjv42p9hkkcus
+2026-09-16,25.0,Real Monarchs 0-0 Minnesota United II,Real Monarchs,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,5krwqooez8jn2v0ruoft7xic4
+2026-09-14,29.0,Portland Timbers II 1-1 St. Louis City II,Portland Timbers II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,6txfmxp21zfonuokyxohcanmc
+2026-09-13,29.0,San Jose Earthquakes II 4-0 Real Monarchs,San Jose Earthquakes II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,6r8se5uo841wuj82fym2a7hg4
+2026-09-13,29.0,Ventura County 3-0 Tacoma Defiance,Ventura County,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,6p3oi2vskyzse5so00hxf302c
+2026-09-13,29.0,Austin II 1-0 Colorado Rapids II,Austin II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,6sz306zdp7vnx0owargkz0a38
+2026-09-13,29.0,North Texas 0-0 Houston Dynamo II,North Texas,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,6sawi25vw1iirzgllr1nxvkes
+2026-09-13,29.0,Sporting KC II 1-5 Los Angeles II,Sporting KC II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,6rrmlyzhkb3fe5w46p6vwlatw
+2026-09-13,29.0,Orlando City B 3-1 Toronto II,Orlando City B,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,6qr8i55g0irobi62qv1nlxqms
+2026-09-13,29.0,New York RB II 1-1 Cincinnati II,New York RB II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,6q5yh6eco4kd2p8yz67zf46qc
+2026-09-13,29.0,Inter Miami II 1-4 Huntsville City,Inter Miami II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,6pmtfdchyc10lvorqel00b6l0
+2026-09-13,29.0,Columbus Crew II 1-1 New England II,Columbus Crew II,New England II,93yvwhz6r37ar71e3pc8ep2c4,6lwvz4hdkxr1k5rnodmngejh0
+2026-09-13,29.0,New York City II 1-0 Connecticut United,New York City II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,6oknrz9asqgrc33qy79rbr190
+2026-09-13,29.0,Chicago Fire II 1-2 Philadelphia Union II,Chicago Fire II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,6o16i6azgpc08542u5z607pqs
+2026-09-13,29.0,Chattanooga 4-1 Atlanta United II,Chattanooga,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,6nhwitzjz9ursky4fmf4mz11w
+2026-09-12,29.0,Minnesota United II 5-1 Vancouver Whitecaps II,Minnesota United II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,6mytft7fn17tjhkozxfstu2ok
+2026-09-12,29.0,Crown Legacy 2-2 Carolina Core,Crown Legacy,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,6mfwsiqo7lk6acu6uj0gu2oes
+2026-09-09,17.0,San Jose Earthquakes II 1-3 Ventura County,San Jose Earthquakes II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,3vpfe5hvxl3nwxp18puojaadw
+2026-09-09,29.0,North Texas 2-3 Houston Dynamo II,North Texas,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,6lduwu64wheoqsbpdip74vwgk
+2026-09-09,29.0,Huntsville City 1-2 Chattanooga,Huntsville City,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,6ksxftwd20p68m21kerggwowk
+2026-09-08,29.0,New York City II 4-2 New York RB II,New York City II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,6jsc1o4f8rzhvce5zgb6d5pn8
+2026-09-08,23.0,Toronto II 4-2 Columbus Crew II,Toronto II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,56gigxlhiy61uoewzn519emfo
+2026-09-08,29.0,Atlanta United II 4-1 Connecticut United,Atlanta United II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,6k9skzk17mpophacrxj987s44
+2026-09-07,29.0,Portland Timbers II 0-0 Vancouver Whitecaps II,Portland Timbers II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,6j9scg65dvmc9mn1q3lww5qms
+2026-09-05,28.0,San Jose Earthquakes II 1-2 Tacoma Defiance,San Jose Earthquakes II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,6h7l17k2rglihoh6p9ei16az8
+2026-09-05,28.0,Los Angeles II 1-1 Ventura County,Los Angeles II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,6ir1r0y6x0h2tywdqlmrg5bmc
+2026-09-05,28.0,Minnesota United II 2-0 Colorado Rapids II,Minnesota United II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,6i9o51ilginz37avk84k6tes4
+2026-09-05,28.0,Sporting KC II 1-2 St. Louis City II,Sporting KC II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,6hqead4chjrkueb8pxqyminmc
+2026-09-04,28.0,North Texas 4-1 Real Monarchs,North Texas,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,6gm2x7avtkyrpcnjn19j4y3h0
+2026-09-04,28.0,Carolina Core 2-2 New England II,Carolina Core,New England II,93yvwhz6r37ar71e3pc8ep2c4,6d7qwa67nwaetwo4uubsgkhlg
+2026-09-04,28.0,Houston Dynamo II 0-2 Austin II,Houston Dynamo II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,6fzb94462opgpivoag4qzp2xg
+2026-09-04,28.0,Toronto II 2-1 Cincinnati II,Toronto II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,6fg7cjos4w0298d8ukz2wjx1w
+2026-09-04,28.0,Philadelphia Union II 1-0 Columbus Crew II,Philadelphia Union II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,6exi2ykkntunoyz12huvmxn9w
+2026-09-04,28.0,Inter Miami II 1-4 Orlando City B,Inter Miami II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,6eetk0jspcadt3ztvd1vsl250
+2026-09-04,28.0,Crown Legacy 4-0 Chicago Fire II,Crown Legacy,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,6dtwvubj93a9f01am7hjw2c5w
+2026-09-01,15.0,Inter Miami II 4-2 New York City II,Inter Miami II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,3gc1wlqg4e9tiipr5katabms4
+2026-08-30,27.0,San Jose Earthquakes II 3-2 Los Angeles II,San Jose Earthquakes II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,6ajksohb39np29aggyv88bhn8
+2026-08-30,27.0,Real Monarchs 3-0 Tacoma Defiance,Real Monarchs,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,69ivxvz1u0l0yza4ioyh56has
+2026-08-30,27.0,Vancouver Whitecaps II 5-1 Sporting KC II,Vancouver Whitecaps II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,6cofentgnubu4cwq2381bmfbo
+2026-08-30,27.0,Orlando City B 3-2 Crown Legacy,Orlando City B,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,6c5rcmjfdn6tct9daly6ay32s
+2026-08-30,27.0,New England II 1-4 Huntsville City,New England II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,6bna9as9hzwqa24gtjghed3pw
+2026-08-30,27.0,Houston Dynamo II 0-2 Minnesota United II,Houston Dynamo II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,6b4cumjwpuaco9fttslb2ihas
+2026-08-30,27.0,Portland Timbers II 2-1 Austin II,Portland Timbers II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,68zuacioepsusci8z0tv9zqj8
+2026-08-30,27.0,Columbus Crew II 4-0 Chicago Fire II,Columbus Crew II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,659m1ttrxfibdmwmkzqm7jj10
+2026-08-30,27.0,Cincinnati II 2-3 Philadelphia Union II,Cincinnati II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,6a24vyeswhniivtnk1je19gr8
+2026-08-29,27.0,Connecticut United 2-4 New York RB II,Connecticut United,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,68gm808wripnu1wxl6ctfzu38
+2026-08-29,27.0,Chattanooga 5-2 Carolina Core,Chattanooga,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,67yze4ze7y1o76k76beuv91ck
+2026-08-28,27.0,St. Louis City II 1-1 North Texas,St. Louis City II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,67eal3u29wn4nzcr5gh5deihg
+2026-08-28,27.0,Colorado Rapids II 2-3 Ventura County,Colorado Rapids II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,66v49evluji4jr6t11dfo5mok
+2026-08-28,27.0,Toronto II 2-0 New York City II,Toronto II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,66dgl5vrfvqqreirr931fpnh0
+2026-08-28,27.0,Inter Miami II 1-1 Atlanta United II,Inter Miami II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,65sd4fthtrf591d8meaxlsil0
+2026-08-26,18.0,Vancouver Whitecaps II 4-1 Los Angeles II,Vancouver Whitecaps II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,3yvs6jpf60sxpotrhieok213o
+2026-08-24,26.0,Tacoma Defiance 4-0 Sporting KC II,Tacoma Defiance,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,645hwl3x5pnxydb1ob3euuwic
+2026-08-23,26.0,Ventura County 2-2 Portland Timbers II,Ventura County,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,60x4iul1qezcza0isuwysyyac
+2026-08-23,26.0,Colorado Rapids II 4-1 Real Monarchs,Colorado Rapids II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,5yto6gyvmylckwj9irjvbcq38
+2026-08-23,26.0,Austin II 1-0 San Jose Earthquakes II,Austin II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,63m9sba1t5zobyldg7f5z2mms
+2026-08-23,26.0,St. Louis City II 2-2 Houston Dynamo II,St. Louis City II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,633b1o8yg23ugzoeoo9jbmn84
+2026-08-23,26.0,New York RB II 5-1 Toronto II,New York RB II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,62k21yx60alq4a0ywtqhchi50
+2026-08-23,26.0,Huntsville City 1-0 Columbus Crew II,Huntsville City,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,6216w9qozzh74i7ucrbaq3mdw
+2026-08-23,26.0,Crown Legacy 3-1 Chattanooga,Crown Legacy,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,61i9e1wx918y4agqflk5dmbro
+2026-08-23,26.0,Chicago Fire II 3-1 Inter Miami II,Chicago Fire II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,60e3txuhtdnsx1wubwrcultec
+2026-08-23,26.0,Philadelphia Union II 2-4 Connecticut United,Philadelphia Union II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,5zvb8c00o4av5whga8s1w1rmc
+2026-08-22,26.0,North Texas 1-1 Minnesota United II,North Texas,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,5zcjwfnpflgbjdgc96b8uao0k
+2026-08-22,26.0,Carolina Core 1-3 Cincinnati II,Carolina Core,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,5ycbwmis1aj93gu3te80h7504
+2026-08-22,26.0,New York City II 2-1 New England II,New York City II,New England II,93yvwhz6r37ar71e3pc8ep2c4,5xbnfgjtntt5hmuwi3tfhi4us
+2026-08-22,26.0,Atlanta United II 5-1 Orlando City B,Atlanta United II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,5xt9qu3owh1mv0mx7bv6o07is
+2026-08-20,26.0,Los Angeles II 2-1 Sporting KC II,Los Angeles II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,5ws9jempsnywnenhzidjeu6fo
+2026-08-19,26.0,North Texas 0-0 Austin II,North Texas,Austin II,93yvwhz6r37ar71e3pc8ep2c4,5wansz4jwvtdqq423o57962ac
+2026-08-19,26.0,Inter Miami II 4-2 New England II,Inter Miami II,New England II,93yvwhz6r37ar71e3pc8ep2c4,5vpu91wdmpgj8nx4m86sw1vkk
+2026-08-19,26.0,Houston Dynamo II 1-1 San Jose Earthquakes II,Houston Dynamo II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,5v60zgrvonislea8afdcret5g
+2026-08-19,26.0,Crown Legacy 0-2 Connecticut United,Crown Legacy,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,5ulp7s4skovptutfsg4c8hzis
+2026-08-19,26.0,New York City II 5-0 Cincinnati II,New York City II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,5tjin88qj7emqxjk4myowndw4
+2026-08-18,26.0,Atlanta United II 2-1 Chicago Fire II,Atlanta United II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,5t0jgag2qt7k24xzmgz275hck
+2026-08-16,25.0,San Jose Earthquakes II 0-2 St. Louis City II,San Jose Earthquakes II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,5pwx3npa3k70oz9ms8mq97504
+2026-08-16,25.0,Los Angeles II 4-3 Tacoma Defiance,Los Angeles II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,5sisr3xo4chu4d1rcnhqtuzv8
+2026-08-16,25.0,New England II 3-4 Philadelphia Union II,New England II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,5rf3gn3wfc6jygzr8yejkgd1w
+2026-08-16,25.0,Huntsville City 2-0 Inter Miami II,Huntsville City,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,5qhqwzbzq6y1s2alc7q3kurdg
+2026-08-16,25.0,Cincinnati II 2-3 Connecticut United,Cincinnati II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,5pfe82dazh3622kv9wqo4a710
+2026-08-15,25.0,North Texas 0-3 Portland Timbers II,North Texas,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,5ocv48ja0lgsqis6ak6bdv5ec
+2026-08-15,25.0,Austin II 4-1 Vancouver Whitecaps II,Austin II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,5rz036vzsf7j26k7m4fbspjbo
+2026-08-15,25.0,Sporting KC II 2-2 Colorado Rapids II,Sporting KC II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,5nthb7fmrn61rm3qfvwdr105w
+2026-08-15,25.0,Columbus Crew II 4-2 New York City II,Columbus Crew II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,5mw2e4sjsprsg7vsoy2gv3dhw
+2026-08-15,25.0,Chicago Fire II 2-0 Orlando City B,Chicago Fire II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,5ow8f08ui3uomcyer63cil6hg
+2026-08-14,25.0,Toronto II 2-2 Chattanooga,Toronto II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,5md5z0kaoroloi5e27bi0ksno
+2026-08-14,25.0,Houston Dynamo II 0-2 Ventura County,Houston Dynamo II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,5lu7bg9soirnchmff3wwbgavo
+2026-08-14,25.0,Atlanta United II 1-2 New York RB II,Atlanta United II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,5l96e3q3758vgzhb6lpecrbbo
+2026-08-12,17.0,Huntsville City 2-2 Crown Legacy,Huntsville City,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,3tine72udtabpvuq1xoruyx3o
+2026-08-11,25.0,New York City II 3-0 Orlando City B,New York City II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,5k8xnkaidup1lacbqcbudkmxg
+2026-08-10,24.0,Chicago Fire II 2-4 Toronto II,Chicago Fire II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,5dvruycmedqyb9z95zjb38ahg
+2026-08-09,24.0,Austin II 1-0 Sporting KC II,Austin II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,5jq6857iadngmuejf78ffepzo
+2026-08-09,24.0,Connecticut United 1-2 New England II,Connecticut United,New England II,93yvwhz6r37ar71e3pc8ep2c4,5g0dqncmnnxom7u7r5j234g7o
+2026-08-08,24.0,Colorado Rapids II 0-0 St. Louis City II,Colorado Rapids II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,5i5er34nwdxqfnxvs0giy2m1g
+2026-08-08,24.0,North Texas 3-1 Tacoma Defiance,North Texas,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,5iocrmwoqbbcqgol19co5blec
+2026-08-08,24.0,Carolina Core 2-0 Huntsville City,Carolina Core,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,5hnnst3gshkzasrip95mv0vf8
+2026-08-08,24.0,Minnesota United II 1-1 San Jose Earthquakes II,Minnesota United II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,5dc0ez0ehso3oicqzcjegkg0k
+2026-08-08,24.0,Houston Dynamo II 3-0 Real Monarchs,Houston Dynamo II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,5glxx8080c71pqj219tartyc4
+2026-08-08,24.0,Chattanooga 1-0 Atlanta United II,Chattanooga,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,5fiopuuyktf3dyjazkn4fskk4
+2026-08-08,24.0,Columbus Crew II 1-2 New York RB II,Columbus Crew II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,5eysvb1bcf2kg13obltnlawwk
+2026-08-08,24.0,Portland Timbers II 0-0 Los Angeles II,Portland Timbers II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,5eexm5ou0w8kt0i6ybtv9ugwk
+2026-08-08,24.0,Philadelphia Union II 2-1 Cincinnati II,Philadelphia Union II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,5j79o3vs0n1yfg9i9aicrlqtw
+2026-08-07,24.0,Inter Miami II 0-2 Crown Legacy,Inter Miami II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,5h4rncg1obtgd13g3ycaze710
+2026-08-02,23.0,San Jose Earthquakes II 1-1 Austin II,San Jose Earthquakes II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,5bk9ba6fepj8jblziac1r2o7o
+2026-08-02,23.0,St. Louis City II 3-0 Real Monarchs,St. Louis City II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,5c8p2tnxnzqfjdfw3ewdvn3tg
+2026-08-02,23.0,New York RB II 1-4 New England II,New York RB II,New England II,93yvwhz6r37ar71e3pc8ep2c4,5csgh76iu3e6ygnqcq9utim8k
+2026-08-02,23.0,Chicago Fire II 7-2 Cincinnati II,Chicago Fire II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,5aubf9q53i8cdlm8wt486d638
+2026-08-01,23.0,Tacoma Defiance 4-2 Vancouver Whitecaps II,Tacoma Defiance,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,5abjya3lfbdxb8ihncsf7qpec
+2026-08-01,23.0,Huntsville City 1-3 Crown Legacy,Huntsville City,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,59srmfgj86lp6oc2ebujyzy8k
+2026-08-01,23.0,New York City II 1-1 Philadelphia Union II,New York City II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,599yepj4ypd61h8nlr8myuyvo
+2026-08-01,23.0,Connecticut United 4-2 Orlando City B,Connecticut United,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,58queuompfzdfow27dznvfllg
+2026-07-31,23.0,Los Angeles II 3-0 Colorado Rapids II,Los Angeles II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,5894cvxv5zb34f5ctt8ehvevo
+2026-07-31,23.0,Ventura County 6-1 North Texas,Ventura County,North Texas,93yvwhz6r37ar71e3pc8ep2c4,54p4nu4kxeielw75wa2h7ywwk
+2026-07-31,23.0,Minnesota United II 1-2 Portland Timbers II,Minnesota United II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,57ouqsy04y1jkn5mjbfardmhg
+2026-07-31,23.0,Sporting KC II 3-2 Houston Dynamo II,Sporting KC II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,571salwl12nipctte3z5x41lg
+2026-07-31,23.0,Inter Miami II 0-1 Chattanooga,Inter Miami II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,55rgkqhryjvpm85prvnkgm2hg
+2026-07-31,23.0,Atlanta United II 3-3 Carolina Core,Atlanta United II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,53uteks12ul0nw70ebop9i1p0
+2026-07-26,22.0,Tacoma Defiance 2-1 Colorado Rapids II,Tacoma Defiance,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,536g0i2ttzyyggqx3wuwjrbis
+2026-07-26,22.0,St. Louis City II 1-1 Vancouver Whitecaps II,St. Louis City II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,52ifdv4qs3v7xtquc0zhtpxck
+2026-07-26,22.0,Orlando City B 0-1 Huntsville City,Orlando City B,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,51y80sw7qlx752y7rw5414lck
+2026-07-26,22.0,Houston Dynamo II 1-1 Austin II,Houston Dynamo II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,51cfciuzqgcsh0s573npo0o44
+2026-07-26,22.0,Cincinnati II 2-2 New England II,Cincinnati II,New England II,93yvwhz6r37ar71e3pc8ep2c4,4znn5474jslxuqx708uyutul0
+2026-07-26,22.0,Connecticut United 2-1 Columbus Crew II,Connecticut United,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,507vbbkldhm7o44ajrghxptec
+2026-07-26,22.0,Portland Timbers II 1-0 Real Monarchs,Portland Timbers II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,4yzughtegakk4ooy2p5lzxct0
+2026-07-26,22.0,Atlanta United II 3-2 New York City II,Atlanta United II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,50qmrzoclrwcso1t249vte7f8
+2026-07-25,22.0,Ventura County 3-0 San Jose Earthquakes II,Ventura County,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,4wl1pmtbib1qsb7v73yg5dclw
+2026-07-25,22.0,North Texas 2-2 Los Angeles II,North Texas,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,4ydra313iurdcx7ihtswzmuc4
+2026-07-25,22.0,Carolina Core 1-5 Chicago Fire II,Carolina Core,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,4xt10bqy20v73ry8jkcuwdlhw
+2026-07-25,22.0,Chattanooga 4-0 Philadelphia Union II,Chattanooga,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,4vzehfw4ubvtiqmr42xpxhh5g
+2026-07-25,22.0,Inter Miami II 2-1 Toronto II,Inter Miami II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,4x5lco7v32zx1avwrg6d4x34k
+2026-07-24,22.0,New York RB II 0-3 Crown Legacy,New York RB II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,4vdcoqujve86mur34d23mvswk
+2026-07-23,22.0,New England II 3-0 New York City II,New England II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,4urcbku6138zyfskbcjxio1zo
+2026-07-22,22.0,Vancouver Whitecaps II 0-4 Austin II,Vancouver Whitecaps II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,4u522otops22fo75cx24rkv84
+2026-07-22,22.0,Carolina Core 4-0 Inter Miami II,Carolina Core,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,4tm78s1bbacdj8xz6xzdnq1p0
+2026-07-19,21.0,Real Monarchs 2-4 Tacoma Defiance,Real Monarchs,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,4sdw6wyfg5wug7jp56jpww8b8
+2026-07-19,15.0,Sporting KC II 1-0 Minnesota United II,Sporting KC II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,3hcp0smudi7ywqmb53cyh5c7o
+2026-07-19,21.0,Connecticut United 2-1 New York RB II,Connecticut United,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,4pot8digfhskxjl299vqc7k7o
+2026-07-18,21.0,Ventura County 2-0 Los Angeles II,Ventura County,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,4qr5i4odvh4b5xcdpaind7cwk
+2026-07-18,21.0,San Jose Earthquakes II 0-1 North Texas,San Jose Earthquakes II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,4omdlqgsez7tyux0vqvwub6z8
+2026-07-18,21.0,Huntsville City 2-0 Atlanta United II,Huntsville City,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,4rv0f56t0d4ooruoz1yb7b5zo
+2026-07-18,21.0,St. Louis City II 1-2 Portland Timbers II,St. Louis City II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,4rbrb4j14umjo8wf782xwfzmc
+2026-07-18,21.0,Houston Dynamo II 2-1 Colorado Rapids II,Houston Dynamo II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,4q84gy1v5sxsl0dxjromzu32s
+2026-07-18,21.0,Chattanooga 1-1 Orlando City B,Chattanooga,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,4p76u2cch228g8dtbnn4wp53o
+2026-07-18,21.0,Columbus Crew II 2-0 Philadelphia Union II,Columbus Crew II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,4o4pcagmj31pzibjzi1ruqr6c
+2026-07-18,21.0,Crown Legacy 3-2 Chicago Fire II,Crown Legacy,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,4nlj3f2gt8y45bbb0lwf3gw7o
+2026-07-17,21.0,Toronto II 3-1 Cincinnati II,Toronto II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,4n2hemlc94xdskjp9q1uarod0
+2026-07-15,21.0,New England II 2-2 Columbus Crew II,New England II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,4mjh0pfwu5lyz62db4gm5kf10
+2026-07-12,20.0,Austin II 2-3 Minnesota United II,Austin II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,4m063v5sg1ui8seysdcq7xb84
+2026-07-12,20.0,San Jose Earthquakes II 0-1 Tacoma Defiance,San Jose Earthquakes II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,4lh3oq9apfe32y8skafzyomj8
+2026-07-12,20.0,Connecticut United 3-2 Toronto II,Connecticut United,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,4kzp2r16llfc7rpu140cjzb4k
+2026-07-12,20.0,Cincinnati II 1-2 Orlando City B,Cincinnati II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,4khomu6bzg8p2u2q32alprcpg
+2026-07-12,20.0,Carolina Core 1-1 Chattanooga,Carolina Core,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,4jwf1hfryueen86594rd6nuvo
+2026-07-12,20.0,Chicago Fire II 3-0 New York RB II,Chicago Fire II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,4jd9v0927moih0w6a9vlouyhg
+2026-07-12,20.0,Philadelphia Union II 0-0 Huntsville City,Philadelphia Union II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,4ityxsydow4t6gadvkswpw104
+2026-07-11,20.0,Los Angeles II 0-0 Portland Timbers II,Los Angeles II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,4iakcaef4fphmf6b17zostafo
+2026-07-11,20.0,Real Monarchs 2-1 Vancouver Whitecaps II,Real Monarchs,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,4fnvwpkp0esi8yrmv6q2zabys
+2026-07-11,20.0,Colorado Rapids II 1-0 North Texas,Colorado Rapids II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,4hrba1bo7cwksh7tk9hyq7hg4
+2026-07-11,20.0,Houston Dynamo II 2-1 St. Louis City II,Houston Dynamo II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,4h978g5px86qmph7b6zh85ul0
+2026-07-11,20.0,Crown Legacy 0-3 New York City II,Crown Legacy,New York City II,93yvwhz6r37ar71e3pc8ep2c4,4gq88izpqvywj8j6ptzp79puc
+2026-07-11,20.0,Atlanta United II 4-1 Inter Miami II,Atlanta United II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,4g73poibxyi27d85zodv90mc4
+2026-07-07,19.0,San Jose Earthquakes II 6-1 Sporting KC II,San Jose Earthquakes II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,4arbk8g73zxqiubhn9p5fy61g
+2026-07-07,20.0,Vancouver Whitecaps II 3-2 Ventura County,Vancouver Whitecaps II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,4eiv4atyas0udiunyc4mfpa1g
+2026-07-05,19.0,Tacoma Defiance 0-2 Portland Timbers II,Tacoma Defiance,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,4dzno9983li7uooacaaraz7dg
+2026-07-05,19.0,Los Angeles II 2-2 Real Monarchs,Los Angeles II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,496i39chqv58achb8hug0itjo
+2026-07-05,19.0,Austin II 3-2 Colorado Rapids II,Austin II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,4dg84s3fjhrdmzxqqkv318tuc
+2026-07-05,19.0,Huntsville City 2-2 Chicago Fire II,Huntsville City,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,4cwsgyylyr7e7ma0ndw2lmivo
+2026-07-05,19.0,Crown Legacy 1-1 Orlando City B,Crown Legacy,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,4btsrwyo3204vac6y6jmuzaj8
+2026-07-05,19.0,Connecticut United 3-1 Carolina Core,Connecticut United,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,4a7d09or1eb3q1cywy1i4mpec
+2026-07-05,19.0,Cincinnati II 2-2 New York RB II,Cincinnati II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,49pnbccu8ka7o85y4ocn741zo
+2026-07-05,19.0,Houston Dynamo II 4-0 Minnesota United II,Houston Dynamo II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,4baeegl9ttosyryojm6as41sk
+2026-07-05,19.0,New England II 0-4 Philadelphia Union II,New England II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,4cct3i9ciabzcmi37kkt8qkgk
+2026-07-04,19.0,North Texas 3-0 St. Louis City II,North Texas,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,48n9t2sda099tp51erc4oc3ro
+2026-07-04,19.0,Chattanooga 1-0 Inter Miami II,Chattanooga,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,482zki1zf8irrswjzwql0rnys
+2026-07-04,19.0,Atlanta United II 1-0 Toronto II,Atlanta United II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,47jslvkl70acv4imrc16qerro
+2026-06-28,18.0,Los Angeles II 3-1 Houston Dynamo II,Los Angeles II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,470g3iyu8fe8viu3i7xotbq50
+2026-06-28,18.0,Orlando City B 2-2 Columbus Crew II,Orlando City B,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,45w1p0p4hdfhd84s2tpgn35lg
+2026-06-28,18.0,Minnesota United II 2-2 Tacoma Defiance,Minnesota United II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,42nydl0l60bfjh5h9sp98n21g
+2026-06-28,18.0,St. Louis City II 0-2 Austin II,St. Louis City II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,46fg1kfa5jhd3xulom4lzlus4
+2026-06-28,18.0,New York RB II 5-0 Philadelphia Union II,New York RB II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,45cp5ihitcy5hj3p7uxg9d2c4
+2026-06-28,18.0,Cincinnati II 1-0 Inter Miami II,Cincinnati II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,449u1tx4wxaaf56e2q25d6p78
+2026-06-28,18.0,Carolina Core 1-0 Huntsville City,Carolina Core,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,43qjhsim701v96gpnvf0pek2c
+2026-06-28,18.0,Toronto II 1-3 New England II,Toronto II,New England II,93yvwhz6r37ar71e3pc8ep2c4,4379gdy3f2pyrqaiup8a56a6s
+2026-06-27,18.0,Ventura County 3-1 Real Monarchs,Ventura County,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,41mrqaj9k8zsy4n97b840w93o
+2026-06-27,18.0,Colorado Rapids II 1-0 Vancouver Whitecaps II,Colorado Rapids II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,424e24xyetva6z3qpiet9pic4
+2026-06-27,18.0,Atlanta United II 3-3 Crown Legacy,Atlanta United II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,40jkg2k0m12win6x2cp3xesr8
+2026-06-27,18.0,Chattanooga 2-2 Chicago Fire II,Chattanooga,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,413dpag9whmp33bzcdheqo2s4
+2026-06-27,18.0,Portland Timbers II 2-3 San Jose Earthquakes II,Portland Timbers II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,3zyjy571lomgwarykvp4op0d0
+2026-06-26,18.0,Connecticut United 1-4 New York City II,Connecticut United,New York City II,93yvwhz6r37ar71e3pc8ep2c4,44rsnh3ehy2nlgatq2o5fbfh0
+2026-06-24,30.0,Los Angeles II 1-0 Minnesota United II,Los Angeles II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,70l89a3c2bxy0ffkvtuiqxdsk
+2026-06-21,17.0,Tacoma Defiance 1-0 Real Monarchs,Tacoma Defiance,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,3ycmph8875hdym4iv9bdyqv4k
+2026-06-21,17.0,Austin II 2-1 Sporting KC II,Austin II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,3xtp13hwok3yv8iidjxi5intg
+2026-06-21,17.0,Orlando City B 1-2 Philadelphia Union II,Orlando City B,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,3xaetmnf3bvy39o1r17tvgvf8
+2026-06-21,17.0,New York RB II 5-0 Toronto II,New York RB II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,3wrf4wyjqb84qqv35a79kbxg4
+2026-06-21,17.0,New York City II 1-1 Chattanooga,New York City II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,3uly2wjs439mkq2zvw4ru3bbo
+2026-06-21,17.0,Columbus Crew II 3-2 Atlanta United II,Columbus Crew II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,3v7uu7mxym0n6w73cztmmshlg
+2026-06-21,17.0,New England II 1-2 Chicago Fire II,New England II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,3w8f1p5jj8yuc42jwy21to9as
+2026-06-20,17.0,Colorado Rapids II 0-2 Portland Timbers II,Colorado Rapids II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,3szk7z2tmj0m2oqv39l98d82c
+2026-06-20,17.0,Minnesota United II 5-2 St. Louis City II,Minnesota United II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,3u221zzs9ah8zli3gnlnl3w2c
+2026-06-20,17.0,Inter Miami II 0-0 Carolina Core,Inter Miami II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,3s0m6u6rrpd7ns65zyllqmp04
+2026-06-18,17.0,Connecticut United 4-0 Cincinnati II,Connecticut United,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,3si7dij65tn93m29na330fok4
+2026-06-17,17.0,Tacoma Defiance 2-1 Houston Dynamo II,Tacoma Defiance,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,3rhxdsddsdneme2ifwx1p8x04
+2026-06-17,17.0,Vancouver Whitecaps II 3-2 San Jose Earthquakes II,Vancouver Whitecaps II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,3qzaa1v0im7b06u7odz2yc6j8
+2026-06-17,1.0,New York City II 3-2 Carolina Core,New York City II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,km7woculgcxsxl8k779a0qvo
+2026-06-14,16.0,Cincinnati II 0-1 Columbus Crew II,Cincinnati II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,3pvz7w1j6fczo28twnwszcqvo
+2026-06-14,16.0,Chicago Fire II 3-1 Inter Miami II,Chicago Fire II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,3pcu31j69jh0s1jbigwuak1ec
+2026-06-14,16.0,New England II 2-1 New York RB II,New England II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,3qgm7ajuz5ht49a350rlv06xg
+2026-06-14,16.0,Toronto II 2-4 Connecticut United,Toronto II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,3otj4jalvc9dnq2rg1j3vkydw
+2026-06-14,16.0,Philadelphia Union II 0-1 New York City II,Philadelphia Union II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,3oad01d8uv6vnlru3hdh8krv8
+2026-06-14,16.0,Minnesota United II 1-3 Austin II,Minnesota United II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,3l3bv6qitsaygeb6vqbw4x3x0
+2026-06-13,16.0,Ventura County 1-1 Colorado Rapids II,Ventura County,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,3moqyn9kn0bdlm66ylpxx9xck
+2026-06-13,16.0,Huntsville City 1-2 Orlando City B,Huntsville City,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,3n7sicvttdjnjry1sru7d7pjo
+2026-06-13,16.0,Carolina Core 2-0 Crown Legacy,Carolina Core,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,3ki260dj37ihaxy1i4ungmm8k
+2026-06-13,16.0,Atlanta United II 4-4 Chattanooga,Atlanta United II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,3m5nnbzbg21sikzorjrfdsv84
+2026-06-13,16.0,Real Monarchs 4-1 Portland Timbers II,Real Monarchs,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,3lmjzlwfcd1y0gj35pmo02hp0
+2026-06-10,16.0,Vancouver Whitecaps II 1-1 North Texas,Vancouver Whitecaps II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,3jyn9507d3p2f9ps3nfwf07pw
+2026-06-08,21.0,Minnesota United II 4-3 Sporting KC II,Minnesota United II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,4syclyxo1bb6up3ato6tenwgk
+2026-06-08,15.0,Columbus Crew II 2-1 Connecticut United,Columbus Crew II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,3e4eut7peckklqdptx810wufo
+2026-06-07,15.0,Austin II 2-0 Los Angeles II,Austin II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,3jfrx3iqsbc3tjua3zfqy8hsk
+2026-06-07,15.0,San Jose Earthquakes II 3-0 Real Monarchs,San Jose Earthquakes II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,3idbnu98vvmihll27kabo4844
+2026-06-07,15.0,Orlando City B 3-2 Carolina Core,Orlando City B,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,3iwltl85qcyz7zrbtw52yccus
+2026-06-07,15.0,Cincinnati II 0-1 New England II,Cincinnati II,New England II,93yvwhz6r37ar71e3pc8ep2c4,3hvo1tp91l7crala1miiq8sus
+2026-06-06,15.0,Ventura County 3-1 Houston Dynamo II,Ventura County,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,3fr2rx9dgmbxwl83g9myozi1g
+2026-06-06,15.0,Colorado Rapids II 1-1 St. Louis City II,Colorado Rapids II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,3gtmco9i5pkzdpfj6xv4t6pzo
+2026-06-06,15.0,Chattanooga 4-0 New York RB II,Chattanooga,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,3f6tmrnaoras106k2xk0mbuok
+2026-06-06,15.0,Atlanta United II 3-0 Chicago Fire II,Atlanta United II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,3enkxb8gwwf78umck1gpjj1n8
+2026-06-05,15.0,Vancouver Whitecaps II 0-1 Portland Timbers II,Vancouver Whitecaps II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,3ddds0g8pvs3l515m4u784r2s
+2026-06-05,15.0,Toronto II 2-1 Huntsville City,Toronto II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,3cre9gx4c2md9vjcbacg7upzo
+2026-06-05,15.0,Crown Legacy 1-0 Philadelphia Union II,Crown Legacy,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,3c8gnsp5iqtvmmthw8og1k7x0
+2026-05-31,26.0,Orlando City B 5-2 Chattanooga,Orlando City B,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,5u2duj15r1cjfr7wg6xyxrmz8
+2026-05-31,14.0,Portland Timbers II 1-0 Tacoma Defiance,Portland Timbers II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,3b22dil7rfbmz2l52zd8plkwk
+2026-05-30,14.0,Ventura County 2-1 Vancouver Whitecaps II,Ventura County,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,39934ic11yg8334dlj5iwfj10
+2026-05-30,14.0,Huntsville City 2-2 Connecticut United,Huntsville City,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,3agml9vso47lho3gssax2jbbo
+2026-05-30,14.0,New York City II 2-3 Columbus Crew II,New York City II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,39sdp3kwr9rkda2t31udjacr8
+2026-05-30,14.0,Carolina Core 1-1 New York RB II,Carolina Core,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,38pnkek0nys91148tatp0wxlg
+2026-05-30,14.0,St. Louis City II 2-0 North Texas,St. Louis City II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,386lycvbyvyp86hi4331jh79w
+2026-05-29,14.0,Real Monarchs 1-3 Sporting KC II,Real Monarchs,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,37nogo173hej9otcm9491uqdw
+2026-05-29,14.0,Toronto II 2-1 Philadelphia Union II,Toronto II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,374lgk89w5gbkn8sxg4qnk8b8
+2026-05-24,13.0,Columbus Crew II 2-2 Toronto II,Columbus Crew II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,361kirxl0b8mh01ryg03345xw
+2026-05-24,13.0,Vancouver Whitecaps II 1-3 Real Monarchs,Vancouver Whitecaps II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,35ef9nups66kyswqyba6pruvo
+2026-05-24,13.0,New York RB II 1-3 Connecticut United,New York RB II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,34v902n4c147iuj6dd9k5wb9w
+2026-05-24,13.0,Orlando City B 4-1 Inter Miami II,Orlando City B,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,34al8t30iq68t9sf60pabqj2s
+2026-05-24,13.0,Los Angeles II 1-1 St. Louis City II,Los Angeles II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,36krrtip6bl4ye6y5714decyc
+2026-05-24,13.0,Portland Timbers II 0-3 Houston Dynamo II,Portland Timbers II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,33r5io3fy8mp1tt9dm684o8pg
+2026-05-24,13.0,Chattanooga 1-0 Carolina Core,Chattanooga,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,32mh9ma7jgg8nrze1zw8wf4t0
+2026-05-24,13.0,Minnesota United II 2-0 Colorado Rapids II,Minnesota United II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,322rquvuyo2nnfx4vydy50r2s
+2026-05-23,13.0,North Texas 2-2 San Jose Earthquakes II,North Texas,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,31jlia5rkw4hojxc0thnch3x0
+2026-05-23,13.0,New York City II 2-0 Cincinnati II,New York City II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,310feci4lqcbtwy22lif8njf8
+2026-05-23,13.0,Chicago Fire II 4-0 Huntsville City,Chicago Fire II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,335s3vqytfwdbsmi2gprcbr4k
+2026-05-23,13.0,Philadelphia Union II 2-1 Atlanta United II,Philadelphia Union II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,30f0bo9tp0o4dl3516zkgzevo
+2026-05-22,13.0,Tacoma Defiance 1-0 Ventura County,Tacoma Defiance,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,2zvzkswrftqy245uwtb22k2z8
+2026-05-22,13.0,Sporting KC II 0-3 Austin II,Sporting KC II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,2zd44qjp8dxp59giv35ayqkus
+2026-05-22,13.0,Crown Legacy 2-2 New England II,Crown Legacy,New England II,93yvwhz6r37ar71e3pc8ep2c4,2ysc8dw8t6k5ybayimt7s1x5g
+2026-05-20,13.0,Real Monarchs 2-0 Colorado Rapids II,Real Monarchs,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,2y91xk2gkyf8tc4xzl8552cr8
+2026-05-18,12.0,Inter Miami II 1-5 Crown Legacy,Inter Miami II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,2vzaiu70vqzsv4x04mw3qb8k4
+2026-05-17,12.0,San Jose Earthquakes II 0-1 Portland Timbers II,San Jose Earthquakes II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,2vdkcmb42ycuyxtogsjl8bdp0
+2026-05-17,12.0,Austin II 4-1 St. Louis City II,Austin II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,2xq4fhseizvf9efia55v204r8
+2026-05-17,12.0,Vancouver Whitecaps II 0-2 Tacoma Defiance,Vancouver Whitecaps II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,2x69w3j5pv68ov7p6jq49mpzo
+2026-05-17,12.0,New York RB II 2-3 New York City II,New York RB II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,2wmqtjqcpqmdl7jqfg1fy10d0
+2026-05-17,12.0,Cincinnati II 1-3 Chattanooga,Cincinnati II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,2uvk0udt3q2yz19xno7xc6j2s
+2026-05-17,12.0,Philadelphia Union II 1-1 Columbus Crew II,Philadelphia Union II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,2ucgoz96xdqgrruody7otmsd0
+2026-05-17,12.0,New England II 1-0 Orlando City B,New England II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,2tna6iadbm8zm7gpz6d8q2sd0
+2026-05-16,12.0,Los Angeles II 3-2 Ventura County,Los Angeles II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,2suejkk2f7g7amfx53iy5tgk4
+2026-05-16,12.0,North Texas 5-1 Sporting KC II,North Texas,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,2sb01p0f8xa3f11htin5q8tn8
+2026-05-16,12.0,Minnesota United II 1-1 Houston Dynamo II,Minnesota United II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,2rqm2ajw0vzfq78d8wqgpfp5g
+2026-05-16,12.0,Huntsville City 2-6 Atlanta United II,Huntsville City,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,2r7ht08fsd6wy9chyu0t972ms
+2026-05-16,12.0,Connecticut United 0-2 Toronto II,Connecticut United,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,2qogma3wlz6nlx9a9gdvqt5as
+2026-05-16,12.0,Carolina Core 2-1 Chicago Fire II,Carolina Core,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,2q6nqewlioqort0u4bk8h45jo
+2026-05-13,12.0,Portland Timbers II 2-1 Minnesota United II,Portland Timbers II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,2ply62z7ldtc4pfjit3gjxwk4
+2026-05-13,12.0,Huntsville City 4-0 Cincinnati II,Huntsville City,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,2p2l085fqpc25x4hfj36ygb2s
+2026-05-13,12.0,Colorado Rapids II 0-2 Austin II,Colorado Rapids II,Austin II,93yvwhz6r37ar71e3pc8ep2c4,2oj98xshoxuel67u9nx4aiexg
+2026-05-13,12.0,Philadelphia Union II 0-1 New England II,Philadelphia Union II,New England II,93yvwhz6r37ar71e3pc8ep2c4,2o1nb2pzbti0vc7f4k51wf0us
+2026-05-13,12.0,Real Monarchs 1-1 San Jose Earthquakes II,Real Monarchs,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,2nhfrs8eq3s1ajly7oy6kh6ac
+2026-05-10,11.0,Austin II 3-0 Tacoma Defiance,Austin II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,2mecigpij6ka2e5gs8a6mzrx0
+2026-05-10,11.0,Colorado Rapids II 1-3 Sporting KC II,Colorado Rapids II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,2lvkbeomfnmhid18nty9ce61g
+2026-05-10,11.0,Atlanta United II 0-2 Orlando City B,Atlanta United II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,2ldjcv7geh517je39xugoob2s
+2026-05-10,11.0,Cincinnati II 2-1 Columbus Crew II,Cincinnati II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,2ksxb772kvesr7g8n755jlus4
+2026-05-10,11.0,Los Angeles II 3-1 Real Monarchs,Los Angeles II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,2mxbq5e0ooqny2tlpmgsjd6ok
+2026-05-10,11.0,Portland Timbers II 3-3 Ventura County,Portland Timbers II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,2k9rfhwr6t86k8vjtzhpdkqvo
+2026-05-10,11.0,New England II 3-2 New York City II,New England II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,2jqk1flkwo4auj54cvdrj2rdg
+2026-05-09,11.0,Minnesota United II 0-2 North Texas,Minnesota United II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,2j7bdzipono0gmq3s3c34rv2s
+2026-05-09,11.0,St. Louis City II 1-4 Houston Dynamo II,St. Louis City II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,2io5cz1ydd6aoo35qlf0puplg
+2026-05-09,11.0,San Jose Earthquakes II 6-1 Vancouver Whitecaps II,San Jose Earthquakes II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,2hm0wf767a9d4gf4is56rorv8
+2026-05-09,11.0,Chicago Fire II 3-2 Crown Legacy,Chicago Fire II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,2h4g4bj2yqtay8zzg2kga232s
+2026-05-08,11.0,Inter Miami II 1-2 Chattanooga,Inter Miami II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,2i5bubo8vfypgwrw20w4p3huc
+2026-05-08,11.0,Toronto II 1-2 New York RB II,Toronto II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,2gl6yedm0oqmuqmln5tlbocus
+2026-05-07,11.0,Huntsville City 3-0 Carolina Core,Huntsville City,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,2fwd8t854ewfmqi7aosrd4zkk
+2026-05-06,20.0,Sporting KC II 0-2 Ventura County,Sporting KC II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,4f2205o6k4n8nsxxhwgqaktuc
+2026-05-05,11.0,New York City II 2-1 Chicago Fire II,New York City II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,2f4yczirx38bmigelx1calr10
+2026-05-03,10.0,Los Angeles II 2-1 Vancouver Whitecaps II,Los Angeles II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,2ekv2jtuwlgplav9xaz7xw3dg
+2026-05-03,10.0,Sporting KC II 2-2 Tacoma Defiance,Sporting KC II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,2e0w69oocmr5nf9udk6s96qs4
+2026-05-03,10.0,Colorado Rapids II 1-3 Houston Dynamo II,Colorado Rapids II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,2dgvocivn1nd2jrej2z8fu8lw
+2026-05-03,10.0,Orlando City B 2-2 Crown Legacy,Orlando City B,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,2czcqko6p8mo189fdf5niuf4k
+2026-05-03,10.0,Cincinnati II 5-0 Toronto II,Cincinnati II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,2byiqru8ia7ajoe7v9bqagpas
+2026-05-03,10.0,Connecticut United 0-0 New England II,Connecticut United,New England II,93yvwhz6r37ar71e3pc8ep2c4,2cg5b77g0o94z54s2qobyabdg
+2026-05-03,10.0,Columbus Crew II 3-1 Inter Miami II,Columbus Crew II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,2bfccat9248ursupq5q1lmjo4
+2026-05-03,10.0,Real Monarchs 0-3 Portland Timbers II,Real Monarchs,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,2aweo02gwzbcx6szi58xp5udw
+2026-05-03,10.0,Philadelphia Union II 1-2 New York RB II,Philadelphia Union II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,2a84cltt9hjqhvyj14soid3pw
+2026-05-02,10.0,North Texas 0-2 Austin II,North Texas,Austin II,93yvwhz6r37ar71e3pc8ep2c4,29ohbbo09v05k210w71u8qa6s
+2026-05-02,10.0,Chattanooga 0-2 Huntsville City,Chattanooga,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,291ds6ks7z5hwjq6oaae5x250
+2026-05-02,10.0,Carolina Core 1-2 Atlanta United II,Carolina Core,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,28gg02vme5l2ua43fsm4nsm50
+2026-05-02,10.0,Minnesota United II 0-0 St. Louis City II,Minnesota United II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,27v8lp2o4if252ha99jlfpwyc
+2026-05-01,10.0,Ventura County 1-3 San Jose Earthquakes II,Ventura County,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,27aw16e2mc2l9gpd7bx65clqs
+2026-04-26,9.0,Tacoma Defiance 4-1 Los Angeles II,Tacoma Defiance,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,26luhjmpno6xwdrxm2atg8ftg
+2026-04-26,9.0,Vancouver Whitecaps II 1-1 Colorado Rapids II,Vancouver Whitecaps II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,25hdiiny4d1jwdsk04y5i8lqs
+2026-04-26,9.0,St. Louis City II 2-1 Ventura County,St. Louis City II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,24oogl5cw7wx2088pmjfbx3bo
+2026-04-26,9.0,New York RB II 4-1 Columbus Crew II,New York RB II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,23oq6x0qth5w2nbzqk6iialn8
+2026-04-26,9.0,Minnesota United II 1-0 North Texas,Minnesota United II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,230ech076eis3ynpsrq78p4b8
+2026-04-26,9.0,Chicago Fire II 2-2 Orlando City B,Chicago Fire II,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,22eg5m143eoh7tgohmej5e5uc
+2026-04-26,9.0,Connecticut United 1-2 Philadelphia Union II,Connecticut United,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,21tegl1qx91j4cczb0i4vvqc4
+2026-04-26,9.0,Sporting KC II 1-2 Houston Dynamo II,Sporting KC II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,262q9u2hitsyqzlhg4vwaibro
+2026-04-25,9.0,Carolina Core 2-2 Crown Legacy,Carolina Core,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,21bh5e1t3455qx5xxnj9ndhqs
+2026-04-24,9.0,Toronto II 2-1 New York City II,Toronto II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,20q73hddzw258kcge6dd1vlzo
+2026-04-19,8.0,Sporting KC II 3-2 Vancouver Whitecaps II,Sporting KC II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,1znz3d61o0acuewqkng7vbaqc
+2026-04-19,8.0,Colorado Rapids II 1-2 Minnesota United II,Colorado Rapids II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,1z4tq3gkb9i5qoi9uq1kaz9qs
+2026-04-19,8.0,Orlando City B 2-2 Carolina Core,Orlando City B,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,1ykzw39zvw5jofpr4v720d2j8
+2026-04-19,8.0,Real Monarchs 0-1 Houston Dynamo II,Real Monarchs,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,1y15rx6062mbaeeafqtkq61as
+2026-04-19,8.0,New York RB II 3-1 Cincinnati II,New York RB II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,1xhs48iw048x090ssd7b0jpxw
+2026-04-19,8.0,Los Angeles II 2-1 San Jose Earthquakes II,Los Angeles II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,2077j00yp5yfb3a1ipsc5p79w
+2026-04-19,8.0,Portland Timbers II 2-2 North Texas,Portland Timbers II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,1wx73hdmgu56vdqzmvibbb578
+2026-04-19,8.0,New York City II 2-1 Connecticut United,New York City II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,1t3yrkojecoey01d3o1p1pdlg
+2026-04-18,8.0,Ventura County 1-1 Austin II,Ventura County,Austin II,93yvwhz6r37ar71e3pc8ep2c4,1vb5ulhsvjnh8d8busqsjmuc4
+2026-04-18,8.0,Inter Miami II 2-4 Huntsville City,Inter Miami II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,1wdqjunx1fykkdhvatdzcqbro
+2026-04-18,8.0,Crown Legacy 1-0 Chattanooga,Crown Legacy,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,1vugzwgte8j4suctu4prb70no
+2026-04-18,8.0,Chicago Fire II 0-3 Atlanta United II,Chicago Fire II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,1us0z14crw3ikujvafkz8aa6s
+2026-04-18,8.0,Columbus Crew II 2-1 New England II,Columbus Crew II,New England II,93yvwhz6r37ar71e3pc8ep2c4,1u8fan9924ho4ho6dec54t82c
+2026-04-17,8.0,Tacoma Defiance 1-2 St. Louis City II,Tacoma Defiance,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,1tngbkmonn0byv98056yr3cpg
+2026-04-17,8.0,Toronto II 1-0 Philadelphia Union II,Toronto II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,1sl3ztru8p2fw3z23ipfvrjf8
+2026-04-15,8.0,Los Angeles II 0-1 Portland Timbers II,Los Angeles II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,1s1rxvzlpny1k88nnwofbrqj8
+2026-04-13,7.0,Cincinnati II 1-0 New York City II,Cincinnati II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,1pxfb2nz0xxa2kwcjj1qkgh04
+2026-04-12,7.0,San Jose Earthquakes II 1-0 Minnesota United II,San Jose Earthquakes II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,1qevn9ucfef6iqyco065zzdhw
+2026-04-12,7.0,Austin II 1-1 Houston Dynamo II,Austin II,Houston Dynamo II,93yvwhz6r37ar71e3pc8ep2c4,1rhuhba23607clru5x7o738r8
+2026-04-12,7.0,Ventura County 2-0 Real Monarchs,Ventura County,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,1pe151fk74ldxywx2k3g5wkr8
+2026-04-12,7.0,Vancouver Whitecaps II 2-1 Tacoma Defiance,Vancouver Whitecaps II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,1qy2wjbo2z2x5b34unltma904
+2026-04-12,7.0,New England II 1-2 New York RB II,New England II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,1o9ox0t9j6gh9cq05x2ao9ous
+2026-04-12,7.0,Philadelphia Union II 4-1 Carolina Core,Philadelphia Union II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,1ot0vs8br0cy9mvrpw8hj0lxw
+2026-04-12,7.0,Toronto II 3-3 Crown Legacy,Toronto II,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,1nqksnlagg69x38rf0br1bgno
+2026-04-11,7.0,Huntsville City 0-0 Chicago Fire II,Huntsville City,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,1n6ddacqj1niusaht06oli044
+2026-04-11,7.0,Chattanooga 3-1 Orlando City B,Chattanooga,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,1mmp1e97kkxt55uh0j1hyrnkk
+2026-04-11,7.0,Connecticut United 1-3 Columbus Crew II,Connecticut United,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,1m3f9ct4zcdu4z9mavloor11w
+2026-04-10,7.0,North Texas 2-2 Sporting KC II,North Texas,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,1llah279e2g2lx61oo28ou3o4
+2026-04-10,7.0,St. Louis City II 2-2 Colorado Rapids II,St. Louis City II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,1l06jbjzmcugnyyl74kv09d04
+2026-04-10,7.0,Inter Miami II 0-2 Atlanta United II,Inter Miami II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,1kgrhj36qgiqcmbp9h705ck5w
+2026-04-04,18.0,Sporting KC II 1-4 North Texas,Sporting KC II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,3zf5w2x3nvbhf6rbpgbdep7v8
+2026-04-03,6.0,Crown Legacy 2-0 Atlanta United II,Crown Legacy,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,1jvs1et7jkqu6a5kqd0uip9g4
+2026-03-29,5.0,Tacoma Defiance 0-1 Ventura County,Tacoma Defiance,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,1jcio10zhdgrohlyv0ejxmfpw
+2026-03-28,27.0,Vancouver Whitecaps II 2-3 Los Angeles II,Vancouver Whitecaps II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,64opf9ui9l4p8gfnktxejx2j8
+2026-03-28,5.0,Chattanooga 2-0 Columbus Crew II,Chattanooga,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,1itdr8wveoahym6h2fwtd36s4
+2026-03-28,16.0,Sporting KC II 0-2 St. Louis City II,Sporting KC II,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,3nquk4fbbjkzh3becs1fjcutw
+2026-03-28,5.0,Carolina Core 1-1 Inter Miami II,Carolina Core,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,1ia77m1h7b3oje2xqxo1eq3h0
+2026-03-23,4.0,Portland Timbers II 0-0 Ventura County,Portland Timbers II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,1hqtf2v273gh12s7ieur8gydw
+2026-03-22,4.0,Tacoma Defiance 0-1 Austin II,Tacoma Defiance,Austin II,93yvwhz6r37ar71e3pc8ep2c4,1h7y243bgd0xpomo8gpe76sr8
+2026-03-22,4.0,Sporting KC II 0-1 Minnesota United II,Sporting KC II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,1goypuwj7rx1x9fec6dsyqvx0
+2026-03-22,4.0,Orlando City B 4-4 Inter Miami II,Orlando City B,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,1g5sotdd9oesk637hi515jwus
+2026-03-22,4.0,Crown Legacy 3-0 Atlanta United II,Crown Legacy,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,1fmtiwwxnhqrey17chj3blrmc
+2026-03-22,4.0,New York RB II 1-1 Philadelphia Union II,New York RB II,Philadelphia Union II,93yvwhz6r37ar71e3pc8ep2c4,1f1wmdeoi19sgr8r845521el0
+2026-03-22,4.0,Chicago Fire II 0-0 Carolina Core,Chicago Fire II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,1dwfigfcnxvp3d6xf1ezjpo9g
+2026-03-22,4.0,Real Monarchs 3-2 Vancouver Whitecaps II,Real Monarchs,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,1ddj8umpdwlphxw1iz58fxxck
+2026-03-22,4.0,St. Louis City II 2-2 Los Angeles II,St. Louis City II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,1ej678kkuzxkzepf7p5vxx5as
+2026-03-22,4.0,New England II 2-0 Connecticut United,New England II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,1cuea1yy8eefv6rwmgjiwusyc
+2026-03-21,4.0,Huntsville City 2-2 Chattanooga,Huntsville City,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,1cba1uwuwqkcagan61smunm6s
+2026-03-21,4.0,Colorado Rapids II 1-4 San Jose Earthquakes II,Colorado Rapids II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,1brerjbhawc07gq9pexb8e8es
+2026-03-21,4.0,Houston Dynamo II 2-0 North Texas,Houston Dynamo II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,1b9wqirbfm7xsp6mekixyzaj8
+2026-03-21,4.0,Columbus Crew II 2-0 Cincinnati II,Columbus Crew II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,1ar1xl6cxq079l2ize6gy4l5g
+2026-03-19,4.0,New York City II 0-5 Toronto II,New York City II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,1a1k8lfx1cu5xu8skxv4wurdg
+2026-03-15,3.0,Vancouver Whitecaps II 2-1 Minnesota United II,Vancouver Whitecaps II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,182is76sjvzkfxyz2u7z2wiz8
+2026-03-15,3.0,Austin II 1-0 North Texas,Austin II,North Texas,93yvwhz6r37ar71e3pc8ep2c4,19fevrzqe9n1l5t8r0854q2ac
+2026-03-15,3.0,Colorado Rapids II 2-2 Sporting KC II,Colorado Rapids II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,18ngawhf195sx6r18sr9mhjbo
+2026-03-15,3.0,Ventura County 2-3 St. Louis City II,Ventura County,St. Louis City II,93yvwhz6r37ar71e3pc8ep2c4,13zbheyqhdrspi7exisqjw6xg
+2026-03-15,3.0,Houston Dynamo II 5-0 Portland Timbers II,Houston Dynamo II,Portland Timbers II,93yvwhz6r37ar71e3pc8ep2c4,16pz2m7sch6tjhaib3oll17o4
+2026-03-15,3.0,Crown Legacy 3-0 Inter Miami II,Crown Legacy,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,15zvks3yunrb56r8bg1xia6ms
+2026-03-15,3.0,Atlanta United II 4-1 Huntsville City,Atlanta United II,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,15bo1w6qz41snlg0iqdwksmqc
+2026-03-15,3.0,Real Monarchs 2-2 Los Angeles II,Real Monarchs,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,14pldxu06u1v1kalohjdaf21g
+2026-03-15,3.0,New York City II 1-1 New York RB II,New York City II,New York RB II,93yvwhz6r37ar71e3pc8ep2c4,17eggjtfngd9w1nfs0xdb69sk
+2026-03-15,3.0,Chicago Fire II 2-1 Chattanooga,Chicago Fire II,Chattanooga,93yvwhz6r37ar71e3pc8ep2c4,13dsg5hs88kvu11qebrwji3o4
+2026-03-15,3.0,Philadelphia Union II 1-2 Connecticut United,Philadelphia Union II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,12toi8n8yg8nerjboq4pwnpqs
+2026-03-15,3.0,Columbus Crew II 3-2 Toronto II,Columbus Crew II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,12a8snacue6b8x9gt5l1em590
+2026-03-15,3.0,New England II 2-1 Cincinnati II,New England II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,11qcb9co8idpsk91me7cfvwno
+2026-03-14,3.0,Tacoma Defiance 0-0 San Jose Earthquakes II,Tacoma Defiance,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,1172zi8t0mxkky9wbpgunt9uc
+2026-03-14,3.0,Carolina Core 2-3 Orlando City B,Carolina Core,Orlando City B,93yvwhz6r37ar71e3pc8ep2c4,10n4nruoj4whftpyqe4zaa9sk
+2026-03-08,2.0,San Jose Earthquakes II 4-1 Los Angeles II,San Jose Earthquakes II,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,yynpnta4x1x4r4we28r4cl5g
+2026-03-08,2.0,Austin II 2-2 Ventura County,Austin II,Ventura County,93yvwhz6r37ar71e3pc8ep2c4,103hx19wjh4vxuw4y62xvq044
+2026-03-08,2.0,Sporting KC II 0-5 Real Monarchs,Sporting KC II,Real Monarchs,93yvwhz6r37ar71e3pc8ep2c4,zk6nj8j49be239s7k2hdj2tw
+2026-03-08,2.0,New York RB II 3-0 Inter Miami II,New York RB II,Inter Miami II,93yvwhz6r37ar71e3pc8ep2c4,t1pkfurm5ivut88u0ofke61g
+2026-03-08,2.0,Orlando City B 2-1 Chicago Fire II,Orlando City B,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,yh6dvs2yelzrzyv98qr39s7o
+2026-03-08,2.0,Atlanta United II 2-1 Carolina Core,Atlanta United II,Carolina Core,93yvwhz6r37ar71e3pc8ep2c4,xy77ywaaaqjlitysk04p7pjo
+2026-03-08,2.0,Houston Dynamo II 4-0 Tacoma Defiance,Houston Dynamo II,Tacoma Defiance,93yvwhz6r37ar71e3pc8ep2c4,xe9n15b0cz0l2qpzwoc0dgr8
+2026-03-08,2.0,New England II 0-0 Toronto II,New England II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,wv9f8enoakt8gc5h09gdjd3o
+2026-03-08,2.0,St. Louis City II 3-0 Minnesota United II,St. Louis City II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,wc10xze7bsn7wlrbiorhjd3o
+2026-03-08,2.0,Portland Timbers II 0-0 Vancouver Whitecaps II,Portland Timbers II,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,v99ps60b25nrirhozq5u7hg4
+2026-03-08,2.0,Philadelphia Union II 1-0 Cincinnati II,Philadelphia Union II,Cincinnati II,93yvwhz6r37ar71e3pc8ep2c4,vsemxq1kbbl2u89p6be06hhw
+2026-03-08,2.0,Chattanooga 4-2 Connecticut United,Chattanooga,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,uq12224bvd226ydhymgbc9hw
+2026-03-08,2.0,Columbus Crew II 0-0 New York City II,Columbus Crew II,New York City II,93yvwhz6r37ar71e3pc8ep2c4,u517witwvmop7h558glbhf6c
+2026-03-07,2.0,North Texas 3-1 Colorado Rapids II,North Texas,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,tlehpd1uoqla7t640blbvwno
+2026-03-06,2.0,Crown Legacy 7-2 Huntsville City,Crown Legacy,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,sjblg38a1bzwvf8ecpg3z7ys
+2026-03-02,2.0,Orlando City B 1-3 Huntsville City,Orlando City B,Huntsville City,93yvwhz6r37ar71e3pc8ep2c4,s048h1ewr6jed3eqwk9nio7o
+2026-03-01,1.0,Tacoma Defiance 2-2 Los Angeles II,Tacoma Defiance,Los Angeles II,93yvwhz6r37ar71e3pc8ep2c4,rdp1xpetjl92ympjtwxmyhas
+2026-03-01,1.0,Austin II 2-4 Minnesota United II,Austin II,Minnesota United II,93yvwhz6r37ar71e3pc8ep2c4,qra0la84c8w01facc8ea71n8
+2026-03-01,1.0,New England II 1-1 Atlanta United II,New England II,Atlanta United II,93yvwhz6r37ar71e3pc8ep2c4,q3pqc5k560hk0iiga45uz1uc
+2026-03-01,1.0,Ventura County 4-2 Vancouver Whitecaps II,Ventura County,Vancouver Whitecaps II,93yvwhz6r37ar71e3pc8ep2c4,mia5fethvtpxnbm24rxt2ec4
+2026-03-01,1.0,Houston Dynamo II 2-0 Colorado Rapids II,Houston Dynamo II,Colorado Rapids II,93yvwhz6r37ar71e3pc8ep2c4,pf8vtjub2c46m0bz9wt3l5hw
+2026-03-01,1.0,Cincinnati II 1-3 Connecticut United,Cincinnati II,Connecticut United,93yvwhz6r37ar71e3pc8ep2c4,ojxsma2z1y7hnrxno9jfkil0
+2026-03-01,1.0,Real Monarchs 2-2 North Texas,Real Monarchs,North Texas,93yvwhz6r37ar71e3pc8ep2c4,nsd0m5yfwo6d1daeqhdxo26s
+2026-03-01,1.0,New York RB II 4-2 Columbus Crew II,New York RB II,Columbus Crew II,93yvwhz6r37ar71e3pc8ep2c4,n4jizrn7a1k1dpcdul2hs2s4
+2026-03-01,1.0,Portland Timbers II 2-1 San Jose Earthquakes II,Portland Timbers II,San Jose Earthquakes II,93yvwhz6r37ar71e3pc8ep2c4,lvs06sf8a0m08rit1dxo6adw
+2026-03-01,1.0,Chattanooga 1-4 Crown Legacy,Chattanooga,Crown Legacy,93yvwhz6r37ar71e3pc8ep2c4,l8qoe2q3wtvokrqg56ohtm38
+2026-02-28,1.0,St. Louis City II 4-0 Sporting KC II,St. Louis City II,Sporting KC II,93yvwhz6r37ar71e3pc8ep2c4,jzydjflsjatcndhvg9i20lck
+2026-02-28,1.0,Philadelphia Union II 1-0 Toronto II,Philadelphia Union II,Toronto II,93yvwhz6r37ar71e3pc8ep2c4,j9e78g7a4fox36ii4a676vx0
+2026-02-27,1.0,Inter Miami II 1-1 Chicago Fire II,Inter Miami II,Chicago Fire II,93yvwhz6r37ar71e3pc8ep2c4,ii74blljlmn8cr03mp4it990
