@@ -1,109 +1,113 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
-2026-10-17,27,Cavalry 4-2 Pacific,Cavalry,Pacific,bmqmrylzzfggzr15yas9dev4k,dzrtgmd171kfn7cwh3jrkxno4
-2026-10-17,27,Atlético Ottawa 1-2 Forge,Atlético Ottawa,Forge,bmqmrylzzfggzr15yas9dev4k,dz2u7eafgu463o1mjm3y6hlp0
-2026-10-16,27,Vancouver FC 2-1 HFX Wanderers,Vancouver FC,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dxwyws4g0eo746xubvzb2j09g
-2026-10-16,27,Supra du Québec 3-0 Inter Toronto,Supra du Québec,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dx74i6cq54q5gi2dc4qn2cv10
-2026-10-12,26,HFX Wanderers 2-2 Cavalry,HFX Wanderers,Cavalry,bmqmrylzzfggzr15yas9dev4k,dwnejcidojjysre0r0xn51638
-2026-10-12,26,Forge 5-0 Inter Toronto,Forge,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dw40jtze81jrsvofkpijyi1hw
-2026-10-11,26,Pacific 0-2 Atlético Ottawa,Pacific,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dvkzwnjs3ob6thbufmcjk2hp0
-2026-10-10,26,Supra du Québec 2-2 Vancouver FC,Supra du Québec,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dv07gziz5xomg0i5ug2u5k2dw
-2026-10-07,13,Forge 3-0 Pacific,Forge,Pacific,bmqmrylzzfggzr15yas9dev4k,d24a5hifhah7k40e26s0t7f9w
-2026-10-07,25,Inter Toronto 1-2 Supra du Québec,Inter Toronto,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,duh3b31jo97u3l3n48hy6h2qc
-2026-10-04,25,Supra du Québec 5-0 Pacific,Supra du Québec,Pacific,bmqmrylzzfggzr15yas9dev4k,dtxlm5s8q7rw4expirb8dqql0
-2026-10-03,25,Forge 3-3 HFX Wanderers,Forge,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dtdxkz14zo4atk6hgjm25jz84
-2026-10-03,25,Inter Toronto 3-1 Cavalry,Inter Toronto,Cavalry,bmqmrylzzfggzr15yas9dev4k,dsuuxry2xtjw079qso9g23spg
-2026-09-30,24,Atlético Ottawa 3-2 Cavalry,Atlético Ottawa,Cavalry,bmqmrylzzfggzr15yas9dev4k,dsa348ux857r3a9vlqvpte5uc
-2026-09-27,24,Inter Toronto 3-4 Pacific,Inter Toronto,Pacific,bmqmrylzzfggzr15yas9dev4k,drr6gdp2ph2cnf4tqc5aqc844
-2026-09-26,24,Vancouver FC 1-1 Forge,Vancouver FC,Forge,bmqmrylzzfggzr15yas9dev4k,dr878nisv8o05cojo3iavl2c4
-2026-09-26,24,HFX Wanderers 0-1 Atlético Ottawa,HFX Wanderers,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dqotc4yjx3sgyac4iczt0nw2c
-2026-09-25,24,Cavalry 6-0 Supra du Québec,Cavalry,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,dq3jjhzol6u1n6gsh1jd8i87o
-2026-09-23,23,Vancouver FC 3-3 Inter Toronto,Vancouver FC,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dpik5oxet68l90zr5mq8j50r8
-2026-09-20,23,HFX Wanderers 4-1 Inter Toronto,HFX Wanderers,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dozl8p5ytnwwquximtuyh79qs
-2026-09-20,23,Atlético Ottawa 0-2 Supra du Québec,Atlético Ottawa,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,dogmu3hl6qropj9d2gs32kums
-2026-09-19,23,Pacific 1-1 Vancouver FC,Pacific,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dnxogk05tvkcaaakilc9nq1p0
-2026-09-19,23,Cavalry 1-1 Forge,Cavalry,Forge,bmqmrylzzfggzr15yas9dev4k,dncpghqtgvdmq3nn2vc4mw4r8
-2026-09-13,22,Pacific 0-1 Cavalry,Pacific,Cavalry,bmqmrylzzfggzr15yas9dev4k,dmod88sj56aor6qrn1few7pqs
-2026-09-13,22,Inter Toronto 3-1 Vancouver FC,Inter Toronto,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dm4gxjr16hbcfpo7g5gt937kk
-2026-09-12,22,Forge 3-0 Atlético Ottawa,Forge,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dllcf9jdev4u9bou4c1du0q38
-2026-09-12,22,Supra du Québec 0-2 HFX Wanderers,Supra du Québec,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dkzqiwxm9nkhdrzmejxy2kyl0
-2026-09-09,21,Inter Toronto 3-3 Pacific,Inter Toronto,Pacific,bmqmrylzzfggzr15yas9dev4k,dkh2s5p3alzc7qfm3cf6jqqz8
-2026-09-07,21,HFX Wanderers 1-3 Cavalry,HFX Wanderers,Cavalry,bmqmrylzzfggzr15yas9dev4k,djy8jdcv1tfvasmhlt42uctg4
-2026-09-06,21,Vancouver FC 3-2 Supra du Québec,Vancouver FC,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,djfh764sy9u6ac1hb5bvjtjbo
-2026-09-05,21,Forge 1-1 Inter Toronto,Forge,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,diweqm8hbx9cgur0cgvmjjdhw
-2026-09-05,21,Atlético Ottawa 0-0 Pacific,Atlético Ottawa,Pacific,bmqmrylzzfggzr15yas9dev4k,dide6cs2cgpi1i7ay9pfjy9zo
-2026-08-30,20,Pacific 4-3 HFX Wanderers,Pacific,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dhuehsmwofq459g0k8dqi8ems
-2026-08-29,20,Cavalry 1-0 Vancouver FC,Cavalry,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dhbghbmqp06pklq5euc0xoyl0
-2026-08-28,20,Atlético Ottawa 2-1 Inter Toronto,Atlético Ottawa,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dgr4c0vpr6ehcvb4ljpivg26s
-2026-08-28,20,Supra du Québec 1-0 Forge,Supra du Québec,Forge,bmqmrylzzfggzr15yas9dev4k,dg6djmc7afeddyfgpxoe4j0no
-2026-08-23,19,Inter Toronto 1-1 Supra du Québec,Inter Toronto,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,dfndkcumehcv2xzdlmwoo9k44
-2026-08-22,19,Forge 2-0 Pacific,Forge,Pacific,bmqmrylzzfggzr15yas9dev4k,df4k8g2jrfs752xk7mbm7jsic
-2026-08-22,19,Cavalry 3-1 Atlético Ottawa,Cavalry,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dekx2x4xnlh3qy6m0q0jyuiac
-2026-08-22,19,HFX Wanderers 1-0 Vancouver FC,HFX Wanderers,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,de1glcgmzqjfz7e9xggkx7bbo
-2026-08-19,18,Forge 3-2 Supra du Québec,Forge,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,ddihc5dej4lb5uyno3ozswzys
-2026-08-19,18,Atlético Ottawa 4-0 Vancouver FC,Atlético Ottawa,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dczgheogc9w9zj97pdjr0uyhg
-2026-08-16,17,Inter Toronto 4-3 HFX Wanderers,Inter Toronto,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dcgfocso9d299nipxnxpucr2s
-2026-08-16,17,Supra du Québec 1-2 Atlético Ottawa,Supra du Québec,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dbx3cg4htlnmon36vcizikxsk
-2026-08-15,17,Cavalry 2-1 Forge,Cavalry,Forge,bmqmrylzzfggzr15yas9dev4k,dbcbqryqigxdtygmltdjm80es
-2026-08-14,17,Vancouver FC 1-1 Pacific,Vancouver FC,Pacific,bmqmrylzzfggzr15yas9dev4k,datch4nq0t5dp0yw0zo19sems
-2026-08-08,16,Supra du Québec 1-1 Cavalry,Supra du Québec,Cavalry,bmqmrylzzfggzr15yas9dev4k,daad2e2h3hdi49ei7s3j0hfro
-2026-08-08,16,Pacific 1-1 Inter Toronto,Pacific,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,d9p6khj156rsq6bx9te6bfaj8
-2026-08-08,16,Atlético Ottawa 2-1 HFX Wanderers,Atlético Ottawa,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,d95aa4805cyfv4z1zv0c1atqs
-2026-08-07,16,Forge 0-1 Vancouver FC,Forge,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,d8jmyzgw8moxz0f9ilqfacn4k
-2026-08-02,15,HFX Wanderers 0-0 Forge,HFX Wanderers,Forge,bmqmrylzzfggzr15yas9dev4k,d808q3e3jipegm1fx3fq9hxqs
-2026-08-01,15,Cavalry 5-0 Inter Toronto,Cavalry,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,d6dgswc3elgpctr5yi4uyyaz8
-2026-08-01,15,Vancouver FC 3-1 Atlético Ottawa,Vancouver FC,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,d7hapiz14pinlxoe6cck8328k
-2026-07-31,15,Pacific 1-2 Supra du Québec,Pacific,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,d6ycqjqjvhxvf23nveot1amms
-2026-07-28,11,Cavalry 2-1 Supra du Québec,Cavalry,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,cxgy4lv9oijs77uoh6hplwahg
-2026-07-26,14,Inter Toronto 1-3 Forge,Inter Toronto,Forge,bmqmrylzzfggzr15yas9dev4k,d5uh4dopfapa2ys0pb9jvm6ms
-2026-07-26,14,Atlético Ottawa 3-2 Pacific,Atlético Ottawa,Pacific,bmqmrylzzfggzr15yas9dev4k,d5bgcnljboy19c238o7x9bzmc
-2026-07-24,14,Vancouver FC 1-0 Cavalry,Vancouver FC,Cavalry,bmqmrylzzfggzr15yas9dev4k,d4scfc2mhtnm3ixn7qsxp9ct0
-2026-07-24,14,HFX Wanderers 2-3 Supra du Québec,HFX Wanderers,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,d48thj6jdm4ife0aal7h3d2qc
-2026-07-18,13,Cavalry 1-1 HFX Wanderers,Cavalry,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,d3piaex1ospyjbkeppc4v3tas
-2026-07-17,13,Supra du Québec 1-5 Vancouver FC,Supra du Québec,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,d36kdgnkkbdlakr7udx16z6l0
-2026-07-17,13,Atlético Ottawa 1-1 Inter Toronto,Atlético Ottawa,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,d2n6aydj4eug0i7wtbnoyw2dw
-2026-07-05,12,Pacific 1-2 HFX Wanderers,Pacific,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,d15s9eacn85moop76t19uqg44
-2026-07-05,12,Supra du Québec 1-2 Forge,Supra du Québec,Forge,bmqmrylzzfggzr15yas9dev4k,d0jq4pli5sl245wballmjqxas
-2026-07-04,12,Vancouver FC 4-0 Inter Toronto,Vancouver FC,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,czpcj9c4jgpxm5nvchgn86olw
-2026-07-04,12,Atlético Ottawa 0-3 Cavalry,Atlético Ottawa,Cavalry,bmqmrylzzfggzr15yas9dev4k,cz1s3r5two7ire3buhq7cmadw
-2026-07-01,11,HFX Wanderers 1-3 Atlético Ottawa,HFX Wanderers,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,cyiv6mpsom4y5j30slf00c26s
-2026-07-01,11,Forge 3-2 Vancouver FC,Forge,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,cxzx8o6i0qa2ycfidaxwuxhqs
-2026-06-26,11,HFX Wanderers 5-2 Pacific,HFX Wanderers,Pacific,bmqmrylzzfggzr15yas9dev4k,cwxpjadzjkkyk3du37shh6l90
-2026-06-14,10,Vancouver FC 2-1 Pacific,Vancouver FC,Pacific,bmqmrylzzfggzr15yas9dev4k,cwel68kwuovc8kfvvts8oam1g
-2026-06-10,10,Inter Toronto 1-5 Cavalry,Inter Toronto,Cavalry,bmqmrylzzfggzr15yas9dev4k,cvu4d37jrthfh66ordi10rr4k
-2026-06-10,10,Forge 1-0 HFX Wanderers,Forge,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,cvb8mg71xlvnjbofjrbrnlvkk
-2026-06-09,10,Atlético Ottawa 5-3 Supra du Québec,Atlético Ottawa,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,cushzxpqjvrywgj5qldutk0t0
-2026-06-07,9,Inter Toronto 1-4 Forge,Inter Toronto,Forge,bmqmrylzzfggzr15yas9dev4k,cu7ge2vv5yr8lygn9s9xz8idw
-2026-06-06,9,Supra du Québec 1-1 Pacific,Supra du Québec,Pacific,bmqmrylzzfggzr15yas9dev4k,ct4t53tobko7mrunizad3qy38
-2026-06-06,9,Cavalry 2-0 HFX Wanderers,Cavalry,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,ctnyntm9pnmt7wqp7eghc874k
-2026-06-05,9,Vancouver FC 2-1 Atlético Ottawa,Vancouver FC,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,csl4tfmcuo9q2be8qejst1a1g
-2026-05-31,8,Forge 1-0 Cavalry,Forge,Cavalry,bmqmrylzzfggzr15yas9dev4k,cs2c123u7q9bg505l0ayw5yj8
-2026-05-30,8,Pacific 2-2 Atlético Ottawa,Pacific,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,crjfx9mjmmjoexoop7ttrx82c
-2026-05-30,8,HFX Wanderers 1-0 Vancouver FC,HFX Wanderers,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,cqyp0ef0k3gtujzyrqtupx1ck
-2026-05-29,8,Supra du Québec 3-1 Inter Toronto,Supra du Québec,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,cqfsb4h0onsq9oa2bkm95vl78
-2026-05-24,7,Cavalry 3-0 Pacific,Cavalry,Pacific,bmqmrylzzfggzr15yas9dev4k,cpt9crzrsmjmfek723v5f0mqc
-2026-05-24,7,Atlético Ottawa 2-1 Forge,Atlético Ottawa,Forge,bmqmrylzzfggzr15yas9dev4k,cp8ry4qcdhzu32to1lpsrl4pg
-2026-05-23,7,Vancouver FC 1-1 Supra du Québec,Vancouver FC,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,copzl12j1jz1senild1ylbwgk
-2026-05-23,7,HFX Wanderers 1-1 Inter Toronto,HFX Wanderers,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,co78y84tuqbmsv18u9xc2lslw
-2026-05-17,6,Vancouver FC 0-2 Cavalry,Vancouver FC,Cavalry,bmqmrylzzfggzr15yas9dev4k,cnod5v12qt8latbcgmttfkaok
-2026-05-17,6,Pacific 0-1 Inter Toronto,Pacific,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,cn3r77mh0gg576d0bz84g9ous
-2026-05-17,6,Atlético Ottawa 1-0 HFX Wanderers,Atlético Ottawa,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,cmlcystcr01y4c3mc9x575ez8
-2026-05-13,6,Forge 1-0 Supra du Québec,Forge,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,cm1c97jyhmmy19i8r4k7z728k
-2026-05-03,5,Pacific 1-3 Vancouver FC,Pacific,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,clj2rf80v225n3x4xfcl0w1zo
-2026-05-03,5,Supra du Québec 0-1 Cavalry,Supra du Québec,Cavalry,bmqmrylzzfggzr15yas9dev4k,cl0otunzxmldvfrve6zglkjro
-2026-05-02,5,HFX Wanderers 1-3 Forge,HFX Wanderers,Forge,bmqmrylzzfggzr15yas9dev4k,cjza448dxgqwzsxgeirgvxhjo
-2026-05-01,5,Inter Toronto 4-1 Atlético Ottawa,Inter Toronto,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,ckhkwqe90ft2ax0ovns2jcpas
-2026-04-26,4,Pacific 0-1 Forge,Pacific,Forge,bmqmrylzzfggzr15yas9dev4k,cjgx758ddey34etfr9yl3jqxg
-2026-04-26,4,Atlético Ottawa 1-1 Vancouver FC,Atlético Ottawa,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,cixjsuzsjwyvfa9z6fhacgv84
-2026-04-25,4,Cavalry 1-1 Inter Toronto,Cavalry,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,ciem0uw7815d7cknngczvwges
-2026-04-24,4,Supra du Québec 2-1 HFX Wanderers,Supra du Québec,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,chvv8wbrsyva32xsvsnmdpdlg
-2026-04-19,3,Inter Toronto 1-0 Vancouver FC,Inter Toronto,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,cgymnbva7ihxv85oup0i68qhg
-2026-04-19,3,Supra du Québec 0-1 Atlético Ottawa,Supra du Québec,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,cg1ef9ogymezsalq7vkqh4t90
-2026-04-18,3,Forge 0-0 Cavalry,Forge,Cavalry,bmqmrylzzfggzr15yas9dev4k,cfeycwc7ytznk0gqg9nedi6fo
-2026-04-18,3,HFX Wanderers 2-2 Pacific,HFX Wanderers,Pacific,bmqmrylzzfggzr15yas9dev4k,ceq5mf6r8oghd4rwb5v6y7j10
-2026-04-12,2,Vancouver FC 0-1 Forge,Vancouver FC,Forge,bmqmrylzzfggzr15yas9dev4k,ce6ok0ip87wbyl0ihdqa6rp5g
-2026-04-12,2,Cavalry 3-1 Atlético Ottawa,Cavalry,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,cdogmtfsj4zbmlpy9lfdxg5qs
-2026-04-11,2,Pacific 2-3 Supra du Québec,Pacific,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,cd5hybnbtze32adi6dt8dr9jo
-2026-04-11,2,Inter Toronto 2-2 HFX Wanderers,Inter Toronto,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,cckwoa5gyicn6aj7187r10kr8
-2026-04-05,1,Pacific 1-2 Cavalry,Pacific,Cavalry,bmqmrylzzfggzr15yas9dev4k,cc0aystu14fqh9cdnj7q44sno
-2026-04-04,1,Vancouver FC 0-1 HFX Wanderers,Vancouver FC,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,cbd3c0phvvagl5g9uajou3ztg
-2026-04-04,1,Forge 2-0 Atlético Ottawa,Forge,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,cajx4knwuqfnosh308rbmsdn8
+2026-10-25,28.0,Pacific 1-1 Forge,Pacific,Forge,bmqmrylzzfggzr15yas9dev4k,e22b56zytiz252oh6nt8bh3bo
+2026-10-25,28.0,Inter Toronto 2-1 Atlético Ottawa,Inter Toronto,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,e1jcpw5716o71v9chr23yevpw
+2026-10-25,28.0,Cavalry 1-0 Vancouver FC,Cavalry,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,e0v43ibt88f4ntqcjo11tb02c
+2026-10-25,28.0,HFX Wanderers 3-4 Supra du Québec,HFX Wanderers,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,e0c69ra8ispit6nl7bq4yn40k
+2026-10-17,27.0,Cavalry 4-2 Pacific,Cavalry,Pacific,bmqmrylzzfggzr15yas9dev4k,dzrtgmd171kfn7cwh3jrkxno4
+2026-10-17,27.0,Atlético Ottawa 1-2 Forge,Atlético Ottawa,Forge,bmqmrylzzfggzr15yas9dev4k,dz2u7eafgu463o1mjm3y6hlp0
+2026-10-16,27.0,Vancouver FC 2-1 HFX Wanderers,Vancouver FC,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dxwyws4g0eo746xubvzb2j09g
+2026-10-16,27.0,Supra du Québec 3-0 Inter Toronto,Supra du Québec,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dx74i6cq54q5gi2dc4qn2cv10
+2026-10-12,26.0,HFX Wanderers 2-2 Cavalry,HFX Wanderers,Cavalry,bmqmrylzzfggzr15yas9dev4k,dwnejcidojjysre0r0xn51638
+2026-10-12,26.0,Forge 5-0 Inter Toronto,Forge,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dw40jtze81jrsvofkpijyi1hw
+2026-10-11,26.0,Pacific 0-2 Atlético Ottawa,Pacific,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dvkzwnjs3ob6thbufmcjk2hp0
+2026-10-10,26.0,Supra du Québec 2-2 Vancouver FC,Supra du Québec,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dv07gziz5xomg0i5ug2u5k2dw
+2026-10-07,13.0,Forge 3-0 Pacific,Forge,Pacific,bmqmrylzzfggzr15yas9dev4k,d24a5hifhah7k40e26s0t7f9w
+2026-10-07,25.0,Inter Toronto 1-2 Supra du Québec,Inter Toronto,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,duh3b31jo97u3l3n48hy6h2qc
+2026-10-04,25.0,Supra du Québec 5-0 Pacific,Supra du Québec,Pacific,bmqmrylzzfggzr15yas9dev4k,dtxlm5s8q7rw4expirb8dqql0
+2026-10-03,25.0,Forge 3-3 HFX Wanderers,Forge,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dtdxkz14zo4atk6hgjm25jz84
+2026-10-03,25.0,Inter Toronto 3-1 Cavalry,Inter Toronto,Cavalry,bmqmrylzzfggzr15yas9dev4k,dsuuxry2xtjw079qso9g23spg
+2026-09-30,24.0,Atlético Ottawa 3-2 Cavalry,Atlético Ottawa,Cavalry,bmqmrylzzfggzr15yas9dev4k,dsa348ux857r3a9vlqvpte5uc
+2026-09-27,24.0,Inter Toronto 3-4 Pacific,Inter Toronto,Pacific,bmqmrylzzfggzr15yas9dev4k,drr6gdp2ph2cnf4tqc5aqc844
+2026-09-26,24.0,Vancouver FC 1-1 Forge,Vancouver FC,Forge,bmqmrylzzfggzr15yas9dev4k,dr878nisv8o05cojo3iavl2c4
+2026-09-26,24.0,HFX Wanderers 0-1 Atlético Ottawa,HFX Wanderers,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dqotc4yjx3sgyac4iczt0nw2c
+2026-09-25,24.0,Cavalry 6-0 Supra du Québec,Cavalry,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,dq3jjhzol6u1n6gsh1jd8i87o
+2026-09-23,23.0,Vancouver FC 3-3 Inter Toronto,Vancouver FC,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dpik5oxet68l90zr5mq8j50r8
+2026-09-20,23.0,HFX Wanderers 4-1 Inter Toronto,HFX Wanderers,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dozl8p5ytnwwquximtuyh79qs
+2026-09-20,23.0,Atlético Ottawa 0-2 Supra du Québec,Atlético Ottawa,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,dogmu3hl6qropj9d2gs32kums
+2026-09-19,23.0,Pacific 1-1 Vancouver FC,Pacific,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dnxogk05tvkcaaakilc9nq1p0
+2026-09-19,23.0,Cavalry 1-1 Forge,Cavalry,Forge,bmqmrylzzfggzr15yas9dev4k,dncpghqtgvdmq3nn2vc4mw4r8
+2026-09-13,22.0,Pacific 0-1 Cavalry,Pacific,Cavalry,bmqmrylzzfggzr15yas9dev4k,dmod88sj56aor6qrn1few7pqs
+2026-09-13,22.0,Inter Toronto 3-1 Vancouver FC,Inter Toronto,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dm4gxjr16hbcfpo7g5gt937kk
+2026-09-12,22.0,Forge 3-0 Atlético Ottawa,Forge,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dllcf9jdev4u9bou4c1du0q38
+2026-09-12,22.0,Supra du Québec 0-2 HFX Wanderers,Supra du Québec,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dkzqiwxm9nkhdrzmejxy2kyl0
+2026-09-09,21.0,Inter Toronto 3-3 Pacific,Inter Toronto,Pacific,bmqmrylzzfggzr15yas9dev4k,dkh2s5p3alzc7qfm3cf6jqqz8
+2026-09-07,21.0,HFX Wanderers 1-3 Cavalry,HFX Wanderers,Cavalry,bmqmrylzzfggzr15yas9dev4k,djy8jdcv1tfvasmhlt42uctg4
+2026-09-06,21.0,Vancouver FC 3-2 Supra du Québec,Vancouver FC,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,djfh764sy9u6ac1hb5bvjtjbo
+2026-09-05,21.0,Forge 1-1 Inter Toronto,Forge,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,diweqm8hbx9cgur0cgvmjjdhw
+2026-09-05,21.0,Atlético Ottawa 0-0 Pacific,Atlético Ottawa,Pacific,bmqmrylzzfggzr15yas9dev4k,dide6cs2cgpi1i7ay9pfjy9zo
+2026-08-30,20.0,Pacific 4-3 HFX Wanderers,Pacific,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dhuehsmwofq459g0k8dqi8ems
+2026-08-29,20.0,Cavalry 1-0 Vancouver FC,Cavalry,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dhbghbmqp06pklq5euc0xoyl0
+2026-08-28,20.0,Atlético Ottawa 2-1 Inter Toronto,Atlético Ottawa,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,dgr4c0vpr6ehcvb4ljpivg26s
+2026-08-28,20.0,Supra du Québec 1-0 Forge,Supra du Québec,Forge,bmqmrylzzfggzr15yas9dev4k,dg6djmc7afeddyfgpxoe4j0no
+2026-08-23,19.0,Inter Toronto 1-1 Supra du Québec,Inter Toronto,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,dfndkcumehcv2xzdlmwoo9k44
+2026-08-22,19.0,Forge 2-0 Pacific,Forge,Pacific,bmqmrylzzfggzr15yas9dev4k,df4k8g2jrfs752xk7mbm7jsic
+2026-08-22,19.0,Cavalry 3-1 Atlético Ottawa,Cavalry,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dekx2x4xnlh3qy6m0q0jyuiac
+2026-08-22,19.0,HFX Wanderers 1-0 Vancouver FC,HFX Wanderers,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,de1glcgmzqjfz7e9xggkx7bbo
+2026-08-19,18.0,Forge 3-2 Supra du Québec,Forge,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,ddihc5dej4lb5uyno3ozswzys
+2026-08-19,18.0,Atlético Ottawa 4-0 Vancouver FC,Atlético Ottawa,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,dczgheogc9w9zj97pdjr0uyhg
+2026-08-16,17.0,Inter Toronto 4-3 HFX Wanderers,Inter Toronto,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,dcgfocso9d299nipxnxpucr2s
+2026-08-16,17.0,Supra du Québec 1-2 Atlético Ottawa,Supra du Québec,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,dbx3cg4htlnmon36vcizikxsk
+2026-08-15,17.0,Cavalry 2-1 Forge,Cavalry,Forge,bmqmrylzzfggzr15yas9dev4k,dbcbqryqigxdtygmltdjm80es
+2026-08-14,17.0,Vancouver FC 1-1 Pacific,Vancouver FC,Pacific,bmqmrylzzfggzr15yas9dev4k,datch4nq0t5dp0yw0zo19sems
+2026-08-08,16.0,Supra du Québec 1-1 Cavalry,Supra du Québec,Cavalry,bmqmrylzzfggzr15yas9dev4k,daad2e2h3hdi49ei7s3j0hfro
+2026-08-08,16.0,Pacific 1-1 Inter Toronto,Pacific,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,d9p6khj156rsq6bx9te6bfaj8
+2026-08-08,16.0,Atlético Ottawa 2-1 HFX Wanderers,Atlético Ottawa,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,d95aa4805cyfv4z1zv0c1atqs
+2026-08-07,16.0,Forge 0-1 Vancouver FC,Forge,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,d8jmyzgw8moxz0f9ilqfacn4k
+2026-08-02,15.0,HFX Wanderers 0-0 Forge,HFX Wanderers,Forge,bmqmrylzzfggzr15yas9dev4k,d808q3e3jipegm1fx3fq9hxqs
+2026-08-01,15.0,Cavalry 5-0 Inter Toronto,Cavalry,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,d6dgswc3elgpctr5yi4uyyaz8
+2026-08-01,15.0,Vancouver FC 3-1 Atlético Ottawa,Vancouver FC,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,d7hapiz14pinlxoe6cck8328k
+2026-07-31,15.0,Pacific 1-2 Supra du Québec,Pacific,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,d6ycqjqjvhxvf23nveot1amms
+2026-07-28,11.0,Cavalry 2-1 Supra du Québec,Cavalry,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,cxgy4lv9oijs77uoh6hplwahg
+2026-07-26,14.0,Inter Toronto 1-3 Forge,Inter Toronto,Forge,bmqmrylzzfggzr15yas9dev4k,d5uh4dopfapa2ys0pb9jvm6ms
+2026-07-26,14.0,Atlético Ottawa 3-2 Pacific,Atlético Ottawa,Pacific,bmqmrylzzfggzr15yas9dev4k,d5bgcnljboy19c238o7x9bzmc
+2026-07-24,14.0,Vancouver FC 1-0 Cavalry,Vancouver FC,Cavalry,bmqmrylzzfggzr15yas9dev4k,d4scfc2mhtnm3ixn7qsxp9ct0
+2026-07-24,14.0,HFX Wanderers 2-3 Supra du Québec,HFX Wanderers,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,d48thj6jdm4ife0aal7h3d2qc
+2026-07-18,13.0,Cavalry 1-1 HFX Wanderers,Cavalry,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,d3piaex1ospyjbkeppc4v3tas
+2026-07-17,13.0,Supra du Québec 1-5 Vancouver FC,Supra du Québec,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,d36kdgnkkbdlakr7udx16z6l0
+2026-07-17,13.0,Atlético Ottawa 1-1 Inter Toronto,Atlético Ottawa,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,d2n6aydj4eug0i7wtbnoyw2dw
+2026-07-05,12.0,Pacific 1-2 HFX Wanderers,Pacific,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,d15s9eacn85moop76t19uqg44
+2026-07-05,12.0,Supra du Québec 1-2 Forge,Supra du Québec,Forge,bmqmrylzzfggzr15yas9dev4k,d0jq4pli5sl245wballmjqxas
+2026-07-04,12.0,Vancouver FC 4-0 Inter Toronto,Vancouver FC,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,czpcj9c4jgpxm5nvchgn86olw
+2026-07-04,12.0,Atlético Ottawa 0-3 Cavalry,Atlético Ottawa,Cavalry,bmqmrylzzfggzr15yas9dev4k,cz1s3r5two7ire3buhq7cmadw
+2026-07-01,11.0,HFX Wanderers 1-3 Atlético Ottawa,HFX Wanderers,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,cyiv6mpsom4y5j30slf00c26s
+2026-07-01,11.0,Forge 3-2 Vancouver FC,Forge,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,cxzx8o6i0qa2ycfidaxwuxhqs
+2026-06-26,11.0,HFX Wanderers 5-2 Pacific,HFX Wanderers,Pacific,bmqmrylzzfggzr15yas9dev4k,cwxpjadzjkkyk3du37shh6l90
+2026-06-14,10.0,Vancouver FC 2-1 Pacific,Vancouver FC,Pacific,bmqmrylzzfggzr15yas9dev4k,cwel68kwuovc8kfvvts8oam1g
+2026-06-10,10.0,Inter Toronto 1-5 Cavalry,Inter Toronto,Cavalry,bmqmrylzzfggzr15yas9dev4k,cvu4d37jrthfh66ordi10rr4k
+2026-06-10,10.0,Forge 1-0 HFX Wanderers,Forge,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,cvb8mg71xlvnjbofjrbrnlvkk
+2026-06-09,10.0,Atlético Ottawa 5-3 Supra du Québec,Atlético Ottawa,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,cushzxpqjvrywgj5qldutk0t0
+2026-06-07,9.0,Inter Toronto 1-4 Forge,Inter Toronto,Forge,bmqmrylzzfggzr15yas9dev4k,cu7ge2vv5yr8lygn9s9xz8idw
+2026-06-06,9.0,Supra du Québec 1-1 Pacific,Supra du Québec,Pacific,bmqmrylzzfggzr15yas9dev4k,ct4t53tobko7mrunizad3qy38
+2026-06-06,9.0,Cavalry 2-0 HFX Wanderers,Cavalry,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,ctnyntm9pnmt7wqp7eghc874k
+2026-06-05,9.0,Vancouver FC 2-1 Atlético Ottawa,Vancouver FC,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,csl4tfmcuo9q2be8qejst1a1g
+2026-05-31,8.0,Forge 1-0 Cavalry,Forge,Cavalry,bmqmrylzzfggzr15yas9dev4k,cs2c123u7q9bg505l0ayw5yj8
+2026-05-30,8.0,Pacific 2-2 Atlético Ottawa,Pacific,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,crjfx9mjmmjoexoop7ttrx82c
+2026-05-30,8.0,HFX Wanderers 1-0 Vancouver FC,HFX Wanderers,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,cqyp0ef0k3gtujzyrqtupx1ck
+2026-05-29,8.0,Supra du Québec 3-1 Inter Toronto,Supra du Québec,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,cqfsb4h0onsq9oa2bkm95vl78
+2026-05-24,7.0,Cavalry 3-0 Pacific,Cavalry,Pacific,bmqmrylzzfggzr15yas9dev4k,cpt9crzrsmjmfek723v5f0mqc
+2026-05-24,7.0,Atlético Ottawa 2-1 Forge,Atlético Ottawa,Forge,bmqmrylzzfggzr15yas9dev4k,cp8ry4qcdhzu32to1lpsrl4pg
+2026-05-23,7.0,Vancouver FC 1-1 Supra du Québec,Vancouver FC,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,copzl12j1jz1senild1ylbwgk
+2026-05-23,7.0,HFX Wanderers 1-1 Inter Toronto,HFX Wanderers,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,co78y84tuqbmsv18u9xc2lslw
+2026-05-17,6.0,Vancouver FC 0-2 Cavalry,Vancouver FC,Cavalry,bmqmrylzzfggzr15yas9dev4k,cnod5v12qt8latbcgmttfkaok
+2026-05-17,6.0,Pacific 0-1 Inter Toronto,Pacific,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,cn3r77mh0gg576d0bz84g9ous
+2026-05-17,6.0,Atlético Ottawa 1-0 HFX Wanderers,Atlético Ottawa,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,cmlcystcr01y4c3mc9x575ez8
+2026-05-13,6.0,Forge 1-0 Supra du Québec,Forge,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,cm1c97jyhmmy19i8r4k7z728k
+2026-05-03,5.0,Pacific 1-3 Vancouver FC,Pacific,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,clj2rf80v225n3x4xfcl0w1zo
+2026-05-03,5.0,Supra du Québec 0-1 Cavalry,Supra du Québec,Cavalry,bmqmrylzzfggzr15yas9dev4k,cl0otunzxmldvfrve6zglkjro
+2026-05-02,5.0,HFX Wanderers 1-3 Forge,HFX Wanderers,Forge,bmqmrylzzfggzr15yas9dev4k,cjza448dxgqwzsxgeirgvxhjo
+2026-05-01,5.0,Inter Toronto 4-1 Atlético Ottawa,Inter Toronto,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,ckhkwqe90ft2ax0ovns2jcpas
+2026-04-26,4.0,Pacific 0-1 Forge,Pacific,Forge,bmqmrylzzfggzr15yas9dev4k,cjgx758ddey34etfr9yl3jqxg
+2026-04-26,4.0,Atlético Ottawa 1-1 Vancouver FC,Atlético Ottawa,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,cixjsuzsjwyvfa9z6fhacgv84
+2026-04-25,4.0,Cavalry 1-1 Inter Toronto,Cavalry,Inter Toronto,bmqmrylzzfggzr15yas9dev4k,ciem0uw7815d7cknngczvwges
+2026-04-24,4.0,Supra du Québec 2-1 HFX Wanderers,Supra du Québec,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,chvv8wbrsyva32xsvsnmdpdlg
+2026-04-19,3.0,Inter Toronto 1-0 Vancouver FC,Inter Toronto,Vancouver FC,bmqmrylzzfggzr15yas9dev4k,cgymnbva7ihxv85oup0i68qhg
+2026-04-19,3.0,Supra du Québec 0-1 Atlético Ottawa,Supra du Québec,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,cg1ef9ogymezsalq7vkqh4t90
+2026-04-18,3.0,Forge 0-0 Cavalry,Forge,Cavalry,bmqmrylzzfggzr15yas9dev4k,cfeycwc7ytznk0gqg9nedi6fo
+2026-04-18,3.0,HFX Wanderers 2-2 Pacific,HFX Wanderers,Pacific,bmqmrylzzfggzr15yas9dev4k,ceq5mf6r8oghd4rwb5v6y7j10
+2026-04-12,2.0,Vancouver FC 0-1 Forge,Vancouver FC,Forge,bmqmrylzzfggzr15yas9dev4k,ce6ok0ip87wbyl0ihdqa6rp5g
+2026-04-12,2.0,Cavalry 3-1 Atlético Ottawa,Cavalry,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,cdogmtfsj4zbmlpy9lfdxg5qs
+2026-04-11,2.0,Pacific 2-3 Supra du Québec,Pacific,Supra du Québec,bmqmrylzzfggzr15yas9dev4k,cd5hybnbtze32adi6dt8dr9jo
+2026-04-11,2.0,Inter Toronto 2-2 HFX Wanderers,Inter Toronto,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,cckwoa5gyicn6aj7187r10kr8
+2026-04-05,1.0,Pacific 1-2 Cavalry,Pacific,Cavalry,bmqmrylzzfggzr15yas9dev4k,cc0aystu14fqh9cdnj7q44sno
+2026-04-04,1.0,Vancouver FC 0-1 HFX Wanderers,Vancouver FC,HFX Wanderers,bmqmrylzzfggzr15yas9dev4k,cbd3c0phvvagl5g9uajou3ztg
+2026-04-04,1.0,Forge 2-0 Atlético Ottawa,Forge,Atlético Ottawa,bmqmrylzzfggzr15yas9dev4k,cajx4knwuqfnosh308rbmsdn8
