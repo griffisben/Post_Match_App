@@ -1,113 +1,114 @@
 ﻿Date,Round,Match,Home,Away,CompetitionID,MatchID
-2026-10-25,14,Tapatío 1-2 Atlético Morelia,Tapatío,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,et2yf1ty52o8qsmk880eiu6fo
-2026-10-25,14,Tlaxcala 2-0 Correcaminos UAT,Tlaxcala,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,euwrg6oo42x67w6rtxmi0ap78
-2026-10-24,14,Mineros de Zacatecas 0-2 Leones Negros UdeG,Mineros de Zacatecas,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,eujkhaq9ccn5oq7ibkembfaj8
-2026-10-24,14,Jaiba Brava 1-3 CA La Paz,Jaiba Brava,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,eu6ejgrbi0gnw1v26hr8rowlw
-2026-10-24,14,Dorados 0-5 Piratas,Dorados,Piratas,3cxwni2dq94c7yt90g8m7rs44,ett64qvyqmr1rher7tuinne38
-2026-10-24,14,Venados 3-2 Durango,Venados,Durango,3cxwni2dq94c7yt90g8m7rs44,etg3es2pcp27gsdrpwh50ls7o
-2026-10-23,14,Tepatitlán 0-4 Cancún,Tepatitlán,Cancún,3cxwni2dq94c7yt90g8m7rs44,esptbj15uacmw34101xda5edw
-2026-10-22,14,Alebrijes de Oaxaca 2-1 Cruz Azul Hidalgo,Alebrijes de Oaxaca,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,escig9mwpm30fxvwm8j2syot0
-2026-10-18,13,Leones Negros UdeG 1-2 Alebrijes de Oaxaca,Leones Negros UdeG,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,eq5ajvd4wqj1yj7yk5jj4lzbo
-2026-10-17,13,Durango 5-0 Tapatío,Durango,Tapatío,3cxwni2dq94c7yt90g8m7rs44,erzcds65eqj3hrg18kty0eas4
-2026-10-17,13,Cancún 1-1 Venados,Cancún,Venados,3cxwni2dq94c7yt90g8m7rs44,erm5fs7xn6pekii41hd87pjis
-2026-10-17,13,Atlético Morelia 1-2 Jaiba Brava,Atlético Morelia,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,er8wao02yn4pz7s753ta4mvpw
-2026-10-17,13,Piratas 3-0 Tepatitlán,Piratas,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,eqvpy1ob04eqadimlcwvqrh90
-2026-10-17,13,Cruz Azul Hidalgo 2-1 Mineros de Zacatecas,Cruz Azul Hidalgo,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,eqiio3cwvuacs8w6gsa6m0npw
-2026-10-16,13,CA La Paz 2-2 Tlaxcala,CA La Paz,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,epehxsrvz5jo567jw8mkx86xg
-2026-10-16,13,Correcaminos UAT 1-2 Dorados,Correcaminos UAT,Dorados,3cxwni2dq94c7yt90g8m7rs44,eprpmtwi0pr9w584dep0ksa38
-2026-10-13,10,Tapatío 4-1 Tepatitlán,Tapatío,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,ej4fkn27xt7b73rsvhiwhcxlg
-2026-10-10,12,Mineros de Zacatecas 2-2 Cancún,Mineros de Zacatecas,Cancún,3cxwni2dq94c7yt90g8m7rs44,ep1a32ljrvtw6i0jni2cv8dn8
-2026-10-10,12,Jaiba Brava 0-0 Durango,Jaiba Brava,Durango,3cxwni2dq94c7yt90g8m7rs44,eoo0h2x1ktg7kn7hahdbmt990
-2026-10-10,12,Dorados 1-3 Cruz Azul Hidalgo,Dorados,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,eoanippe3vogqbyaxrwpy6hw4
-2026-10-10,12,Venados 1-1 Leones Negros UdeG,Venados,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,enxcajsycomqx4ltouxvg7fh0
-2026-10-10,12,Tlaxcala 4-2 Piratas,Tlaxcala,Piratas,3cxwni2dq94c7yt90g8m7rs44,enk5i9yvdnbrspjl2iang87x0
-2026-10-09,12,Tepatitlán 1-1 Atlético Morelia,Tepatitlán,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,en6y769b2w7vx441hx1s4wbh0
-2026-10-09,12,Tapatío 2-4 CA La Paz,Tapatío,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,emtq216xgszpwcp8gu89d1638
-2026-10-08,12,Alebrijes de Oaxaca 2-1 Correcaminos UAT,Alebrijes de Oaxaca,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,emglsbuqzsh61n6cp9b98uyhg
-2026-10-04,11,Leones Negros UdeG 6-3 Dorados,Leones Negros UdeG,Dorados,3cxwni2dq94c7yt90g8m7rs44,em3cwain7sqe3k484bdv1dno4
-2026-10-03,11,Durango 4-2 Mineros de Zacatecas,Durango,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,eloyvaksxzpndd5qt0bxrs1lg
-2026-10-03,11,Atlético Morelia 1-1 Tlaxcala,Atlético Morelia,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,elbvblah3qnobfpe46pawzdas
-2026-10-03,11,Cancún 1-0 Tapatío,Cancún,Tapatío,3cxwni2dq94c7yt90g8m7rs44,ekynt3q0jc6lrp4gl0fflnwno
-2026-10-03,11,Piratas 4-0 Alebrijes de Oaxaca,Piratas,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,eklf3jdvwyxutc0l01iidrnro
-2026-10-02,11,CA La Paz 1-2 Venados,CA La Paz,Venados,3cxwni2dq94c7yt90g8m7rs44,ek8cjn9ye9cjueqrn4sr0nhuc
-2026-10-02,11,Correcaminos UAT 0-0 Cruz Azul Hidalgo,Correcaminos UAT,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,ejv4qfici3eiteb8qcti6kl5g
-2026-10-02,11,Tepatitlán 3-1 Jaiba Brava,Tepatitlán,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,ejhq11jgmroxjklewlw2rr21g
-2026-09-26,10,Dorados 0-1 Durango,Dorados,Durango,3cxwni2dq94c7yt90g8m7rs44,eir79wkp4cq0rad6u1be1zg9g
-2026-09-26,10,Venados 2-1 Atlético Morelia,Venados,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,eie2un3glqklla3713efymp04
-2026-09-26,10,Tlaxcala 4-1 Cancún,Tlaxcala,Cancún,3cxwni2dq94c7yt90g8m7rs44,ei0x3wbcozlulfvoquj0g5nh0
-2026-09-26,10,Cruz Azul Hidalgo 1-2 Leones Negros UdeG,Cruz Azul Hidalgo,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,ehnlpubped5khviydsx4by1as
-2026-09-25,10,Correcaminos UAT 1-0 Jaiba Brava,Correcaminos UAT,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,eha9iwl3hu6858ji64f37u7tg
-2026-09-24,10,Alebrijes de Oaxaca 1-3 CA La Paz,Alebrijes de Oaxaca,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,egx25r1syif3906miko79mnmc
-2026-09-24,10,Mineros de Zacatecas 3-0 Piratas,Mineros de Zacatecas,Piratas,3cxwni2dq94c7yt90g8m7rs44,egjwjwarkqy43pohybg6666tw
-2026-09-20,9,Tapatío 4-0 Tlaxcala,Tapatío,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,ef31tw67ylzgbz0y2mgjjh2j8
-2026-09-19,9,Jaiba Brava 1-1 Dorados,Jaiba Brava,Dorados,3cxwni2dq94c7yt90g8m7rs44,eg6jznrbras6q2dm0l0qbmej8
-2026-09-19,9,Atlético Morelia 2-0 Leones Negros UdeG,Atlético Morelia,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,eftaee3xthyz8lhbfg9b5uxhw
-2026-09-19,9,Cancún 3-0 Alebrijes de Oaxaca,Cancún,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,efg6p19ni9mslcmo3wl9v0a38
-2026-09-18,9,CA La Paz 3-1 Correcaminos UAT,CA La Paz,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,eepqztvl83j0eaxifi75hb5lg
-2026-09-18,9,Piratas 2-1 Venados,Piratas,Venados,3cxwni2dq94c7yt90g8m7rs44,eecfkiv6snu64ml1v8vafl2c4
-2026-09-18,9,Tepatitlán 0-1 Mineros de Zacatecas,Tepatitlán,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,edz9nxpbk6aizfovrjvjjb6s4
-2026-09-17,9,Durango 2-0 Cruz Azul Hidalgo,Durango,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,edly39lcguv7h4f4ihozq7dhw
-2026-09-15,1,Dorados 1-1 Cancún,Dorados,Cancún,3cxwni2dq94c7yt90g8m7rs44,drk8nrjv1mdkieynb3r82ntas
-2026-09-13,8,Leones Negros UdeG 2-2 CA La Paz,Leones Negros UdeG,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,ebrp9bgukzxgcuo18l2063or8
-2026-09-12,8,Mineros de Zacatecas 0-1 Atlético Morelia,Mineros de Zacatecas,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,ed8oksfuls2uojza9pk8453pw
-2026-09-12,8,Dorados 3-1 Tapatío,Dorados,Tapatío,3cxwni2dq94c7yt90g8m7rs44,ecvdqas5y27dhsziygm9y1r84
-2026-09-12,8,Venados 5-0 Tepatitlán,Venados,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,eci4y5ucqj8zzpet11hbigzkk
-2026-09-12,8,Tlaxcala 3-1 Jaiba Brava,Tlaxcala,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,ec4srzubaynswgnpvxfmpgj6c
-2026-09-11,8,Correcaminos UAT 2-2 Cancún,Correcaminos UAT,Cancún,3cxwni2dq94c7yt90g8m7rs44,ebeke7v6q2i2puugc5dnsy87o
-2026-09-11,8,Cruz Azul Hidalgo 1-1 Piratas,Cruz Azul Hidalgo,Piratas,3cxwni2dq94c7yt90g8m7rs44,eb1cyz0e9fvq6ls3gsod9h990
-2026-09-10,8,Alebrijes de Oaxaca 1-0 Durango,Alebrijes de Oaxaca,Durango,3cxwni2dq94c7yt90g8m7rs44,eao9eiu822ufxs96cqur7t2qc
-2026-09-06,7,Tapatío 1-3 Leones Negros UdeG,Tapatío,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,eab0ujhvl5ned827gh753b8d0
-2026-09-05,7,Cancún 6-0 Cruz Azul Hidalgo,Cancún,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,e9xwoz38r21lnjmotto7x84k4
-2026-09-05,7,Jaiba Brava 4-3 Venados,Jaiba Brava,Venados,3cxwni2dq94c7yt90g8m7rs44,e9ks9lk286fpnn35y0isiu1p0
-2026-09-05,7,Atlético Morelia 4-1 Alebrijes de Oaxaca,Atlético Morelia,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,e97q19inrsqllnasnmm5s4c2c
-2026-09-05,7,Piratas 4-1 Correcaminos UAT,Piratas,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,e8uhctiap3gtfmarphzpcjcic
-2026-09-04,7,CA La Paz 3-0 Mineros de Zacatecas,CA La Paz,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,e8h830ije8wgl28qlizycawb8
-2026-09-04,7,Durango 1-1 Tlaxcala,Durango,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,e842vh1tzrq9xufth4tnqmas4
-2026-09-03,7,Tepatitlán 1-4 Dorados,Tepatitlán,Dorados,3cxwni2dq94c7yt90g8m7rs44,e7qv98msjw58eef5i5g7wtdlg
-2026-08-30,6,Leones Negros UdeG 1-1 Piratas,Leones Negros UdeG,Piratas,3cxwni2dq94c7yt90g8m7rs44,e69vq51yo1wl6vt3v790ijv2s
-2026-08-29,6,Mineros de Zacatecas 2-0 Jaiba Brava,Mineros de Zacatecas,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,e7dlpazp4d0ibt2vdxbjlbvo4
-2026-08-29,6,Tlaxcala 3-1 Venados,Tlaxcala,Venados,3cxwni2dq94c7yt90g8m7rs44,e70e87cnsvnaukwzs69hms2l0
-2026-08-29,6,Cruz Azul Hidalgo 6-0 Tepatitlán,Cruz Azul Hidalgo,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,e6n5rudl58wcektbx6ca5mfpw
-2026-08-28,6,Dorados 0-1 Atlético Morelia,Dorados,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,e5wgt8qvgw5xdrlgobxf8liqc
-2026-08-28,6,Correcaminos UAT 0-0 Durango,Correcaminos UAT,Durango,3cxwni2dq94c7yt90g8m7rs44,e5j65mdt976yuor180csrqu50
-2026-08-27,6,Alebrijes de Oaxaca 1-1 Tapatío,Alebrijes de Oaxaca,Tapatío,3cxwni2dq94c7yt90g8m7rs44,e55yiapewgni41brfd0ljwh78
-2026-08-27,6,Cancún 1-2 CA La Paz,Cancún,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,e4spyukdu1q93tr7497okbf9w
-2026-08-23,5,Tapatío 4-2 Mineros de Zacatecas,Tapatío,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,e4fj72v7mpoiymm49w3gaz6l0
-2026-08-22,5,Durango 1-2 Leones Negros UdeG,Durango,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,e42cgzz7jbht9vfzmjifn6rys
-2026-08-22,5,Jaiba Brava 2-1 Alebrijes de Oaxaca,Jaiba Brava,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,e3p2oe6djk5399pwdi8qpvggk
-2026-08-22,5,Piratas 0-1 Cancún,Piratas,Cancún,3cxwni2dq94c7yt90g8m7rs44,e3bsr70jcvg19favi8kpc9s0k
-2026-08-21,5,CA La Paz 1-1 Cruz Azul Hidalgo,CA La Paz,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,e2yn7qofae74nplkl7otcwv84
-2026-08-20,5,Atlético Morelia 1-3 Correcaminos UAT,Atlético Morelia,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,e2l8vjgfbq7nkzxnengbdhzbo
-2026-08-20,5,Tepatitlán 3-2 Tlaxcala,Tepatitlán,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,e282seb1k5q27biy1ajbkvjtg
-2026-08-20,5,Venados 4-2 Dorados,Venados,Dorados,3cxwni2dq94c7yt90g8m7rs44,e1uoir1olrn34gpipobtyzaj8
-2026-08-16,4,Leones Negros UdeG 4-0 Jaiba Brava,Leones Negros UdeG,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,e0093w4dh0oit054hkaqht7v8
-2026-08-15,4,Cancún 2-0 Durango,Cancún,Durango,3cxwni2dq94c7yt90g8m7rs44,e1hcxm2vwikrqorann0c3kaok
-2026-08-15,4,Dorados 2-2 Tlaxcala,Dorados,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,e144zvig4yiwxy482neu5uln8
-2026-08-15,4,Cruz Azul Hidalgo 1-2 Atlético Morelia,Cruz Azul Hidalgo,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,e0r2f0mgrkn2mys8am3h9u904
-2026-08-14,4,CA La Paz 2-0 Piratas,CA La Paz,Piratas,3cxwni2dq94c7yt90g8m7rs44,e0dlpz0p3edw3dgmu0y97bwus
-2026-08-14,4,Mineros de Zacatecas 5-1 Venados,Mineros de Zacatecas,Venados,3cxwni2dq94c7yt90g8m7rs44,dzn0n94a27l91knd0bbhw39ck
-2026-08-14,4,Correcaminos UAT 2-3 Tapatío,Correcaminos UAT,Tapatío,3cxwni2dq94c7yt90g8m7rs44,dz9rqfm8rc8wsu9z14t2teo0k
-2026-08-13,4,Alebrijes de Oaxaca 1-0 Tepatitlán,Alebrijes de Oaxaca,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,dywks6hqcghqmo3qv4jp0dfys
-2026-08-08,3,Jaiba Brava 3-0 Cruz Azul Hidalgo,Jaiba Brava,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,dyjge8dqr87obnrf1l2gx4ro4
-2026-08-08,3,Atlético Morelia 4-1 Cancún,Atlético Morelia,Cancún,3cxwni2dq94c7yt90g8m7rs44,dy66d3jiub3ys2majs7y3arro
-2026-08-08,3,Venados 3-2 Tapatío,Venados,Tapatío,3cxwni2dq94c7yt90g8m7rs44,dxswijjjkbd1jh5hyzk1a16ok
-2026-08-07,3,Durango 0-3 Piratas,Durango,Piratas,3cxwni2dq94c7yt90g8m7rs44,dxfni4iyjzzg8oullvkko88pg
-2026-08-07,3,Tepatitlán 0-5 CA La Paz,Tepatitlán,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,dx1odb9cpo0hww0jobjtyw4r8
-2026-08-06,3,Dorados 2-2 Mineros de Zacatecas,Dorados,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,dwokqnaditg45wfpxxengtafo
-2026-08-06,3,Leones Negros UdeG 1-3 Correcaminos UAT,Leones Negros UdeG,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,dwbhfl3dlzllgunxkqlbtkm50
-2026-08-06,3,Tlaxcala 0-2 Alebrijes de Oaxaca,Tlaxcala,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,dvxclxs50r5y2eu9wr4gqh3is
-2026-08-01,2,Cancún 0-2 Leones Negros UdeG,Cancún,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,dvk444bgso2mcdu66b7cjw8ic
-2026-08-01,2,Piratas 1-0 Atlético Morelia,Piratas,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,dv67bq2kqmyc8drgunertq590
-2026-08-01,2,Tapatío 1-0 Jaiba Brava,Tapatío,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,dus9qj29g5qx42mby1mu0fcpg
-2026-08-01,2,Cruz Azul Hidalgo 1-1 Venados,Cruz Azul Hidalgo,Venados,3cxwni2dq94c7yt90g8m7rs44,duezkp8gdz1tslln2ta5zdlp0
-2026-07-31,2,CA La Paz 0-1 Durango,CA La Paz,Durango,3cxwni2dq94c7yt90g8m7rs44,du1106rahqfkj948alznuxc7o
-2026-07-31,2,Correcaminos UAT 3-1 Tepatitlán,Correcaminos UAT,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,dtn3k9v0hoipetc3t45mw8ro4
-2026-07-31,2,Mineros de Zacatecas 3-1 Tlaxcala,Mineros de Zacatecas,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,dt98adbywvla7cb0pq91zqrro
-2026-07-30,2,Alebrijes de Oaxaca 0-2 Dorados,Alebrijes de Oaxaca,Dorados,3cxwni2dq94c7yt90g8m7rs44,dsvw8o7mm1oj86wfsb8jrvf9w
-2026-07-26,1,Tapatío 0-0 Cruz Azul Hidalgo,Tapatío,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,dsi1j8vgs672lyfgpc0ftw7bo
-2026-07-25,1,Jaiba Brava 0-0 Piratas,Jaiba Brava,Piratas,3cxwni2dq94c7yt90g8m7rs44,ds0u2uoj1vlhlv3qhbsmikvf8
-2026-07-25,1,Atlético Morelia 4-2 CA La Paz,Atlético Morelia,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,dr3gyyocq68skijbd961aqzv8
-2026-07-25,1,Venados 3-0 Alebrijes de Oaxaca,Venados,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,dqmt7j3595epgs49j5ok8bhn8
-2026-07-25,1,Tlaxcala 2-4 Leones Negros UdeG,Tlaxcala,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,dq626chlu2bkbykzic8mfujo4
-2026-07-24,1,Mineros de Zacatecas 3-3 Correcaminos UAT,Mineros de Zacatecas,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,dpp6oop9hnsiada0ta1ahz9xw
-2026-07-24,1,Tepatitlán 0-1 Durango,Tepatitlán,Durango,3cxwni2dq94c7yt90g8m7rs44,dp5o0kgf01lm1b48qqp698pw4
+2026-10-29,15.0,Alebrijes de Oaxaca 1-0 Mineros de Zacatecas,Alebrijes de Oaxaca,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,ev9uit1i062c5cn9dvu3xu5uc
+2026-10-25,14.0,Tapatío 1-2 Atlético Morelia,Tapatío,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,et2yf1ty52o8qsmk880eiu6fo
+2026-10-25,14.0,Tlaxcala 2-0 Correcaminos UAT,Tlaxcala,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,euwrg6oo42x67w6rtxmi0ap78
+2026-10-24,14.0,Mineros de Zacatecas 0-2 Leones Negros UdeG,Mineros de Zacatecas,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,eujkhaq9ccn5oq7ibkembfaj8
+2026-10-24,14.0,Jaiba Brava 1-3 CA La Paz,Jaiba Brava,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,eu6ejgrbi0gnw1v26hr8rowlw
+2026-10-24,14.0,Dorados 0-5 Piratas,Dorados,Piratas,3cxwni2dq94c7yt90g8m7rs44,ett64qvyqmr1rher7tuinne38
+2026-10-24,14.0,Venados 3-2 Durango,Venados,Durango,3cxwni2dq94c7yt90g8m7rs44,etg3es2pcp27gsdrpwh50ls7o
+2026-10-23,14.0,Tepatitlán 0-4 Cancún,Tepatitlán,Cancún,3cxwni2dq94c7yt90g8m7rs44,esptbj15uacmw34101xda5edw
+2026-10-22,14.0,Alebrijes de Oaxaca 2-1 Cruz Azul Hidalgo,Alebrijes de Oaxaca,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,escig9mwpm30fxvwm8j2syot0
+2026-10-18,13.0,Leones Negros UdeG 1-2 Alebrijes de Oaxaca,Leones Negros UdeG,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,eq5ajvd4wqj1yj7yk5jj4lzbo
+2026-10-17,13.0,Durango 5-0 Tapatío,Durango,Tapatío,3cxwni2dq94c7yt90g8m7rs44,erzcds65eqj3hrg18kty0eas4
+2026-10-17,13.0,Cancún 1-1 Venados,Cancún,Venados,3cxwni2dq94c7yt90g8m7rs44,erm5fs7xn6pekii41hd87pjis
+2026-10-17,13.0,Atlético Morelia 1-2 Jaiba Brava,Atlético Morelia,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,er8wao02yn4pz7s753ta4mvpw
+2026-10-17,13.0,Piratas 3-0 Tepatitlán,Piratas,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,eqvpy1ob04eqadimlcwvqrh90
+2026-10-17,13.0,Cruz Azul Hidalgo 2-1 Mineros de Zacatecas,Cruz Azul Hidalgo,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,eqiio3cwvuacs8w6gsa6m0npw
+2026-10-16,13.0,CA La Paz 2-2 Tlaxcala,CA La Paz,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,epehxsrvz5jo567jw8mkx86xg
+2026-10-16,13.0,Correcaminos UAT 1-2 Dorados,Correcaminos UAT,Dorados,3cxwni2dq94c7yt90g8m7rs44,eprpmtwi0pr9w584dep0ksa38
+2026-10-13,10.0,Tapatío 4-1 Tepatitlán,Tapatío,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,ej4fkn27xt7b73rsvhiwhcxlg
+2026-10-10,12.0,Mineros de Zacatecas 2-2 Cancún,Mineros de Zacatecas,Cancún,3cxwni2dq94c7yt90g8m7rs44,ep1a32ljrvtw6i0jni2cv8dn8
+2026-10-10,12.0,Jaiba Brava 0-0 Durango,Jaiba Brava,Durango,3cxwni2dq94c7yt90g8m7rs44,eoo0h2x1ktg7kn7hahdbmt990
+2026-10-10,12.0,Dorados 1-3 Cruz Azul Hidalgo,Dorados,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,eoanippe3vogqbyaxrwpy6hw4
+2026-10-10,12.0,Venados 1-1 Leones Negros UdeG,Venados,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,enxcajsycomqx4ltouxvg7fh0
+2026-10-10,12.0,Tlaxcala 4-2 Piratas,Tlaxcala,Piratas,3cxwni2dq94c7yt90g8m7rs44,enk5i9yvdnbrspjl2iang87x0
+2026-10-09,12.0,Tepatitlán 1-1 Atlético Morelia,Tepatitlán,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,en6y769b2w7vx441hx1s4wbh0
+2026-10-09,12.0,Tapatío 2-4 CA La Paz,Tapatío,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,emtq216xgszpwcp8gu89d1638
+2026-10-08,12.0,Alebrijes de Oaxaca 2-1 Correcaminos UAT,Alebrijes de Oaxaca,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,emglsbuqzsh61n6cp9b98uyhg
+2026-10-04,11.0,Leones Negros UdeG 6-3 Dorados,Leones Negros UdeG,Dorados,3cxwni2dq94c7yt90g8m7rs44,em3cwain7sqe3k484bdv1dno4
+2026-10-03,11.0,Durango 4-2 Mineros de Zacatecas,Durango,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,eloyvaksxzpndd5qt0bxrs1lg
+2026-10-03,11.0,Atlético Morelia 1-1 Tlaxcala,Atlético Morelia,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,elbvblah3qnobfpe46pawzdas
+2026-10-03,11.0,Cancún 1-0 Tapatío,Cancún,Tapatío,3cxwni2dq94c7yt90g8m7rs44,ekynt3q0jc6lrp4gl0fflnwno
+2026-10-03,11.0,Piratas 4-0 Alebrijes de Oaxaca,Piratas,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,eklf3jdvwyxutc0l01iidrnro
+2026-10-02,11.0,CA La Paz 1-2 Venados,CA La Paz,Venados,3cxwni2dq94c7yt90g8m7rs44,ek8cjn9ye9cjueqrn4sr0nhuc
+2026-10-02,11.0,Correcaminos UAT 0-0 Cruz Azul Hidalgo,Correcaminos UAT,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,ejv4qfici3eiteb8qcti6kl5g
+2026-10-02,11.0,Tepatitlán 3-1 Jaiba Brava,Tepatitlán,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,ejhq11jgmroxjklewlw2rr21g
+2026-09-26,10.0,Dorados 0-1 Durango,Dorados,Durango,3cxwni2dq94c7yt90g8m7rs44,eir79wkp4cq0rad6u1be1zg9g
+2026-09-26,10.0,Venados 2-1 Atlético Morelia,Venados,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,eie2un3glqklla3713efymp04
+2026-09-26,10.0,Tlaxcala 4-1 Cancún,Tlaxcala,Cancún,3cxwni2dq94c7yt90g8m7rs44,ei0x3wbcozlulfvoquj0g5nh0
+2026-09-26,10.0,Cruz Azul Hidalgo 1-2 Leones Negros UdeG,Cruz Azul Hidalgo,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,ehnlpubped5khviydsx4by1as
+2026-09-25,10.0,Correcaminos UAT 1-0 Jaiba Brava,Correcaminos UAT,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,eha9iwl3hu6858ji64f37u7tg
+2026-09-24,10.0,Alebrijes de Oaxaca 1-3 CA La Paz,Alebrijes de Oaxaca,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,egx25r1syif3906miko79mnmc
+2026-09-24,10.0,Mineros de Zacatecas 3-0 Piratas,Mineros de Zacatecas,Piratas,3cxwni2dq94c7yt90g8m7rs44,egjwjwarkqy43pohybg6666tw
+2026-09-20,9.0,Tapatío 4-0 Tlaxcala,Tapatío,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,ef31tw67ylzgbz0y2mgjjh2j8
+2026-09-19,9.0,Jaiba Brava 1-1 Dorados,Jaiba Brava,Dorados,3cxwni2dq94c7yt90g8m7rs44,eg6jznrbras6q2dm0l0qbmej8
+2026-09-19,9.0,Atlético Morelia 2-0 Leones Negros UdeG,Atlético Morelia,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,eftaee3xthyz8lhbfg9b5uxhw
+2026-09-19,9.0,Cancún 3-0 Alebrijes de Oaxaca,Cancún,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,efg6p19ni9mslcmo3wl9v0a38
+2026-09-18,9.0,CA La Paz 3-1 Correcaminos UAT,CA La Paz,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,eepqztvl83j0eaxifi75hb5lg
+2026-09-18,9.0,Piratas 2-1 Venados,Piratas,Venados,3cxwni2dq94c7yt90g8m7rs44,eecfkiv6snu64ml1v8vafl2c4
+2026-09-18,9.0,Tepatitlán 0-1 Mineros de Zacatecas,Tepatitlán,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,edz9nxpbk6aizfovrjvjjb6s4
+2026-09-17,9.0,Durango 2-0 Cruz Azul Hidalgo,Durango,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,edly39lcguv7h4f4ihozq7dhw
+2026-09-15,1.0,Dorados 1-1 Cancún,Dorados,Cancún,3cxwni2dq94c7yt90g8m7rs44,drk8nrjv1mdkieynb3r82ntas
+2026-09-13,8.0,Leones Negros UdeG 2-2 CA La Paz,Leones Negros UdeG,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,ebrp9bgukzxgcuo18l2063or8
+2026-09-12,8.0,Mineros de Zacatecas 0-1 Atlético Morelia,Mineros de Zacatecas,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,ed8oksfuls2uojza9pk8453pw
+2026-09-12,8.0,Dorados 3-1 Tapatío,Dorados,Tapatío,3cxwni2dq94c7yt90g8m7rs44,ecvdqas5y27dhsziygm9y1r84
+2026-09-12,8.0,Venados 5-0 Tepatitlán,Venados,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,eci4y5ucqj8zzpet11hbigzkk
+2026-09-12,8.0,Tlaxcala 3-1 Jaiba Brava,Tlaxcala,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,ec4srzubaynswgnpvxfmpgj6c
+2026-09-11,8.0,Correcaminos UAT 2-2 Cancún,Correcaminos UAT,Cancún,3cxwni2dq94c7yt90g8m7rs44,ebeke7v6q2i2puugc5dnsy87o
+2026-09-11,8.0,Cruz Azul Hidalgo 1-1 Piratas,Cruz Azul Hidalgo,Piratas,3cxwni2dq94c7yt90g8m7rs44,eb1cyz0e9fvq6ls3gsod9h990
+2026-09-10,8.0,Alebrijes de Oaxaca 1-0 Durango,Alebrijes de Oaxaca,Durango,3cxwni2dq94c7yt90g8m7rs44,eao9eiu822ufxs96cqur7t2qc
+2026-09-06,7.0,Tapatío 1-3 Leones Negros UdeG,Tapatío,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,eab0ujhvl5ned827gh753b8d0
+2026-09-05,7.0,Cancún 6-0 Cruz Azul Hidalgo,Cancún,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,e9xwoz38r21lnjmotto7x84k4
+2026-09-05,7.0,Jaiba Brava 4-3 Venados,Jaiba Brava,Venados,3cxwni2dq94c7yt90g8m7rs44,e9ks9lk286fpnn35y0isiu1p0
+2026-09-05,7.0,Atlético Morelia 4-1 Alebrijes de Oaxaca,Atlético Morelia,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,e97q19inrsqllnasnmm5s4c2c
+2026-09-05,7.0,Piratas 4-1 Correcaminos UAT,Piratas,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,e8uhctiap3gtfmarphzpcjcic
+2026-09-04,7.0,CA La Paz 3-0 Mineros de Zacatecas,CA La Paz,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,e8h830ije8wgl28qlizycawb8
+2026-09-04,7.0,Durango 1-1 Tlaxcala,Durango,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,e842vh1tzrq9xufth4tnqmas4
+2026-09-03,7.0,Tepatitlán 1-4 Dorados,Tepatitlán,Dorados,3cxwni2dq94c7yt90g8m7rs44,e7qv98msjw58eef5i5g7wtdlg
+2026-08-30,6.0,Leones Negros UdeG 1-1 Piratas,Leones Negros UdeG,Piratas,3cxwni2dq94c7yt90g8m7rs44,e69vq51yo1wl6vt3v790ijv2s
+2026-08-29,6.0,Mineros de Zacatecas 2-0 Jaiba Brava,Mineros de Zacatecas,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,e7dlpazp4d0ibt2vdxbjlbvo4
+2026-08-29,6.0,Tlaxcala 3-1 Venados,Tlaxcala,Venados,3cxwni2dq94c7yt90g8m7rs44,e70e87cnsvnaukwzs69hms2l0
+2026-08-29,6.0,Cruz Azul Hidalgo 6-0 Tepatitlán,Cruz Azul Hidalgo,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,e6n5rudl58wcektbx6ca5mfpw
+2026-08-28,6.0,Dorados 0-1 Atlético Morelia,Dorados,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,e5wgt8qvgw5xdrlgobxf8liqc
+2026-08-28,6.0,Correcaminos UAT 0-0 Durango,Correcaminos UAT,Durango,3cxwni2dq94c7yt90g8m7rs44,e5j65mdt976yuor180csrqu50
+2026-08-27,6.0,Alebrijes de Oaxaca 1-1 Tapatío,Alebrijes de Oaxaca,Tapatío,3cxwni2dq94c7yt90g8m7rs44,e55yiapewgni41brfd0ljwh78
+2026-08-27,6.0,Cancún 1-2 CA La Paz,Cancún,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,e4spyukdu1q93tr7497okbf9w
+2026-08-23,5.0,Tapatío 4-2 Mineros de Zacatecas,Tapatío,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,e4fj72v7mpoiymm49w3gaz6l0
+2026-08-22,5.0,Durango 1-2 Leones Negros UdeG,Durango,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,e42cgzz7jbht9vfzmjifn6rys
+2026-08-22,5.0,Jaiba Brava 2-1 Alebrijes de Oaxaca,Jaiba Brava,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,e3p2oe6djk5399pwdi8qpvggk
+2026-08-22,5.0,Piratas 0-1 Cancún,Piratas,Cancún,3cxwni2dq94c7yt90g8m7rs44,e3bsr70jcvg19favi8kpc9s0k
+2026-08-21,5.0,CA La Paz 1-1 Cruz Azul Hidalgo,CA La Paz,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,e2yn7qofae74nplkl7otcwv84
+2026-08-20,5.0,Atlético Morelia 1-3 Correcaminos UAT,Atlético Morelia,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,e2l8vjgfbq7nkzxnengbdhzbo
+2026-08-20,5.0,Tepatitlán 3-2 Tlaxcala,Tepatitlán,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,e282seb1k5q27biy1ajbkvjtg
+2026-08-20,5.0,Venados 4-2 Dorados,Venados,Dorados,3cxwni2dq94c7yt90g8m7rs44,e1uoir1olrn34gpipobtyzaj8
+2026-08-16,4.0,Leones Negros UdeG 4-0 Jaiba Brava,Leones Negros UdeG,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,e0093w4dh0oit054hkaqht7v8
+2026-08-15,4.0,Cancún 2-0 Durango,Cancún,Durango,3cxwni2dq94c7yt90g8m7rs44,e1hcxm2vwikrqorann0c3kaok
+2026-08-15,4.0,Dorados 2-2 Tlaxcala,Dorados,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,e144zvig4yiwxy482neu5uln8
+2026-08-15,4.0,Cruz Azul Hidalgo 1-2 Atlético Morelia,Cruz Azul Hidalgo,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,e0r2f0mgrkn2mys8am3h9u904
+2026-08-14,4.0,CA La Paz 2-0 Piratas,CA La Paz,Piratas,3cxwni2dq94c7yt90g8m7rs44,e0dlpz0p3edw3dgmu0y97bwus
+2026-08-14,4.0,Mineros de Zacatecas 5-1 Venados,Mineros de Zacatecas,Venados,3cxwni2dq94c7yt90g8m7rs44,dzn0n94a27l91knd0bbhw39ck
+2026-08-14,4.0,Correcaminos UAT 2-3 Tapatío,Correcaminos UAT,Tapatío,3cxwni2dq94c7yt90g8m7rs44,dz9rqfm8rc8wsu9z14t2teo0k
+2026-08-13,4.0,Alebrijes de Oaxaca 1-0 Tepatitlán,Alebrijes de Oaxaca,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,dywks6hqcghqmo3qv4jp0dfys
+2026-08-08,3.0,Jaiba Brava 3-0 Cruz Azul Hidalgo,Jaiba Brava,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,dyjge8dqr87obnrf1l2gx4ro4
+2026-08-08,3.0,Atlético Morelia 4-1 Cancún,Atlético Morelia,Cancún,3cxwni2dq94c7yt90g8m7rs44,dy66d3jiub3ys2majs7y3arro
+2026-08-08,3.0,Venados 3-2 Tapatío,Venados,Tapatío,3cxwni2dq94c7yt90g8m7rs44,dxswijjjkbd1jh5hyzk1a16ok
+2026-08-07,3.0,Durango 0-3 Piratas,Durango,Piratas,3cxwni2dq94c7yt90g8m7rs44,dxfni4iyjzzg8oullvkko88pg
+2026-08-07,3.0,Tepatitlán 0-5 CA La Paz,Tepatitlán,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,dx1odb9cpo0hww0jobjtyw4r8
+2026-08-06,3.0,Dorados 2-2 Mineros de Zacatecas,Dorados,Mineros de Zacatecas,3cxwni2dq94c7yt90g8m7rs44,dwokqnaditg45wfpxxengtafo
+2026-08-06,3.0,Leones Negros UdeG 1-3 Correcaminos UAT,Leones Negros UdeG,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,dwbhfl3dlzllgunxkqlbtkm50
+2026-08-06,3.0,Tlaxcala 0-2 Alebrijes de Oaxaca,Tlaxcala,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,dvxclxs50r5y2eu9wr4gqh3is
+2026-08-01,2.0,Cancún 0-2 Leones Negros UdeG,Cancún,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,dvk444bgso2mcdu66b7cjw8ic
+2026-08-01,2.0,Piratas 1-0 Atlético Morelia,Piratas,Atlético Morelia,3cxwni2dq94c7yt90g8m7rs44,dv67bq2kqmyc8drgunertq590
+2026-08-01,2.0,Tapatío 1-0 Jaiba Brava,Tapatío,Jaiba Brava,3cxwni2dq94c7yt90g8m7rs44,dus9qj29g5qx42mby1mu0fcpg
+2026-08-01,2.0,Cruz Azul Hidalgo 1-1 Venados,Cruz Azul Hidalgo,Venados,3cxwni2dq94c7yt90g8m7rs44,duezkp8gdz1tslln2ta5zdlp0
+2026-07-31,2.0,CA La Paz 0-1 Durango,CA La Paz,Durango,3cxwni2dq94c7yt90g8m7rs44,du1106rahqfkj948alznuxc7o
+2026-07-31,2.0,Correcaminos UAT 3-1 Tepatitlán,Correcaminos UAT,Tepatitlán,3cxwni2dq94c7yt90g8m7rs44,dtn3k9v0hoipetc3t45mw8ro4
+2026-07-31,2.0,Mineros de Zacatecas 3-1 Tlaxcala,Mineros de Zacatecas,Tlaxcala,3cxwni2dq94c7yt90g8m7rs44,dt98adbywvla7cb0pq91zqrro
+2026-07-30,2.0,Alebrijes de Oaxaca 0-2 Dorados,Alebrijes de Oaxaca,Dorados,3cxwni2dq94c7yt90g8m7rs44,dsvw8o7mm1oj86wfsb8jrvf9w
+2026-07-26,1.0,Tapatío 0-0 Cruz Azul Hidalgo,Tapatío,Cruz Azul Hidalgo,3cxwni2dq94c7yt90g8m7rs44,dsi1j8vgs672lyfgpc0ftw7bo
+2026-07-25,1.0,Jaiba Brava 0-0 Piratas,Jaiba Brava,Piratas,3cxwni2dq94c7yt90g8m7rs44,ds0u2uoj1vlhlv3qhbsmikvf8
+2026-07-25,1.0,Atlético Morelia 4-2 CA La Paz,Atlético Morelia,CA La Paz,3cxwni2dq94c7yt90g8m7rs44,dr3gyyocq68skijbd961aqzv8
+2026-07-25,1.0,Venados 3-0 Alebrijes de Oaxaca,Venados,Alebrijes de Oaxaca,3cxwni2dq94c7yt90g8m7rs44,dqmt7j3595epgs49j5ok8bhn8
+2026-07-25,1.0,Tlaxcala 2-4 Leones Negros UdeG,Tlaxcala,Leones Negros UdeG,3cxwni2dq94c7yt90g8m7rs44,dq626chlu2bkbykzic8mfujo4
+2026-07-24,1.0,Mineros de Zacatecas 3-3 Correcaminos UAT,Mineros de Zacatecas,Correcaminos UAT,3cxwni2dq94c7yt90g8m7rs44,dpp6oop9hnsiada0ta1ahz9xw
+2026-07-24,1.0,Tepatitlán 0-1 Durango,Tepatitlán,Durango,3cxwni2dq94c7yt90g8m7rs44,dp5o0kgf01lm1b48qqp698pw4
